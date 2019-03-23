@@ -1,0 +1,21 @@
+language: go
+
+go:
+  - master # This uses automatically the latest version of go
+
+install:
+  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
+
+script:  
+  - rm -rf public || exit 0
+  - hugo # This commands builds your website on travis
+  - echo 'blog.cybermiles.io' > public/CNAME
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+    branch: master
