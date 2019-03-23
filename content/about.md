@@ -13,7 +13,7 @@ mathjax: false
 Hugo is a static site engine written in Go.
 
 
-It makes use of a variety of open source projects including:
+It makes use of a variety of open source projects including the following:
 
 * [Cobra](https://github.com/spf13/cobra)
 * [Viper](https://github.com/spf13/viper)
