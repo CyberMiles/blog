@@ -1,10 +1,9 @@
 ---
 title: "Jane-Theme Footnote Preview"
 date: 2018-03-01T16:01:23+08:00
-lastmod: 2018-03-01T16:01:23+08:00
 draft: false
-tags: ["footnote", "markdown", "tag-11"]
-categories: ["docs", "index"]
+tags: ["footnote", "markdown"]
+categories: ["en"]
 author: "xianmin"
 ---
 
