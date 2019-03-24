@@ -11,15 +11,21 @@
 
 {{ define "content"}}
 {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
+{{ if eq .Data.Plural "categories" }}
+
+<section id="posts" class="posts">
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+</section>
+
+{{ else }}
+
 <section id="archive" class="archive">
   {{ if not $paginator.HasPrev }}
     {{ if eq .Data.Plural "tags" }}
       <div class="archive-title tag">
         <h2 class="archive-name">{{ i18n "tag" }}{{ .Title }}</h2>
-      </div>
-    {{ else if eq .Data.Plural "categories" }}
-      <div class="archive-title category">
-        <h2 class="archive-name">{{ i18n "category" }}{{ .Title }}</h2>
       </div>
     {{ else if eq .Data.Singular "author" }}
       {{- $author := (index (.Site.Data.authors | default dict) .Title) -}}
@@ -44,6 +50,8 @@
     </div>
   {{ end }}
 </section>
+
+{{ end }}
 
 <!-- pagination -->
 {{ partial "pagination.html" . }}
