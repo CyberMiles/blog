@@ -28,13 +28,17 @@ CyberMiles 创始人卢亮博士在昨日举办的CMT社区月度AMA 会议上�
 
 1月18日，CyberMiles 基金会通过Zoom 举办了社区AMA 月度会议，CyberMiles 公链创始人卢亮博士和联合创始人Michael Yuan 博士回顾了CMT 2018年的成果，并回答了社区的提问。
 
-相关阅读：[一张图带你了解CyberMiles的2018年](20190118-yearend-zh)
+相关阅读：[一张图带你了解CyberMiles的2018年](/20190118-yearend-zh)
 
 ### CyberMiles 公链新增超级节点TxQuick、候选人LCT
 
-![TxQuick 现为CyberMiles 公链的正式节点，自我权益投票15,955,986 CMT ，报酬比率为40%。](/images/20190118-newsletter-zh-02.jpg)
+![](/images/20190118-newsletter-zh-02.jpg)
 
-![HLT 目前为CyberMiles 公链的节点候选人，自我权益投票6,000,000 CMT，报酬比率为45%。](/images/20190118-newsletter-zh-03.png)
+TxQuick 现为CyberMiles 公链的正式节点，自我权益投票15,955,986 CMT ，报酬比率为40%。
+
+![](/images/20190118-newsletter-zh-03.png)
+
+HLT 目前为CyberMiles 公链的节点候选人，自我权益投票6,000,000 CMT，报酬比率为45%。
 
 ### CMT 获2018年最多关注
 
