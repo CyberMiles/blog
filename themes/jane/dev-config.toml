@@ -1,7 +1,7 @@
 # This config file only for develop
 # This file is hugo-theme-jane demo-site config
 
-baseURL = "https://www.xianmin.org/hugo-theme-jane/"
+baseURL = "http://en.xianmin.org/hugo-theme-jane/"
 # title = "Jane - A simple theme for Hugo"
 enableRobotsTXT = true
 enableEmoji = true
@@ -55,17 +55,17 @@ defaultContentLanguage = "en"  # Default language to use (if you setup multiling
   name = "Archives"
   weight = 20
   identifier = "archives"
-  url = "/post/"
+  url = "post/"
 [[languages.en.menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
-  url = "/tags/"
+  url = "tags/"
 [[languages.en.menu.main]]
   name = "Categories"
   weight = 40
   identifier = "categories"
-  url = "/categories/"
+  url = "categories/"
 [[languages.en.menu.main]]
   name = "external-link"
   weight = 50

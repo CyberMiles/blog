@@ -13,12 +13,6 @@
 - id: category
   translation: "Category: "
 
-- id: authors
-  translation: Authors
-
-- id: author_item
-  translation: "Author: "
-
 # posts
 - id: prev
   translation: Prev
@@ -107,6 +101,3 @@
 
 - id: language
   translation: Language
-
-- id: comments
-  translation: Comments

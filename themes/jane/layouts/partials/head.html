@@ -14,6 +14,8 @@
   see : https://ziyuan.baidu.com/college/courseinfo?id=156
 */}}
 <meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
 
 <meta name="theme-color" content="#f8f5ec" />
 <meta name="msapplication-navbutton-color" content="#f8f5ec">
@@ -24,11 +26,7 @@
 
 <!-- author & description & keywords  -->
 {{- if or .Params.author .Site.Author.name -}}
-{{- $author_id := .Params.author | default .Site.Author.name -}}
-{{- $author := (index ($.Site.Data.authors | default dict) $author_id) -}}
-{{- $author_lang := (index ($author | default dict) .Site.Language.Lang) -}}
-{{- $author_name := $author_lang.name.display | default $author.name.display | default $author_id -}}
-<meta name="author" content="{{ $author_name | safeHTML }}" />
+<meta name="author" content="{{ if .Params.author }}{{ .Params.author | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}" />
 {{- end -}}
 
 {{- if .Description -}}
@@ -75,10 +73,8 @@
 <script>eruda.init();</script>
 {{- end }}
 
-<!-- Jane theme main style -->
-{{ $style := resources.Get "sass/jane.scss" | toCSS | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen" crossorigin="anonymous">
-<!-- End -->
+<!-- Styles -->
+<link href="{{ "dist/jane.min.css?v=2.7.0" | relURL }}" rel="stylesheet">
 
 <!-- custom css -->
 {{ range .Site.Params.customCSS }}

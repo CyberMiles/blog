@@ -39,10 +39,7 @@
           {{ if hasPrefix .URL "http" }}
             <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}" rel="noopener" target="_blank">
               {{ .Name }}
-              {{/* icon new window */}}
-              <i class="iconfont">
-                {{ partial "svg/new_window.svg" }}
-              </i>
+              <i class="iconfont icon-new-window"></i>
             </a>
           {{ else }}
             <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
@@ -58,10 +55,7 @@
         <div class="mobile-menu-parent mobile-menu-item-lang">
           <span class="mobile-submenu-open"></span>
           <a href="#">
-            {{/* icon globe */}}
-            <i class="iconfont">
-              {{ partial "svg/globe.svg" }}
-            </i>
+            <i class="iconfont icon-globe"></i>
             {{ i18n "language" }}
           </a>
         </div>

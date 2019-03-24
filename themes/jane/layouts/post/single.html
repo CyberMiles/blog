@@ -6,9 +6,7 @@
       <h1 class="post-title">{{ .Title }}</h1>
       {{ partial "post/i18nlist.html" . }}
       <div class="post-meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}" class="post-time">
-          {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-        </time>
+        <span class="post-time"> {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }} </span>
         {{ with .Params.categories -}}
           <div class="post-category">
             {{ range . }}
@@ -71,10 +69,7 @@
       <nav class="post-nav">
         {{ with .NextInSection }}
           <a class="prev" href="{{ .URL }}">
-            {{/* icon left */}}
-            <i class="iconfont">
-              {{ partial "svg/left.svg" }}
-            </i>
+            <i class="iconfont icon-left"></i>
             <span class="prev-text nav-default">{{ .Title }}</span>
             <span class="prev-text nav-mobile">{{ i18n "prev_post" }}</span>
           </a>
@@ -83,20 +78,12 @@
           <a class="next" href="{{ .URL }}">
             <span class="next-text nav-default">{{ .Title }}</span>
             <span class="prev-text nav-mobile">{{ i18n "next_post" }}</span>
-            {{/* icon right */}}
-            <i class="iconfont">
-              {{ partial "svg/right.svg" }}
-            </i>
+            <i class="iconfont icon-right"></i>
           </a>
         {{- end }}
       </nav>
     </footer>
   </article>
-
-  <!-- Author Info -->
-  {{ if and (.Params.author | default .Site.Author.name) (.Params.showAuthorInfo | default .Site.Params.showAuthorInfo) }}
-  {{ partial "author_info.html" (dict "author" (.Params.author | default .Site.Author.name) "context" $) }}
-  {{ end }}
 
   <!-- Comments -->
   {{ partial "comments.html" . }}
