@@ -30,7 +30,7 @@ Cosmos, the highly-anticipated network that is designed to improve blockchain in
 While users won’t be able to swap tokens between blockchains (or otherwise connect with existing blockchain networks) until validators vote to activate the Inter-Blockchain Communication (IBC) protocol, the Cosmos Hub launch is a milestone: the first in a series of proof-of-stake (PoS) blockchains within the Cosmos ecosystem.
 
 
-For now, take a look back to [CyberMiles’ introduction of a blockchain explorer for Cosmos](https://medium.com/cybermiles/introducing-a-blockchain-explorer-for-cosmos-dc9136461ca1) with our very own [Dr. Michael Yuan]（https://twitter.com/juntao）.
+For now, take a look back to [CyberMiles’ introduction of a blockchain explorer for Cosmos](https://medium.com/cybermiles/introducing-a-blockchain-explorer-for-cosmos-dc9136461ca1) with our very own [Dr. Michael Yuan](https://twitter.com/juntao).
 
 
 ### 3. A guide to consensus algorithms
