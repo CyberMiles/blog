@@ -2,6 +2,16 @@
 
 {{ define "content"}}
 {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") (index .Site.Params "archive-paginate" | default 10) }}
+{{ if eq .Data.Plural "categories" }}
+
+<section id="posts" class="posts">
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+</section>
+
+{{ else }}
+
 <section id="archive" class="archive">
   {{ if not $paginator.HasPrev }}
     {{ if eq .Data.Plural "tags" }}
@@ -28,6 +38,8 @@
     </div>
   {{ end }}
 </section>
+
+{{ end }}
 
 <!-- pagination -->
 {{ partial "pagination.html" . }}
