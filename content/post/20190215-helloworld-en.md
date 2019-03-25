@@ -108,7 +108,7 @@ This states the name of the contract `Human`.
 
 It also states the only two functions of the smart contract - `greet` and `terminate`.
 
-```
+```sol
 contract Human {
     
   function greet() {
