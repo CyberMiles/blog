@@ -1,5 +1,5 @@
 ---
-title: "The next wave in blockchain data)"
+title: "The next wave in blockchain data"
 date: 2019-02-10T10:01:23+08:00
 draft: false
 tags: ["blockchain","ecommerce","data"]
@@ -106,7 +106,7 @@ Further to the above code example, the following video provides an in-depth look
 **Note**: The results on-chain are identical regardless of which programming language the smart contracts were written in.
 
 
-{{< gist youtube JNXl0KCcqhA >}}
+{{< youtube JNXl0KCcqhA >}}
 
 
 ---
@@ -158,15 +158,15 @@ Now, knowing that account (0xca…733c) has a grand total of 882 points is great
 Consider the following richer questions:
 
 
-*At what rate were the points accumulated? In other words, how many points did the account (0xca…733c) accumulate per day, or per minute?
+* At what rate were the points accumulated? In other words, how many points did the account (0xca…733c) accumulate per day, or per minute?
 
-*Is the account (0xca…733c) demonstrating sustainable growth in points?
+* Is the account (0xca…733c) demonstrating sustainable growth in points?
 
-*Did the account’s points peak and then drop off, never to regain momentum?
+* Did the account’s points peak and then drop off, never to regain momentum?
 
-*What percentage of points does the account (0xca…733c) have when compared to another account (0x1472…160C)?
+* What percentage of points does the account (0xca…733c) have when compared to another account (0x1472…160C)?
 
-*Did these two accounts take turns in the lead or has one account been dominant during the entire process?
+* Did these two accounts take turns in the lead or has one account been dominant during the entire process?
 
 The amount of questions that can be asked are only limited by the imagination. Thankfully, the CyberMiles blockchain ecosystem provides you with the flexibility to write your own customized e-commerce applications (smart contracts and DApps), using a myriad of data types as well as mechanisms to store, log and retrieve data. There are enormous opportunities for new innovative businesses to take part in the new era of e-commerce: a decentralized global network of buyers and sellers.
 
@@ -181,13 +181,13 @@ The previous section covered generating event log data. The following section ex
 Here are a couple of videos that demonstrate how event logs can be harvested. This first video demonstrates how easily smart contracts can be loaded into a custom harvester. We are using an Elasticsearch instance here.
 
 
-{{< gist youtube 9RJMfFFTshI >}}
+{{< youtube 9RJMfFFTshI >}}
 
 
 This second video demonstrates how quickly event logs can be harvested and indexed as JSON data, which then can be queried in a public facing RESTful API.
 
 
-{{< gist youtube m2OY1Fn2UoQ >}}
+{{< youtube m2OY1Fn2UoQ >}}
 
 
 Once harvested a typical event log will look like the following:
@@ -378,21 +378,21 @@ The next wave of blockchain architecture is rising and, right now, there are big
 
 Considering all of the above, is it fair to say that an off-chain architecture should:
 
-*provide a mechanism to autonomously harvest a smart contract’s event log data based purely on an ABI file and a smart contract’s address?
+* provide a mechanism to autonomously harvest a smart contract’s event log data based purely on an ABI file and a smart contract’s address?
 
-*automatically assign correct data field types (based solely on the smart contract’s ABI)?
+* automatically assign correct data field types (based solely on the smart contract’s ABI)?
 
-*require only a minimal amount of configuration, automated schema generation as per the previous point?
+* require only a minimal amount of configuration, automated schema generation as per the previous point?
 
-*provide sufficient internal querying, filtering and logic in order to produce the most succinct responses?
+* provide sufficient internal querying, filtering and logic in order to produce the most succinct responses?
 
-*automatically/dynamically offer autocomplete syntax to the calling software?
+* automatically/dynamically offer autocomplete syntax to the calling software?
 
-*provide a variety of default visual frontend display portals?
+* provide a variety of default visual frontend display portals?
 
-*provide a library of built-in analytics (not only to explore trends, correlations and so forth, but also to generate data sets for machine learning)?
+* provide a library of built-in analytics (not only to explore trends, correlations and so forth, but also to generate data sets for machine learning)?
 
-*provide a mechanism to interoperate with ubiquitous business software, file formats as well as content management and software development applications?
+* provide a mechanism to interoperate with ubiquitous business software, file formats as well as content management and software development applications?
 
 
 This is a very exciting time. We have an unprecedented amount of information, documentation and software available, as well as the appropriate decentralized infrastructure to test and deploy your projects on.
