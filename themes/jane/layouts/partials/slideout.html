@@ -1,11 +1,14 @@
 <div id="mobile-navbar" class="mobile-navbar">
   <div class="mobile-header-logo">
-    <a href="{{ "/" | relLangURL }}" class="logo">
-      {{- if .Site.Params.logoTitle -}}
-        {{ .Site.Params.logoTitle }}
-      {{- else -}}
+    <a href="https://www.cybermiles.io" class="logo">
+      <img src="/logo.png">
+      <!--
+      {{ if .Site.Params.logoTitle }}
+        {{ .Site.Params.logoTitle | safeHTML }}
+      {{ else }}
         {{ .Site.Title }}
-      {{- end -}}
+      {{ end }}
+      -->
     </a>
   </div>
   <div class="mobile-navbar-icon">
@@ -36,14 +39,7 @@
           </ul>
         {{ else }}
           <!-- normal MENU -->
-          {{ if hasPrefix .URL "http" }}
-            <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}" rel="noopener" target="_blank">
-              {{ .Name }}
-              <i class="iconfont icon-new-window"></i>
-            </a>
-          {{ else }}
-            <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
-          {{ end }}
+          <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
         {{ end  }}
       </li>
 
