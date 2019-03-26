@@ -1,5 +1,5 @@
 ---
-title: "Building a safer crypto tokenw"
+title: "Building a safer crypto token"
 date: 2018-04-25T10:01:23+08:00
 draft: false
 tags: ["security","overflow"]
