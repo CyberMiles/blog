@@ -42,6 +42,10 @@ defaultContentLanguage = "en"           # Default language to use
   name = "中文"
   weight = 30
   url = "/categories/zh"
+[[menu.main]]
+  name = "한국어"
+  weight = 40
+  url = "/categories/ko"
 
 
 [params]
