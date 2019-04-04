@@ -38,9 +38,10 @@ categories: ["zh"]
 * 节点具有共识，可事后审计：算法固定公开，每次生成均记录在链上，事后可根据算法进行审计
 
 
-现在，使用编程语言Lity，开发者在智能合约里调用内置函数'rand()'即可获得随机数序列。
+现在，使用编程语言Lity，开发者在智能合约里调用内置函数`rand()`即可获得随机数序列。
 
-'''pragma lity >=1.2.6;
+```
+pragma lity >=1.2.6;
 
 contract RandDemo {
   uint x;
@@ -49,7 +50,7 @@ contract RandDemo {
     return x;
   }
 }
-'''
+```
 
 正如碳链价值在[《此地无人生还：区块链随机数的原罪与救赎》](https://mp.weixin.qq.com/s/pKdns4PYi3ELfWMnuWFRZw)一文中说的那样，在区块链上，没有真随机数、也永远不会有绝对安全的随机数。CyberMiles实现的区块链随机数解决方法也是一种相对安全的方法。它通过 DPoS 机制与哈希算法的结合，大大提高了攻击随机数需要的成本，是目前公链中最好的解决方案。安全的随机数是一场没有终点的长跑。
 
@@ -67,7 +68,7 @@ CyberMiles在交易手续费规则上进行了创新，临时用户在CyberMiles
 
 本次CyberMiles主链升级的另一个新功能就是”免费”的DApp。新版本的CyberMiles主链软件支持合约创建者支付执行该智能合约所需的gas 费，就意味着DApp的使用者不需要持有加密货币支付gas 费也可体验区块链技术的魅力。
 
-通过Lity中名为'freegas'的关键词，合约创建者可以指定自己支付gas 费。用户执行合约时会发现'gasPrice'处的数值为零，也就是gas 费等于0，无需支付gas 费。
+通过Lity中名为`freegas`的关键词，合约创建者可以指定自己支付gas 费。用户执行合约时会发现`gasPrice`处的数值为零，也就是gas 费等于0，无需支付gas 费。
 
 有了合约创建者支付gas费的功能后，使用像Community Vote这样的非交易类DApp就会变得非常简单。
 
