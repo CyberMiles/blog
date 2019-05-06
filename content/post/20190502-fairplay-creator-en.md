@@ -8,7 +8,7 @@ categories: ["en"]
 
 ![](/images/20190502-fairplay-03.png)
 
-Scan the above QR code with your CMT Wallet to create a new FairPlay drawing. The screenshots below shows how to fill out a title and description, upload a product photo, and specify the drawing rules. Once the drawing smart contract is created, you will see a QR code that can you save and share with potential participants.
+Scan the above QR code with your CMT Wallet to create a new FairPlay drawing. The screenshots below show how to fill out a title and description, upload a product photo, and specify the drawing rules. Once the drawing smart contract is created, you will see a QR code that you can save and share with potential participants.
 
 ![](/images/20190502-fairplay-04.png)
 
