@@ -1,5 +1,5 @@
 ---
-title: "Let's Technically Understand FairPlay DApp (F&Q attached)"
+title: "Let's Understand the Technology behind the FairPlay DApp (with FAQs)"
 date: 2019-05-07T11:30:23+08:00
 draft: false
 tags: ["technical","dapp"] 
@@ -26,10 +26,10 @@ struct Player {
 	string confirm_mesg;
 }
 ```
-`ts` suggests the time when the player participates the play. `name` and `contact` can be picked by the user as he wants. Especially, `contact` can be choosed in many methods, like email, telegram, or wechat, etc. So it's worth mentioning that the user don't need to show his sensitive information, if he doesn't want. `mesg` is the note the player leaves when he participates, whereas the `confirm_mesg` is comment given by the winner.  Both two messages are public to each participant.
+`ts` indicates the time when the player participates the play. `name` and `contact` can be picked by the user as he wants. The player can enter `contact` in many ways, such as email, telegram, or wechat, etc. So it's worth mentioning that the user doesn't need to show his sensitive information, if he doesn't want. `mesg` is the note the player leaves when he participates, whereas the `confirm_mesg` is comment given by the winner.  Both two messages are public to each participant.
 
 
-## F&Q
+## FAQ
 1. What will happen when different people in different time zones participate in the same FairPlay Drawing?
 	* Interesting question. The answer is that the datetime shown in the DApp exactly varies from the user's local time zone. Surely, that also means it's impossible to deceive the contract about the time. Sounds really smart, right? The solution is as following:
 		* **When create the play**: The datetime picked by the user as the end time, is firstly (1)converted to timestamp as seconds since unix epoch, according to the user's local time zone, then is (2)sent to the contract, where it is (3)compared with the special variable `now` (the current block timestamp as seconds since unix epoch), in order to make sure the drawing time is after now.
