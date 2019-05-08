@@ -27,4 +27,4 @@ CyberMiles Foundation
 May, 8th, 2019
 
 
-Learn more at <cybermiles.io>.
+Learn more at [cybermiles.io](www.cybermiles.io).
