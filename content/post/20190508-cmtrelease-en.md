@@ -23,7 +23,8 @@ For your reference, the CMT address of the CyberMiles Foundation is 0x1a14Ec3003
 Thanks for your support and supervision.
  
 CyberMiles Foundation 
-May, 17th, 2019
+
+May, 8th, 2019
 
 
 Learn more at <cybermiles.io>.
