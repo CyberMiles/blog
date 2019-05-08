@@ -1,5 +1,5 @@
 ---
-title: "Building a safer crypto token"
+title: "CyberMiles基金会解锁情况说明公告"
 date: 2019-05-08T10:01:23+08:00
 draft: false
 tags: ["CMTs]
