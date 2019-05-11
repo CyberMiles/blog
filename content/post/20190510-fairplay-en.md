@@ -14,7 +14,7 @@ Each winner will get a $25 AMC or Cinemark gift card — enough for two movie ti
 
 ### How does it work?
  
-You can participate the drawing for free by downloading the [CMT Wallet mobile app]((https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/)), and entering your contact info. The FairPlay Dapp draws 4 lucky winners based on secure random numbers generated from the CyberMiles public blockchain. 
+You can participate the drawing for free by downloading the [CMT Wallet mobile app](https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/), and entering your contact info. The FairPlay Dapp draws 4 lucky winners based on secure random numbers generated from the CyberMiles public blockchain. 
 
 The lucky winners will each get a $25 AMC or Cinemark gift card — enough for two movie tickets. [As we have discussed before](https://blog.cybermiles.io/post/20190502-fairplay-en/), the FairPlay DApp prize drawing is fair, fully automated, transparent, and decentralized.
  
