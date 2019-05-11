@@ -1,6 +1,6 @@
 ---
 title: "FairPlay: Win movie tickets for two on Mother’s Day!"
-date: 2019-05-11T10:01:23+08:00
+date: 2019-05-11T08:01:23+08:00
 draft: false
 tags: ["fairplay","giveaway"]
 categories: ["en"]
