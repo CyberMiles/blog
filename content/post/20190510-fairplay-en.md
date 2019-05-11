@@ -20,26 +20,26 @@ The lucky winners will each get a $25 AMC or Cinemark gift card — enough for t
  
 ### How to participate?
 
-1. Download and install the [CMT Wallet mobile app](https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/) on your iOS or Android device. 
+1 Download and install the [CMT Wallet mobile app](https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/) on your iOS or Android device. 
 
 ![](/images/20190510-fairplay-03.png)
 
-2. Create a password for yourself. You do not need to worry about the mnemonic words for now. 
+2 Create a password for yourself. You do not need to worry about the mnemonic words for now. 
  
-3. Scan this QR code in CMT Wallet by hitting the scanner icon.
+3 Scan this QR code in CMT Wallet by hitting the scanner icon.
  
-4. Enter your contact info so that we can contact you if you win. You do not have to use your real name here. 
+4 Enter your contact info so that we can contact you if you win. You do not have to use your real name here. 
  
-5. After the expiration time, 10 AM, May 12th, PST, the FairPlay Smart contract on the CyberMiles public blockchain automatically draws 4 random winners.
+5 After the expiration time, 10 AM, May 12th, PST, the FairPlay Smart contract on the CyberMiles public blockchain automatically draws 4 random winners.
  
 ### How to use CMT Wallet？
  
-1. Download and install CMT Wallet from <https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/>
+1 Download and install CMT Wallet from <https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/>
  
-2. Create a new wallet, input your name and passwords
+2 Create a new wallet, input your name and passwords
  
 ![](/images/20190510-fairplay-01.png)
 
-3. Choose "back up the mnemonic words later"
+3 Choose "back up the mnemonic words later"
  
-4. You have a new address now and the scan function is on the “Assets” page.
+4 You have a new address now and the scan function is on the “Assets” page.
