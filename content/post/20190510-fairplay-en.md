@@ -1,6 +1,6 @@
 ---
 title: "FairPlay: Win movie tickets for two on Mother’s Day!"
-date: 2019-05-10T10:01:23+08:00
+date: 2019-05-11T10:01:23+08:00
 draft: false
 tags: ["fairplay","giveaway"]
 categories: ["en"]
@@ -8,13 +8,13 @@ categories: ["en"]
 
 ![](/images/20190510-fairplay-02.png)
 
-Mother’s Day is right around the corner. Are you ready for the celebration? **Win 2 movie tickets, and take your mom to a movie!**
+Mother’s Day is right around the corner. Are you ready for the celebration? **Win movie tickets for 2, and take your mom to a movie!**
  
 Each winner will get a $25 AMC or Cinemark gift card — enough for two movie tickets. Please note that this offer is only available in the USA. Good luck!
 
 ### How does it work?
  
-You can participate the drawing for free by downloading the CMT Wallet mobile app, and entering your contact info. The FairPlay Dapp draws 4 lucky winners based on secure random numbers generated from the CyberMiles public blockchain. 
+You can participate the drawing for free by downloading the [CMT Wallet mobile app]((https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/)), and entering your contact info. The FairPlay Dapp draws 4 lucky winners based on secure random numbers generated from the CyberMiles public blockchain. 
 
 The lucky winners will each get a $25 AMC or Cinemark gift card — enough for two movie tickets. [As we have discussed before](https://blog.cybermiles.io/post/20190502-fairplay-en/), the FairPlay DApp prize drawing is fair, fully automated, transparent, and decentralized.
  
@@ -30,7 +30,7 @@ The lucky winners will each get a $25 AMC or Cinemark gift card — enough for t
  
 4. Enter your contact info so that we can contact you if you win. You do not have to use your real name here. 
  
-5. After the expiration time, 10 AM, May 12nd, PST, the FairPlay Smart contract on the CyberMiles public blockchain automatically draws 4 random winners.
+5. After the expiration time, 10 AM, May 12th, PST, the FairPlay Smart contract on the CyberMiles public blockchain automatically draws 4 random winners.
  
 ### How to use CMT Wallet？
  
