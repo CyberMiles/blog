@@ -8,7 +8,7 @@ categories: ["en"]
 
 ![](/images/20190510-fairplay-02.png)
 
-Mother’s Day is right around the corner. Are you ready for the celebration? *Win 2 movie tickets, and take your mom to a movie!*
+Mother’s Day is right around the corner. Are you ready for the celebration? **Win 2 movie tickets, and take your mom to a movie!**
  
 Each winner will get a $25 AMC or Cinemark gift card — enough for two movie tickets. Please note that this offer is only available in the USA. Good luck!
 
@@ -26,11 +26,11 @@ The lucky winners will each get a $25 AMC or Cinemark gift card — enough for t
 
 2. Create a password for yourself. You do not need to worry about the mnemonic words for now. 
  
-3. Scan this QR code in CMT Wallet by hitting the scanner icon
+3. Scan this QR code in CMT Wallet by hitting the scanner icon.
  
 4. Enter your contact info so that we can contact you if you win. You do not have to use your real name here. 
  
-5. After the expiration time, 12 AM, May 12nd, CST, the FairPlay Smart contract on the CyberMiles public blockchain automatically draws 4 random winners.
+5. After the expiration time, 10 AM, May 12nd, PST, the FairPlay Smart contract on the CyberMiles public blockchain automatically draws 4 random winners.
  
 ### How to use CMT Wallet？
  
