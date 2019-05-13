@@ -3,7 +3,7 @@ title: "5miles数据上链完成，CyberMiles公链生态渐显"
 date: 2019-05-13T10:01:23+08:00
 draft: false
 tags: ["5miles","data"] 
-categories: ["en"] 
+categories: ["zh"] 
 ---
 
 ![](/images/20190513-5milesdata1-01.png)
