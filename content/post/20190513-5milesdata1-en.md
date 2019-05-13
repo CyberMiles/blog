@@ -1,5 +1,5 @@
 ---
-title: "5miles data migration now complete, painting a fuller picture of CyberMiles’ decentralization"
+title: "5miles Data Migration Now Complete, Painting a Fuller Picture of CyberMiles' Decentralization"
 date: 2019-05-13T16:02:23+08:00
 draft: false
 tags: ["migration","5miles"]
@@ -7,7 +7,7 @@ categories: ["en"]
 ---
 ![](/images/20190513-5milesdata1-01.png)
 
-### 5miles data migration now complete, painting a fuller picture of CyberMiles’ decentralization
+### 5miles Data Migration Now Complete, Painting a Fuller Picture of CyberMiles' Decentralization
 
 Though unheard of only a few short years ago, the concept of a blockchain integrated into e-commerce is no longer a new concept. In 2018, we witnessed the rise of the first public blockchain for e-commerce, CyberMiles, with progress toward decentralized payments. Meanwhile, some traditional e-commerce giants such as Walmart, Tesco and JD announced that they would use blockchain technology to ensure the transparent, tamper-proof tracing of their products.
 
