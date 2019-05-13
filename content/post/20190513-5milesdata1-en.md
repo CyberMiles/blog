@@ -5,6 +5,7 @@ draft: false
 tags: ["migration","5miles"]
 categories: ["en"]
 ---
+
 ![](/images/20190513-5milesdata1-01.png)
 
 ### 5miles Data Migration Now Complete, Painting a Fuller Picture of CyberMiles' Decentralization
@@ -18,7 +19,8 @@ CyberMiles' public blockchain has partnered with 5miles, a popular peer-to-peer 
 Integrating 5miles' product information and comments into the smart contract at the address: 0xa3f1e99c46d1d7e6cc96f71b6116cee8160fa4d3, including data of 61170 products since 9th of May, is to ensure that the data on the blockchain are transparent and tamper proof. [5miles Data DApp](https://d5.5mileslab.org/) This, to a large extent, solves a common e-commerce industry problem: fraud.
 
 ![](/images/20190513-5milesdata1-02.png)
-)CyberMiles, known as the "Ethereum for e-commerce," has been influenced heavily by the e-commerce background of the team behind it. An early blockchain enthusiast, Dr. Lucas Lu, a founder of CyberMiles, is an e-commerce veteran with more than 10 years of experience, serving as an executive at Taobao, a mobile app of Alibaba's Jack Ma. Dr. Lu also created LightInTheBox and, subsequently, 5miles. Dr. Lu, understanding the problems deeply-rooted in e-commerce, intends to use blockchain technology to bring significant (and positive) change to the industry.
+
+CyberMiles, known as the "Ethereum for e-commerce," has been influenced heavily by the e-commerce background of the team behind it. An early blockchain enthusiast, Dr. Lucas Lu, a founder of CyberMiles, is an e-commerce veteran with more than 10 years of experience, serving as an executive at Taobao, a mobile app of Alibaba's Jack Ma. Dr. Lu also created LightInTheBox and, subsequently, 5miles. Dr. Lu, understanding the problems deeply-rooted in e-commerce, intends to use blockchain technology to bring significant (and positive) change to the industry.
 
 In order to create an infrastructure-like public blockchain in e-commerce, CyberMiles optimizes e-commerce use cases in many ways: small payments free of gas charges; more secure on-chain transactions; support for smart contract creators to prepay the cost of their users' contract execution; optimization of virtual machine speed; and support for common business logic such as rule engine, etc., which allow e-commerce blockchain technology to be used in different, real-life business scenarios.
 
@@ -31,8 +33,5 @@ Blockchain has the ability to improve various aspects of the e-commerce industry
 First of its kind in the tech industry, 5miles empowered with the technology of blockchain will be the ideal use case for anyone who look to participating in the decentralization of ecommerce. Following the anticipated success of a decentralized 5miles, we believe the world will see the emergence of new forms of platforms, such as the Decentralized Autonomous Organizations (DAO). This will not only change how we, people, interact with businesses, but also how we interact between users to reach a common goal.
 
 The true long-term vision at CyberMiles is not only to change, but to reinvent the e-commerce system. 
-
-
-
 
 Learn more at [cybermiles.io](www.cybermiles.io).
