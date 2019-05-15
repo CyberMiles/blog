@@ -20,7 +20,7 @@ Various exciting and fun prizes for you are on the way. All you need is the [“
 
 2 Create a password for yourself. No need to worry about the mnemonic words for now.
 
-![](/images/20190515-fairplay-user-manua-01.png)
+![](/images//images/20190515-fairplay-user-manual-01.png)
 
 3 Scan the QR code (we provided) in CMT Wallet by hitting the scanner icon.
 
@@ -38,6 +38,6 @@ Various exciting and fun prizes for you are on the way. All you need is the [“
 
 3 Tap “back up the mnemonic words later”
 
-![](/images/20190515-fairplay-user-manua-01.png)
+![](/images/20190515-fairplay-user-manual-01.png)
 
 4 You have a new address now and the “Scan” function is on the “Assets” page.
