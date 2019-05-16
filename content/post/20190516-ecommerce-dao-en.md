@@ -6,11 +6,6 @@ tags: ["rules engine","business"]
 categories: ["en"]
 ---
 
-
-###Starting with 5miles' data migration onto its e-commerce blockchain, CyberMiles aims to replace Silk Road with a DAO
-
-Scroll to the bottom and see how to win free prize with a blokchain DApp.
-
 E-commerce site, [5miles](www.5miles.com), uses CyberMiles's blockchain technology to migrate its data onto the public blockchain, bringing a new itineration of blockchain-empowered e-commerce. 
 
 ![](/images/20190516-ecommerce-dao-02.png)
@@ -74,7 +69,7 @@ During this ongoing transformation, we hope that our peer-to-peer trading platfo
 This technology can-and will-change the world for the better.
 
 
-*Download [CMT Wallet](http://onelink.to/v248ze) and win countless free gifts with FairPlay DApp.
+*Download [CMT Wallet](http://onelink.to/v248ze) to browse the 5miles producets in the 5miles data DApp.
 
 
 References: https://www.trustpilot.com/review/OpenBazaar.org
