@@ -1,18 +1,18 @@
 ---
-title: "Starting with 5miles'  data migration onto its e-commerce blockchain, CyberMiles aims to replace Silk Road with a DAO"
+title: "From the Silk Road to a self-governing DAO, CyberMiles is changing the face of decentralized e-commerce"
 date: 2019-05-16T15:01:23+08:00
 draft: false
-tags: ["rules engine","business"]
+tags: ["rules engine","business","5miles","privacy"]
 categories: ["en"]
 ---
 
-E-commerce site, [5miles](www.5miles.com), uses CyberMiles's blockchain technology to migrate its data onto the public blockchain, bringing a new itineration of blockchain-empowered e-commerce. 
+[5miles](www.5miles.com), a top e-commerce marketplace in the USA, has started to migrate and record its operational data, including new product listings and anonymized reviews, onto the CyberMiles public blockchain. It is the first step toward the vision of decentralized e-commerce. Eventually, the entire 5miles marketplace, with over 15 million users in the USA alone and $100+ billion USD in GMV, will operate as a Decentralized Autonomous Organization (DAO) on the CyberMiles public blockchain.
 
 ![](/images/20190516-ecommerce-dao-02.png)
 
-5miles’ data migrated to the CyberMiles public blockchain can be readily viewed via the 5miles Data DApp in the [CMT Wallet](http://onelink.to/v248ze). If you know the listing ID, you can easily view the corresponding data and images in the DApp, hence bridging the closed 5miles database to the open CyberMiles public blockchain. If you do not know any particular listing ID, the DApp lists 10 significant milestone listings during 5miles history for casual visitors to learn about 5miles.
+5miles’ data on the CyberMiles public blockchain can be readily viewed via the 5miles Data DApp in the [CMT Wallet](http://onelink.to/v248ze). If you know the listing ID, you can easily view the corresponding data and images in the DApp, hence bridging the closed 5miles database to the open CyberMiles public blockchain. If you do not know any particular listing ID, the DApp lists 10 significant milestone listings during 5miles history for casual visitors to learn about 5miles.
 
-E-commerce, empowered by blockchain, is an increasingly hot concept. "Shop to earn crypto" has been one tactic used to attract buyers to newer, less-well-known shopping websites. Blockchain technology that can be used to trace product origins and in cross-border payments are two other use cases. Given these, the public now is growing more familiar with the extraordinary potential of blockchain.
+The very first applications of cryptocurrency are all in e-commerce, when early adopters used Bitcoins to buy food and products from the Internet. In recent years, "Shop to earn crypto" has been a popular tactic to attract buyers to newer, less-well-known shopping websites. Blockchain applications in e-commerce now ranges from tracing product origins / authenticity, to making cross-border payments.
 
 Dr. Lucas Lu, founder of CyberMiles, a public blockchain for e-commerce, maintains that the integration of blockchain into e-commerce will occur in three stages.
 
@@ -23,15 +23,13 @@ development of the marketplace. Take the shop-to-earn-crypto tactic because of t
 
 > Third, decentralizing e-commerce organizations is the most complex, exciting and truly in line with the spirit of blockchain technology. Anyone can buy and sell things freely, while users have privacy protections and not only can control but also monetize their own data. There are no "middlemen" or undue fees within the marketplace, thus lowering the prices of products today.
 
-While the technical performance, security, and scalability requirements of the underlying public blockchain are higher, so are the unprecedented demands of the design of the entire public blockchain economic system.
-
-As a public blockchain optimized for e-commerce, CyberMiles' goal is address these challenges head-on and realize a truly decentralized e-commerce ecosystem.
+However, the paths to those goals are full of challenges -- both technical and economical. As a public blockchain optimized for e-commerce, CyberMiles' goal is to address these challenges head-on and foster a truly decentralized e-commerce ecosystem.
 
 ### The Horror Show—and Glory Days—of Silk Road, Open Bazaar
 
-Building decentralized e-commerce organizations that subvert the existing system has been a long-held dream of the blockchain community—the earliest and, to date, only application of Bitcoin. Before CyberMiles, the (in)famous Silk Road, as well as Open Bazaar and other crypto projects have blazed some trails.
+Building free, as in freedom, e-commerce marketplaces is a long-held dream of the technolibertarian community since early days of the Bitcoin. Before CyberMiles, the (in)famous Silk Road, as well as Open Bazaar and other crypto projects have blazed the trails.
 
-The encryption and decentralization of Bitcoin, in fact, inspired the founder of Silk Road, a notorious, now-defunct black market. Buyers and sellers on Silk Road were able to connect with each other covertly, trading drugs, illegal arms, and other manner of criminal commerce while largely evading law enforcement. You could say that Silk Road was designed and optimized for black market buyers and sellers, as users could not access it with traditional online search engines but rather via special software. It was a completely underground website.
+Silk Road, a notorious, now-defunct black market is an early Bitcoin-based e-commerce marketplace. Buyers and sellers on Silk Road were able to connect with each other covertly, trading drugs, illegal firearms, and other manner of criminal commerce while largely evading law enforcement. Silk Road was designed and optimized for black market buyers and sellers, as users could not access it with traditional online search engines but rather via special software known as the dark web. It was a completely underground website.
 
 Just as its now-jailed founder sold his own psychedelic mushrooms, goods traded on the Silk Road became ever more brazen, with illicit drugs, guns and ammunition, child pornography, and even assassins-for-hire became more and more accessible. By charging a fee for these listings, Silk Road earned $1.2 billion in two years alone.
 
@@ -62,7 +60,7 @@ In the event that a buyer feels a particular product is not appropriate and shou
 
 Will the peer-to-peer trading platform envisioned by CyberMiles be the counterpoint solution to the dark web? That is up to the community members to decide. However, Dr. Lucas Lu, the founder of CyberMiles, feels optimistic. "We apply community autonomy and, I believe, most users are rational and objective."
 
-From the (thankfully) bygone days of Silk Road, Open Bazaar, to the public blockchain designed for e-commerce, and the community-owned blockchain DAO, blockchain technology may not replace centralized e-commerce like Alibaba or Amazon immediately. But, given that the market for centralized peer-to-peer transactions is itself a $100 billion one, it promises one of the best application scenarios for blockchain technology.
+From the (thankfully) bygone days of Silk Road, Open Bazaar, to the public blockchain designed for e-commerce, and the community-owned blockchain DAO, blockchain technology may not replace centralized e-commerce like Alibaba or Amazon immediately. But, given that the market for centralized peer-to-peer transactions is itself over $100 billion USD annually, it promises one of the best application scenarios for blockchain technology.
 
 During this ongoing transformation, we hope that our peer-to-peer trading platform based on blockchain, instead of devolving into a dark web, will become a bright light for a more democratic, decentralized future.
 
