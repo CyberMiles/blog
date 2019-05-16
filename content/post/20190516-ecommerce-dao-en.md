@@ -1,6 +1,6 @@
 ---
 title: "Starting with 5miles'  data migration onto its e-commerce blockchain, CyberMiles aims to replace Silk Road with a DAO"
-date: 2019-05-10T15:01:23+08:00
+date: 2019-05-16T15:01:23+08:00
 draft: false
 tags: ["rules engine","business"]
 categories: ["en"]
@@ -11,24 +11,28 @@ categories: ["en"]
 
 Scroll to the bottom and see how to win free prize with a blokchain DApp.
 
-E-commerce site, 5miles, uses CyberMiles's blockchain technology to migrate its data onto the public blockchain, bringing a new itineration of blockchain-empowered e-commerce. 
+E-commerce site, [5miles](www.5miles.com), uses CyberMiles's blockchain technology to migrate its data onto the public blockchain, bringing a new itineration of blockchain-empowered e-commerce. 
+
+![](/images/20190516-ecommerce-dao-02.png)
+
+5miles’ data migrated to the CyberMiles public blockchain can be readily viewed via the 5miles Data DApp in the [CMT Wallet](http://onelink.to/v248ze). If you know the listing ID, you can easily view the corresponding data and images in the DApp, hence bridging the closed 5miles database to the open CyberMiles public blockchain. If you do not know any particular listing ID, the DApp lists 10 significant milestone listings during 5miles history for casual visitors to learn about 5miles.
 
 E-commerce, empowered by blockchain, is an increasingly hot concept. "Shop to earn crypto" has been one tactic used to attract buyers to newer, less-well-known shopping websites. Blockchain technology that can be used to trace product origins and in cross-border payments are two other use cases. Given these, the public now is growing more familiar with the extraordinary potential of blockchain.
 
 Dr. Lucas Lu, founder of CyberMiles, a public blockchain for e-commerce, maintains that the integration of blockchain into e-commerce will occur in three stages.
 
-First, cryptocurrency enables a decentralized incentive mechanism, encouraging users to take ownership and participate in the 
+> First, cryptocurrency enables a decentralized incentive mechanism, encouraging users to take ownership and participate in the 
 development of the marketplace. Take the shop-to-earn-crypto tactic because of the expensive users acquisition: all user actions such as browsing, clicking "like", writing reviews, etc. can earn the user certain amounts of points (or tokens). Blockchain technology makes this token incentivization transparent, preventing random points inflation and unfair play. At the same time, blockchain tokens can be applied across platforms.
 
-Second, using cryptocurrency for payments is a widely-recognized use case. JP Morgan, for example, recently announced that it will use cryptocurrency for instant settlement between institutional customers, thereby addressing systemic issues such as foreign exchange controls that, in turn, can improve efficiency and increase cost-savings. CyberMiles has partnered with cross-border e-commerce companies, Blocktonic and LightInTheBox (NYSE:LITB), both accepting CyberMiles Token (CMT) payments.
+> Second, using cryptocurrency for payments is a widely-recognized use case. JP Morgan, for example, recently announced that it will use cryptocurrency for instant settlement between institutional customers, thereby addressing systemic issues such as foreign exchange controls that, in turn, can improve efficiency and increase cost-savings. CyberMiles has partnered with cross-border e-commerce companies, Blocktonic and LightInTheBox (NYSE:LITB), both accepting CyberMiles Token (CMT) payments.
 
-Third, decentralizing e-commerce organizations is the most complex, exciting and truly in line with the spirit of blockchain technology. Anyone can buy and sell things freely, while users have privacy protections and not only can control but also monetize their own data. There are no "middlemen" or undue fees within the marketplace, thus lowering the prices of products today.
+> Third, decentralizing e-commerce organizations is the most complex, exciting and truly in line with the spirit of blockchain technology. Anyone can buy and sell things freely, while users have privacy protections and not only can control but also monetize their own data. There are no "middlemen" or undue fees within the marketplace, thus lowering the prices of products today.
 
 While the technical performance, security, and scalability requirements of the underlying public blockchain are higher, so are the unprecedented demands of the design of the entire public blockchain economic system.
 
 As a public blockchain optimized for e-commerce, CyberMiles' goal is address these challenges head-on and realize a truly decentralized e-commerce ecosystem.
 
-The Horror Show—and Glory Days—of Silk Road, Open Bazaar
+### The Horror Show—and Glory Days—of Silk Road, Open Bazaar
 
 Building decentralized e-commerce organizations that subvert the existing system has been a long-held dream of the blockchain community—the earliest and, to date, only application of Bitcoin. Before CyberMiles, the (in)famous Silk Road, as well as Open Bazaar and other crypto projects have blazed some trails.
 
@@ -42,15 +46,14 @@ Enter Open Bazaar, a more recent iteration of decentralized e-commerce. The peer
 
 But Open Bazaar's peer-to-peer transactions are not based actually on blockchain technology at all, as users need to install its node software first. The user experience is iffy, and it can be difficult for buyers and sellers to complete a deal. This is one of the primary hinderances to further development-and mainstream adoption-of it.
 
- 
+![](/images/20190516-ecommerce-dao-01.png)
 A recent review of Open Bazaar
 
+### A Better Solution for E-Commerce Has Arrived
 
-A Better Solution for E-Commerce Has Arrived
+Since 2017-18, blockchain technology has become more of a household name. Meanwhile, investment in research and development of blockchain technology marches on, despite a dip in cryptocurrency prices. Bear market or no, blockchain technology continues to develop rapidly. With a global market size of $1+ trillion, e-commerce is naturally among the many industries that have explored (and promoted) the use of this technology.
 
-Since 2017-18, blockchain technology has become more of a household name. Meanwhile, investment in research and development of blockchain technology marches on, despite a dip in cryptocurrency prices. Bear market or no, blockchain technology continues to develop rapidly, and, with a global market size of $1+ trillion, e-commerce is naturally among the many industries that have explored (and promoted) the use of this technology
-
-CyberMiles, as the public blockchain for e-commerce, already has carried out successful payment gateways, information flow exploration and application, as well as technical optimization at an infrastructure level (namely compatibility with Ethereum). The performance of the CyberMiles virtual machine, moreover, has improved as substantially as blockchain security has been optimized.
+[CyberMiles](www.cybermiles.io), as the public blockchain for e-commerce, already has carried out successful payment gateways, information flow exploration and application, as well as technical optimization at an infrastructure level (namely compatibility with Ethereum). The performance of the CyberMiles virtual machine, moreover, has improved as substantially as blockchain security has been optimized.
 
 With 5miles' data migration onto the blockchain, CyberMiles hopes to achieve a practical means of peer-to-peer transactions based on blockchain technology, thereby creating a Decentralized Autonomous Organization (DAO).
 
@@ -71,12 +74,7 @@ During this ongoing transformation, we hope that our peer-to-peer trading platfo
 This technology can-and will-change the world for the better.
 
 
-*Download CMT Wallet and win countless free gifts with FairPlay DApp.
-
-
-
-
-
+*Download [CMT Wallet](http://onelink.to/v248ze) and win countless free gifts with FairPlay DApp.
 
 
 References: https://www.trustpilot.com/review/OpenBazaar.org
