@@ -14,7 +14,7 @@ categories: ["en"]
 
 The very first applications of cryptocurrency are all in e-commerce, when early adopters used Bitcoins to buy food and products from the Internet. In recent years, "Shop to earn crypto" has been a popular tactic to attract buyers to newer, less-well-known shopping websites. Blockchain applications in e-commerce now ranges from tracing product origins / authenticity, to making cross-border payments.
 
-Dr. Lucas Lu, founder of CyberMiles, a public blockchain for e-commerce, maintains that the integration of blockchain into e-commerce will occur in three stages.
+Dr. Lucas Lu, founder of CyberMiles, envisions that the blockchain transformation of e-commerce will occur in three stages.
 
 > First, cryptocurrency enables a decentralized incentive mechanism, encouraging users to take ownership and participate in the 
 development of the marketplace. Take the shop-to-earn-crypto tactic because of the expensive users acquisition: all user actions such as browsing, clicking "like", writing reviews, etc. can earn the user certain amounts of points (or tokens). Blockchain technology makes this token incentivization transparent, preventing random points inflation and unfair play. At the same time, blockchain tokens can be applied across platforms.
@@ -29,42 +29,36 @@ However, the paths to those goals are full of challenges -- both technical and e
 
 Building free, as in freedom, e-commerce marketplaces is a long-held dream of the technolibertarian community since early days of the Bitcoin. Before CyberMiles, the (in)famous Silk Road, as well as Open Bazaar and other crypto projects have blazed the trails.
 
-Silk Road, a notorious, now-defunct black market is an early Bitcoin-based e-commerce marketplace. Buyers and sellers on Silk Road were able to connect with each other covertly, trading drugs, illegal firearms, and other manner of criminal commerce while largely evading law enforcement. Silk Road was designed and optimized for black market buyers and sellers, as users could not access it with traditional online search engines but rather via special software known as the dark web. It was a completely underground website.
+Silk Road, a notorious, now-defunct black market is an early Bitcoin-based e-commerce marketplace. Buyers and sellers on Silk Road were able to connect with each other covertly, trading drugs, firearms, counterfeit dollars, and much more while evading government regulators. Silk Road was designed and optimized for black market buyers and sellers, as users could not access it with traditional online search engines but rather via special software known as the dark web. It was a completely underground website. The Silk Road marketplace earned $1.2 billion in two years before it was shutdown by the government. There is proven demand for a free marketplace, although the Silk Road approch is mis-guided.
 
-Just as its now-jailed founder sold his own psychedelic mushrooms, goods traded on the Silk Road became ever more brazen, with illicit drugs, guns and ammunition, child pornography, and even assassins-for-hire became more and more accessible. By charging a fee for these listings, Silk Road earned $1.2 billion in two years alone.
+Next, enter Open Bazaar, a more recent and legal iteration of decentralized e-commerce funded by Venture Capitalists. The peer-to-peer, direct-trade model renders middlemen obsolete. Initially, Open Bazaar only allowed Bitcoin payments, but has a self-governance model that stayed on the legal side of the trade. Internet users could search any product on Open Bazaar via a simple search engine provided by its partner, Bazaar Bay.
 
-The rise of such an devious, underground marketplace naturally became a target of law enforcement worldwide. In 2013, the Silk Road’s founder was arrested and, subsequently, its influence began to diminish. Its legacy continues to live on, however.
-
-Enter Open Bazaar, a more recent iteration of decentralized e-commerce. The peer-to-peer, direct-trade model renders middlemen obsolete. Initially, Open Bazaar only allowed Bitcoin payments and, compared to Silk Road, was far less sketchy. Internet users could search any product on Open Bazaar via a simple search engine provided by its partner, Bazaar Bay.
-
-But Open Bazaar's peer-to-peer transactions are not based actually on blockchain technology at all, as users need to install its node software first. The user experience is iffy, and it can be difficult for buyers and sellers to complete a deal. This is one of the primary hinderances to further development-and mainstream adoption-of it.
+While Open Bazaar utilizes Bitcoin for payment transactions, it does not use blockchain for its peer-to-peer infrastrcture. The homegrown infrastructure means that it cannot take advantage of the fast development of blockchain technology in recent years. All Open Bazaar users must install its desktop PC software first. The user experience is iffy, and it can be difficult for buyers and sellers to complete a deal. This is one of the primary hinderances to further development-and mainstream adoption-of it.
 
 ![](/images/20190516-ecommerce-dao-01.png)
 A recent review of Open Bazaar
 
 ### A Better Solution for E-Commerce Has Arrived
 
-Since 2017-18, blockchain technology has become more of a household name. Meanwhile, investment in research and development of blockchain technology marches on, despite a dip in cryptocurrency prices. Bear market or no, blockchain technology continues to develop rapidly. With a global market size of $1+ trillion, e-commerce is naturally among the many industries that have explored (and promoted) the use of this technology.
+Since 2017-18, blockchain technology has become a household name. Meanwhile, investment in research and development of blockchain technology marches on, despite a dip in cryptocurrency prices. Bear market or not, blockchain technology continues to develop rapidly. With a global market size of $1+ trillion, e-commerce is widely seen as an important area of application for this technology.
 
-[CyberMiles](www.cybermiles.io), as the public blockchain for e-commerce, already has carried out successful payment gateways, information flow exploration and application, as well as technical optimization at an infrastructure level (namely compatibility with Ethereum). The performance of the CyberMiles virtual machine, moreover, has improved as substantially as blockchain security has been optimized.
+[CyberMiles](www.cybermiles.io) has built blockchain infrastructure components that are optimized for e-commerce applications, such as a high performance Ethereum-compatible virtual machine, a safe smart contract programming language called [Lity](www.litylang.org), crypto payment gatways, a smart contract search engine, among many other features.
 
-With 5miles' data migration onto the blockchain, CyberMiles hopes to achieve a practical means of peer-to-peer transactions based on blockchain technology, thereby creating a Decentralized Autonomous Organization (DAO).
+With 5miles' data migration onto its blockchain, CyberMiles makes the first step in creating a Decentralized Autonomous Organization (DAO) for e-commerce.
 
-How does this work? Simply put, any seller can list products on the CyberMiles public blockchain through standard smart contract templates. Any buyer can search all listed products on the CyberMiles public blockchain via the Internet, using cryptocurrency to pay sellers directly, purchasing goods, and thus fostering decentralized trading. Even transaction disputes can be decided by a built-in mediator DApp.
+How does this work? For starters, a seller can list items for sale on the CyberMiles public blockchain by deploying a standard smart contract template. A Decentralized Application (a web application known as a DApp) provides one-click deployment of such smart contracts on-chain. A buyer can browse and search all listed items via search engine providers in the DAO, use cryptocurrency to pay sellers directly or through an automated escrow, resolve potential conflicts by engaging in other DAO members anonymously, and thus complete decentralized trading.
 
-With real-time payments, no fees, decentralized arbitration and more, the blockchain is particularly well-suited for peer-to-peer marketplace activities. But how is this different from Silk Road? In our case, products sold are done so openly and transparently, and can be searched by anyone through search engines, which is exactly the opposite of the dark web.
+With real-time payments, automated and transparent escrow, no fees, decentralized arbitration and more, the blockchain DAO is particularly well-suited for peer-to-peer marketplace activities. But how is this different from Silk Road? In our case, product listings are open and transparent, and can be searched by anyone through search engines, which is exactly the opposite of the dark web.
 
-What CyberMiles wants to do is to "shine a light into the darkness" through a DAO. Organizationally, a DAO's self-governed community is key as rules are pre-determined by blockchain-based smart contracts. Community members ensure self-governance, with everyone playing a part in maintaining the marketplace.
+CyberMiles's goal is to "shine a light into the darkness" through a DAO. Organizationally, a DAO's self-governed community is key as rules are pre-determined by blockchain-based smart contracts. Community members ensure self-governance, with everyone playing a part in maintaining the marketplace.
 
-In the event that a buyer feels a particular product is not appropriate and should be removed, he or she can report the listing in question. To this end, CyberMiles is introducing a decentralized application (DApp) for arbitration, selecting a committee of users as arbiters via random numbers generated by the blockchain. These users will evaluate and determine whether a product should or should not be available on the marketplace, and therefore unapproved items will be removed. (The same principle applies to trading disputes that may arise.)
+In the event that a buyer feels a particular product is not appropriate and should be removed, he or she can report the listing to the arbitration and mediation arm of the DAO through a DApp. The arbitration DAO smart contract automatically and randomly selects a committee of arbiters. These arbiters will evaluate and determine whether a product should or should not be available on the marketplace. Unapproved items will be removed automatically by rules in the smart contracts. (The same principle applies to trading disputes that may arise.)
 
-Will the peer-to-peer trading platform envisioned by CyberMiles be the counterpoint solution to the dark web? That is up to the community members to decide. However, Dr. Lucas Lu, the founder of CyberMiles, feels optimistic. "We apply community autonomy and, I believe, most users are rational and objective."
+Will the decentralized trading platform envisioned by CyberMiles be the "good guys" alternative to the dark web? That is up to the community members to decide. However, Dr. Lucas Lu, the founder of CyberMiles, feels optimistic. "We apply community autonomy and, I believe, most users are rational and objective."
 
-From the (thankfully) bygone days of Silk Road, Open Bazaar, to the public blockchain designed for e-commerce, and the community-owned blockchain DAO, blockchain technology may not replace centralized e-commerce like Alibaba or Amazon immediately. But, given that the market for centralized peer-to-peer transactions is itself over $100 billion USD annually, it promises one of the best application scenarios for blockchain technology.
+From the (thankfully) bygone days of Silk Road, to the public blockchain designed for e-commerce, and the community-owned blockchain DAO, blockchain technology may not replace centralized e-commerce like Alibaba or Amazon immediately. But, given $100 billion USD per year market size for peer-to-peer e-commerce, it is one of the most promising applications for blockchain technology.
 
-During this ongoing transformation, we hope that our peer-to-peer trading platform based on blockchain, instead of devolving into a dark web, will become a bright light for a more democratic, decentralized future.
-
-This technology can-and will-change the world for the better.
+The blockchain technology can-and will-make the world a better place.
 
 
 *Download [CMT Wallet](http://onelink.to/v248ze) to browse the 5miles producets in the 5miles data DApp.
