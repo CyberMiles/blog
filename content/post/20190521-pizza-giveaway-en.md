@@ -1,6 +1,6 @@
 ---
 title: "FairPlay: Win a pizza on the Bitcoin Pizza Day"
-date: 2018-05-21T10:01:23+08:00
+date: 2019-05-21T10:01:23+08:00
 draft: false
 tags: ["giveaway","pizza","smart contract"]
 categories: ["en"]
