@@ -6,7 +6,7 @@ tags: ["giveaway","pizza","smart contract"]
 categories: ["en"]
 ---
 
-![](/images/20170521-pizza-giveaway-01.png)
+![](/images/20190521-pizza-giveaway-01.png)
 
 FairPlay will choose 4 lucky winners, and give away Domino's pizza gift cards ($15 each) on May 22nd!
 
@@ -26,6 +26,8 @@ Participate in our new round of giveaways! All you need is the [CMT Wallet app](
 
 1 Download the CMT Wallet mobile app
 
+![](/images/20190521-pizza-giveaway-02.png)
+
 2 Scan the QR code
 
 3 Fill in your contact info so that we can contact you if you win
@@ -34,7 +36,6 @@ Participate in our new round of giveaways! All you need is the [CMT Wallet app](
 
 1 Download the [CMT Wallet](https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/)
 
-![](/images/20190510-fairplay-01.png)
 2 Create a new wallet. Enter your name and a password
 
 ![](/images/20190510-fairplay-01.png)
