@@ -38,7 +38,6 @@ Participate in our new round of giveaways! All you need is the [CMT Wallet app](
 
 2 Create a new wallet. Enter your name and a password
 
-![](/images/20190510-fairplay-01.png)
 3 Tap “back up the mnemonic words later”
 
 ![](/images/20190515-fairplay-user-manual-01.png)
