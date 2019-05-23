@@ -29,3 +29,6 @@ Another goal for this upgrade is to enable the staking API for CMT Wallet, there
 
 As long as the CMT Wallet mobile app's new version development is completed, CMT holders will be allowed to acheive these with the mobile app.
 
+
+For Cube owners, there will be a higher staking reward to stake with Cubes for the time being.  
+
