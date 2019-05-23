@@ -6,12 +6,10 @@ tags: ["upgrade","mainnet"]
 categories: ["en"]
 ---
 
-CyberMiles mainnet has sucessfully upgraded without forking on 23th May, following validators' vote. With this upgrade to the version v0.1.8-beta, CyberMiles validator and delegator block rewards will be easier to understand and calculate. 
+CyberMiles mainnet was sucessfully upgraded without forking on 23th May, following validators' vote. With this upgrade to the version v0.1.8-beta, CyberMiles validator and delegator block rewards will be easier to understand and calculate. In addition, the CyberMiles Mainnet now allows CMT holders to use CMT Wallet to stake;
 
-The CyberMiles Mainnet now allows CMT holders to use CMT Wallet to stake;
 
-The loyalty and diversity factor in staking reward calculation was cancelled.
-
+### Cancelling the loyalty and diversity factor in reward calculation
 
 With this upgrade, the loyalty (the second factor) and diversity of delegators (the third) factors in the staking rewards calculation cancelled, meaning whenever a CMT holder starts to stake, he get a same block reward with the same amount of CMTs over a same period of time under the same validator. This will be more equal for all delegators. Meanwhile the delegator can change validators with no qualms.
 
@@ -24,6 +22,7 @@ During the last upgrade (v0.1.7-beta), the non-linear factor of short-term stake
 
 
 
+### Allow CMT Wallet to stake
 
 Another goal for this upgrade is to enable the staking API for CMT Wallet, therefore CMT Wallet can be used by CMT holders to stake and help manage CyberMiles network to gain block reward. 
 
