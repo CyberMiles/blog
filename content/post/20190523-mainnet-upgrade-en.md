@@ -23,5 +23,5 @@ Another goal for this upgrade is to enable the staking API for CMT Wallet, there
 
 As long as the CMT Wallet mobile app's new version development is completed, CMT holders will be allowed to acheive these with the mobile app.
 
-For CMT Cube owners, Under the same conditions, the block reward of CMT Cube is 20% higher than that of CMT Wallet. This 20% bonus for CMT Cube addresses will phase out in April 2020. 
+For CMT Cube owners, under the same conditions, the block reward of CMT Cube is 20% higher than that of CMT Wallet. This 20% bonus for CMT Cube addresses will phase out in April 2020. 
 
