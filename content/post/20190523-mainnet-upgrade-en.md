@@ -6,7 +6,7 @@ tags: ["upgrade","mainnet"]
 categories: ["en"]
 ---
 
-CyberMiles mainnet was sucessfully upgraded without forking on 23th May, following validators' vote. With this upgrade to the version v0.1.8-beta, CyberMiles validator and delegator block rewards will be easier to understand and calculate. In addition, the CyberMiles Mainnet now allows CMT holders to use CMT Wallet to stake;
+CyberMiles mainnet was sucessfully upgraded without forking on 23th May, following validators' vote. With this upgrade to the version 0.1.8-beta, CyberMiles validator and delegator block rewards will be easier to understand and calculate. In addition, the CyberMiles Mainnet now allows CMT holders to use CMT Wallet to stake.
 
 
 ### Cancelling the loyalty and diversity factor in reward calculation
