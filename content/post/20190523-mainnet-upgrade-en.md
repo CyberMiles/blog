@@ -15,7 +15,7 @@ CyberMiles mainnet was sucessfully upgraded without forking on 23th May, followi
 
 With this upgrade, the loyalty (the second) and diversity of delegators (the third) factors in the staking rewards calculation cancelled, meaning whenever a CMT holder starts to stake, he or she gets the same block reward with the same amount of CMTs over a same period of time under the same validator. This will be more equal for all delegators. Meanwhile delegators can change validators with no qualms.
 
-During the last upgrade (v0.1.7-beta), the non-linear factor of short-term stake increase's rewards factor was cancelled. Coupled with this time's cancellation of loyalty and diversity factor, the block rewards formula will be linear, i.e. the staking reward amount will only be affected by the staked CMTs amount. With more staked CMTs comes more block rewards proportionately. 
+During the last upgrade to v0.1.7-beta, the non-linear factor of short-term stake increase's rewards factor was cancelled. Coupled with this time's cancellation of loyalty and diversity factor, the block rewards formula will be linear, i.e. the staking reward amount will only be affected by the staked CMTs amount. With more staked CMTs comes more block rewards proportionately. 
 
 ### Allow CMT Wallet to stake
 
