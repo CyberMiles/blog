@@ -32,6 +32,6 @@ Key lessons
 
 * The CyberMiles development team must increase test coverage, especially on original and innovative features. 
 * Incident response coordination between core developers and validator operators could be improved. In this case, the root cause was identified and patched quickly, but coordination across validators took a very long time.
-* DPoS blockchains like CyberMiles could suffer service disruptions (https://www.trustnodes.com/2018/06/16/eos-stops-functioning-network) without forking or security breach. 
+* DPoS blockchains like CyberMiles could suffer [service disruptions](https://www.trustnodes.com/2018/06/16/eos-stops-functioning-network) without forking or security breach. 
 * A diverse group of validators improve the blockchain security but could prolong service disruption by making it difficult to reach quorum. 
 
