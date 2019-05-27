@@ -1,5 +1,5 @@
 ---
-title: "服务中断事件事件回溯"
+title: "服务中断事件回溯"
 date: 2019-05-27T17:07:23+08:00
 draft: false
 tags: ["disruption","incident"]
