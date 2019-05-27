@@ -16,7 +16,7 @@ At around 5am EST (US Eastern Time) on May 26th 2019, a user submitted a transac
 
 All CyberMiles nodes stopped at block height 1724747, unable to process block height 1724748. The problem was reported and escalated to CyberMiles core developers. The CVM developers based in Taipei immediately worked on the problem and produced [a software patch](https://github.com/second-state/lityvm/commit/557cc4935d94d6e1d6b947143788838ca98908f9). The blockchain engineering team in Beijing and USA then tested it and released a new software version [v0.1.8-beta-hotfix](https://github.com/CyberMiles/travis/releases/tag/v0.1.8-beta-hotfix). The core developers were ready to notify validators to review, approve, and implement v0.1.8-beta-hotfix.
 
-![](/images/20190527-incident-postmortem-02.PNG)
+![](/images/20190527-incident-postmortem-02.png)
 
 However, that was when a second problem surfaced. Since the null pointer exception crashed the CVM, the virtual machine shuts down abnormally. The operations team based in Beijing, Los Angeles, and Austin discovered that some nodes could have corrupted database files after this crash. So, a straightforward restart with the new binary application is now out of the question. 
 
