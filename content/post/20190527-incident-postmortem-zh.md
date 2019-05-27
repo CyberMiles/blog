@@ -28,9 +28,9 @@ categories: ["zh"]
  
 美国东部时间下午5点，北美的第一个验证人节点上线了更新的软件v0.1.8-beta-hotfix。但是，如果没有达到17个有效验证人数量（即块高度为1724748的24个验证人的2/3），则区块链不能产生下一个块。在处于亚洲的节点在周一早上恢复工作后，美国东部时间晚上10点，验证人进行了软件升级的人数达到了三分之二，区块链服务，如[CMT Wallet](https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/)，[CMT Cube](https://www.cybermiles.io/en-us/ cmt / cmt-cube /)和区块浏览器[CMT Tracking](https://www.cmttracking.io/)很快就完全恢复了。
  
-主要经验教训
+### 主要经验教训
  
 * CyberMiles开发团队必须提高测试覆盖率，尤其是我们的原创和创新的功能。
-*核心开发人员和验证人之间的事件响应协调需要改进。CyberMiles团队快速识别和修补了问题发生的根本原因，但验证人之间的协调花费了很长时间。
-*像CyberMiles这样的DPoS区块链可能会遭遇[服务中断](https://www.trustnodes.com/2018/06/16/eos-stops-functioning-network)而没有出现分叉或安全漏洞。
-*多样化的验证人，可以提高区块链的安全性，但是，由于足够人数的验证人难以快速做出反应，服务中断的情况会延长。
+* 核心开发人员和验证人之间的事件响应协调需要改进。CyberMiles团队快速识别和修补了问题发生的根本原因，但验证人之间的协调花费了很长时间。
+* 像CyberMiles这样的DPoS区块链可能会遭遇[服务中断](https://www.trustnodes.com/2018/06/16/eos-stops-functioning-network)而没有出现分叉或安全漏洞。
+* 多样化的验证人，可以提高区块链的安全性，但是，由于足够人数的验证人难以快速做出反应，服务中断的情况会延长。
