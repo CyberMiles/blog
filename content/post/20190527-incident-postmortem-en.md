@@ -6,7 +6,9 @@ tags: ["disruption","incident"]
 categories: ["en"]
 ---
 
-On May 26th 2019, the CyberMiles public blockchain suffered a technical failure that paused blockchain operation for 17 hours. During that time, no transaction was accepted or recorded on the blockchain. There was no data loss nor transaction rollback. 
+> tl;dr If your CyberMiles node stopped at block height 1724747, please stop it (CTRL-C works), upgrade software to [v0.1.8-beta-hotfix](https://github.com/CyberMiles/travis/releases/tag/v0.1.8-beta-hotfix) and restart. Or, you could also start [from a snapshot](https://travis.readthedocs.io/en/latest/connect-mainnet.html#snapshot) or [from genesis](https://travis.readthedocs.io/en/latest/connect-mainnet.html#sync-from-genesis). If you are a validator node, please make sure that you backup your config files and use those config files when you restart.
+
+On May 26th 2019, the CyberMiles public blockchain suffered a technical failure that paused blockchain operation for 17 hours. During that time, no transaction was accepted or recorded on the blockchain. **There was no data loss nor transaction rollback.** 
 
 As a decentralized public blockchain, CyberMiles is maintained by 24 validators across the globe. Any software change must be approved and then implemented by 2/3 of validators in order to take effect. With a diverse group of independent validators, the CyberMiles blockchain downtime, while regrettable, serves the purpose of maintaining security and integrity of transactions through consensus. Here is what happened. 
 
