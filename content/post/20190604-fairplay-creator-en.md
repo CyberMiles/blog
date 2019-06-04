@@ -1,18 +1,25 @@
 ---
 title: "Create a new FairPlay drawing"
-date: 2019-05-02T15:30:23+08:00
+date: 2019-06-04T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
 categories: ["en"] 
 ---
 
-![](/images/20190502-fairplay-03.png)
+The FairPlay smart contract enables anyone to create a prize drawing of anything – digital products, physical merchandise, anything that can be sold via e-commerce.The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](/post/20190602-fairplay-en/).
 
-Scan the above QR code with your CMT Wallet to create a new FairPlay drawing. The screenshots below show how to fill out a title and description, upload a product photo, and specify the drawing rules. Once the drawing smart contract is created, you will see a QR code that you can save and share with potential participants.
+This article will introduce how to create a new giveaway.
+
+![](/images/20190604-fairplay-04.png)
+
+When you enter the FairPlay DApp, you find the "Create a new giveaway" button above the search box. You can also find creatng a new giveaway on the top left of the DApp page.
+
+The screenshots below show how to fill out a title and description, upload a product photo, and specify the drawing rules. Once the drawing smart contract is created, you will see a QR code that you can save and share with potential participants.
 
 ![](/images/20190502-fairplay-04.png)
 
-To participate a drawing, please [check out this article](/post/20190502-fairplay-player-en/). After the pre-set completion time, the smart contract draws a winner. As a creator, you will be able to see the contact information of the winner.
+
+To participate in a drawing via QR codes, please [check out this article](https://blog.cybermiles.io/post/20190604-fairplay1-player-en/). To participate in a drawing via the search engine, please [check out this article](https://blog.cybermiles.io/post/20190604-fairplay2-player-en/). After the pre-set completion time, the smart contract draws a winner. As a creator, you will be able to see the contact information of the winner.
 
 ![](/images/20190502-fairplay-05.png) 
 
