@@ -6,13 +6,15 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](/post/20190502-fairplay-en/).
+The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](https://blog.cybermiles.io/post/20190604-fairplay-en/).
 
 You can access the FairPlay DApp directly from your CMT Wallet. Find FairPlay drawings to participate in:
 
 * By browsing active drawings from your CMT Wallet 
 * By searching for drawings from your CMT Wallet
-* [By scanning QR codes shared by people](/post/20190604-fairplay1-player-en.md)
+* [By scanning QR codes shared by people](https://blog.cybermiles.io/post/20190604-fairplay1-player-en/)
+
+{{< youtube f2K01d_Hq1g >}}
 
 ### Search for giveaways from your CMT Wallet
 
