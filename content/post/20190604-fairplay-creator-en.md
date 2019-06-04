@@ -6,7 +6,7 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-The FairPlay smart contract enables anyone to create a prize drawing of anything – digital products, physical merchandise, anything that can be sold via e-commerce.The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](/post/20190602-fairplay-en/).
+The FairPlay smart contract enables anyone to create a prize drawing of anything – digital products, physical merchandise, anything that can be sold via e-commerce.The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](https://blog.cybermiles.io/post/20190604-fairplay-en/).
 
 This article is a guide on how to create a new giveaway.
 
