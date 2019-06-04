@@ -33,6 +33,8 @@ In the FairPlay DApp, you can
 The long term vision of the CyberMiles public blockchain is to support an ecosystem of smart contracts that faciliate buying or selling products. FairPlay is an early prototype of such a smart contract -- it lists and transacts e-commerce products / items in a decentralized fashion.
 
 [Participate in a FairPlay drawing via QR codes](/post/20190502-fairplay1-player-en/)
+
 [Participate in a FairPlay drawing via the search engine](/post/20190502-fairplay2-player-en/)
+
 [Create your own FairPlay drawing](/post/20190502-fairplay-creator-en/)
 
