@@ -6,11 +6,11 @@ tags: ["e-commerce","dapp"]
 categories: ["zh"] 
 ---
 
-通过[FairPlay智能合约](https://github.com/CyberMiles/smart_contracts/blob/master/FairPlay/v1/FairPlay.lity)，任何人都可以创建抽奖，奖品可以是数字产品，实体商品。只要是可以通过电商平台销售的产品，都是可以的。
+通过FairPlay智能合约，任何人都可以创建发起任何通过电商销售的商品抽奖，可以是数字产品，实体商品。
 
-FairPlay DApp拥有一个智能合约搜索引擎。通过智能合约搜索引擎，不仅可以通过创建人地址，合约地址搜索相关抽奖。更重要的是，用户可以直接通过搜索关键字来搜索抽奖。
+FairPlay DApp内置智能合约搜索引擎。通过智能合约搜索引擎，用户不仅可以通过创建人地址，合约地址搜索特定的抽奖。更重要的是，还可以直接通过搜索关键字来搜索喜欢的抽奖。
 
-**FairPlay 智能合约和搜索引擎是CyberMiles建立去中心化C2C电商平台的重要里程碑，实现了去中心化电商商品展出与搜索功能。**
+**FairPlay 智能合约和搜索引擎是CyberMiles建立去中心化C2C电商平台的重要里程碑技术，实现了去中心化电商平台上商品展出与搜索的功能。**
 
 通过FairPlay DApp进行的抽奖是公平的，完全自动化的，透明的和去中心化的。用户所需要的只是在手机上安装[CMT Wallet](https://www.cybermiles.io/zh-cn/blockchain-infrastructure/cmt-wallet/)，不需要持有CMT或任何其他加密货币。
 
