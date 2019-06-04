@@ -1,6 +1,6 @@
 ---
 title: "FairPlay: decentralized prize drawing for e-commerce"
-date: 2019-05-02T15:30:23+08:00
+date: 2019-06-04T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
 categories: ["en"] 
