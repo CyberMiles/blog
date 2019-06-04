@@ -12,7 +12,7 @@ The [FairPlay smart contract](https://github.com/CyberMiles/smart_contracts/blob
 
 Of course, you can also browse or search for FairPlay drawings by keywords or CMT address directly in the FairPlay DApp. This is a key milestone to CyberMiles' decentralized e-commerce marketplace.
 
-FairPlay prize drawing is fair, fully automated, transparent, and decentralized.9 All you need is the [CMT Wallet](https://cybermiles.io/blockchain-infrastructure/cmt-wallet/) mobile application. You do not need CMTs or any other cryptocurrency to participate.
+FairPlay prize drawing is fair, fully automated, transparent, and decentralized. All you need is the [CMT Wallet](https://cybermiles.io/blockchain-infrastructure/cmt-wallet/) mobile application. You do not need CMTs or any other cryptocurrency to participate.
 
 * *Fair*: The drawing is done by a random number generator in the CyberMiles Virtual Machine. The [secure random number generator](https://www.litylang.org/rand/) is a key innovation of CyberMiles.
 * *Automated*: Once started, the drawing is done completely by a untrusted network of computers without human intervention.
