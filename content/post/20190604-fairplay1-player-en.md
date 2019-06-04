@@ -20,6 +20,8 @@ Scan the above QR code with your CMT Wallet to see a completed FairPlay lucky dr
 
 ### How to participate
 
+{{< youtube -XB9-UCa-84 >}}
+
 1 Open the CMT Wallet and click”Scan”
 ![](/images/20190515-fairplay-user-manual-01.png)
 
