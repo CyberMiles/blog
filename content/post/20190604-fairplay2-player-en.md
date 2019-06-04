@@ -12,7 +12,7 @@ You can access the FairPlay DApp directly from your CMT Wallet. Find FairPlay dr
 
 * By browsing active drawings from your CMT Wallet 
 * By searching for drawings from your CMT Wallet
-* [By scanning QR codes shared by people](this article will introduce this method)
+* [By scanning QR codes shared by people](/post/20190604-fairplay1-player-en.md)
 
 ### Search for giveaways from your CMT Wallet
 
@@ -20,6 +20,7 @@ When you enter the FairPlay DApp, you see a search box. You can simply type some
 
 You can also enter the creator's account address or the smart contract address to search specific smart contracts. 
 
+![](/images/20190604-fairplay-01.png)
 
 ### Browse active drawings from your CMT Wallet
 
@@ -27,7 +28,11 @@ When you enter the FairPlay DApp, you will see the 10 most recent giveaways bene
 
 Active giveaways have “play” buttons. Click on the “play” button to enter the drawing. Enter your information to participate.
 
+![](/images/20190604-fairplay-03.png)
+
 Expired giveaways have grayed out images stamped with “Time is up”. You can click on the “result” button to check out the results.
+
+![](/images/20190604-fairplay-02.png)
 
 When you enter the drawing's DApp page, you will see the product description and drawing rules such as the number of winners and closing time.
 
