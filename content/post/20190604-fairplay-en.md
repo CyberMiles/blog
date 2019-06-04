@@ -22,8 +22,7 @@ FairPlay prize drawing is fair, fully automated, transparent, and decentralized.
 In the FairPlay DApp, you can
 * Create your own giveaways and share with your friends by QR codes and link. The smart contract will determine the lucky winner without human intervention.
 * Participate in any available giveaways
-* Type in keywords to search for giveaways you might like
-* Type the word “drone” to find the giveaways related to drones
+* Type in keywords to search for giveaways you might like. For example, type the word “drone” to find the giveaways related to drones
 * Browse the active giveaways to participate  and the expired giveaways to check out the results
 * Find the giveaways you created by clicking on ”mine”
 * Find the giveaways you participated by clicking on “Participated”
