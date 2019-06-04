@@ -6,7 +6,7 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-![](/images/20190502-fairplay-01.png)
+![](/images/20190604-fairplay-05.jpeg)
 
 The [FairPlay smart contract](https://github.com/CyberMiles/smart_contracts/blob/master/FairPlay/v1/FairPlay.lity) enables anyone to create a prize drawing of anything -- digital products, physical merchandise, anything that can be sold via e-commerce. 
 
@@ -21,13 +21,18 @@ FairPlay prize drawing is fair, fully automated, transparent, and decentralized.
 
 In the FairPlay DApp, you can
 * Create your own giveaways and share with your friends by QR codes and link. The smart contract will determine the lucky winner without human intervention.
-* Participate in any available giveaways
-* Type in keywords to search for giveaways you might like. For example, type the word “drone” to find the giveaways related to drones
-* Browse the active giveaways to participate  and the expired giveaways to check out the results
-* Find the giveaways you created by clicking on ”mine”
-* Find the giveaways you participated by clicking on “Participated”
-* Find the giveaways you won by clicking on “Won”
 
+* Participate in any available giveaways
+
+* Type in keywords to search for giveaways you might like. For example, type the word “drone” to find the giveaways related to drones
+
+* Browse the active giveaways to participate  and the expired giveaways to check out the results
+
+* Find the giveaways you created by clicking on ”mine”
+
+* Find the giveaways you participated by clicking on “Participated”
+
+* Find the giveaways you won by clicking on “Won”
 
 The long term vision of the CyberMiles public blockchain is to support an ecosystem of smart contracts that faciliate buying or selling products. FairPlay is an early prototype of such a smart contract -- it lists and transacts e-commerce products / items in a decentralized fashion.
 
