@@ -6,7 +6,7 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](/post/20190502-fairplay-en/).
+The FairPlay games are about [fairness, automation, transparency, and decentralization in e-commerce](/post/20190602-fairplay-en/).
 
 You can access the FairPlay DApp directly from your CMT Wallet. Find FairPlay drawings to participate in:
 
