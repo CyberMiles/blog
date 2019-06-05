@@ -6,7 +6,7 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-CyberMiles proudly launched FairPlay Dapp on 4th of June, for every one to create and take part in lucky draws with a few clicks. This lucky draw Dapp is a key milesstone to CyberMiles' decentralized marketplace. 
+CyberMiles proudly launched [FairPlay Dapp](https://blog.cybermiles.io/post/20190604-fairplay-en/) on 4th of June, for every one to create and take part in lucky draws with a few clicks. This lucky draw Dapp is a key milesstone to CyberMiles' decentralized marketplace. 
 
 Meanwhile, a grandiose 10-days campaign ran on @FairPlayDap empowered with CyberMiles public blockchain was kicked off. A new lucky draw is to be announced everyday for 10 days to draw lucky winners with FairPlayDapp!
 
