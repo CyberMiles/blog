@@ -24,11 +24,13 @@ Huobi Pool generates block awards from BTC, ETH, CMT, EOS, TRX, and other top bl
 
 Don't hesitate to share this prize with a friend.
 
-We also have another two giveaways. The first giveaway is to win 10,000 CMTs!
+We have already announce two giveaways. Don't miss out if you have not joined yet!
+
+The first giveaway is to win 10,000 CMTs!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fair, transparent, automated, and decentralized prize drawings <a href="https://twitter.com/FairPlayDApp?ref_src=twsrc%5Etfw">@FairPlayDApp</a> launched. Powered by and guaranteed by blockchain smart contracts! No shenanigans. Try your luck today. CMT Wallet required <a href="https://t.co/3eQZvdOjAm">https://t.co/3eQZvdOjAm</a> Video instructions <a href="https://t.co/cQDqGrrt4J">https://t.co/cQDqGrrt4J</a></p>&mdash; CyberMiles (@cybermiles) <a href="https://twitter.com/cybermiles/status/1136200489995911169?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The Second giveaway is to win a Tiffany Corkscrew, sponsored by 5miles
+The Second giveaway is to win a customized Tiffany Corkscrew, sponsored by 5miles
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scan this code to join. <a href="https://t.co/bBULxql07n">https://t.co/bBULxql07n</a> <a href="https://t.co/wbimlmrDQd">pic.twitter.com/wbimlmrDQd</a></p>&mdash; CyberMiles (@cybermiles) <a href="https://twitter.com/cybermiles/status/1136341685665816576?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
