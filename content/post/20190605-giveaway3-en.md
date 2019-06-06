@@ -1,6 +1,6 @@
 ---
 title: "Win two 2,888 HPTs Prizes, sponsored by Huobi Pool"
-date: 2019-06-05T15:30:23+08:00
+date: 2019-06-06T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
 categories: ["en"] 
