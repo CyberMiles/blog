@@ -6,7 +6,6 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-
 The FairPlay Dapp, launched on 4th of June, empowers anyone to create and take part in product promotions and giveaways. With over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already one of the most  popular DApps in all of blockchains. 
 
 The FairPlay Smart Contracts and search engine are key technology milestones to CyberMiles' decentralized e-commerce marketplace. You can read more about it [here](https://twitter.com/cybermiles/status/1136200489995911169?s=21).
@@ -15,7 +14,7 @@ To celebrate the launch of FairPlay, CyberMiles is running a campaign of giveawa
 
 Now it is time to announce the third giveaway on the 3rd day of the celebration campaign! 
 
-![](/images/20190606-giveaway#3-01.png)
+![](/images/20190606-giveaway3-01.png)
 Scan the QR code with [CMT Wallet](http://onelink.to/v248ze) to participate!
 
 **2888 HPTs from Huobi Pool for two lucky  winners each. Huobi Pool is one of the world's top 10 crypto mining pools. Scan the QR code below with CMT Wallet to Join!**
