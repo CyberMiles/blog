@@ -6,9 +6,9 @@ tags: ["e-commerce","dapp"]
 categories: ["en"] 
 ---
 
-The FairPlay Dapp, launched on 4th of June, empowers anyone to create and take part in product promotions and giveaways. With over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already one of the most  popular DApps in all of blockchains. 
+The FairPlay Dapp, launched on 4th of June, empowers anyone to create and take part in product promotions and giveaways. With over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already amoung the most  popular DApps in all of blockchains. 
 
-The FairPlay Smart Contracts and search engine are key technology milestones to CyberMiles' decentralized e-commerce marketplace. Read more about it here. 
+The FairPlay Smart Contracts and search engine are key technology milestones to CyberMiles' decentralized e-commerce marketplace. Read more about it [here](https://twitter.com/cybermiles/status/1136200489995911169?s=21). 
 
 To celebrate the launch of FairPlay, CyberMiles is running a campaign of giveaways with its partners. 
 
