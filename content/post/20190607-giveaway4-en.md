@@ -14,7 +14,7 @@ The FairPlay Smart Contracts and search engine are key technology milestones to 
 
 To celebrate the launch of FairPlay, CyberMiles is running a campaign of giveaways with its partners. 
 
-Now it is time to announce the fourth giveaway on the 4th day of the celebration campaign!  A DeveloperWeek New York Open pass each for three lucky  winners. DeveloperWeek New York (June 17-20, Brooklyn Expo Center) is the East Coast’s largest developer conference & expo with tracks covering Containers, Kubernetes, Microservices, AI dev, JavaScript, Blockchain, and more.
+Now it is time to announce the fourth giveaway on the 4th day of the celebration campaign! **A DeveloperWeek New York Open pass each for three lucky  winners. DeveloperWeek New York (June 17-20, Brooklyn Expo Center) is the East Coast’s largest developer conference & expo with tracks covering Containers, Kubernetes, Microservices, AI dev, JavaScript, Blockchain, and more.**
 
 ![](/images/20190607-giveaway4-01.png)
 
