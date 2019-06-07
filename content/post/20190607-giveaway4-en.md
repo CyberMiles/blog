@@ -1,12 +1,12 @@
 ---
-title: "Win a pass to DeveloperWeekNewYork each"
+title: "Win a pass to DeveloperWeek New York each"
 date: 2019-06-07T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
 categories: ["en"] 
 ---
 
-The FairPlay Dapp, launched on 4th of June, empowers anyone to create and take part in product promotions and giveaways. With over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already amoung the most  popular DApps in all of blockchains. 
+The FairPlay Dapp, launched on 4th of June, empowers anyone to create and take part in online raffles, giveaways for product promotions etc. With over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already amoung the most  popular DApps in all of blockchains. 
 
 The FairPlay Smart Contracts and search engine are key technology milestones to CyberMiles' decentralized e-commerce marketplace. Read more about it [here](https://twitter.com/cybermiles/status/1136200489995911169?s=21). 
 
@@ -14,7 +14,7 @@ To celebrate the launch of FairPlay, CyberMiles is running a campaign of giveawa
 
 Now it is time to announce the fourth giveaway on the 4th day of the celebration campaign!  A DeveloperWeek New York Open pass each for three lucky  winners. DeveloperWeek New York (June 17-20, Brooklyn Expo Center) is the East Coast’s largest developer conference & expo with tracks covering Containers, Kubernetes, Microservices, AI dev, JavaScript, Blockchain, and more.
 
-Dr.Michael Yuan, CyberMiles' Chief Scientist, will give a tech talk on blockchain DApp development during the conference in DeveloperWeek New York. Michael kindly sponsors the lucky draw with 3 OPEN passes to the conference ($150 USD each). The giveaway also entitles you to apply a $150 discount when purchasing a PRO or EXEC pass.
+Dr.Michael Yuan, CyberMiles' Chief Scientist, will give a tech talk on blockchain DApp development during the conference at DeveloperWeek New York. Michael kindly sponsors our 4th lucky draw with 3 OPEN passes to the conference ($150 USD each). The giveaway also entitles you to apply a $150 discount when purchasing a PRO or EXEC pass.
 
 We gladly welcome you to join us at the DeveloperWeek New York and discuss with us about DApp development!
 
