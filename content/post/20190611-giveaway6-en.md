@@ -29,7 +29,7 @@ With the tokens, you can call for travel support anytime and anywhere, like:
 
 Don't miss the chance to get the most unique travel experience with [LiMaGo](https://limago123.com/)!
 
-If you are curious about what LiMaGo brings you, shoot them a message here via Facebook to have a taste.
+If you are curious about what LiMaGo brings you, shoot them a message here via [Facebook](https://m.me/shuffly123) to have a taste.
 
 We have already announced 5 giveaways. Grab the chance to win before it ends!
 
