@@ -1,6 +1,6 @@
 ---
 title: "Win 600 Limago tokens for traveling guide service, sponsored by LiMaGo"
-date: 2019-06-10T15:30:23+08:00
+date: 2019-06-11T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
 categories: ["en"] 
@@ -14,7 +14,7 @@ Up to now, with over a thousand Daily Active Users (DAUs) according to Google An
 
 The sixth giveaway for this celebration is  600 LiMaGo tokens each for 5 lucky winners, sponsored by LiMaGo, one of the CyberMiles' Validators.
 
-![](/images/20190619-giveaway6-01.png)
+![](/images/20190611-giveaway6-01.png)
 
 LiMaGo, a new startup, strives to optimize the way you travel with AI and blockchain technology. Traveling with LiMaGo and its tokens, you can not only find and dine at the yummiest genuine delicacies only locals know, but also the most customized recommendation-based unique experiences.
 
