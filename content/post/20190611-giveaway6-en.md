@@ -1,5 +1,5 @@
 ---
-title: "Win 600 Limago tokens for traveling guide service, sponsored by LiMaGo"
+title: "Win 600 LiMaGo tokens for traveling guide service, sponsored by LiMaGo"
 date: 2019-06-11T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
