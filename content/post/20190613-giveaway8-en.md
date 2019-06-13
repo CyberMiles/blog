@@ -12,9 +12,7 @@ CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign 
 
 Father's Day is this weekend, so the 8th giveaway for this celebration is a Philips Electric Shaver for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
 
-![](/images/20190612-giveaway8-01.png)
-
-Father's Day is this weekend, so the 8th giveaway for this celebration is a Philips Electric Shaver for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
+![](/images/20190613-giveaway8-01.png)
 
 This prize is sponsored by lvl.99, a CyberMiles genesis Validator. Lvl 99 is based in Jakarta. It represents a group of Indonesia investors who had supported CyberMiles since day one. 
 
