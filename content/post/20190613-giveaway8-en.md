@@ -1,20 +1,22 @@
 ---
 title: "Win a Philips Electric Shaver for Father's Day gift, sponsored by Lvl.99"
-date: 2019-06-12T15:30:23+08:00
+date: 2019-06-13T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp","father's day","gift"] 
 categories: ["en"] 
 ---
 
-Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue!
+Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue! [Enter to win a $50 USD Philips Electric Shaver](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e).
 
-CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the grand launch of the new DApp, [FairPlay](https://www.fairplaydapp.com/).
+---
 
-Father's Day is this weekend, so the 8th giveaway for this celebration is a Philips Electric Shaver for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
+CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the launch of our new DApp, [FairPlay](https://www.fairplaydapp.com/).
+
+Father's Day is this weekend. The 8th giveaway for this celebration is a [Philips Electric Shaver](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e) for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
 
 ![](/images/20190613-giveaway8-01.png)
 
-This prize is sponsored by lvl.99, a CyberMiles genesis Validator. Lvl 99 is based in Jakarta. It represents a group of Indonesia investors who had supported CyberMiles since day one. 
+This prize is sponsored by lvl.99, a CyberMiles genesis Validator. Lvl 99 is based in Jakarta, Indonesia. It represents a group of Indonesia investors who had supported CyberMiles since day one. 
 
 Lvl 99 shares CyberMiles' vision of decentralized e-commerce. Its investors had supported Hijup, Carro, Kudo, Laku6 and other top e-commerce startups throughout Southeast Asia.
 
