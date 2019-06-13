@@ -6,7 +6,7 @@ tags: ["e-commerce","dapp","father's day","gift"]
 categories: ["en"] 
 ---
 
-Father’s day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue!
+Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue!
 
 CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the grand launch of the new DApp, [FairPlay](https://www.fairplaydapp.com (https://www.fairplaydapp.com/) (https://www.fairplaydapp.com/)).
 
@@ -16,15 +16,13 @@ Father's Day is this weekend, so the 8th giveaway for this celebration is a Phil
 
 Father's Day is this weekend, so the 8th giveaway for this celebration is a Philips Electric Shaver for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
 
-This prize is sponsored by lvl.99, one of the CyberMiles' Validators. Lvl 99 is led by Edward Gunawan, a Jakarta-based team with an impressive educational background.
+This prize is sponsored by lvl.99, a CyberMiles genesis Validator. Lvl 99 is based in Jakarta. It represents a group of Indonesia investors who had supported CyberMiles since day one. 
 
-Gunawan is also a partner of a notable VC fund in Indonesia.  He and his fund see a bright future, an enormous space to grow, for e-commerce in Southeast Asia. 
+Lvl 99 shares CyberMiles' vision of decentralized e-commerce. Its investors had supported Hijup, Carro, Kudo, Laku6 and other top e-commerce startups throughout Southeast Asia.
 
-Gunawan has invested Hijup, Carro, Kudo, Laku6, and some other famous e-commerce startups.
+Lvl 99 sees explosive growth of e-commerce across nations especially in the developing world. That is why it is sponsoring physical products sold by e-commerce websites in this giveaway. The winner's prizes will be shipped worldwide. 
 
-Edward Gunawan’s vision on e-commerce aligns with CyberMiles: to be decentralized and automated with blockchain smart contracts. This is the reason why Gunawan sponsors physical gifts via e-commerce style.
-
-Don't miss the chance to say thank you to dad(link)!
+Don't miss the chance to say thank you to dad!
 
 The [FairPlay Dapp](https://www.fairplaydapp.com), ran on CyberMiles, empowers everyone to create and take part in online lucky draws. You can use it to do giveaways for product promotions, games among friends or anything you can think of. 
 
