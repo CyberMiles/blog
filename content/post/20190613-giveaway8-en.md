@@ -8,7 +8,7 @@ categories: ["en"]
 
 Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue!
 
-CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the grand launch of the new DApp, [FairPlay](https://www.fairplaydapp.com (https://www.fairplaydapp.com/) (https://www.fairplaydapp.com/)).
+CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the grand launch of the new DApp, [FairPlay](https://www.fairplaydapp.com/).
 
 Father's Day is this weekend, so the 8th giveaway for this celebration is a Philips Electric Shaver for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
 
