@@ -32,7 +32,7 @@ Up to now, with over a thousand Daily Active Users (DAUs) according to Google An
 
 We have already announced 7 giveaways. Grab the chance to win before it ends!
 
-The first and second giveaway has ended. Click the website to check out [the first one](https://www.fairplaydapp.com/v1/play.html?contract=0x474059cC019815dda16caB69b8c8Bf515E1D20B6) result and [the second one](https://www.fairplaydapp.com/v1/play.html?contract=0x454024A14970c336109D0284a85BA253033A2D72)
+The first and second giveaway has ended. Click the website to check out the result of [the first one](https://www.fairplaydapp.com/v1/play.html?contract=0x474059cC019815dda16caB69b8c8Bf515E1D20B6)  and [the second one](https://www.fairplaydapp.com/v1/play.html?contract=0x454024A14970c336109D0284a85BA253033A2D72)
 
 The third giveaway is [2 prizes of 2,888 HPTs](https://www.fairplaydapp.com/v1/play.html?contract=0x0F9efabb1f26CE173774260D975C543C39b47179), sponsored by Huobi Pool.
 
@@ -43,7 +43,6 @@ The fifth giveaway is [a CMT Cube each for two lucky winners](https://www.fairpl
 The sixth giveaway is [5 prizes of 600 LiMaGo tokens](https://www.fairplaydapp.com/v1/play.html?contract=0x16700a82EfA734237b84e4c4274d2AFB1bFB1b20), sponsored by LiMaGo.
 
 The seventh giveaway is [3 prizes of IRIS tokens($50 worth)](https://www.fairplaydapp.com/v1/play.html?contract=0xF55d0663BC677c0b338CF2476a8bcCd48DC30FF4) from @IRISnetwork
-
 
 Video instruction on how to join the lucky draw:
 {{< youtube -XB9-UCa-84 >}}
