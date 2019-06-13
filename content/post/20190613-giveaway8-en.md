@@ -6,7 +6,7 @@ tags: ["e-commerce","dapp","father's day","gift"]
 categories: ["en"] 
 ---
 
-Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue! [Enter to win a $50 USD Philips Electric Shaver](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e).
+Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue! [Enter to win a Philips Electric Shaver ($50)](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e).
 
 ---
 
