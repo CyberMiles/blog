@@ -8,12 +8,6 @@ categories: ["en"]
 
 Father’s Day is just around the corner! Do you have a gift in mind for Dad? The man who has been the most caring guardian for you deserves something nice! No idea yet? This is where CyberMiles comes to rescue! [Enter to win a Philips Electric Shaver ($50)](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e).
 
----
-
-CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the launch of our new DApp, [FairPlay](https://www.fairplaydapp.com/).
-
-Father's Day is this weekend. The 8th giveaway for this celebration is a [Philips Electric Shaver](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e) for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
-
 ![](/images/20190613-giveaway8-01.png)
 
 This prize is sponsored by lvl.99, a CyberMiles genesis Validator. Lvl 99 is based in Jakarta, Indonesia. It represents a group of Indonesia investors who had supported CyberMiles since day one. 
@@ -24,11 +18,17 @@ Lvl 99 sees explosive growth of e-commerce across nations especially in the deve
 
 Don't miss the chance to say thank you to dad!
 
+---
+
+CyberMiles, a public blockchain for e-commerce, is doing a lucky-draws campaign to celebrate the launch of our new DApp, [FairPlay](https://www.fairplaydapp.com/).
+
+Father's Day is this weekend. The 8th giveaway for this celebration is a [Philips Electric Shaver](https://www.fairplaydapp.com/v1/play.html?contract=0xcc34EF82D46cD2Ce3530a4C3f1c9CB583b838e9e) for Father's Day gift each for two lucky winners, set to end before 16th June. This Shaver ($50 USD worth) is a good choice to show your thanks to your father.
+
 The [FairPlay Dapp](https://www.fairplaydapp.com), ran on CyberMiles, empowers everyone to create and take part in online lucky draws. You can use it to do giveaways for product promotions, games among friends or anything you can think of. 
 
 With embedded search engine and e-commerce products smart contract creation function, [FairPlay Dapp](https://www.fairplaydapp.com) is a key technology milestone to CyberMiles' decentralized e-commerce marketplace. More details (link)
 
-Up to now, with over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already one of the most popular DApps in all of the blockchains! Yay!!!
+Up to now, with over a thousand Daily Active Users (DAUs) according to Google Analytics, the FairPlay DApp is already one of the most popular DApps in all of the blockchains.
 
 We have already announced 7 giveaways. Grab the chance to win before it ends!
 
