@@ -10,7 +10,7 @@ Smart contract safety is extremely important for DApps. The winner drawing of th
 
 CyberMiles has a strong technology partnership with [AnChain.ai](https://www.anchain.ai/), an AI-powered blockchain security firm. In 2018, AnChain.ai detected the first Blockchain APT (BAPT) hack in history: BAPT-FOMO3D that stole $4 millions worth of ETHs. BAPT-FOMO3D was a ground breaking discovery in blockchain security. 
 
-The Blockchain APT Metal Arts were created to commemorate this event. It is a metal piece measuring 24 inches wide. Only 10 pieces were ever created. It is valued at $499. Now you have a chance to get one! The ART is the 9th giveaway of FairPlay 10-days campaign, sponsored by AnChain.ai.
+The Blockchain APT Metal Arts were created to commemorate this event. It is a metal piece measuring 24 inches wide. Only 10 pieces were ever created. It is valued at $499. The size of this ART is 24 inches.Now you have a chance to get one! The ART is the 9th giveaway of FairPlay 10-days campaign, sponsored by AnChain.ai.
 
 ![](/images/20190614-givwaway9-01.png)
 
