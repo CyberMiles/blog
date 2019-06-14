@@ -1,5 +1,5 @@
 ---
-title: "Win a Philips Electric Shaver for Father's Day gift, sponsored by Lvl.99"
+title: "Win a Limited Edition Metal Art from AnChain.ai ($499 USD value)"
 date: 2019-06-14T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp"] 
