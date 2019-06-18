@@ -1,4 +1,10 @@
-Title：Today CyberMiles Blockchain Welcomes Another Validator, SNZ Holding
+title: "Today CyberMiles Blockchain Welcomes Another Validator, SNZ Holding"
+date: 2019-06-17T15:30:23+08:00
+draft: false
+tags: ["e-commerce","staking"] 
+categories: ["en"] 
+---
+![](/images/20190618-CMTs-staking-01.png)
 
 CyberMiles community embraces a newcomer Validator today! SNZ Holding, a CyberMiles' newest Validator, is up and running, joining in  the  maintainance of the network security of CyberMiles blockchain. 
 
