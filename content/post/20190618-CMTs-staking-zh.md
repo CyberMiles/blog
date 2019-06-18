@@ -1,6 +1,6 @@
 ---
 title: "CyberMiles 公链新上线超级节点SNZ Holding"
-date: 2019-06-17T15:30:23+08:00
+date: 2019-06-18T15:30:23+08:00
 draft: false
 tags: ["e-commerce","staking"] 
 categories: ["zh"] 
