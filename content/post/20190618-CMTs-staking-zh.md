@@ -15,4 +15,4 @@ SNZ Holding不仅提供PoS 矿池服务，也非常重视区块链技术的推�
 
 SNZ表示，今后也将利用旗下资源，组织一系列研讨会和工作坊，扩大CyberMiles的社区影响力。
 
-CyberMiles 是专为电商优化设计的公链，采用DPoS共识机制，共设有19个正式节点，5个备选节点，目前已吸引火币矿池，SSSnodes，HashQuark，Cobo Wallet等专注Staking 的机构加入验证节点。
+CyberMiles 是专为电商优化设计的公链，采用DPoS共识机制，共设有19个正式节点，5个备选节点。目前已吸引火币矿池，SSSnodes，HashQuark，Cobo Wallet等专注Staking 的机构加入CyberMiles验证节点。
