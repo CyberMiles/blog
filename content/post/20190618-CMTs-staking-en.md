@@ -1,3 +1,4 @@
+---
 title: "Today CyberMiles Blockchain Welcomes Another Validator, SNZ Holding"
 date: 2019-06-17T15:30:23+08:00
 draft: false
