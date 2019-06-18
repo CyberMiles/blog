@@ -7,7 +7,7 @@ categories: ["en"]
 ---
 ![](/images/20190618-CMTs-staking-01.png)
 
-CyberMiles community embraces a newcomer Validator today! SNZ Holding, a CyberMiles' newest Validator, is up and running, joining in  the  maintainance of the network security of CyberMiles blockchain. 
+CyberMiles community embraces a newcomer Validator today! SNZ Holding, CyberMiles' newest Validator, is up and running, joining in  the  maintainance of the network security of CyberMiles blockchain. 
 
 To be a Validator, SNZ Holding has self-staked 3 million CMTs as a commitment to CMT Community. It claims a compensation rate of 25% for all its delegators.
 
