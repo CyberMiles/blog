@@ -11,9 +11,9 @@ categories: ["zh"]
 
 [FairPlay](https://www.fairplaydapp.com/) 使用智能合约进行公平透明的自动抽奖。 它允许任何人创建并参与抽奖等电商营销活动。 根据Google Analystics，自推出以来，FairPlay 的DAU（每日活跃用户）经常达到1000。FairPlay已经成为所有公链中最受欢迎的DApp之一。
 
-用户不需要特意下载加密货币钱包，就可以加载[FairPlay 网页](www.fairplaydapp.com) 查看正在进行中和已经结束的抽奖活动。FairPlay 网页只是HTML 和JavaScript 文件的集合。 任何用户都可以在自己的计算机上启动Web 服务器并在本地提供这些文件。
-
 {{< youtube lQ6dKy_Q42s >}}
+
+用户不需要特意下载加密货币钱包，就可以加载[FairPlay 网页](www.fairplaydapp.com) 查看正在进行中和已经结束的抽奖活动。FairPlay 网页只是HTML 和JavaScript 文件的集合。 任何用户都可以在自己的计算机上启动Web 服务器并在本地提供这些文件。
 
 ![](/images/20190620-fairplay-dapp-01.png)
 
