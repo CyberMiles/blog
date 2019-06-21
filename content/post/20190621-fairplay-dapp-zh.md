@@ -12,7 +12,7 @@ categories: ["cn"]
 
 [FairPlay](https://www.fairplaydapp.com/) 使用智能合约进行公平透明的自动抽奖。 它允许任何人创建并参与抽奖等电商营销活动。 根据Google Analystics，自推出以来，FairPlay 的DAU（每日活跃用户）经常达到1000。FairPlay已经成为所有公链中最受欢迎的DApp之一。
 
-用户不需要特意下载加密货币钱包，就可以加载FairPlay 网页（www.fairplaydapp.com）并查看正在进行中和已经结束的抽奖活动。 FairPlay 网页只是HTML 和JavaScript 文件的集合。 任何用户都可以在自己的计算机上启动Web 服务器并在本地提供这些文件。
+用户不需要特意下载加密货币钱包，就可以加载[FairPlay 网页](www.fairplaydapp.com) 查看正在进行中和已经结束的抽奖活动。FairPlay 网页只是HTML 和JavaScript 文件的集合。 任何用户都可以在自己的计算机上启动Web 服务器并在本地提供这些文件。
 
 {{< youtube lQ6dKy_Q42s >}}
 
@@ -21,7 +21,7 @@ categories: ["cn"]
 当用户需要进行智能合约交易时，例如创建新的抽奖或参加现有抽奖时，网页将提示用户打开CMT Wallet 以输入密码（进行数字签名）并完成操作。
 ![](/images/20190620-fairplay-dapp-02.png)
 
-*注：安全随机数对像FairPlay这样的应用是至关重要的。 FairPlay部署在CyberMiles公链上，利用Lity虚拟机，它支持生成安全随机数作为本机操作。
+*注：安全随机数对像FairPlay这样的应用是至关重要的。 FairPlay部署在CyberMiles公链上，利用Lity虚拟机，它支持生成安全随机数作为本机操作。*
 
 从表面上看，FairPlay是区块链智能合约前端的DApp。 然而，在普通用户看不到的地方，FairPlay具有易于开发和维护的模块化架构。
 
@@ -38,7 +38,7 @@ FairPlay DApp，使用了一种不同的解决方式。 该DApp由许多抽奖�
 
 这就需要智能合约搜索引擎。
 
-智能合约搜索引擎
+### 智能合约搜索引擎
 
 FairPlay DApp的主页就是搜索引擎。 搜索引擎允许用户通过关键字或标签查找特定的抽奖活动，以及用户之前参与过的抽奖活动。 搜索引擎索引了所有部署在区块链上的FairPlay 合约信息。
 
@@ -66,4 +66,5 @@ FairPlay DApp 在CyberMiles区块链上运行，该区块链支持多种gas 费�
 ### 结论
 
 FairPlay DApp旨在通过智能合约搜索引擎，Web应用程序的轻松入门和无 gas 费交易等创新技术提高DApp的可用性。 
-注：FairPlay由Second State开发，并部署在CyberMiles公链上。Second Sate是一个开源企业智能合约平台。
+
+*注：FairPlay由Second State开发，并部署在CyberMiles公链上。Second Sate是一个开源企业智能合约平台。*
