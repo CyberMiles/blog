@@ -3,7 +3,7 @@ title: "FairPlay：一种新型DApp"
 date: 2019-06-21T15:30:23+08:00
 draft: false
 tags: ["e-commerce","dapp","smart contract","search engine"] 
-categories: ["cn"] 
+categories: ["zh"] 
 ---
 
 
