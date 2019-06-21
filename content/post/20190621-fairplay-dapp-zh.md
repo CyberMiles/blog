@@ -6,7 +6,6 @@ tags: ["e-commerce","dapp","smart contract","search engine"]
 categories: ["cn"] 
 ---
 
-*Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.*
 
 ### 什么是FairPlay
 
