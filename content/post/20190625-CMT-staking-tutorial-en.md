@@ -30,7 +30,7 @@ On the staking page, you can see the total staked CMT amount, the first 24 hours
 
 The compensation is the compensation payable by the delegator to the validator. The lower the pay ratio, the higher the income of the delegator(staker).
 
-3. Click  on “Stake Now”, fill in the CMT amount that you want to stake, wallet  password, and confirm the stake.
+3. Click on “Stake Now”. Fill in the CMT amount that you want to stake, wallet  password, and confirm the stake.
 
 ### Stake Cancellation:
 
