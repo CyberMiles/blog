@@ -10,7 +10,7 @@ CyberMiles APP（原CMT Wallet）3.0 正式上线，*手机APP权益投票CMT功
 
 ![](/images/20190625-CMT-staking-01.png)
 
-根据现在全网权益投票情况，现在stake 10,000 CMT，报酬比率为30%的情况下，通过Cybermiles APP stake一年可获得的区块收益为CMTs。该数据统计自区块高度1,948,355。
+根据现在全网权益投票情况，现在stake 10,000 CMT，报酬比率为30%的情况下，通过Cybermiles APP stake一年可获得的区块收益为1515 CMTs（该数据统计自区块高度1,948,355）
 
 区块收益受到全网stake总量，验证人报酬比率，CMT质押数量，权益投票工具为CMT Wallet还是CMT Cube四个因素影响，您可以在区块浏览器[CMTTracking.io](https://www.cmttracking.io) 使用[收益计算器](https://www.cmttracking.io/nodes)计算具体某一时刻的收益。
 
