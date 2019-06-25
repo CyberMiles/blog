@@ -1,12 +1,12 @@
 ---
-title: "CMT 手机权益投票已经上线，快来获取区块奖励吧"
+title: "CyberMiles App Releases its Newest Version, Enabling Staking Function"
 date: 2019-06-25T15:30:23+08:00
 draft: false
 tags: ["staking","CMT"] 
 categories: ["en"] 
 ---
 
-CyberMiles APP (formerly CMT Wallet) 3.0 was officially launched, and the mobile APP staking CMT function was launched! Now users can use the CyberMiles APP to stake their CMTs to validators (supernode) to get block revenue.
+CyberMiles App (formerly CMT Wallet) 3.0 is officially launched, and the mobile App staking CMT function is not enable! Now users can use the CyberMiles APP to stake their CMTs to validators (supernodes) to get block revenue. Come and download [here](http://onelink.to/v248ze)!
 
 
 According to the current stake of the whole network, now that the stake 10,000 CMT, the compensation rate is 30%, the block income that can be obtained in one year is * CMTs. This data is calculated at the block height.
@@ -15,7 +15,7 @@ According to the current stake of the whole network, now that the stake 10,000 C
 The block reward is affected by the total stake of the whole network, the validtador’s compensation rate, the  CMT stake amount, and the staking method being CMT Wallet or CMT Cube. You can see the expected award at the block browser CMTTracking.io (http://cmttracking. Io/) Use the [award calculator](https://www.cmttracking.io/nodes) to calculate the reward at a specific moment.
 
 
-* Under the same conditions, the CMT Cube staking reward is 20% higher than the CMT Wallet.
+* Under the same conditions, the CMT Cube staking reward is 20% higher than the CMT Wallet (CyberMiles App).
 ![](/images/20190625-CMT-staking-02.png)
 ### Block reward source: 
 
@@ -37,7 +37,6 @@ The delegators also receive transaction fees paid by heavy users of the blockcha
 ### CMT Staking Methods
 
 In addition to the CyberMiles APP and CMT Wallet, you can also:
-
 
 1. Staking with Huobi Pool, you can get HPT, EOS and other rewards.
 2. In the Cobo wallet, choose [CMT 30-day currency plan](https://support.cobo.com/hc/zh-cn/articles/360022584154-CMT-%E5%B8%81%E8%AE%A1%E5%88%92-30%E5%A4%A9) or CMT 90-day currency plan to get CMT income.
