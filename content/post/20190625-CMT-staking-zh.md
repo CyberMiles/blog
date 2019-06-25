@@ -1,6 +1,6 @@
 ---
 title: "CMT 手机权益投票已经上线，快来获取区块奖励吧"
-date: 2019-06-25T15:30:23+08:00
+date: 2019-06-25T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"] 
 categories: ["zh"] 
