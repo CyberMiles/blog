@@ -13,7 +13,7 @@ Based on the current stake of the whole network, now that the stake 10,000 CMT, 
 
 The block award is affected by the total stake of the whole network, the validtador’s compensation rate, the  CMT stake amount, and the staking method being CMT Wallet or CMT Cube. You can enter any amount to see its expected award at CyberMiles block browser [CMTTracking.io](http://cmttracking.io/) Use the [award calculator](https://www.cmttracking.io/nodes) to calculate the award at for a specific moment.
 
-* Under the same conditions, the CMT Cube staking award is 20% higher than the CMT Wallet (CyberMiles App).
+*Under the same conditions, the CMT Cube staking award is 20% higher than the CMT Wallet (CyberMiles App).
 ![](/images/20190625-CMT-staking-02.png)
 
 ### Block award source
