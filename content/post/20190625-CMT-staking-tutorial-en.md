@@ -24,13 +24,13 @@ Deposit a certain amount of CMT to the CyberMiles APP.(1000 CMTs and above)
 
 On the staking page, you can see the total staked CMT amount, the first 24 hours of block award, the staking log and other information.
 
-1. Click on “Earning CMTs by Staking” and go to the Validator page to see the  current Validators (supernodes) and candidates.
+2. Click on “Earning CMTs by Staking” and go to the Validator page to see the  current Validators (supernodes) and candidates.
 
-2. Click on a favorite Validator to enter the Validator's detailed introduction  page.
+3. Click on a favorite Validator to enter the Validator's detailed introduction page.
 
 The compensation is the compensation payable by the delegator to the validator. The lower the pay ratio, the higher the income of the delegator(staker).
 
-3. Click on “Stake Now”. Fill in the CMT amount that you want to stake, wallet  password, and confirm the stake.
+4. Click on “Stake Now”. Fill in the CMT amount that you want to stake, wallet  password, and confirm the stake.
 
 ### Stake Cancellation:
 
