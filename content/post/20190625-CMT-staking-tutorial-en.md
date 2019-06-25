@@ -6,7 +6,7 @@ tags: ["staking","CMT"]
 categories: ["en"] 
 ---
 
-[CyberMiles App](http://onelink.to/v248ze)(formerly CMT Wallet) enables staking function today!!! Horay! Now CMT holders can get block award by staking with mobile Aapp!
+[CyberMiles App](http://onelink.to/v248ze)(formerly CMT Wallet) enables staking function today!!! Hooray! Now CMT holders can get block award by staking with mobile Aapp!
 
 After the mainnet upgrade, the main factors for block award calculation are:
 
