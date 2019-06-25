@@ -1,5 +1,5 @@
 ---
-title: "How to use the CyberMiles App Staking to get Block Award"
+title: "How to stake with CyberMiles App to get Block Award"
 date: 2019-06-25T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"] 
