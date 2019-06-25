@@ -45,6 +45,6 @@ categories: ["zh"]
 
 [区块浏览器 CMTTracking](https://www.cmttracking.io/)
 
-[收益计算器](https://www.cmttracking.io/nodes）
+[收益计算器](https://www.cmttracking.io/nodes)
 
 
