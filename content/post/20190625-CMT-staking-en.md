@@ -6,27 +6,24 @@ tags: ["staking","CMT"]
 categories: ["en"] 
 ---
 
-CyberMiles App (formerly CMT Wallet)3.0 is officially launched, and the mobile App staking CMT function is not enable! Now users can use the CyberMiles APP to stake their CMTs to validators (supernodes) to get block revenue. Come and download [here](http://onelink.to/v248ze)!
+CyberMiles App (formerly CMT Wallet)3.0 is officially launched, and the mobile App staking CMT function is now enabled! Now users can use the CyberMiles APP to stake their CMTs to validators (supernodes) to get block revenue. Come and download [here](http://onelink.to/v248ze)!
 
-Based on the current stake of the whole network, now that the stake 10,000 CMT, the compensation rate is 30%, the block income that can be obtained in one year is * CMTs. This data is calculated at the block height.
+Based on the current stake of the whole network, now that the stake 10,000 CMT, the compensation rate is 30%, the block income that can be obtained in one year is * CMTs. This data is calculated at the block height 1,948,355.
 ![](/images/20190625-CMT-staking-03.png)
 
-The block award is affected by the total stake of the whole network, the validtador’s compensation rate, the  CMT stake amount, and the staking method being CMT Wallet or CMT Cube. You can see the expected award at the block browser CMTTracking.io (http://cmttracking. Io/) Use the [award calculator](https://www.cmttracking.io/nodes) to calculate the award at a specific moment.
-
+The block award is affected by the total stake of the whole network, the validtador’s compensation rate, the  CMT stake amount, and the staking method being CMT Wallet or CMT Cube. You can enter any amount to see its expected award at CyberMiles block browser [CMTTracking.io](http://cmttracking.io/) Use the [award calculator](https://www.cmttracking.io/nodes) to calculate the award at for a specific moment.
 
 * Under the same conditions, the CMT Cube staking award is 20% higher than the CMT Wallet (CyberMiles App).
 ![](/images/20190625-CMT-staking-02.png)
-### Block award source: 
 
+### Block award source
 
 The system has an annual inflation rate of 8%. This inflation is distributed as newly minted CMTs to delegators.
 
 The delegators also receive transaction fees paid by heavy users of the blockchain. 
 
 
-
 ### Precautions:
-
 
 1. Using CyberMiles App The number of stakes per address is 1,000 to 100,000 CMTs, you can create multiple addresses for staking
 2. Each address can only stake to on validator
