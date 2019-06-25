@@ -8,7 +8,7 @@ categories: ["en"]
 
 CyberMiles App (formerly CMT Wallet)3.0 is officially launched, and the mobile App staking CMT function is now enabled! Now users can use the CyberMiles APP to stake their CMTs to validators (supernodes) to get block revenue. Come and download [here](http://onelink.to/v248ze)!
 
-Based on the current stake of the whole network, now that the stake 10,000 CMT, the compensation rate is 30%, the block income that can be obtained in one year is * CMTs. This data is calculated at the block height 1,948,355.
+Based on the current stake of the whole network, now that the stake 10,000 CMT, the compensation rate is 30%, the block income that can be obtained in one year is 1515 CMTs. This data is calculated at the block height 1,948,355.
 ![](/images/20190625-CMT-staking-03.png)
 
 The block award is affected by the total stake of the whole network, the validtador’s compensation rate, the  CMT stake amount, and the staking method being CMT Wallet or CMT Cube. You can enter any amount to see its expected award at CyberMiles block browser [CMTTracking.io](http://cmttracking.io/) Use the [award calculator](https://www.cmttracking.io/nodes) to calculate the award at for a specific moment.
