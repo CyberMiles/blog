@@ -11,8 +11,11 @@ categories: ["zh"]
 经过主链升级后，现在区块奖励的主要影响因素为：
 
 1.全网总权益投票数量
+
 2.验证人报酬比率，报酬比率越低，对权益投票人越有利
+
 3.CMT的权益投票数量，数量越高，区块奖励越高
+
 4.权益投票的工具是CMT Cube 还是CyberMiles APP。同等条件下，CMT Cube 比CyberMiles APP的收益高20%，持续到2020年4月。
 
 * 重要提示：CMT Cube的用户可以将CMT Cube 的地址导入到CyberMiles APP中，但请不要在CMT Wallet上进行任何操作，一旦使用CyberMiles APP进行了任何操作，系统会判定该地址属于CyberMiles APP，您也不能再享受CMT Cube 的20% 收益加成。
@@ -39,7 +42,9 @@ categories: ["zh"]
 附：
 
 下载[CyberMiles APP](https://www.cybermiles.io/zh-cn/blockchain-infrastructure/cmt-wallet/)
+
 [区块浏览器 CMTTracking](https://www.cmttracking.io/)
+
 [收益计算器](https://www.cmttracking.io/nodes）
 
 
