@@ -1,12 +1,12 @@
 ---
 title: "如何使用CyberMiles APP 进行权益投票，获取区块奖励"
-date: 2019-06-25T15:30:23+08:00
+date: 2019-06-25T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"] 
 categories: ["zh"] 
 ---
 
-CyberMiles APP（原CMT Wallet）已经开通权益投票功能，现在CMT 持有者可以通过手机APP获得区块奖励收入啦！
+[CyberMiles APP](https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/)（原CMT Wallet）已经开通权益投票功能，现在CMT 持有者可以通过手机APP获得区块奖励收入啦！
 
 经过主链升级后，现在区块奖励的主要影响因素为：
 
@@ -17,7 +17,7 @@ CyberMiles APP（原CMT Wallet）已经开通权益投票功能，现在CMT 持�
 
 * 重要提示：CMT Cube的用户可以将CMT Cube 的地址导入到CyberMiles APP中，但请不要在CMT Wallet上进行任何操作，一旦使用CyberMiles APP进行了任何操作，系统会判定该地址属于CyberMiles APP，您也不能再享受CMT Cube 的20% 收益加成。
 
-在CyberMiles APP存够一定数量的CMT。每个 CMT Wallet 最少可权益投票1,000 CMT，最多可投票100,000 CMT，您可以选择创建多个钱包地址进行投票。
+在CyberMiles APP存够一定数量的CMT。 每个地址最少可权益投票1,000 CMT，最多可投票100,000 CMT，您可以选择创建多个钱包地址进行投票。
 
 1 在CyberMiles APP 首页，点击”权益投票”，进入权益投票页面。在权益投票页面，你可以看到CMT 权益投票总数量，前24个小时的区块奖励收入，权益投票日志等信息。
 
