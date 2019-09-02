@@ -1,6 +1,6 @@
 ---
 title: "TISS with TokenInsight Becomes CyberMiles' Newest Validator and Startegic Partnership Formed"
-date: 2019-09-2T15:00:23+08:00
+date: 2019-09-02T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"] 
 categories: ["en"] 
