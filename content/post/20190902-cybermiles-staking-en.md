@@ -1,20 +1,20 @@
 ---
-title: "TISS with TokenInsight Becomes CyberMiles' Newest Validator and Startegic Partnership Formed"
+title: "TISS by TokenInsight Becomes CyberMiles' Latest Validator and Startegic Partner"
 date: 2019-09-02T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"] 
 categories: ["en"] 
 ---
 
-CyberMiles is excited to announce a new #Validator, TISS with TokenInsight, a VC funded blockchain rating, research and analytics service provider with a solid standing in crypto world.
+CyberMiles is excited to announce a new #Validator, TISS by TokenInsight, a well-known blockchain rating, research and analytics agency.
 
-TISS's compensation rate asked from its validators is as low as 25%. Welcome to stake!
+TISS's validator compensation rate is initially set at a low 25% to encourage stakes from the CMT community.
 
-Meanwhile, tokenInsight Staking Service (TISS) has officially established a strategic partnership with CyberMiles, with a focus on data collaboration, community governance, and ecosystem development.
+Furthermore, TokenInsight Staking Service (TISS) has officially entered a strategic partnership with CyberMiles, with a focus on data collaboration, community governance, and ecosystem development.
 
-Leveraging CyberMiles’s technological capabilities, TISS is slated to run nodes for multiple PoS blockchains, joining in the effort to secure and grow the PoS network.
+Building on its CyberMiles collaboration, TISS is slated to run validator nodes for multiple PoS blockchains, joining in the effort to secure and grow the PoS ecosystem.
 
-TISS, the sub-brand of the TokenInsight Group, is dedicated to providing comprehensive staking data and research services. TokenInsight (tokeninsight.com) is committed to becoming the world’s leading blockchain data and rating service organization, covering over 1,600 projects.
+TISS, a sub-brand of TokenInsight Group, is dedicated to providing comprehensive staking data and research services. TokenInsight (tokeninsight.com) is committed to becoming the world’s leading blockchain data and rating service organization, covering over 1,600 projects.
 
 CyberMiles is a new blockchain protocol specifically designed and optimized for e-commerce applications. CyberMiles will offer a large library of commerce-related smart business contracts, making decentralized commerce applications easier to build.
 TokenInsight has established strategic partnerships with a total of 55+ partners covering databases, exchanges, and wallets, such as Messari, Binance Info, Delta, BitMart, BitUniverse, XCong, and Huobi News etc.
@@ -24,9 +24,12 @@ TokenInsight is an independent third-party data analytics organization whose foc
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-*Each CMT Wallet can stake at least 1,000 CMTs and can stake up to 100,000 CMTs. You can choose to create multiple wallet addresses for voting.
 
-1 On he CyberMiles App homepage, click on "Stake" to enter the staking page.
+## How to stake CMTs with TISS
+
+Each CMT Wallet can stake at least 1,000 CMTs and can stake up to 100,000 CMTs. You can choose to create multiple wallet addresses for voting.
+
+1 On the CyberMiles App homepage, click on "Stake" to enter the staking page.
 
 On the staking page, you can see the total staked CMT amount, the first 24 hours of block award, the staking log and other information.
 
@@ -44,7 +47,7 @@ The compensation is the compensation payable by the delegator to the validator. 
 
 4 Click on “Stake Now”. Fill in the CMT amount that you want to stake, wallet password, and confirm the staking.
 
-### Stake Cancellation:
+### Un-stake
 
 It takes a 7-8 day waiting period to cancel a stake, during which you can continue to get due block award. You will need to wait for another 8 days before you can withdraw.
 
