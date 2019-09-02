@@ -1,12 +1,12 @@
 ---
-title: "Announcement | TISS and CyberMiles Enters into a Strategic Partnership"
+title: "TISS with TokenInsight Becomes CyberMiles' Newest Validator and Startegic Partnership Formed"
 date: 2019-09-2T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"] 
 categories: ["en"] 
 ---
 
-CyberMiles is excited to announce a new #Validator, TISS with @TokenInsight, a VC funded blockchain rating, research and analytics service provider with a solid standing in crypto world.
+CyberMiles is excited to announce a new #Validator, TISS with TokenInsight, a VC funded blockchain rating, research and analytics service provider with a solid standing in crypto world.
 
 TISS's compensation rate asked from its validators is as low as 25%. Welcome to stake!
 
