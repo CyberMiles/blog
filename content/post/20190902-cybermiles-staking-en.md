@@ -6,11 +6,11 @@ tags: ["staking","CMT"]
 categories: ["en"] 
 ---
 
-CyberMiles is excited to announce a new #Validator, TISS by TokenInsight, a well-known blockchain rating, research and analytics agency.
+CyberMiles is excited to announce a new #Validator, TISS by TokenInsight, a leading blockchain rating, research and analytics agency.
 
 TISS's validator compensation rate is initially set at a low 25% to encourage stakes from the CMT community.
 
-Furthermore, TokenInsight Staking Service (TISS) has officially entered a strategic partnership with CyberMiles, with a focus on data collaboration, community governance, and ecosystem development.
+TokenInsight Staking Service (TISS) has officially entered a strategic partnership with CyberMiles, with a focus on data collaboration, community governance, and ecosystem development.
 
 Building on its CyberMiles collaboration, TISS is slated to run validator nodes for multiple PoS blockchains, joining in the effort to secure and grow the PoS ecosystem.
 
