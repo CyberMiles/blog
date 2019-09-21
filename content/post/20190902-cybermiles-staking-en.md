@@ -1,8 +1,8 @@
 ---
-title: "TISS by TokenInsight Becomes CyberMiles' Latest Validator and Startegic Partner"
+title: "TISS by TokenInsight Becomes CyberMiles Latest Validator and Startegic Partner"
 date: 2019-09-02T15:00:23+08:00
 draft: false
-tags: ["staking","CMT"] 
+tags: ["staking","CMT"]
 categories: ["en"] 
 ---
 
