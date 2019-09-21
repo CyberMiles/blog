@@ -2,8 +2,8 @@
 title: "More giveaways with FairPlay DApp are coming"
 date: 2019-07-03T15:00:23+08:00
 draft: false
-tags: ["fairplay","giveaway","ecommerce"] 
-categories: ["en"] 
+tags: ["fairplay","giveaway","ecommerce"]
+categories: ["en"]
 ---
 
 Thanks for all players who has participated the two-week giveaway and our lovely sponsors. We have 1900+ players in the last campaign in June.
