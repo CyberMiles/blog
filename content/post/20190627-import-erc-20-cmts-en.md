@@ -2,8 +2,8 @@
 title: "How to import your ERC-20 CMTs"
 date: 2019-06-27T15:00:23+08:00
 draft: false
-tags: ["import","CMT"] 
-categories: ["en"] 
+tags: ["import","CMT"]
+categories: ["en"]
 ---
 
 First, you’ll need to download the [CyberMiles App](http://onelink.to/v248ze) to your device. Once downloaded, select “Import Wallet” at the bottom of your screen.
