@@ -3,7 +3,7 @@ title: "TISS by TokenInsight Becomes CyberMiles Latest Validator and Startegic P
 date: 2019-09-02T15:00:23+08:00
 draft: false
 tags: ["staking","CMT"]
-categories: ["en"] 
+categories: ["en"]
 ---
 
 CyberMiles is excited to announce a new #Validator, TISS by TokenInsight, a leading blockchain rating, research and analytics agency.
