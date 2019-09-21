@@ -1,0 +1,10 @@
+<meta property="og:title" content="{{ if .IsPage }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+{{- if .Description -}}
+  <meta property="og:description" content="{{ .Description | safeHTML }}" />
+{{ else if .IsPage }}
+  <meta property="og:description" content="{{ .Summary | plainify }}" />
+{{ else if .Site.Params.description }}
+  <meta property="og:description" content="{{ .Site.Params.description | safeHTML }}" />
+{{- end -}}
+<meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
+<meta property="og:url" content="{{ .Permalink }}">
