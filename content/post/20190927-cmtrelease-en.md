@@ -6,8 +6,6 @@ tags: ["CMT"]
 categories: ["en"] 
 ---
 
-CMT Third Quarter Release Announcement
-
 Dear CMT holders!
 
 According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, and 5miles.
