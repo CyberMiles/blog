@@ -1,6 +1,6 @@
 ---
 title: "CyberMiles Engineers to Speak at Ethereum Devcon5 in Osaka, Japan"
-date: 2019-10-2T15:00:23+08:00
+date: 2019-10-02T15:00:23+08:00
 draft: false
 tags: ["CMT"] 
 categories: ["en"] 
