@@ -1,6 +1,6 @@
 ---
 title: "Bounty to Celebrate 1 Year Anniversary of CyberMiles Mainnet Launch"
-date: 2019-10-14T15:00:23+08:00
+date: 2019-10-14T10:00:23+08:00
 draft: false
 tags: ["CMT"] 
 categories: ["en"] 
