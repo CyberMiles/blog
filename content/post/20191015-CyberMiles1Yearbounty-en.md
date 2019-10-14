@@ -7,6 +7,7 @@ categories: ["en"]
 ---
 
 CyberMiles is having a Bounty Program to Celebrate 1 Year Anniversary of CyberMiles Mainnet Launch.The total reward for this one week bounty program is 30,000 CMT. This bounty is fully hosted on the [WeBounty](https://cmt.webounty.io) Platform. Join the platform CMT bounty program. Out of the platform, you may not be rewarded.
+
                 ![](/images/20191015-CyberMiles1Yearbounty-01.png)
 
 1. The Bounty program starts on 00:00 UTC Oct 16th, 2019 and ends on Oct 22nd, 2019 (1 week only).
@@ -18,33 +19,28 @@ CyberMiles is having a Bounty Program to Celebrate 1 Year Anniversary of CyberMi
 7. If you are disqualified for any reason, you will NOT receive any bounty rewards.
 8. CyberMiles team will reserve the right to change any rules, or make any changes, if necessary.
 
-## 80% of the total bounty is in the referral pool. That is you invite users to join by asking them to join via your link (i.e. https://cmt.webounty.io/)
+ *80% of the total bounty is in the referral pool. That is you invite users to join by asking them to join via your link (i.e. https://cmt.webounty.io/)
  
-## 20% of the total bounty is in the content creation pool. The admin will reply and give you points if your words or article is good.
+ *20% of the total bounty is in the content creation pool. The admin will reply and give you points if your words or article is good.
 
 
- Telegram Bounty Game
+## Telegram Bounty Game
  Welcome to join the CyberMiles Group! Our bounty program is live here between 16/Oct-23/Oct:
 https://cmt.webounty.io
  Everyone can participate in the discussion of the project, and describe their understanding of CyberMiles, make gif, picture or articles. The admin will give a rating based on your performance.
- Get the reply from admin = 2 point
- Get the reply from admin = 5 point
- Get the reply from admin = 12 point
- The higher the score, the higher the CMT reward will be.
- Today’s discussion topic is:
- What is the CyberMiles? What is CMT’s goal?
- To get an idea, read our articles
- Part1:
+
+Familiarize yourself with CyberMiles to perform better!
  CyberMiles whitepaper
 https://cybermiles.io/en-us/cmt/whitepaper/
- Part2:
-
-
- Don’t forget to clap our articles
+ FairPlayDapp
+https://blog.cybermiles.io/post/20190620-fairplay-dapp-en/
+ Devcon
+https://blog.cybermiles.io/post/20191002-cybermilesdevcon5-en/
+ Don’t forget to forward our articles!
  Excellent discussions and answers will get more bounty reward!
 
 
- Twitter Bounty Game
+## Twitter Bounty Game
  The CyberMiles bounty has officially launched at http://bos.webounty.io
  Time: Oct 16 - Oct 23 (00:00 UTC)
  Total reward: 30,000 CMT
