@@ -8,7 +8,7 @@ categories: ["en"]
 
 CyberMiles is having a Bounty Program to celebrate the One Year Anniversary of CyberMiles' Mainnet Launch.The total reward for this one week bounty program is 30,000 CMT. This bounty is fully hosted on the [WeBounty](https://cmt.webounty.io) Platform. Join the platform CMT bounty program. Out of the platform, you may not be rewarded.
 
-                ![](/images/20191015-CyberMiles1Yearbounty-01.png)
+![](/images/20191015-CyberMiles1Yearbounty-01.png)
 
 1. The Bounty program starts on 00:00 UTC Oct 16th, 2019 and ends on Oct 22nd, 2019 (1 week only).
 2. To participate in the bounty program, you must be at least 18 years old.
