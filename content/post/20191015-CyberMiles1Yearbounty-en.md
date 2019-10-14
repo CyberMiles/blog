@@ -7,18 +7,19 @@ categories: ["en"]
 ---
 
 CyberMiles is having a Bounty Program to Celebrate 1 Year Anniversary of CyberMiles Mainnet Launch.The total reward for this one week bounty program is 30,000 CMT. This bounty is fully hosted on the [WeBounty](https://cmt.webounty.io) Platform. Join the platform CMT bounty program. Out of the platform, you may not be rewarded.
-![](/images/20191015-CyberMiles1Yearbounty-01.png)
+                ![](/images/20191015-CyberMiles1Yearbounty-01.png)
 
-The Bounty program starts on 00:00 UTC Oct 16th, 2019 and ends on Oct 22nd, 2019 (1 week only).
-To participate in the bounty program, you must be at least 18 years old.
-Rewards for each campaign have a cap and once that cap is reached, rewards will no longer be processed or awarded.
-Each user can only participate with one account. Users with double-registrations or duplicate accounts (except the initial one) will be permanently banned from the program.
-All tokens will be allocated to your CyberMiles App within 2 weeks of the bounty end date.
-FINAL rewards for bounty activities will be CMT.
-If you are disqualified for any reason, you will NOT receive any bounty rewards.
-CyberMiles team will reserve the right to change any rules, or make any changes, if necessary.
-80% of the total bounty is in the referral pool. That is you invite users to join by asking them to join via your link (i.e. https://cmt.webounty.io/)
- 20% of the total bounty is in the content creation pool. The admin will reply and give you points if your words or article is good.
+1. The Bounty program starts on 00:00 UTC Oct 16th, 2019 and ends on Oct 22nd, 2019 (1 week only).
+2. To participate in the bounty program, you must be at least 18 years old.
+3. Rewards for each campaign have a cap and once that cap is reached, rewards will no longer be processed or awarded.
+4. Each user can only participate with one account. Users with double-registrations or duplicate accounts (except the initial one) will be permanently banned from the program.
+5. All tokens will be allocated to your CyberMiles App address within 2 weeks of the bounty end date.
+6. FINAL rewards for bounty activities will be CMT.
+7. If you are disqualified for any reason, you will NOT receive any bounty rewards.
+8. CyberMiles team will reserve the right to change any rules, or make any changes, if necessary.
+9. 80% of the total bounty is in the referral pool. That is you invite users to join by asking them to join via your link (i.e. https://cmt.webounty.io/)
+ 
+20% of the total bounty is in the content creation pool. The admin will reply and give you points if your words or article is good.
 
 
  Telegram Bounty Game
