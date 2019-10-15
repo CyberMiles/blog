@@ -10,7 +10,7 @@ CyberMiles is having a Bounty Program to celebrate the One Year Anniversary of C
 
 ![](/images/20191015-CyberMiles1Yearbounty-01.png)
 
-1. The Bounty program starts on 00:00 UTC Oct 16th, 2019 and ends on Oct 22nd, 2019 (1 week only).
+1. The Bounty program starts on 00:00 UTC Oct 16th, 2019 and ends on Oct 23rd, 2019 (1 week only).
 2. To participate in the bounty program, you must be at least 18 years old.
 3. Rewards for each campaign have a cap and once that cap is reached, rewards will no longer be processed or awarded.
 4. Each user can only participate with one account. Users with double-registrations or duplicate accounts (except the initial one) will be permanently banned from the program.
