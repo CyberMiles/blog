@@ -44,7 +44,7 @@ Excellent discussions and answers will get more bounty reward!
 
 
 ## Twitter Bounty Game
-The CyberMiles bounty has officially launched at http://bos.webounty.io
+The CyberMiles bounty has officially launched at http://cmt.webounty.io
 Time: Oct 16 - Oct 23 (00:00 UTC)
 Total reward: 30,000 CMT
 About CyberMiles: (link: www.cybermiles.io/)
