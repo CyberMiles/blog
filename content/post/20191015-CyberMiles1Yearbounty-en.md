@@ -6,7 +6,7 @@ tags: ["CMT"]
 categories: ["en"] 
 ---
 
-CyberMiles is having a Bounty Program to celebrate the One Year Anniversary of CyberMiles' Mainnet Launch.The total reward for this one week bounty program is 30,000 CMT. This bounty is fully hosted on the [WeBounty](https://cmt.webounty.io) Platform. Join the platform CMT bounty program. Out of the platform, you may not be rewarded.
+CyberMiles is having a Bounty Program to celebrate the One Year Anniversary of CyberMiles' Mainnet Launch.The total reward for this one week bounty program is 30,000 CMT. This bounty is fully hosted on the [WeBounty](https://cmt.webounty.io) Platform. You can take part in the bounty by joining the platform and enter your [CyberMiles App address](https://app.cybermiles.io/). Remember to download CyberMiles App! Out of the WeBounty platform or without the CyberMiles App address, you may not be rewarded.
 
 ![](/images/20191015-CyberMiles1Yearbounty-01.png)
 
