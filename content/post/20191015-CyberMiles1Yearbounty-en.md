@@ -19,7 +19,7 @@ CyberMiles is having a Bounty Program to celebrate the One Year Anniversary of C
 7. If you are disqualified for any reason, you will NOT receive any bounty rewards.
 8. CyberMiles team will reserve the right to change any rules, or make any changes, if necessary.
 
-* 80% of the total bounty is in the referral pool. That is you invite users to join by asking them to join via your link (i.e. https://cmt.webounty.io/)
+* 80% of the total bounty is in the referral pool. That is you invite users to join by asking them to join via your link (i.e. https://cmt.webounty.io/signup?ref=ncbe4m5kk)
  
 * 20% of the total bounty is in the content creation pool. The admin will reply and give you points if your words or article is good.
 
