@@ -6,7 +6,7 @@ tags: ["CMT"]
 categories: ["en"] 
 ---
 
-Two Third (2/3) of all CyberMiles Validators have voted on 28th of October, 2019 to agree on the proposal to upgrade the MainNet software to v0.1.10-beta. The CyberMiles Foundation and CyberMiles validators have voted to perform an upgrade to the MainNet software at block height 2875555, which is approximately between 12:00-14:00 (GMT+8) on Oct 30th 2019. 
+Two Third (2/3) of all CyberMiles Validators have voted on 28th of October, 2019 to agree on the proposal to upgrade the MainNet software to v0.1.10-beta. The CyberMiles Foundation and CyberMiles validators have voted to perform an upgrade to the MainNet software at block height 2875555, which is approximately between 4:00-6:00 am (UTC) on Oct 30th 2019. 
 
   The upgrade addresses the following issues:
 
@@ -17,7 +17,7 @@ During the upgrade, the CyberMiles mainnet will stop, therefore all services on 
 
 CyberMiles App, browser [CMTtracking](https://www.cmttracking.io/), CMT Cube will have a pause on service since the blockchain data is not queried. After the mainnet is upgraded, the service will resume. The process won’t affect your CMT assets.
 
-Meanwhile, in order to coordinate this upgrade, all exchanges will pause CMT deposits and withdrawals around 12th Oct 2019,11:30 GMT+8 until the upgraded software resumes producing blocks. Please be aware of the exchanges announcement on CMT deposits and withdrawals pause and resuming time.
+Meanwhile, in order to coordinate this upgrade, all exchanges will pause CMT deposits and withdrawals until the upgraded software resumes producing blocks. Please be aware of the exchanges announcement on CMT deposits and withdrawals pause and resuming time.
 
 Thanks!
 
