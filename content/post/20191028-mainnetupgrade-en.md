@@ -15,9 +15,9 @@ Two Third (2/3) of all CyberMiles Validators have voted on 28th of October, 2019
 
 During the upgrade, the CyberMiles mainnet will stop, therefore all services on the CyberMiles blockchain will also pause until it resumes when 2/3 validators have started the new software.
 
-CyberMiles App, browser [CMTtracking](https://www.cmttracking.io/), CMT Cube will have a pause on service since the data on the chain is not queried. After the mainnet is upgraded, the service will resume. The process won’t affect your CMT assets.
+CyberMiles App, browser [CMTtracking](https://www.cmttracking.io/), CMT Cube will have a pause on service since the blockchain data is not queried. After the mainnet is upgraded, the service will resume. The process won’t affect your CMT assets.
 
-Meanwhile, in order to coordinate this upgrade, the exchanges will paunse CMT deposits and withdrawals around 12th Oct 2019,11:30 GMT+8 until the upgraded software resumes producing blocks. Please be aware of the exchanges announcement on CMT deposits and withdrawals pause and resuming time.
+Meanwhile, in order to coordinate this upgrade, all exchanges will pause CMT deposits and withdrawals around 12th Oct 2019,11:30 GMT+8 until the upgraded software resumes producing blocks. Please be aware of the exchanges announcement on CMT deposits and withdrawals pause and resuming time.
 
 Thanks!
 
