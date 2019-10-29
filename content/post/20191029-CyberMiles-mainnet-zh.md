@@ -1,6 +1,6 @@
 ---
 title: "CyberMiles 主链将于区块高度287555 处升级至 v0.1.10-beta"
-date: 2019-10-29T16:01:23+08:00
+date: 2019-10-29T10:01:23+08:00
 draft: false
 tags: ["MainNet"]
 categories: ["zh"]
