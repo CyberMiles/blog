@@ -8,6 +8,7 @@ install:
   - cd $HOME/src
   - git clone https://github.com/gohugoio/hugo.git
   - cd hugo
+  - git checkout stable
   - go install --tags extended
 
 script:  
