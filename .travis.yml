@@ -4,7 +4,11 @@ go:
   - 1.11.x # This uses automatically the latest version of go
 
 install:
-  - go get github.com/gohugoio/hugo # This provides the latest version of Hugo to Travis CI
+  - mkdir $HOME/src
+  - cd $HOME/src
+  - git clone https://github.com/gohugoio/hugo.git
+  - cd hugo
+  - go install --tags extended
 
 script:  
   - rm -rf public || exit 0
