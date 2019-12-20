@@ -4,6 +4,7 @@ go:
   - 1.11.x # This uses automatically the latest version of go
 
 install:
+  - pwd
   - mkdir $HOME/src
   - cd $HOME/src
   - git clone https://github.com/gohugoio/hugo.git
@@ -11,7 +12,8 @@ install:
   - git checkout v0.54.0
   - go install --tags extended
 
-script:  
+script:
+  - pwd
   - rm -rf public || exit 0
   - hugo # This commands builds your website on travis
   - echo 'blog.cybermiles.io' > public/CNAME
