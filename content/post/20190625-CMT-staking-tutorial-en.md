@@ -44,7 +44,7 @@ The compensation is the compensation payable by the delegator to the validator. 
 
 ### Stake Cancellation:
 
-It takes a 7-8 day waiting period to cancel a stake, during which you can continue to get due block award. You will need to wait for another 8 days before you can withdraw.
+It takes a 7-8 day waiting period to cancel a stake, during which you can continue to get due block award. 
 
 
 
