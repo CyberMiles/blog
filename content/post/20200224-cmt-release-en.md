@@ -1,6 +1,6 @@
 ---
 title: "CMT 2020 First Quarter Release Announcement"
-date: 2020-2-24T15:00:23+08:00
+date: 2020-02-24T15:00:23+08:00
 draft: false
 tags: ["CMT"] 
 categories: ["en"] 
