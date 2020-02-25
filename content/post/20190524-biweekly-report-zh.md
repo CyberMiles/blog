@@ -1,5 +1,5 @@
 ---
-title: "Building a safer crypto token"
+title: "CyberMiles 公链双周报（0524）"
 date: 2019-05-23T10:01:23+08:00
 draft: false
 tags: ["blockchain","upgrade"]
