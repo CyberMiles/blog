@@ -1,6 +1,6 @@
 ---
 title: "How to build a forum on blockchain via BUIDL for CMT"
-date: 2019-12-20T10:01:23+08:00
+date: 2020-03-27T10:01:23+08:00
 draft: false
 tags: ["BUIDL","smart contract","CyberMiles","development","blockchain"]
 categories: ["en"]
