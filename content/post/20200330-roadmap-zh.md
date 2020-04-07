@@ -24,9 +24,9 @@ CyberMiles 是专为电商打造的公链。在推出数字货币购物、完全
 
 ### 区块链技术
 
-技术是立足之本，2019年，CyberMiles 实现了主链的安全升级及虚拟机的功能升级，既保证了超级节点及用户 stake 的收益最大化，也使区块链应用更加开发者友好与用户友好。CyberMiles 成功孵化区块链技术型创业公司 [Second State](http://www.secondstate.info/)。Second State 已获得SIG、ETC Labs、以太坊基金会等的投资，并与ETC、ETH、olkadot 达成了技术合作。
+技术是立足之本，2019年，CyberMiles 实现了主链的安全升级及虚拟机的功能升级，既保证了超级节点及用户 stake 的收益最大化，也使区块链应用更加开发者友好与用户友好。CyberMiles 成功孵化区块链技术型创业公司 [Second State](http://www.secondstate.info/)。Second State 已获得SIG、ETC Labs、以太坊基金会等的投资，并与ETC、ETH、Polkadot 达成了技术合作。
 
-2020年，CyberMiles 将加强与Second State 的技术合作，在虚拟机、编译器等区块链基础设施上继续进行技术创新，让区块链更加好用。此外，CyberMiles 将通过与 Second State 的合作与ETH、ETC、Polkadot 进行合作。
+2020年，CyberMiles 将加强与 Second State 的技术合作，在虚拟机、编译器等区块链基础设施上继续进行技术创新，让区块链更加好用。此外，CyberMiles 将通过与 Second State 的合作与ETH、ETC、Polkadot 进行合作。
 
 **Q1** 参与开源社区的开发工作，成为以太坊协议下一代基础设施的核心建设者之一。
 
