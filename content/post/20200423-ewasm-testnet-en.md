@@ -6,8 +6,7 @@ tags: ["ethereum","blockchain programming","WebAssembly"]
 categories: ["en"] 
 ---
 
-A NEW public EWASM test net based on Second State's virtual machine technology and blockchain software for the CyberMiles public blockchain just launched. CYBERMILES becomes the world's first public blockchain to support Ethereum's next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum's next-generation virtual machine on the new [Ewasm test net](https://docs.secondstate.io/devchain/getting-started/cybermiles-ewasm-testnet) of CyberMiles.
-
+A NEW public EWASM test net based on Second State's virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world's first public blockchains to support Ethereum's next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum's next-generation virtual machine on the new [Ewasm test net](https://docs.secondstate.io/devchain/getting-started/cybermiles-ewasm-testnet) of CyberMiles.
 
 ![CyberMiles Ewasm TestNet](/images/20200423-ewasm-testnet-01.png)
 
@@ -17,7 +16,7 @@ These features of WebAssembly have attracted attention from many blockchain proj
 
 The WebAssembly virtual machine is becoming a public infrastructure for a new generation of blockchain networks, including CyberMiles.
 
-Last week, Second State Devchain, a blockchain startup based on [Second State] (https://www.secondstate.io/)'s blockchain software, supported the next generation Ethereum virtual machine EWASM, allowing developers to run their own EWASM devchain, the new [EWASM smart contract](https://docs.secondstate.io/devchain/getting-started/run-an-Ewasm-smart-contract) will be deployed to the real blockchain. Second State was incubated by the CyberMiles foundation.
+Last week, Second State Devchain, a blockchain startup based on [Second State] (https://www.secondstate.io/)'s blockchain software, supported the next generation Ethereum virtual machine EWASM, allowing developers to run their own EWASM devchain, the new [EWASM smart contract](https://docs.secondstate.io/devchain/getting-started/run-an-Ewasm-smart-contract) will be deployed to the real blockchain. Second State was incubated by the CyberMiles Foundation.
 
 This week, the CyberMiles public blockchain, adopting Second State's virtual machine, the [ssvm-evmc](https://github.com/second-state/SSVM), released a public Ewasm test net, saving developers from great amount of deployment efforts being genuinely developer-friendly.
 
