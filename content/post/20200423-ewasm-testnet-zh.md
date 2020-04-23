@@ -6,9 +6,6 @@ tags: ["ethereum","blockchain programming","WebAssembly"]
 categories: ["zh"] 
 ---
 
-# 基于CyberMiles公链的 Ewasm 测试链对外发布
-
-
 基于 Second State 的虚拟机技术及CyberMiles 公链的区块链软件，新的公共 Ewasm 测试链上线了。CyberMiles 成为全球首批支持以太坊下一代虚拟机的公链。开发者可以在 CyberMiles 的 [Ewasm 测试链](https://docs.secondstate.io/devchain/getting-started/cybermiles-ewasm-testnet)上运行以太坊下一代虚拟机，部署开发 Ewasm 智能合约。
 
 ![CyberMiles Ewasm TestNet](/images/20200423-ewasm-testnet-01.png)
