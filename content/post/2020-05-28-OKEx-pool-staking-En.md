@@ -3,7 +3,7 @@ title: "OKEx Pool became CyberMiles Validator"
 date: 2020-05-28T15:01:23+08:00
 draft: false
 tags: ["Blockchain","staking","CyberMiles"]
-categories: ["zh"]
+categories: ["EN"]
 ---
 
 OKEx Pool became one of CyberMiles’ validator and is currently ranking the third with 27238182 voting powers and declared a compensation rate of 30 percent.
