@@ -1,5 +1,5 @@
 ---
-title: "OKEx Pool became CyberMiles Validator"
+title: "OKEx Pool as CyberMiles' Validator: Stake and win a Cube"
 date: 2020-05-28T15:01:23+08:00
 draft: false
 tags: ["Blockchain","staking","CyberMiles"]
