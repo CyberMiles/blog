@@ -1,9 +1,9 @@
 ---
 title: "CyberMiles 公链双周报(0731)"
-date: 2020-06-18T15:00:23+08:00
+date: 2020-07-31T15:00:23+08:00
 draft: false
 tags: ["CMT","CMT"] 
-categories: ["en"] 
+categories: ["zh"] 
 ---
 
 
@@ -42,7 +42,7 @@ categories: ["en"]
 
 ### 回馈老用户活动已经结束
 
-感谢一直以来 Stake CMT 的你们，回馈老用户活动已经开奖了。恭喜中奖的小伙伴，CMT 大礼包即将送出，注意查收。
+感谢一直以来 Stake CMT 的你们，回馈老用户活动已经开奖了。恭喜中奖的小伙伴，CMT 大礼包将于下周送出，注意查收。
 
 
 
