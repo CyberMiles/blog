@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain Programming on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/blockchain-programming/</link>
+    <description>Recent content in Blockchain Programming on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Apr 2020 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/blockchain-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Release of EWASM test net based on CyberMiles public blockchain</title>
+      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
+      <description>A NEW public EWASM test net based on Second State&amp;rsquo;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&amp;rsquo;s first public blockchains to support Ethereum&amp;rsquo;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&amp;rsquo;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
+WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
+    </item>
+    
+    <item>
+      <title>基于CyberMiles公链的 Ewasm 测试链正式发布</title>
+      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-zh/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-zh/</guid>
+      <description>基于 Second State 的虚拟机技术及CyberMiles 公链的区块链软件，新的公共 Ewasm 测试链上线了。CyberMiles 成为全球首批支持以太坊下一代虚拟机的</description>
+    </item>
+    
+    <item>
+      <title>Building Blockchain Apps Published in the United States</title>
+      <link>http://blog.cybermiles.io/post/20200409-book-en/</link>
+      <pubDate>Thu, 09 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200409-book-en/</guid>
+      <description>Building Blockchain Apps Published in the United States
+Budding young developers are get ever more interested in learning how to write blockchain related program.
+Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&amp;rsquo;s largest higher education publishing group, with books selected as teaching materials by the world&amp;rsquo;s top universities.</description>
+    </item>
+    
+    <item>
+      <title>《Building Blockchain Apps》在美国出版发行</title>
+      <link>http://blog.cybermiles.io/post/20200409-book-zh/</link>
+      <pubDate>Thu, 09 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200409-book-zh/</guid>
+      <description>自从中央政治局第十八次会议集体学习区块链后，国内区块链发展如火如荼，学习区块链的热情高涨。 近日，由CyberMiles 首席科学家Michae</description>
+    </item>
+    
+  </channel>
+</rss>

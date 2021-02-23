@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Building a safer crypto token - CyberMiles News and Articles</title>
+  
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+
+
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="author" content="CyberMiles" />
+  <meta name="description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
+The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem." />
+
+  <meta name="keywords" content="CyberMiles, CMT, blockchain, e-commerce, commerce, bitcoin, smart contract" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54.0" />
+
+
+<link rel="canonical" href="http://blog.cybermiles.io/post/20180425-safetoken-en/" />
+
+
+
+<link rel="icon" href="/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+<link href="/dist/jane.min.css?v=2.7.0" rel="stylesheet">
+
+
+
+
+
+
+<meta itemprop="name" content="Building a safer crypto token">
+<meta itemprop="description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
+The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.">
+
+
+<meta itemprop="datePublished" content="2018-04-25T10:01:23&#43;08:00" />
+<meta itemprop="dateModified" content="2018-04-25T10:01:23&#43;08:00" />
+<meta itemprop="wordCount" content="809">
+
+
+
+<meta itemprop="keywords" content="security,overflow," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Building a safer crypto token"/>
+<meta name="twitter:description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
+The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120065893-12', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<meta property="og:title" content="Building a safer crypto token - CyberMiles News and Articles">
+  <meta property="og:description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
+The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem." />
+<meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
+<meta property="og:url" content="http://blog.cybermiles.io/post/20180425-safetoken-en/">
+
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="https://www.cybermiles.io" class="logo">
+      <img src="/logo-small.png">
+      
+    </a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+
+  
+    
+
+
+
+
+
+
+  <link rel="stylesheet" href="/lib/photoswipe/photoswipe.min.css" />
+  <link rel="stylesheet" href="/lib/photoswipe/default-skin/default-skin.min.css" />
+
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+  
+
+  
+
+  <header id="header" class="header container">
+    <div class="logo-wrapper">
+  <a href="https://www.cybermiles.io" class="logo">
+    <img src="/logo.png">
+    
+  </a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+
+        
+
+      </li>
+    
+    
+  </ul>
+</nav>
+
+  </header>
+
+  <div id="mobile-panel">
+    <main id="main" class="main bg-llight">
+      <div class="content-wrapper">
+        <div id="content" class="content container">
+          <article class="post bg-white">
+    
+    <header class="post-header">
+      <h1 class="post-title">Building a safer crypto token</h1>
+      
+      <div class="post-meta">
+        <span class="post-time"> April 25, 2018 </span>
+        <div class="post-category">
+            <a href="http://blog.cybermiles.io/categories/en/"> en </a>
+            
+          </div>
+        
+
+        
+        
+
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+    
+    <div class="post-content">
+      
+
+<p>Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.</p>
+
+<hr />
+
+<p>The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.” It started trading on OKEX on Feb. 23, 2018 and <a href="https://news.8btc.com/bec-spiked-4000-on-first-trading-day-another-pump-and-dump-scheme">spiked 4,000 percent on the first day of trading</a>. From its peak market cap of around 70 billion USD, it has gradually come down to around two billion USD as of April 22, when its trading value suddenly dropped to zero. (OKEX subsequently <a href="https://news.8btc.com/okex-suspend-bec-trading-due-to-irreversible-bug-in-smart-contract">suspended trading of BECs</a>.)</p>
+
+<p><img src="/images/20180425-safetoken-02.jpeg" alt="" /></p>
+
+<p>Of course, BEC is not alone in this. Another widely traded cryptocurrency, SmartMesh (SMT), which had a market cap of more than 300 million USD (for total supply of tokens), suffered a similar fate. SmartMesh claims to be the “token-based next generation Internet protocol,” but while SMT has a smaller market cap than BEC, it is much more widely traded and probably caused more damage in terms of real loss. (Huobi suspended trading of SMT.)</p>
+
+<h3 id="what-happened">What happened?</h3>
+
+<p>It was discovered that hackers were able to exploit the BEC/SMT smart contracts and <a href="https://etherscan.io/tx/0xad89ff16fd1ebe3a0a7cf4ed282302c06626c1af33221ebe0d3a470aba4a660f">issue vigintillions (value with 63 zeros) of tokens to themselves</a>. It has resulted in <a href="https://medium.com/@peckshield/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536">a security alert</a> since apparently multiple ERC 20 token contracts are susceptible to this problem.</p>
+
+<p><img src="/images/20180425-safetoken-03.png" alt="" /></p>
+
+<p>The hacked transaction and account balances on BEC and SMT smart contracts. Can you count the zeros?</p>
+
+<hr />
+
+<h3 id="how-did-this-happen">How did this happen?</h3>
+
+<p>Technically, there is a bug in the ERC 20 smart contract that issues and manages the crypto token. Let’s use BEC as an example. (SMT is very similar.) The developer added a method called &lsquo;batchTransfer()&rsquo; to the contract. The method is intended to facilitate token transfer to multiple parties at once (i.e. a batch).</p>
+
+<p><img src="/images/20180425-safetoken-04.png" alt="" />
+Image credit from the CVE-2018–10299 security alert</p>
+
+<p>However, the developer made a crucial mistake in the following line of code:
+&lsquo;uint256 amount = uint256(cnt) * _value&rsquo;</p>
+
+<p>The &lsquo;cnt&rsquo; here is the number of recipients to transfer the tokens to, the &lsquo;_value&rsquo; is the number of BECs each recipient should receive, and the &lsquo;amount&rsquo; is the computed amount the contract should withdraw from the sender&rsquo;s account for the transfer.</p>
+
+<p>Now, what if someone calls this &lsquo;batchTransfer&rsquo; function with a &lsquo;cnt * _value&rsquo; so large that the product exceeds the capability of the computer to keep track of 256 bit integer (&lsquo;uint256&rsquo;)? It will cause an infamous “buffer overflow,” and cause the &lsquo;amount&rsquo; to compute to zero. Notice that both &lsquo;cnt&rsquo; and &lsquo;_value&rsquo; are legitimate &lsquo;unit256&rsquo; numbers, but the &lsquo;amount&rsquo; is now zero. Hence you can transfer &lsquo;_value&rsquo; number of BECs to anyone without withdrawing anything from the sender&rsquo;s account. So a sender with 1 BEC can now send trillions (in fact, vigintillions) of BECs to other recipients. [Thanks to the Alex O’s explanation in the comments section!]</p>
+
+<h3 id="how-to-prevent-it">How to prevent it?</h3>
+
+<p>The way to prevent this is to use the SafeMath library function when doing integer math. SafeMath detects and addresses the “integer overflow” problem. Interestingly, the BEC/SMT contract developers did use SafeMath, except in that one instance!</p>
+
+<p>Why? One might guess that in the gold rush of ICOs, the developer might just copied and pasted some ERC 20 contract code from the Internet without fully understanding their implications.</p>
+
+<h3 id="how-could-cybermiles-prevent-this">How could CyberMiles prevent this?</h3>
+
+<p>CyberMiles is improving the whole stack of the Ethereum Virtual Machine (EVM) from the compiler to the virtual machine runtime. One of the important safeguards we put into the place is to enforce the use of SafeMath in token contracts, such as ERC 20, ERC 223, ERC 721, and ERC 884. It works as follows.</p>
+
+<p><strong>Compiler optimization</strong>: If the compiler detects the source code to be compliant with one of the above token specifications, it will throw an error on any “naked” integer operation not wrapped around in SafeMath.</p>
+
+<p>Of course this behavior can be overridden with a compiler flag to ignore such errors. But the enforcement of SafeMath is turned on by default, ensuring the safety of token contracts.</p>
+
+<p><strong>Runtime optimization</strong>: At the virtual machine runtime, we automatically will analyze integer assignment operations in real-time and stop the contract execution with an error when overflow occurs.</p>
+
+<h3 id="the-moral-of-the-story">The moral of the story</h3>
+
+<p>Try to understand the code you got from the Internet, especially if it handles money!</p>
+
+<p>Deploy your token smart contracts on the CyberMiles blockchain for better safety, advanced language features, and low fees (MainNet coming online in Q3 2018).</p>
+
+<p>Or at least use the CyberMiles Lity/Solidity compiler to avoid common errors.</p>
+
+<p>Learn more at cybermiles.io.</p>
+
+<p>Or at least use the CyberMiles Lity/Solidity compiler to avoid common errors.</p>
+
+<p>Learn more at <cybermiles.io>.</p>
+
+    </div>
+
+    
+    
+<div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">CyberMiles</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">April 25, 2018</span>
+  </p>
+  
+  <p class="copyright-item">
+    <span class="item-title">License</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
+  </p>
+</div>
+
+    
+    
+
+    <footer class="post-footer">
+      <div class="post-tags">
+          <a href="http://blog.cybermiles.io/tags/security/">security</a>
+          <a href="http://blog.cybermiles.io/tags/overflow/">overflow</a>
+          
+        </div>
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/20190118-yearend-zh/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">CyberMiles 2018年回顾</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        
+          <a class="next" href="/post/jane-theme-preview/">
+            <span class="next-text nav-default">Jane Theme Preview</span>
+            <span class="prev-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+        </div>
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:contact@cybermiles.io" rel="me noopener" class="iconfont icon-email"
+        title="email">
+      </a>
+      <a href="https://twitter.com/cybermiles" rel="me noopener" class="iconfont icon-twitter"
+        title="twitter" target="_blank">
+      </a>
+      <a href="https://www.facebook.com/cybermiles/" rel="me noopener" class="iconfont icon-facebook"
+        title="facebook" target="_blank">
+      </a>
+      <a href="https://github.com/CyberMiles/" rel="me noopener" class="iconfont icon-github"
+        title="github" target="_blank">
+      </a>
+      <a href="https://www.weibo.com/Cybermiles" rel="me noopener" class="iconfont icon-weibo"
+        title="weibo" target="_blank">
+      </a>
+  <a href="http://blog.cybermiles.io/index.xml" rel="noopener alternate" type="application/rss&#43;xml" class="iconfont icon-rss"
+    title="rss" target="_blank">
+  </a>
+  </div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane">Jane</a>
+  </span>
+
+  <span class="copyright-year">
+    &copy;
+    
+      2018 -
+    2021
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span><span class="author">
+        CyberMiles
+        
+      </span></span>
+
+  
+  
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+<script type="text/javascript" src="/dist/jane.min.js?v=2.7.0"></script>
+
+
+
+
+
+  
+    <script type="text/javascript" src="/js/load-photoswipe.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe.min.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

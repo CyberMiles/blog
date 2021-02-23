@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain Development on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/blockchain-development/</link>
+    <description>Recent content in Blockchain Development on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Sep 2020 15:00:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/blockchain-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial: How to record your graduate certificate on CyberMiles public blockchain</title>
+      <link>http://blog.cybermiles.io/post/tutorial-tianjin-student-en/</link>
+      <pubDate>Thu, 10 Sep 2020 15:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-en/</guid>
+      <description>The graduation certificate of Tianjin University will be permanently recorded on the CyberMiles blockchain, which can be stored permanently and cannot be tampered with! How is this achieved?
+The entire Dapp design is divided into two parts: * The smart contract records key information to ensure that the information cannot be corrected. This part is equivalent to the replacement of traditional applications; * The front-end display page is implemented using HTML, JavaScript, and CSS, 100% copying the real world certificate.</description>
+    </item>
+    
+    <item>
+      <title>教程：如何将毕业证书存入 CyberMiles 公链</title>
+      <link>http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/</link>
+      <pubDate>Mon, 10 Aug 2020 15:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/</guid>
+      <description>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确</description>
+    </item>
+    
+    <item>
+      <title>Issue your own CRC20 token on CyberMiles</title>
+      <link>http://blog.cybermiles.io/post/20190521-issue-token-en/</link>
+      <pubDate>Fri, 22 May 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190521-issue-token-en/</guid>
+      <description>Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
+You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
+But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.</description>
+    </item>
+    
+    <item>
+      <title>Building Blockchain Apps Published in the United States</title>
+      <link>http://blog.cybermiles.io/post/20200409-book-en/</link>
+      <pubDate>Thu, 09 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200409-book-en/</guid>
+      <description>Building Blockchain Apps Published in the United States
+Budding young developers are get ever more interested in learning how to write blockchain related program.
+Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&amp;rsquo;s largest higher education publishing group, with books selected as teaching materials by the world&amp;rsquo;s top universities.</description>
+    </item>
+    
+    <item>
+      <title>《Building Blockchain Apps》在美国出版发行</title>
+      <link>http://blog.cybermiles.io/post/20200409-book-zh/</link>
+      <pubDate>Thu, 09 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200409-book-zh/</guid>
+      <description>自从中央政治局第十八次会议集体学习区块链后，国内区块链发展如火如荼，学习区块链的热情高涨。 近日，由CyberMiles 首席科学家Michae</description>
+    </item>
+    
+  </channel>
+</rss>

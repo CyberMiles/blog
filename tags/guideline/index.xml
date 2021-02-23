@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guideline on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/guideline/</link>
+    <description>Recent content in Guideline on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 May 2019 16:02:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/guideline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to win a prize in the FairPlay DApp</title>
+      <link>http://blog.cybermiles.io/post/20190515-fairplay-user-manual-en/</link>
+      <pubDate>Wed, 15 May 2019 16:02:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190515-fairplay-user-manual-en/</guid>
+      <description>Welcome to the FairPlay DApp！
+Every prize draw is fair, fully automated, transparent, and decentralized.
+Various exciting and fun prizes for you are on the way. All you need is the “CMT Wallet” app (available in app store and google play).
+How to win a prize? 1 Download and install the CMT Wallet mobile app on your iOS or Android device.
+2 Create a password for yourself. No need to worry about the mnemonic words for now.</description>
+    </item>
+    
+  </channel>
+</rss>

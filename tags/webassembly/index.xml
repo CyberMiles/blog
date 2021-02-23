@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webassembly on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/webassembly/</link>
+    <description>Recent content in Webassembly on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Apr 2020 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/webassembly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Release of EWASM test net based on CyberMiles public blockchain</title>
+      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
+      <description>A NEW public EWASM test net based on Second State&amp;rsquo;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&amp;rsquo;s first public blockchains to support Ethereum&amp;rsquo;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&amp;rsquo;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
+WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
+    </item>
+    
+    <item>
+      <title>基于CyberMiles公链的 Ewasm 测试链正式发布</title>
+      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-zh/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-zh/</guid>
+      <description>基于 Second State 的虚拟机技术及CyberMiles 公链的区块链软件，新的公共 Ewasm 测试链上线了。CyberMiles 成为全球首批支持以太坊下一代虚拟机的</description>
+    </item>
+    
+  </channel>
+</rss>

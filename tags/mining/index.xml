@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mining on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/mining/</link>
+    <description>Recent content in Mining on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 May 2019 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ask CyberMiles Question 1: When will Mining be enabled on CMT Wallet?</title>
+      <link>http://blog.cybermiles.io/post/20190508-ama-en/</link>
+      <pubDate>Wed, 08 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190508-ama-en/</guid>
+      <description>Q: When will Mining be enabled on CMT Wallet? A: In a few weeks. Already top priority for engineers. We need to update the MainNet protocol first, and then release a new version of the CMT Wallet. We are extremely careful when it comes to asset safety. Be patient and stay tuned.
+Learn more at cybermiles.io.</description>
+    </item>
+    
+  </channel>
+</rss>

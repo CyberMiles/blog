@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disruption on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/disruption/</link>
+    <description>Recent content in Disruption on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 May 2019 17:07:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/disruption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service Disruption Incident Postmortem</title>
+      <link>http://blog.cybermiles.io/post/20190527-incident-postmortem-en/</link>
+      <pubDate>Mon, 27 May 2019 17:07:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190527-incident-postmortem-en/</guid>
+      <description>tl;dr If your CyberMiles node stopped at block height 1724747, please stop it (CTRL-C works), upgrade software to v0.1.8-beta-hotfix and restart. Or, you could also start from a snapshot or from genesis. If you are a validator node, please make sure that you backup your config files and use those config files when you restart.
+ On May 26th 2019, the CyberMiles public blockchain suffered a technical failure that paused blockchain operation for 17 hours.</description>
+    </item>
+    
+    <item>
+      <title>服务中断事件回溯</title>
+      <link>http://blog.cybermiles.io/post/20190527-incident-postmortem-zh/</link>
+      <pubDate>Mon, 27 May 2019 17:07:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190527-incident-postmortem-zh/</guid>
+      <description>tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 v0.1.8-beta-hotfix，然后重启。或者，你</description>
+    </item>
+    
+  </channel>
+</rss>

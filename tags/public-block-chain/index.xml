@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Block Chain on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/public-block-chain/</link>
+    <description>Recent content in Public Block Chain on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 May 2019 19:01:23 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/public-block-chain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5miles의 데이터 반영이 완료되었으며,CyberMiles의 분권화된 생태계에 대한 전체 그림이 나타난다</title>
+      <link>http://blog.cybermiles.io/post/20190513-.5milesdata1-ko/</link>
+      <pubDate>Mon, 13 May 2019 19:01:23 +0900</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190513-.5milesdata1-ko/</guid>
+      <description>몇년전만해도 생소했지만 전자상거래에 통합된 블록체인은 더 이상 새로운 개념이 아닙니다. 2018년에 우리는 전자상거래의 첫 번째 공공 블록체인인 사이버마일즈</description>
+    </item>
+    
+  </channel>
+</rss>

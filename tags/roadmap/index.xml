@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roadmap on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/roadmap/</link>
+    <description>Recent content in Roadmap on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Apr 2019 19:00:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/roadmap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberMiles2019로드맵</title>
+      <link>http://blog.cybermiles.io/post/20190404-roadmap-ko/</link>
+      <pubDate>Thu, 04 Apr 2019 19:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190404-roadmap-ko/</guid>
+      <description>CyberMiles는 전자 상거래를 위해 최적화 된 공개 블록 체인입니다. 전자 상거래 산업들이 블록체인 기술을 더 쉽게 활용하기 위해 2019 년 개발 로드맵을 최근에 업</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles Roadmap 2019</title>
+      <link>http://blog.cybermiles.io/post/20190329-roadmap-en/</link>
+      <pubDate>Fri, 29 Mar 2019 18:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190329-roadmap-en/</guid>
+      <description>CyberMiles is a public blockchain optimized for e-commerce. We have recently updated our development roadmap for 2019 to reflect our laser focus on utilizing blockchain technology to better serve the e-commerce industry. One of our primary aims is to design and develop a product that allows buyers and sellers with no technical experience to use blockchain technology at ease.
+As always, we welcome comments and insights on the updated 2019 roadmap.</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles公链2019路线图</title>
+      <link>http://blog.cybermiles.io/post/20190329-roadmap-zh/</link>
+      <pubDate>Fri, 29 Mar 2019 14:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190329-roadmap-zh/</guid>
+      <description>CyberMiles 是专为电商优化的公链，因此，我们更新了2019年的发展路线图。我们的工作重心将放在区块链技术如何更好地为电商行业服务，比如如何设计开发一个</description>
+    </item>
+    
+  </channel>
+</rss>

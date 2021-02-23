@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>The next wave in blockchain data - CyberMiles News and Articles</title>
+  
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+
+
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="author" content="CyberMiles" />
+  <meta name="description" content="Last year we provided an in-depth look into blockchain storage, also known as global state. In that article I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.
+Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon." />
+
+  <meta name="keywords" content="CyberMiles, CMT, blockchain, e-commerce, commerce, bitcoin, smart contract" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54.0" />
+
+
+<link rel="canonical" href="http://blog.cybermiles.io/post/20190210-blockchaindate-en/" />
+
+
+
+<link rel="icon" href="/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+<link href="/dist/jane.min.css?v=2.7.0" rel="stylesheet">
+
+
+
+
+
+
+<meta itemprop="name" content="The next wave in blockchain data">
+<meta itemprop="description" content="Last year we provided an in-depth look into blockchain storage, also known as global state. In that article I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.
+Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon.">
+
+
+<meta itemprop="datePublished" content="2019-02-10T10:01:23&#43;08:00" />
+<meta itemprop="dateModified" content="2019-02-10T10:01:23&#43;08:00" />
+<meta itemprop="wordCount" content="3039">
+
+
+
+<meta itemprop="keywords" content="blockchain,ecommerce,data," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="The next wave in blockchain data"/>
+<meta name="twitter:description" content="Last year we provided an in-depth look into blockchain storage, also known as global state. In that article I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.
+Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120065893-12', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<meta property="og:title" content="The next wave in blockchain data - CyberMiles News and Articles">
+  <meta property="og:description" content="Last year we provided an in-depth look into blockchain storage, also known as global state. In that article I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.
+Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon." />
+<meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
+<meta property="og:url" content="http://blog.cybermiles.io/post/20190210-blockchaindate-en/">
+
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="https://www.cybermiles.io" class="logo">
+      <img src="/logo-small.png">
+      
+    </a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+
+  
+    
+
+
+
+
+
+
+  <link rel="stylesheet" href="/lib/photoswipe/photoswipe.min.css" />
+  <link rel="stylesheet" href="/lib/photoswipe/default-skin/default-skin.min.css" />
+
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+  
+
+  
+
+  <header id="header" class="header container">
+    <div class="logo-wrapper">
+  <a href="https://www.cybermiles.io" class="logo">
+    <img src="/logo.png">
+    
+  </a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+
+        
+
+      </li>
+    
+    
+  </ul>
+</nav>
+
+  </header>
+
+  <div id="mobile-panel">
+    <main id="main" class="main bg-llight">
+      <div class="content-wrapper">
+        <div id="content" class="content container">
+          <article class="post bg-white">
+    
+    <header class="post-header">
+      <h1 class="post-title">The next wave in blockchain data</h1>
+      
+      <div class="post-meta">
+        <span class="post-time"> February 10, 2019 </span>
+        <div class="post-category">
+            <a href="http://blog.cybermiles.io/categories/en/"> en </a>
+            
+          </div>
+        
+
+        
+        
+
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+    
+    <div class="post-content">
+      
+
+<p>Last year we provided an in-depth look into blockchain storage, also known as global state. In that <a href="https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed">article</a> I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.</p>
+
+<p>Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon.</p>
+
+<p><img src="/images/20190210-blockchaindate-01.jpeg" alt="" /></p>
+
+<p>It is a well-known fact that it’s not practical to store entire blockchains on everyday mobile devices or even on modest home PCs (where DApps are primarily run).</p>
+
+<p>It’s also understood that a blockchain’s global state is a scarce-and-precious resource, and that writing to (and reading from) a blockchain’s global state is very costly. To that end, the blockchain is designed with incentives for users to remove their smart contracts and associated stored data. This is achieved by refunding gas to those users who delete their previously deployed smart contracts, and associated data, all together.</p>
+
+<p>Wait a second, you may be asking. Aren’t blockchains and smart contracts supposed to be immutable and auditable?</p>
+
+<p>Well, they are. This is where the event logs come in.</p>
+
+<p>Below I’ll cover blockchain event logs in great detail. But first, here is a quick refresher on the topic of blockchain storage.</p>
+
+<blockquote>
+<p>There are two vastly different types of data in Ethereum: permanent data and ephemeral data. An example of permanent data would be a transaction. Once a transaction has been fully confirmed, it is recorded in the transaction trie; it is never altered. An example of ephemeral data would be the balance of a particular Ethereum account address. The balance of an account address is stored in the state trie and is altered whenever transactions against that particular account occur. Another example of ephemeral data would be a smart contract’s variables, which are stored in the storage trie and altered by functions inside the smart contract. It makes sense that a) permanent data, like mined transactions, and b) ephemeral data, like account balances or contract variables, should be stored separately.</p>
+</blockquote>
+
+<p>In addition, let me offer a refresher on why we need additional applications, over and above the blockchain’s base layer protocol.</p>
+
+<blockquote>
+<p>You may recall, from the previous article, that Bitcoin UTXOs are blind to blockchain data, ergo the Bitcoin blockchain does not actually store a user’s account balance. “The concept of a balance is created by the wallet application. The wallet calculates the user’s balance by scanning the blockchain and aggregating the value of any UTXO the wallet can spend with the keys it controls” (Antonopoulos, 2017). In a similar fashion, and in light of the costs associated with storage and processing on the Ethereum blockchain, it makes sense that we might utilize applications, which operate over and above the base layer protocol, to perform a myriad of tasks that can help users interact with smart contracts on the blockchain.</p>
+</blockquote>
+
+<p><strong>Please note: From this point forward, all of the information in this article is in the context of Ethereum-compatible blockchains only.</strong></p>
+
+<hr />
+
+<h2 id="event-logs">Event logs</h2>
+
+<p>A smart contract can write permanent data to the blockchain by declaring and then emitting an event. Emitted event log data will remain intact indefinitely, even if that particular smart contract and its global state have been completely removed using the previously mentioned opcode “0xff” known as “selfdestruct.”</p>
+
+<p>The cost of writing to event logs is comparatively cheaper than writing to the blockchain’s global state. For example, it costs around 40 thousand gas to write a single address and a single uint to the blockchain’s state. Alternatively, it only costs around one thousand gas to write that same single address and uint to the blockchain’s event logs.</p>
+
+<p>The following section demonstrates how a smart contract developer could declare and then emit events as part of their smart contract’s day-to-day operation.</p>
+
+<hr />
+
+<h2 id="declaring-events">Declaring events</h2>
+
+<p>The following example is using <a href="https://github.com/CyberMiles/lity">the Lity smart contract programming language</a>. (This is just a snippet, you will see a more holistic example of this code later on.)</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/428df064400c60e342c17c68c3bd05eb621111d7.js"></script>
+
+<p>As you can see, to declare the event, we simply type the word “event” followed by the name of the event. Then we pass in some data types and data names (in this case, the data types of “address” and “safeuint,” which relate to the data names “endUser” and “amount” respectively).</p>
+
+<p>You will notice that we have deliberately specified, in this declaration, that the “endUser” data be <strong>indexed</strong>. Essentially indexing a parameter allows for efficient searching later on. Up to three parameters per event declaration can be indexed.</p>
+
+<hr />
+
+<h2 id="choosing-what-to-log">Choosing what to log</h2>
+
+<p>It is wise to index data, such as account addresses, because it’s likely that you will be searching for information based on a particular account address. It is not a great idea to index other types of data, such as arbitrary amounts (i.e. integers such as 1 or 10). It is completely unnecessary to include (in your event logs) any information that can be easily retrieved using pre-defined global variables or functions (ex. “block.number”). Variables like block.number are included in standard transaction receipts by default.</p>
+
+<h3 id="emitting-events">Emitting events</h3>
+
+<p>Let us now emit the event declared above.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/d0a69878b0ba0afb40a861f769eaf5ce.js"></script>
+
+<p>As you can see from the above code, to emit an event, you simply type “emit” followed by the name of the event (which was declared in the previous code snippet). The data to be included in the event log is passed in during a function’s execution. The order in which data is passed into the emit command must match the order of the data, as seen in the event declaration.</p>
+
+<p>The following code shows the entire smart contract, thereby providing context for the above snippets.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/209a9718c51ca05ff9e37080d0479dca.js"></script>
+
+<p>As previously mentioned, the above example code employs the <a href="https://github.com/CyberMiles/lity">Lity</a> smart contract programming language. Lity is an open-source language enhanced from Solidity, and so the Lity and <a href="https://github.com/ethereum/solidity">Solidity</a> syntax is very similar.</p>
+
+<p>Further to the above code example, the following video provides an in-depth look at declaring, emitting and fetching event logs. Please note that the event logs in the following video are being declared and emitted using <a href="https://github.com/ethereum/vyper">the Vyper programming language</a>, something which you may find this interesting.</p>
+
+<p><strong>Note</strong>: The results on-chain are identical regardless of which programming language the smart contracts were written in.</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/JNXl0KCcqhA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<hr />
+
+<h2 id="developing-your-own-smart-contracts-on-the-cybermiles-blockchain">Developing your own smart contracts on the CyberMiles blockchain</h2>
+
+<h3 id="cybermiles-online-smart-contract-editor">CyberMiles online smart contract editor</h3>
+
+<p>CyberMiles offers a complete development and testing environment where you can write, deploy and interact with your own smart contracts. The above Lity smart contract was written and deployed using <a href="http://europa.cybermiles.io/">the CyberMiles online smart contract editor</a>.</p>
+
+<p><img src="/images/20190210-blockchaindate-02.png" alt="" /></p>
+
+<p>In the above contract code, the function called “addPoints” increments the point balance for a given address. Let’s go ahead and add some points against the account address (0xca35…733c), which deployed the contract.</p>
+
+<p>The contract’s addPoints function can be executed using the following syntax in the terminal of your full node.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/aee86cba919a873f7b3db73edb124db3.js"></script>
+
+<p>Or executed via the CyberMiles online editor.</p>
+
+<p><img src="/images/20190210-blockchaindate-03.png" alt="" /></p>
+
+<p>The overall point balance for a particular user can be obtained via the EventLogCreator.getPoints() function. After many “addPoints” function calls our tally of points for the account (0xca…733c) (at block height 1, 150, 044) is <strong>882</strong>.</p>
+
+<p>The getPoints function can be performed with the following syntax.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/bd4dbb9cba1334b62d50f8421527ab90.js"></script>
+
+<p>Or via the CyberMiles online editor.</p>
+
+<p><img src="/images/20190210-blockchaindate-04.png" alt="" /></p>
+
+<p>Now, knowing that account (0xca…733c) has a grand total of 882 points is great, but this is only part of the story. Analytics are such a big part of all e-commerce ecosystems and, given the future opportunities for predictive analytics, wouldn’t it be nice to have richer information?</p>
+
+<p>Consider the following richer questions:</p>
+
+<ul>
+<li><p>At what rate were the points accumulated? In other words, how many points did the account (0xca…733c) accumulate per day, or per minute?</p></li>
+
+<li><p>Is the account (0xca…733c) demonstrating sustainable growth in points?</p></li>
+
+<li><p>Did the account’s points peak and then drop off, never to regain momentum?</p></li>
+
+<li><p>What percentage of points does the account (0xca…733c) have when compared to another account (0x1472…160C)?</p></li>
+
+<li><p>Did these two accounts take turns in the lead or has one account been dominant during the entire process?</p></li>
+</ul>
+
+<p>The amount of questions that can be asked are only limited by the imagination. Thankfully, the CyberMiles blockchain ecosystem provides you with the flexibility to write your own customized e-commerce applications (smart contracts and DApps), using a myriad of data types as well as mechanisms to store, log and retrieve data. There are enormous opportunities for new innovative businesses to take part in the new era of e-commerce: a decentralized global network of buyers and sellers.</p>
+
+<p>The previous section covered generating event log data. The following section explores the harvesting of event log data.</p>
+
+<hr />
+
+<h2 id="harvesting-event-log-data">Harvesting event log data</h2>
+
+<p>Here are a couple of videos that demonstrate how event logs can be harvested. This first video demonstrates how easily smart contracts can be loaded into a custom harvester. We are using an Elasticsearch instance here.</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/9RJMfFFTshI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>This second video demonstrates how quickly event logs can be harvested and indexed as JSON data, which then can be queried in a public facing RESTful API.</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/m2OY1Fn2UoQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>Once harvested a typical event log will look like the following:</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/ae1448ad012d1bd7e5bfa5ac98a1b845.js"></script>
+
+<h3 id="querying-the-data">Querying the data</h3>
+
+<p>Querying harvested data is very straight forward. The following is an example of a curl command which can be run in any linux console</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/a85915019654e0dab38db41dcce789df.js"></script>
+
+<p>The data returned from the above query reveals that there are 1885 TokenPurchase events in the dataset.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/f2d1ba311c4380bc4e4c3557f8d2fb80.js"></script>
+
+<p>This article previously mentioned that, whilst possible, it is unnecessary to emit pre-defined global variables or functions (namely “block.number”). If you look closely, you can see that the block number is returned in the event log by default. Upon further inspection you also will see many more useful pieces of data, such as blockHash, transactionHash, transactionIndex. The data that was emitted explicitly by the event log can be found in the “returnValues” section of the above data.</p>
+
+<p>In order to demonstrate the flexibility of querying JSON data with JSON data, the next query will return only the <strong>blockNumber</strong> and the <strong>address</strong> of the buyer who purchased tokens.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/fe3ee82ca1cfe906ff6672033a58e56d.js"></script>
+
+<p>As you can see, in the following results, the returned data is limited only to include the blockNumber and buyer’s address (along with, of course, the “name”).</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/1c26e54e69074938ef784d488c646c2d.js"></script>
+
+<h3 id="visualizing-the-data">Visualizing the data</h3>
+
+<p>Unlike other data sources, blockchain event log data is completely normalized — due to security considerations, only the highest quality key/value pairs will ever be included in blocks. Even creators of frontend DApps have a plethora of data validation tools available. Commands like the following allow frontend developers to cleanse data inputs before blockchain transactions are even considered.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/5246d1ae5b458ed3be14238f48fe225f.js"></script>
+
+<p>The great news is that once we have clean normalized data at regular intervals (i.e. fine granularity, event logs within transactions that are within individual blocks), we not only can analyze the data but we also can visually plot the data using <a href="https://plot.ly/graphing-libraries/">open source graphics libraries</a> (ex. plotting information such as growth rates, daily sales, price fluctuations, etc.).</p>
+
+<p><img src="/images/20190210-blockchaindate-05.png" alt="" /></p>
+
+<p>Or perhaps more adventurous visualizations like chord diagrams, which can illustrate interaction between individual account addresses or deployed smart contract addresses.</p>
+
+<p><img src="/images/20190210-blockchaindate-06.png" alt="" /></p>
+
+<h3 id="blockhain-event-log-architecture">Blockhain event log architecture</h3>
+
+<p>While in traditional data analytics we might have used SQL against a relational database, such as the example below.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/5d7a00e01409c3fc944e04150c0492b4b.js"></script>
+
+<p>Lately, and especially due to the fact that blockchain data is schema-less, we are able to query the JSON data using JSON data, as briefly demonstrated above.</p>
+
+<p>Further, to querying the backend with JSON objects, we also are able to simply pass the returned JSON objects right through into a DApps frontend. This facilitates near real-time data visualization.</p>
+
+<p><img src="/images/20190210-blockchaindate-07.png" alt="" /></p>
+
+<h3 id="data-analytics-in-real-time">Data analytics — in real time</h3>
+
+<p>JSON is easily consumed by Javascript. If your frontend is written in a different language, this is still not a problem — there are many lightweight JSON libraries, for almost every language, which can serialize and deserialize JSON objects on the fly. These days, in pretty much all situations, JSON can be passed around an application with very minimal effort. This allows a DApp to perform very quick calculations and, moreover, make new information available to the end user via the frontend.</p>
+
+<h3 id="data-analytics-predictive-analytics">Data analytics: predictive analytics</h3>
+
+<p>Predictive analysis can assist e-commerce ventures in many areas including, but not limited to, better consumer product recommendations, enhancements and improvements in supply chain management, as well as monitoring and reducing fraudulent activities.</p>
+
+<hr />
+
+<h2 id="looking-through-another-lens-the-graph">Looking through another lens: The Graph</h2>
+
+<p><img src="/images/20190210-blockchaindate-08.png" alt="" /></p>
+
+<blockquote>
+<p>“The Graph is a decentralized protocol for indexing and querying data from blockchains, starting with Ethereum” (Thegraph.com, 2019).</p>
+</blockquote>
+
+<p>TheGraph is underpinned by <a href="https://github.com/facebook/graphql">GraphQL</a>, an open-source query language and execution engine that originally was developed by Facebook. Let’s take a closer look at TheGraph via a quick demonstration.</p>
+
+<p>So far we have demonstrated how event logs can be harvested, stored off-chain and then queried (using JSON) via a public facing RESTful API.</p>
+
+<p>TheGraph provides, <a href="https://thegraph.com/">amongst many other things</a>, a mechanism for a DApp to directly fetch and consume only the exact amount of data that the DApp actually requires, at any given time. Here is an example of a GraphQL query for TheGraph.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/11cd2daf6f725c61c9e08a8f6d5ffc70.js"></script>
+
+<p>Right off the bat, we can see (and officially confirm using <a href="https://jsonlint.com/">JSONLint</a>) that TheGraph is different to a traditional RESTful Web Service, in that this GraphQL query is not written in valid JSON.</p>
+
+<p>This is normal!</p>
+
+<p>In fact, this GraphQL syntax is more lightweight than JSON because it does not have to specify whole key:value pairs, such as {“event”: true} and so forth.</p>
+
+<blockquote>
+<p>In case you are wondering, we are querying the Uniswap Exchange protocol on the Ethereum mainnet for these examples. Only this time via <a href="https://thegraph.com/explorer/subgraph/graphprotocol/uniswap">TheGraph’s online explorer</a>.</p>
+</blockquote>
+
+<p>So what does the response look like from TheGraph? Here it is:</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/c87e783da4d27ea0711c33e889db1dd5.js"></script>
+
+<p>You will be very pleased to see that <strong>the response is, in fact, valid JSON</strong>. You also will notice that this data is minimalistic. We have essentially asked the following question of TheGraph.</p>
+
+<blockquote>
+<p>“Considering all of the Uniswap transactions to date, please give me only the name of the very first event log which was ever emitted.”</p>
+</blockquote>
+
+<p>We can build on this first query by expanding the query to ask for not only the event, but also the block number.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/f26178b94056834165e255ff6a801e8c.js"></script>
+
+<p>The following result shows that the event was mined into block number 6629139.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/6c45cd6db5dd844bf1b77d5aef739509.js"></script>
+
+<p>Just purely out of curiosity, another way that we could achieve/confirm this would be to return <strong>all</strong> of the event logs, ordered by block number in ascending order.</p>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/46df6ef40848393c94b801af05820602.js"></script>
+
+<script type="application/javascript" src="//gist.github.com/tpmccallum/19a24c2bf9b35235536641a9ded8c5a1.js"></script>
+
+<p>We have just taken a decent dive into blockchain event logs, so let’s take a step back for a minute and reconsider the fundamentals of what we are trying to achieve overall.</p>
+
+<hr />
+
+<h2 id="a-helicopter-view">A helicopter view</h2>
+
+<p>Armed with the knowledge that there are many, more complex, low-level data flow diagrams from projects such as EOSs demux-js and, of course, TheGraph, let’s come back out of the details and look at the helicopter view of blockchain storage and DApps.</p>
+
+<p><img src="/images/20190210-blockchaindate-09.png" alt="" /></p>
+
+<p>The purpose of the above diagram is just to solidify that lightweight, real-time data transfer is required between any off-chain storage mechanism and a particular DApp.</p>
+
+<h3 id="a-protocol-vs-an-architectural-style">A protocol vs. an architectural style</h3>
+
+<p>From a design perspective, let’s briefly think back to the days of the Simple Object Access <strong>Protocol</strong> (SOAP). Whilst SOAP facilitated communication between disparate machines it also relied on a set of pre-defined application datatypes that were essentially a permanent structure. Any changes (ex. updates to the software application or changes to the static configuration) would disrupt or completely render the previously working interoperability inoperable. Simply put, SOAP is a rigid <strong>protocol</strong>.</p>
+
+<p>Representational State Transfer (REST), on the other hand, introduced essentially an architectural style. Systems that conformed to all of the six architectural constraints were considered RESTful. Further, Web Services that adhered to the architectural constraints were considered RESTful APIs. (You may recall our using RESTful API calls via “curl” at the beginning of this article).</p>
+
+<p>Still, in design mode, while it is tempting to explore ways in which we can, say, improve JSON compression (between the storage and the DApp) and so forth, thinking like this takes us down the path of a protocol — a protocol which enforces that both sides have to agree on a pre-defined set of rules, and which forces the client side (in this case the DApp) to perform additional work (unzipping, decoding etc).</p>
+
+<p>Taking more of an architectural design viewpoint, would it be more effective, in terms of flexibility and interoperability, to focus on conventions as opposed to static configuration? We must remember that smart contract developers can create their own custom event logs that can emit one to many variables of various data types. Do we want to be setting up static configuration for each contract that is deployed in the blockchain network? Is human driven static configuration sustainable? Can it be avoided altogether through the use of strong conventions and machine automation? These are all great design questions. Can you think of any more?</p>
+
+<p>The next wave of blockchain architecture is rising and, right now, there are big opportunities for holistic off-chain storage architecture projects to thrive.</p>
+
+<p>Considering all of the above, is it fair to say that an off-chain architecture should:</p>
+
+<ul>
+<li><p>provide a mechanism to autonomously harvest a smart contract’s event log data based purely on an ABI file and a smart contract’s address?</p></li>
+
+<li><p>automatically assign correct data field types (based solely on the smart contract’s ABI)?</p></li>
+
+<li><p>require only a minimal amount of configuration, automated schema generation as per the previous point?</p></li>
+
+<li><p>provide sufficient internal querying, filtering and logic in order to produce the most succinct responses?</p></li>
+
+<li><p>automatically/dynamically offer autocomplete syntax to the calling software?</p></li>
+
+<li><p>provide a variety of default visual frontend display portals?</p></li>
+
+<li><p>provide a library of built-in analytics (not only to explore trends, correlations and so forth, but also to generate data sets for machine learning)?</p></li>
+
+<li><p>provide a mechanism to interoperate with ubiquitous business software, file formats as well as content management and software development applications?</p></li>
+</ul>
+
+<p>This is a very exciting time. We have an unprecedented amount of information, documentation and software available, as well as the appropriate decentralized infrastructure to test and deploy your projects on.</p>
+
+<p>If you’d like to ask any questions or learn more about anything mentioned in this article, please leave a comment below.</p>
+
+<p>Happy building!</p>
+
+<h2 id="references">References</h2>
+
+<p>Antonopoulos, A. (2017). Mastering Bitcoin. 2nd ed. O’Reilly Media, Inc.</p>
+
+<p>Thegraph.com. (2019). The Graph Docs. [online] Available at: <a href="https://thegraph.com/docs/introduction#what-the-graph-is">https://thegraph.com/docs/introduction#what-the-graph-is</a> [Accessed 6 Feb. 2019].</p>
+
+    </div>
+
+    
+    
+<div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">CyberMiles</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">February 10, 2019</span>
+  </p>
+  
+  <p class="copyright-item">
+    <span class="item-title">License</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
+  </p>
+</div>
+
+    
+    
+
+    <footer class="post-footer">
+      <div class="post-tags">
+          <a href="http://blog.cybermiles.io/tags/blockchain/">blockchain</a>
+          <a href="http://blog.cybermiles.io/tags/ecommerce/">ecommerce</a>
+          <a href="http://blog.cybermiles.io/tags/data/">data</a>
+          
+        </div>
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/20190215-helloworld-en/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">Writing a Hello World Smart Contract for CyberMiles</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        
+          <a class="next" href="/post/20190118-newsletter-zh/">
+            <span class="next-text nav-default">CyberMiles公链双周报</span>
+            <span class="prev-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+        </div>
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:contact@cybermiles.io" rel="me noopener" class="iconfont icon-email"
+        title="email">
+      </a>
+      <a href="https://twitter.com/cybermiles" rel="me noopener" class="iconfont icon-twitter"
+        title="twitter" target="_blank">
+      </a>
+      <a href="https://www.facebook.com/cybermiles/" rel="me noopener" class="iconfont icon-facebook"
+        title="facebook" target="_blank">
+      </a>
+      <a href="https://github.com/CyberMiles/" rel="me noopener" class="iconfont icon-github"
+        title="github" target="_blank">
+      </a>
+      <a href="https://www.weibo.com/Cybermiles" rel="me noopener" class="iconfont icon-weibo"
+        title="weibo" target="_blank">
+      </a>
+  <a href="http://blog.cybermiles.io/index.xml" rel="noopener alternate" type="application/rss&#43;xml" class="iconfont icon-rss"
+    title="rss" target="_blank">
+  </a>
+  </div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane">Jane</a>
+  </span>
+
+  <span class="copyright-year">
+    &copy;
+    
+      2018 -
+    2021
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span><span class="author">
+        CyberMiles
+        
+      </span></span>
+
+  
+  
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+<script type="text/javascript" src="/dist/jane.min.js?v=2.7.0"></script>
+
+
+
+
+
+  
+    <script type="text/javascript" src="/js/load-photoswipe.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe.min.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

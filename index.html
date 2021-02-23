@@ -1,0 +1,9 @@
+<script>
+var language = window.navigator.userLanguage || window.navigator.language;
+
+if (language.lastIndexOf("zh", 0) === 0) {
+    window.location.replace("/categories/zh/");
+} else {
+    window.location.replace("/categories/en/");
+}
+</script>
