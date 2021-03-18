@@ -8,7 +8,7 @@ categories: ["en"]
 
 
 
-**March 18, 2021** – Sino-Global Shipping America, Ltd. (NASDAQ: SINO) collaborate with the public blockchain CyberMiles to launch a new exchange for NFTs (non-fungible tokens). The new NFT exchange will serve as a highly-secure, robust platform for collectors, artists, musicians and investors to create, sell and buy one of a kind, digital content represented as NFTs. The companies expect to officially launch their new NFT platform in July 2021, providing a critical link between the virtual blockchain world and the physical world.
+**March 18, 2021** – Sino-Global Shipping America, Ltd. (NASDAQ: SINO) collaborates with the public blockchain CyberMiles to launch a new exchange for NFTs (non-fungible tokens). The new NFT exchange will serve as a highly-secure, robust platform for collectors, artists, musicians and investors to create, sell and buy one of a kind, digital content represented as NFTs. The companies expect to officially launch their new NFT platform in July 2021, providing a critical link between the virtual blockchain world and the physical world.
 
 
 Non-Fungible tokens (NFTs), also ERC721 tokens, have captured the public’s imagination since it was first introduced as an EIP in September of 2017. Non-Fungible tokens allow issuers to tokenize the ownership of digital assets, drastically increasing the design space of what can be represented as a token on the Ethereum and EVM-compatible blockchain. 
