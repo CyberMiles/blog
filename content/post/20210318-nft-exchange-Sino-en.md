@@ -1,5 +1,5 @@
 ---
-title: "Sino-Global Join CyberMiles in Launching a Highly-Secure NFT Exchange"
+title: "Sino-Global Joins CyberMiles in Launching a Highly-Secure NFT Exchange"
 date: 2021-03-18T10:00:23+08:00
 draft: false
 tags: ["CMT","NFT"] 
