@@ -15,9 +15,9 @@ Non-Fungible tokens (NFTs), also ERC721 tokens, have captured the public’s ima
 
 Over the past few months, NFT has become the hottest topic in the blockchain field. A digital artwork hammered for [$60.25 million] (https://onlineonly.christies.com/s/first-open-beeple/beeple-b-1981-1/112924) at Christie’s in New York.
 
-Celebrities like Elon Musk, Jack Dorsey, and Justin Roiland, the creator of Rick and Morty, have also begun to use NFT to represent their Twitter content, hand-painted original paintings or other artworks on the blockchain, proving ownership to be sole and only even on the Internet. 
+Celebrities like Elon Musk, Jack Dorsey, and Justin Roiland, the creator of Rick and Morty, have also begun to use NFT to represent their Twitter content, original paintings or other artworks on the blockchain, proving their unique ownership on the Internet. 
 
-**CyberMiles public blockchain empowers the NFT platform
+**CyberMiles public blockchain empowers the NFT platform**
 
 
 CyberMiles is a high-performance public blockchain that actively explored the distributed economy and technological ecology, it was the first to propose a high-performance commercial solution for the Ethereum public blockchain DPOS consensus. This solution has been adopted by blockchains initiated by Binance and Huobi. As early as 2018, CyberMiles has begun to promote and support NFT minting, trading, etc., and it is also the first public blockchain to be used in the NFTization and auction of artists' works.
