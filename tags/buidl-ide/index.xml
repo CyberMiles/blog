@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buidl Ide on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/buidl-ide/</link>
+    <description>Recent content in Buidl Ide on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 May 2020 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/buidl-ide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Issue your own CRC20 token on CyberMiles</title>
+      <link>http://blog.cybermiles.io/post/20190521-issue-token-en/</link>
+      <pubDate>Fri, 22 May 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190521-issue-token-en/</guid>
+      <description>Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
+You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
+But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.</description>
+    </item>
+    
+  </channel>
+</rss>

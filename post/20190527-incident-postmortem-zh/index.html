@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>服务中断事件回溯 - CyberMiles News and Articles</title>
+  
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+
+
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="author" content="CyberMiles" />
+  <meta name="description" content="tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 v0.1.8-beta-hotfix，然后重启。或者，你" />
+
+  <meta name="keywords" content="CyberMiles, CMT, blockchain, e-commerce, commerce, bitcoin, smart contract" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54.0" />
+
+
+<link rel="canonical" href="http://blog.cybermiles.io/post/20190527-incident-postmortem-zh/" />
+
+
+
+<link rel="icon" href="/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+<link href="/dist/jane.min.css?v=2.7.0" rel="stylesheet">
+
+
+
+
+
+
+<meta itemprop="name" content="服务中断事件回溯">
+<meta itemprop="description" content="tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 v0.1.8-beta-hotfix，然后重启。或者，你">
+
+
+<meta itemprop="datePublished" content="2019-05-27T17:07:23&#43;08:00" />
+<meta itemprop="dateModified" content="2019-05-27T17:07:23&#43;08:00" />
+<meta itemprop="wordCount" content="1504">
+
+
+
+<meta itemprop="keywords" content="disruption,incident," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="服务中断事件回溯"/>
+<meta name="twitter:description" content="tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 v0.1.8-beta-hotfix，然后重启。或者，你"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120065893-12', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<meta property="og:title" content="服务中断事件回溯 - CyberMiles News and Articles">
+  <meta property="og:description" content="tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 v0.1.8-beta-hotfix，然后重启。或者，你" />
+<meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
+<meta property="og:url" content="http://blog.cybermiles.io/post/20190527-incident-postmortem-zh/">
+
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="https://www.cybermiles.io" class="logo">
+      <img src="/logo-small.png">
+      
+    </a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+
+  
+    
+
+
+
+
+
+
+  <link rel="stylesheet" href="/lib/photoswipe/photoswipe.min.css" />
+  <link rel="stylesheet" href="/lib/photoswipe/default-skin/default-skin.min.css" />
+
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+  
+
+  
+
+  <header id="header" class="header container">
+    <div class="logo-wrapper">
+  <a href="https://www.cybermiles.io" class="logo">
+    <img src="/logo.png">
+    
+  </a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+
+        
+
+      </li>
+    
+    
+  </ul>
+</nav>
+
+  </header>
+
+  <div id="mobile-panel">
+    <main id="main" class="main bg-llight">
+      <div class="content-wrapper">
+        <div id="content" class="content container">
+          <article class="post bg-white">
+    
+    <header class="post-header">
+      <h1 class="post-title">服务中断事件回溯</h1>
+      
+      <div class="post-meta">
+        <span class="post-time"> May 27, 2019 </span>
+        <div class="post-category">
+            <a href="http://blog.cybermiles.io/categories/zh/"> zh </a>
+            
+          </div>
+        
+
+        
+        
+
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+    
+    <div class="post-content">
+      
+
+<blockquote>
+<p>tl;dr 如果你的 CyberMiles 节点停在了快高 1724747，请停止程序（CTRL-C），升级到软件版本 <a href="https://github.com/CyberMiles/travis/releases/tag/v0.1.8-beta-hotfix">v0.1.8-beta-hotfix</a>，然后重启。或者，你可以<a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#snapshot">从快照重启</a>或<a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#sync-from-genesis">从创世区块开始同步</a>。如果你是一个验证人节点，请备份好你的配置文件，然后用你的验证人配置文件重启。</p>
+</blockquote>
+
+<p>2019年5月26日，CyberMiles公链遭遇技术故障，区块链因此暂停运行17小时。在此期间，区块链未接受，也没有记录任何交易，<strong>没有发生数据丢失也没有交易回滚的情况发生。</strong></p>
+
+<p>作为一个去中心化的公链，CyberMiles由全球24个验证人维护。任何软件的更改，必须经过批准，然后由2/3的验证人实施才能生效。服务中断令人遗憾，但是CyberMiles区块链暂停服务是其安全机制的一部分：通过多元化的独立验证人共识维护交易的安全性和完整性的机制。下面是事件过程。</p>
+
+<p>在2019年5月26日美国东部时间凌晨5点左右，一位用户提交了一笔交易，用以在CyberMiles区块链上创建智能合约。该交易包含在区块高度1724748中。当每个区块链节点的CyberMiles虚拟机（CVM）执行该交易时，触发了一个导致CVM崩溃的错误。具体而言，当用户请求执行交易而不需支付gas时，CVM的<a href="https://www.litylang.org/gas/">“free gas”</a>规则会检查交易的目标地址。但是，<strong>该用户创建的智能合约，交易的目标地址为空（null）。</strong> 由此导致软件抛出了空指针异常，导致CVM崩溃。</p>
+
+<p><img src="/images/20190527-incident-postmortem-01.PNG" alt="" /></p>
+
+<p>这导致所有CyberMiles节点都无法处理块高1724748，在块高1724747处停止了工作。此问题被报告给CyberMiles核心开发人员。位于台北的CVM开发人员立即解决了这个问题，并制作了一个<a href="https://github.com/second-state/lityvm/commit/557cc4935d94d6e1d6b947143788838ca98908f9">软件补丁</a>。然后，北京和美国的区块链工程团队对其进行了测试并发布了新的软件版本<a href="https://github.com/CyberMiles/travis/releases/tag/v0.1.8-beta-hotfix">v0.1.8-beta-hotfix</a>。核心开发人员已准备好，并通知验证人审核，批准和实施v0.1.8-beta-hotfix。</p>
+
+<p><img src="/images/20190527-incident-postmortem-02.png" alt="" /></p>
+
+<p>然而，这时第二个问题出现了。由于空指针异常使CVM崩溃，因此虚拟机异常关闭。位于北京，洛杉矶和奥斯汀的运营团队发现，此次崩溃发生后，某些节点的数据库文件可能已经损坏。因此，使用新的二进制应用程序直接重启，已经不可能。</p>
+
+<p><img src="/images/20190527-incident-postmortem-03.PNG" alt="" /></p>
+
+<p>出于谨慎的预防考虑，CyberMiles工程团队决定遵从CyberMiles <a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html">快照快速同步程序</a>，建议所有节点从块高1724748的未损坏处快照，进行重启。</p>
+
+<p>在社区中可以找到在块高1724748上具有所有验证人签名的未损坏节点。它在压缩后的数据大小为18GB。然后，在向社区再次提供这个文件之前，此节点的<a href="https://s3-us-west-2.amazonaws.com/travis-ss-bucket/mainnet/travis_ss_mainnet_1558862782_1724747.tar">数据快照</a>进行了审核，验证，并证明了有效可行。</p>
+
+<p>美国东部时间下午5点，北美的第一个验证人节点上线了更新的软件v0.1.8-beta-hotfix。但是，如果没有达到17个有效验证人数量（即块高度为1724748的24个验证人的2/3），则区块链不能产生下一个块。在处于亚洲的节点在周一早上恢复工作后，美国东部时间晚上10点，验证人进行了软件升级的人数达到了三分之二，区块链服务，如<a href="https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/">CMT Wallet</a>，<a href="https://www.cybermiles.io/en-us/cmt/cmt-cube/">CMT Cube</a>和区块浏览器<a href="https://www.cmttracking.io/">CMT Tracking</a>在此之后也很快恢复了。</p>
+
+<h3 id="主要经验教训">主要经验教训</h3>
+
+<ul>
+<li>CyberMiles开发团队必须提高测试覆盖率，尤其是对于我们的原创和创新的功能。</li>
+<li>核心开发人员和验证人之间的事件响应协调需要改进。CyberMiles团队快速识别和修补了问题发生的根本原因，但验证人之间的协调花费了很长时间。</li>
+<li>像CyberMiles这样的DPoS区块链可能会遭遇<a href="https://www.trustnodes.com/2018/06/16/eos-stops-functioning-network">服务中断</a>，但是不会出现分叉。</li>
+<li>多元化的验证人，可以提高区块链的安全性，但是，由于在世界各地不同时区不同语言的验证人难以快速协调做出一致的反应，服务中断的时间会较长。</li>
+</ul>
+
+    </div>
+
+    
+    
+<div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">CyberMiles</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">May 27, 2019</span>
+  </p>
+  
+  <p class="copyright-item">
+    <span class="item-title">License</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
+  </p>
+</div>
+
+    
+    
+
+    <footer class="post-footer">
+      <div class="post-tags">
+          <a href="http://blog.cybermiles.io/tags/disruption/">disruption</a>
+          <a href="http://blog.cybermiles.io/tags/incident/">incident</a>
+          
+        </div>
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/20190527-incident-postmortem-en/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">Service Disruption Incident Postmortem</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        
+          <a class="next" href="/post/20190523-mainnet-upgrade-en/">
+            <span class="next-text nav-default">CyberMiles Mainnet Upgraded to v0.1.8-beta</span>
+            <span class="prev-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+        </div>
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:contact@cybermiles.io" rel="me noopener" class="iconfont icon-email"
+        title="email">
+      </a>
+      <a href="https://twitter.com/cybermiles" rel="me noopener" class="iconfont icon-twitter"
+        title="twitter" target="_blank">
+      </a>
+      <a href="https://www.facebook.com/cybermiles/" rel="me noopener" class="iconfont icon-facebook"
+        title="facebook" target="_blank">
+      </a>
+      <a href="https://github.com/CyberMiles/" rel="me noopener" class="iconfont icon-github"
+        title="github" target="_blank">
+      </a>
+      <a href="https://www.weibo.com/Cybermiles" rel="me noopener" class="iconfont icon-weibo"
+        title="weibo" target="_blank">
+      </a>
+  <a href="http://blog.cybermiles.io/index.xml" rel="noopener alternate" type="application/rss&#43;xml" class="iconfont icon-rss"
+    title="rss" target="_blank">
+  </a>
+  </div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane">Jane</a>
+  </span>
+
+  <span class="copyright-year">
+    &copy;
+    
+      2018 -
+    2021
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span><span class="author">
+        CyberMiles
+        
+      </span></span>
+
+  
+  
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+<script type="text/javascript" src="/dist/jane.min.js?v=2.7.0"></script>
+
+
+
+
+
+  
+    <script type="text/javascript" src="/js/load-photoswipe.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe.min.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

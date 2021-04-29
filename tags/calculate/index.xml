@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculate on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/calculate/</link>
+    <description>Recent content in Calculate on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 May 2019 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/calculate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ask CyberMiles Question 3: Is it easy to build DApps on Cybermiles blockchain and what background knowledge do I need?</title>
+      <link>http://blog.cybermiles.io/post/20190509-amaq3-en/</link>
+      <pubDate>Wed, 08 May 2019 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190509-amaq3-en/</guid>
+      <description>Q: Is it easy to build DApps on Cybermiles blockchain and what background knowledge do I need?
+A: It is easy. For the traditional software developers, there are two things to learn.
+The first is a programming language called Lity, based on Solidity from Ethereum, with the same grammar but with slightly different keywords. [Lity] develops smart contracts, and then you use a Javascript library called web3 to interact with the smart contracts.</description>
+    </item>
+    
+    <item>
+      <title>Ask CyberMiles Question 2: Is there any chance for staking community to get a simple calculator for staked CMTs?</title>
+      <link>http://blog.cybermiles.io/post/20190509-amaq2-en/</link>
+      <pubDate>Wed, 08 May 2019 12:06:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190509-amaq2-en/</guid>
+      <description>Q: Is there any chance for staking community to get a simple calculator for staked CMTs?
+A: Yes. We have simplified computation. ROI depends on 2 factors: the amount of CMTs put on stake; the ratio of CMTs between cube and Wallet.
+There will be a simple calculator on CMT explorer to show real time ROI. Caculator comes with the new version of CMT Wallet.
+Learn more at cybermiles.io.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/categories/</link>
+    <description>Recent content in Categories on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://blog.cybermiles.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docs</title>
+      <link>http://blog.cybermiles.io/categories/docs/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En</title>
+      <link>http://blog.cybermiles.io/categories/en/</link>
+      <pubDate>Wed, 24 Mar 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>http://blog.cybermiles.io/categories/index/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ko</title>
+      <link>http://blog.cybermiles.io/categories/ko/</link>
+      <pubDate>Mon, 13 May 2019 19:01:23 +0900</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/ko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://blog.cybermiles.io/categories/shortcodes/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zh</title>
+      <link>http://blog.cybermiles.io/categories/zh/</link>
+      <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/zh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethereum on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/ethereum/</link>
+    <description>Recent content in Ethereum on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Apr 2020 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Release of EWASM test net based on CyberMiles public blockchain</title>
+      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
+      <description>A NEW public EWASM test net based on Second State&amp;rsquo;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&amp;rsquo;s first public blockchains to support Ethereum&amp;rsquo;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&amp;rsquo;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
+WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
+    </item>
+    
+    <item>
+      <title>基于CyberMiles公链的 Ewasm 测试链正式发布</title>
+      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-zh/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-zh/</guid>
+      <description>基于 Second State 的虚拟机技术及CyberMiles 公链的区块链软件，新的公共 Ewasm 测试链上线了。CyberMiles 成为全球首批支持以太坊下一代虚拟机的</description>
+    </item>
+    
+    <item>
+      <title>I accidentally killed it (and evaporated $300 million)</title>
+      <link>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</link>
+      <pubDate>Sat, 11 Nov 2017 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</guid>
+      <description>Github user devops199 said on Twitter “I accidentally killed it”. Before anyone can blink an eye, his “accident” has “killed” Ethereum accounts holding over $300M in crypto assets. On average, each of his 4 words cost $75M.
+One of those Ethereum accounts belongs to the Polkadot project, and it held close to $90M before it was “killed”.
+Someone asked devops199 after the incident: Why did you do it? His response?</description>
+    </item>
+    
+  </channel>
+</rss>

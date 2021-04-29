@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/business/</link>
+    <description>Recent content in Business on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2019 15:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From the Silk Road to a self-governing DAO, CyberMiles is changing the face of decentralized e-commerce</title>
+      <link>http://blog.cybermiles.io/post/20190516-ecommerce-dao-en/</link>
+      <pubDate>Thu, 16 May 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190516-ecommerce-dao-en/</guid>
+      <description>5miles, a top e-commerce marketplace in the USA, has started to migrate and record its operational data, including new product listings and anonymized reviews, onto the CyberMiles public blockchain. It is the first step toward the vision of decentralized e-commerce. Eventually, the entire 5miles marketplace, with over 15 million users in the USA alone and $100+ billion USD in GMV, will operate as a Decentralized Autonomous Organization (DAO) on the CyberMiles public blockchain.</description>
+    </item>
+    
+  </channel>
+</rss>

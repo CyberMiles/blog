@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pizza on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/pizza/</link>
+    <description>Recent content in Pizza on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 May 2019 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FairPlay: Win a pizza on the Bitcoin Pizza Day</title>
+      <link>http://blog.cybermiles.io/post/20190521-pizza-giveaway-en/</link>
+      <pubDate>Tue, 21 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190521-pizza-giveaway-en/</guid>
+      <description>FairPlay will choose 4 lucky winners, and give away Domino&amp;rsquo;s pizza gift cards ($15 each) on May 22nd!
+May 22nd is known as the Bitcoin Pizza Day. On that day, we celebrate the most “expensive” pizza bought in human history!
+On May 22nd 2010, Laszlo Hanyecz, a computer programmer in Florida, paid a Bitcoin Talk forum user 10,000 BTC to get two pizzas. In today&amp;rsquo;s Bitcoin value, he paid more than $400 million US Dollars for each pizza.</description>
+    </item>
+    
+  </channel>
+</rss>

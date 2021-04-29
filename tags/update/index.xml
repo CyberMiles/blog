@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/update/</link>
+    <description>Recent content in Update on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Apr 2019 15:30:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make libENI safer</title>
+      <link>http://blog.cybermiles.io/post/20190408-docker-en/</link>
+      <pubDate>Mon, 08 Apr 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190408-docker-en/</guid>
+      <description>TL;DR If you use Docker to run a CyberMiles node, please make sure that you turn on the priviledged Docker option:
+1  docker run --privileged --name travis -v $HOME/.travis:/travis -t -p 26657:26657 cybermiles/travis:v0.1.7-beta node start --home /travis   Read on to find out how to run a node for the CyberMiles testnet or the mainnet.
+The long story One of the key technology innovations from the CyberMiles public blockchain is the libENI dynamic extension.</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles 2019/04 MainNet software update</title>
+      <link>http://blog.cybermiles.io/post/20190404-mainnetupdate-en/</link>
+      <pubDate>Thu, 04 Apr 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190404-mainnetupdate-en/</guid>
+      <description>Following an on-chain governance vote on April 1st 2019, the CyberMiles public blockchain validators (super nodes) coordinated a successful software upgrade on April 4th 2019 to improve the usability and stability of the blockchain. After a brief service interruption to restart the validator nodes with upgraded software, all services have now resumed.
+The highlights from this upgrade are as follows.
+Application developers We brought two exciting features to the CyberMiles MainNet.</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles主链升级完成，取消权益投票期间也有收益</title>
+      <link>http://blog.cybermiles.io/post/20190404-mainnetupdate-zh/</link>
+      <pubDate>Thu, 04 Apr 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190404-mainnetupdate-zh/</guid>
+      <description>4月4日，CyberMiles主链在19位验证人的协作下，已完成了v0.1.7-beta的升级。 这次的升级除了虚拟机功能的升级外，对DPoS</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles主链成功升级，亮点在哪里？</title>
+      <link>http://blog.cybermiles.io/post/20190404-mainnetdevelopers-zh/</link>
+      <pubDate>Thu, 04 Apr 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190404-mainnetdevelopers-zh/</guid>
+      <description>经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年4月4日成功地进行了无分叉的软件升级。本次升级后，CyberM</description>
+    </item>
+    
+  </channel>
+</rss>

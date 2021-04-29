@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/community/</link>
+    <description>Recent content in Community on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2019 18:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>社区投票：CMT Wallet是否应该尽快开通权益投票功能</title>
+      <link>http://blog.cybermiles.io/post/20190417-vote-zh/</link>
+      <pubDate>Wed, 17 Apr 2019 18:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190417-vote-zh/</guid>
+      <description>考虑到社区的意见和建议，CyberMiles基金会于4月14日发起了#是否支持开放CMT Wallet参与权益投票功能#的社区投票。 经过CMT</description>
+    </item>
+    
+  </channel>
+</rss>

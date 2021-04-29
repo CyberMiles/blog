@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Engine on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/search-engine/</link>
+    <description>Recent content in Search Engine on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jun 2019 15:30:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FairPlay：一种新型DApp</title>
+      <link>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</link>
+      <pubDate>Fri, 21 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</guid>
+      <description>什么是FairPlay FairPlay 使用智能合约进行公平透明的自动抽奖。 它允许任何人创建并参与抽奖等电商营销活动。 根据Google Analystics，</description>
+    </item>
+    
+    <item>
+      <title>FairPlay: a new type of DApp</title>
+      <link>http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/</link>
+      <pubDate>Thu, 20 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/</guid>
+      <description>Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.
+What is FairPlay FairPlay uses smart contracts to conduct automated prize draws that are fair and transparent. It allows anyone to create and participate in product giveaways and e-commerce marketing campaigns. Since its launch, FairPlay has routinely reached a DAU (Daily Active Users) of 1000 (according to Google Analytics), with each giveaway receiving hundreds of on-chain transactions, making it one of the most popular DApps of all public blockchains.</description>
+    </item>
+    
+  </channel>
+</rss>

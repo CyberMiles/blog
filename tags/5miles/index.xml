@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5miles on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/5miles/</link>
+    <description>Recent content in 5miles on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2019 15:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/5miles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From the Silk Road to a self-governing DAO, CyberMiles is changing the face of decentralized e-commerce</title>
+      <link>http://blog.cybermiles.io/post/20190516-ecommerce-dao-en/</link>
+      <pubDate>Thu, 16 May 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190516-ecommerce-dao-en/</guid>
+      <description>5miles, a top e-commerce marketplace in the USA, has started to migrate and record its operational data, including new product listings and anonymized reviews, onto the CyberMiles public blockchain. It is the first step toward the vision of decentralized e-commerce. Eventually, the entire 5miles marketplace, with over 15 million users in the USA alone and $100+ billion USD in GMV, will operate as a Decentralized Autonomous Organization (DAO) on the CyberMiles public blockchain.</description>
+    </item>
+    
+    <item>
+      <title>5miles Data Migration Now Complete, Painting a Fuller Picture of CyberMiles&#39; Decentralization</title>
+      <link>http://blog.cybermiles.io/post/20190513-5milesdata1-en/</link>
+      <pubDate>Mon, 13 May 2019 16:02:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190513-5milesdata1-en/</guid>
+      <description>5miles Data Migration Now Complete, Painting a Fuller Picture of CyberMiles&amp;rsquo; Decentralization Though unheard of only a few short years ago, the concept of a blockchain integrated into e-commerce is no longer a new concept. In 2018, we witnessed the rise of the first public blockchain for e-commerce, CyberMiles, with progress toward decentralized payments. Meanwhile, some traditional e-commerce giants such as Walmart, Tesco and JD announced that they would use blockchain technology to ensure the transparent, tamper-proof tracing of their products.</description>
+    </item>
+    
+    <item>
+      <title>5miles数据上链完成，CyberMiles公链生态渐显</title>
+      <link>http://blog.cybermiles.io/post/20190513-5milesdata1-zh/</link>
+      <pubDate>Mon, 13 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190513-5milesdata1-zh/</guid>
+      <description>区块链+电商的概念已经不再陌生。2018年，不仅有像CyberMiles 这样垂直电商行业的公链出现，进行过电商支付的尝试，也有京东，苏宁易购</description>
+    </item>
+    
+    <item>
+      <title>5miles数据上链进展情况</title>
+      <link>http://blog.cybermiles.io/post/20190301-5miles-zh/</link>
+      <pubDate>Fri, 01 Mar 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190301-5miles-zh/</guid>
+      <description>大家好！ 5miles数据上链是电商行业应用区块链技术的一次重要探索。CyberMiles基金会的目标是帮助5miles实现世界上第一个大型去</description>
+    </item>
+    
+    <item>
+      <title>Decentralized e-commerce at 5miles</title>
+      <link>http://blog.cybermiles.io/post/20190301-5miles-en/</link>
+      <pubDate>Fri, 01 Mar 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190301-5miles-en/</guid>
+      <description>Migration of the popular 5miles e-commerce market place to a decentralized platform is a major milestone for real world blockchain applications. CyberMiles together with 5miles are going to accomplish this through the following steps.
+ Migrate 5miles product information and user reviews into a CyberMiles smart contract. A web-based DApp will be created to allow users easy access to such information. The CyberMiles public blockchain guarantees e-commerce data integrity, accuracy, and transparency.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Contract on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/smart-contract/</link>
+    <description>Recent content in Smart Contract on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Feb 2021 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/smart-contract/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>中环球船务(SINO.US)携手电商公链 CyberMiles(CMT) 进军 NFT 市场</title>
+      <link>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-zh/</link>
+      <pubDate>Tue, 23 Feb 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-zh/</guid>
+      <description>中环球船务(SINO.US) 将与 CyberMiles 联合发布基于 CyberMiles 公链 CRC-721 协议的 NFT 交易平台，使企业、机构和个人能够在 CyberMiles 公链上轻松地发行 NFT 及进行 NFT 交易。此举将降低</description>
+    </item>
+    
+    <item>
+      <title>Issue your own CRC20 token on CyberMiles</title>
+      <link>http://blog.cybermiles.io/post/20190521-issue-token-en/</link>
+      <pubDate>Fri, 22 May 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190521-issue-token-en/</guid>
+      <description>Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
+You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
+But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.</description>
+    </item>
+    
+    <item>
+      <title>How to build a forum on blockchain via BUIDL for CMT</title>
+      <link>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</link>
+      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</guid>
+      <description>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
+Create your own forum DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
+    </item>
+    
+    <item>
+      <title>Create a Vote DApp via BUIDL for CMT</title>
+      <link>http://blog.cybermiles.io/post/20191220-vote-en/</link>
+      <pubDate>Fri, 20 Dec 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20191220-vote-en/</guid>
+      <description>The example dapp is a web application where people can vote thumb up or thumb down on a statement. All the votes are recorded on the blockchain.
+Create your own vote DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
+    </item>
+    
+    <item>
+      <title>FairPlay：一种新型DApp</title>
+      <link>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</link>
+      <pubDate>Fri, 21 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</guid>
+      <description>什么是FairPlay FairPlay 使用智能合约进行公平透明的自动抽奖。 它允许任何人创建并参与抽奖等电商营销活动。 根据Google Analystics，</description>
+    </item>
+    
+    <item>
+      <title>FairPlay: a new type of DApp</title>
+      <link>http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/</link>
+      <pubDate>Thu, 20 Jun 2019 15:30:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/</guid>
+      <description>Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.
+What is FairPlay FairPlay uses smart contracts to conduct automated prize draws that are fair and transparent. It allows anyone to create and participate in product giveaways and e-commerce marketing campaigns. Since its launch, FairPlay has routinely reached a DAU (Daily Active Users) of 1000 (according to Google Analytics), with each giveaway receiving hundreds of on-chain transactions, making it one of the most popular DApps of all public blockchains.</description>
+    </item>
+    
+    <item>
+      <title>FairPlay: Win a pizza on the Bitcoin Pizza Day</title>
+      <link>http://blog.cybermiles.io/post/20190521-pizza-giveaway-en/</link>
+      <pubDate>Tue, 21 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190521-pizza-giveaway-en/</guid>
+      <description>FairPlay will choose 4 lucky winners, and give away Domino&amp;rsquo;s pizza gift cards ($15 each) on May 22nd!
+May 22nd is known as the Bitcoin Pizza Day. On that day, we celebrate the most “expensive” pizza bought in human history!
+On May 22nd 2010, Laszlo Hanyecz, a computer programmer in Florida, paid a Bitcoin Talk forum user 10,000 BTC to get two pizzas. In today&amp;rsquo;s Bitcoin value, he paid more than $400 million US Dollars for each pizza.</description>
+    </item>
+    
+    <item>
+      <title>I accidentally killed it (and evaporated $300 million)</title>
+      <link>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</link>
+      <pubDate>Sat, 11 Nov 2017 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</guid>
+      <description>Github user devops199 said on Twitter “I accidentally killed it”. Before anyone can blink an eye, his “accident” has “killed” Ethereum accounts holding over $300M in crypto assets. On average, each of his 4 words cost $75M.
+One of those Ethereum accounts belongs to the Polkadot project, and it held close to $90M before it was “killed”.
+Someone asked devops199 after the incident: Why did you do it? His response?</description>
+    </item>
+    
+    <item>
+      <title>What is CyberMiles?</title>
+      <link>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</link>
+      <pubDate>Sun, 15 Oct 2017 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</guid>
+      <description>What makes the CyberMiles blockchain and tokens so unique? Why do we call the CyberMiles Token (CMT) the “master token” for e-commerce? Join us through our token sale event!
+ CyberMiles is a next generation blockchain for smart contracts. Its Smart Business Contract is designed to be far more powerful than Ethereum Smart Contracts. It will be the next generation Ethereum (ETH).  2.CyberMiles is optimized for e-commerce applications. It will provide a large library of commerce-related Smart Business Contracts, making it a breeze to build decentralized commerce applications.</description>
+    </item>
+    
+  </channel>
+</rss>

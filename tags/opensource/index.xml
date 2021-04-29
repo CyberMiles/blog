@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/opensource/</link>
+    <description>Recent content in Opensource on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jan 2018 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome Dr. Marc Fleury to CyberMiles!</title>
+      <link>http://blog.cybermiles.io/post/20180109-marc-en/</link>
+      <pubDate>Fri, 19 Jan 2018 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20180109-marc-en/</guid>
+      <description>Twenty years ago, the Open Source community was at a crossroad. The method of decentralized software production (aka Open Source collaboration), championed by a small number of ideology-driven developers, had produced very impressive results such as the Linux operating system, the Apache web server, the GCC compilers, and much more. Yet, the mainstream software powerhouses were still skeptical and even hostile to software decentralization (Microsoft called it a “cancer”, worse than scam).</description>
+    </item>
+    
+  </channel>
+</rss>

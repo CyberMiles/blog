@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecommerce on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/ecommerce/</link>
+    <description>Recent content in Ecommerce on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jul 2019 15:00:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More giveaways with FairPlay DApp are coming</title>
+      <link>http://blog.cybermiles.io/post/20190703-faiplay-en/</link>
+      <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190703-faiplay-en/</guid>
+      <description>Thanks for all players who has participated the two-week giveaway and our lovely sponsors. We have 1900+ players in the last campaign in June.
+FairPlay #DApp statistics round-up.
+Amazing performance! Thanks go to all of our sponsors!!!
+For more prizes, visit https://t.co/fvkD81v0rB@FairPlayDapp#luckydraw #fair #raffle #luck #win #prize #crypto #jackpot #blockchain #token #ecommerce #freebie #gift pic.twitter.com/Pp6DfUt9RF
+&amp;mdash; CyberMiles (@cybermiles) June 27, 2019 
+This campaign has ended with great popularity. For those who missed the chance to enter, no need to be regretful, because the giveaways are gonna keep coming!</description>
+    </item>
+    
+    <item>
+      <title>The next wave in blockchain data</title>
+      <link>http://blog.cybermiles.io/post/20190210-blockchaindate-en/</link>
+      <pubDate>Sun, 10 Feb 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190210-blockchaindate-en/</guid>
+      <description>Last year we provided an in-depth look into blockchain storage, also known as global state. In that article I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.
+Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletter on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/newsletter/</link>
+    <description>Recent content in Newsletter on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2020 15:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberMiles 双周报（1026）</title>
+      <link>http://blog.cybermiles.io/post/20201016-biweekly-zh/</link>
+      <pubDate>Mon, 26 Oct 2020 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20201016-biweekly-zh/</guid>
+      <description>大家好，为大家介绍 CyberMiles 公链在 2020.09.26 至 2020.10.16 期间的进展： CyberMiles 团队研究成果被 Sage journals 发表的论文引用 CyberMiles 开发者 Tim McCallum 撰写的《Diving into Ethereum’s world sta</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles Community Update (mid-March 2019)</title>
+      <link>http://blog.cybermiles.io/post/20190319-newsletter-en/</link>
+      <pubDate>Tue, 19 Mar 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190319-newsletter-en/</guid>
+      <description>1. ICE, parent company of Bakkt and NYSE, adds CMT to crypto data feed Intercontinental Exchange (ICE), which builds, operates and advances global markets through information and technology, has added 58 leading cryptocurrencies to its crypto data feed, including the CyberMiles Token (CMT).
+This move by ICE, which owns of 12 financial exchanges and marketplaces, including the storied New York Stock Exchange (NYSE), is a significant for CMT because, in addition to NYSE, the company has invested heavily in Bakkt, purportedly “the first integrated, institutional grade exchange-traded markets and custody solution for physical delivery of digital assets.</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles公链双周报</title>
+      <link>http://blog.cybermiles.io/post/20190118-newsletter-zh/</link>
+      <pubDate>Fri, 18 Jan 2019 16:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190118-newsletter-zh/</guid>
+      <description>各位好，CyberMiles 公链在2019.01.05-2019.01.18 期间进展如下： 5miles 将使用CyberMiles 公链进行区块链改造 CyberMiles 创</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles 2018 Review</title>
+      <link>http://blog.cybermiles.io/post/20190118-yearend-en/</link>
+      <pubDate>Fri, 18 Jan 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190118-yearend-en/</guid>
+      <description>CyberMiles&amp;rsquo; 2018 in one picture</description>
+    </item>
+    
+    <item>
+      <title>CyberMiles 2018年回顾</title>
+      <link>http://blog.cybermiles.io/post/20190118-yearend-zh/</link>
+      <pubDate>Fri, 18 Jan 2019 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190118-yearend-zh/</guid>
+      <description>一张图带你了解CyberMiles的2018年</description>
+    </item>
+    
+  </channel>
+</rss>

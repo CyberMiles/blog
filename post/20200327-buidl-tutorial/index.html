@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>How to build a forum on blockchain via BUIDL for CMT - CyberMiles News and Articles</title>
+  
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+
+
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="author" content="CyberMiles" />
+  <meta name="description" content="The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
+Create your own forum DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab." />
+
+  <meta name="keywords" content="CyberMiles, CMT, blockchain, e-commerce, commerce, bitcoin, smart contract" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54.0" />
+
+
+<link rel="canonical" href="http://blog.cybermiles.io/post/20200327-buidl-tutorial/" />
+
+
+
+<link rel="icon" href="/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+<link href="/dist/jane.min.css?v=2.7.0" rel="stylesheet">
+
+
+
+
+
+
+<meta itemprop="name" content="How to build a forum on blockchain via BUIDL for CMT">
+<meta itemprop="description" content="The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
+Create your own forum DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&rsquo; Venus wallet, you could opt to use Venus in the Providers tab.">
+
+
+<meta itemprop="datePublished" content="2020-03-27T10:01:23&#43;08:00" />
+<meta itemprop="dateModified" content="2020-03-27T10:01:23&#43;08:00" />
+<meta itemprop="wordCount" content="858">
+
+
+
+<meta itemprop="keywords" content="BUIDL,smart contract,CyberMiles,development,blockchain," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to build a forum on blockchain via BUIDL for CMT"/>
+<meta name="twitter:description" content="The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
+Create your own forum DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&rsquo; Venus wallet, you could opt to use Venus in the Providers tab."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-120065893-12', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<meta property="og:title" content="How to build a forum on blockchain via BUIDL for CMT - CyberMiles News and Articles">
+  <meta property="og:description" content="The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
+Create your own forum DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab." />
+<meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
+<meta property="og:url" content="http://blog.cybermiles.io/post/20200327-buidl-tutorial/">
+
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="https://www.cybermiles.io" class="logo">
+      <img src="/logo-small.png">
+      
+    </a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+
+  
+    
+
+
+
+
+
+
+  <link rel="stylesheet" href="/lib/photoswipe/photoswipe.min.css" />
+  <link rel="stylesheet" href="/lib/photoswipe/default-skin/default-skin.min.css" />
+
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+  
+
+  
+
+  <header id="header" class="header container">
+    <div class="logo-wrapper">
+  <a href="https://www.cybermiles.io" class="logo">
+    <img src="/logo.png">
+    
+  </a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/en">English</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/zh">中文</a>
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          <a class="menu-item-link" href="http://blog.cybermiles.io/categories/ko">한국어</a>
+
+        
+
+      </li>
+    
+    
+  </ul>
+</nav>
+
+  </header>
+
+  <div id="mobile-panel">
+    <main id="main" class="main bg-llight">
+      <div class="content-wrapper">
+        <div id="content" class="content container">
+          <article class="post bg-white">
+    
+    <header class="post-header">
+      <h1 class="post-title">How to build a forum on blockchain via BUIDL for CMT</h1>
+      
+      <div class="post-meta">
+        <span class="post-time"> March 27, 2020 </span>
+        <div class="post-category">
+            <a href="http://blog.cybermiles.io/categories/en/"> en </a>
+            
+          </div>
+        
+
+        
+        
+
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+    
+    <div class="post-content">
+      
+
+<p>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.</p>
+
+<p><img src="/images/20200327-forum-04.png" alt="" /></p>
+
+<p>Create your own forum DApp according to the following steps.</p>
+
+<h3 id="step-1">Step 1</h3>
+
+<p>Open the <a href="https://www.secondstate.io/buidl/">BUIDL IDE tool for CMT</a> in any browser. <a href="http://buidl.secondstate.io/cmt">http://buidl.secondstate.io/cmt</a></p>
+
+<h3 id="step-2">Step 2</h3>
+
+<p>Open the Accounts tab and send a little CMTs to your default account.</p>
+
+<blockquote>
+<p>If you have CyberMiles&rsquo; Venus wallet, you could opt to use Venus in the Providers tab. BUIDL and dapps it creates will now use the default account in Venus to make contract calls and to pay for gas.</p>
+</blockquote>
+
+<h3 id="step-3">Step 3</h3>
+
+<h4 id="3-1-copy-and-paste-the-following-code-to-the-contract-section-of-buidl">3.1 Copy and paste the following code to the contract section of BUIDL.</h4>
+
+<p>The smart contract is very simple. It provides topics to be comment and keeps a record of comments. The <code>addComment</code> method is called by people to comment.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">pragma lity ^1.2.3;
+
+contract PublicComments {
+
+    address owner;
+    string public greeting;
+    struct Comment {
+        string name;
+        string email;
+        string comment;
+    }
+    mapping (address =&gt; Comment) comments;
+    address [] addrs;
+
+    constructor (string _greeting) public {
+        owner = msg.sender;
+        greeting = _greeting;
+    }
+
+    function setGreeting (string _greeting) public {
+        require (msg.sender == owner);
+        greeting = _greeting;
+    }
+
+    function addComment (string _name, string _email, string _comment) public {
+        comments[msg.sender] = Comment(_name, _email, _comment);
+        addrs.push(msg.sender);
+    }
+
+    function getComment(address _addr) public constant returns(string, string, string) {
+        return (comments[_addr].name, comments[_addr].email, comments[_addr].comment);
+    }
+
+    function getAddrs () public constant returns (address []) {
+        return addrs;
+    }
+}</pre></td></tr></table>
+</div>
+</div>
+<blockquote>
+<p>If you are not using Venus as the Provider, please open the Accounts tab and make sure that the default address has a little CMTs.</p>
+</blockquote>
+
+<h4 id="3-2-click-on-compile-and-you-will-see-the-following-enter-your-text-and-image-url-to-be-voted-on-and-then-click-on-deploy-on-chain">3.2 Click on Compile and you will see the following. Enter your text and image URL to be voted on, and then click on deploy on chain.</h4>
+
+<p><img src="/images/20200327-forum-01.png" alt="" /></p>
+
+<p>The contract is now deployed on the CyberMiles blockchain, and you can call its functions directly from inside BUIDL.</p>
+
+<p><img src="/images/20200327-forum-02.png" alt="" /></p>
+
+<h4 id="3-3-go-to-the-dapp-section-click-on-the-resources-tab-and-add-the-following-as-resources">3.3 Go to the dapp section. Click on the Resources tab, and add the following as resources.</h4>
+
+<ul>
+<li>CSS: <a href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css</a></li>
+<li>JavaScript: <a href="https://code.jquery.com/jquery-3.4.1.min.js">https://code.jquery.com/jquery-3.4.1.min.js</a></li>
+</ul>
+
+<h4 id="3-4-next-copy-and-paste-the-following-html-code-into-the-html-editor">3.4 Next, copy and paste the following HTML code into the HTML editor.</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">&lt;div class=&#34;container&#34;&gt;
+    &lt;br/&gt;
+    &lt;div class=&#34;jumbotron&#34;&gt;
+        &lt;p class=&#34;lead&#34; id=&#34;greeting&#34;&gt;&lt;/p&gt;
+        &lt;hr/&gt;
+        &lt;form id=&#34;form&#34;&gt;
+            &lt;div class=&#34;form-group&#34;&gt;
+                &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+                &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;name&#34; placeholder=&#34;&#34;&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;form-group&#34;&gt;
+                &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
+                &lt;input type=&#34;email&#34; class=&#34;form-control&#34; id=&#34;email&#34; placeholder=&#34;&#34;&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;form-group&#34;&gt;
+                &lt;label for=&#34;comment&#34;&gt;Comment&lt;/label&gt;
+                &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;comment&#34; placeholder=&#34;&#34;&gt;
+            &lt;/div&gt;
+            &lt;button type=&#34;button&#34; id=&#34;submit&#34; class=&#34;btn btn-primary&#34;&gt;Send Comment&lt;/button&gt;
+        &lt;/form&gt;
+        &lt;div id=&#34;formSubmitted&#34; style=&#34;display:none&#34;&gt;Please wait up to 20 seconds for confirmation ...&lt;/div&gt;
+        &lt;p id=&#34;me&#34; style=&#34;display:none&#34;&gt;Thank you, &lt;span id=&#34;myname&#34; class=&#34;badge badge-info&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    
+    &lt;table class=&#34;table table-striped&#34;&gt;
+        &lt;thead&gt;
+            &lt;tr&gt;
+                &lt;th scope=&#34;col&#34;&gt;Name&lt;/th&gt;
+                &lt;th scope=&#34;col&#34;&gt;Comment&lt;/th&gt;
+            &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody id=&#34;likes&#34;&gt;
+        &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;p style=&#34;text-align:center&#34;&gt;Created with &lt;a target=&#34;_blank&#34; href=&#34;https://docs.secondstate.io/buidl-developer-tool/why-buidl&#34;&gt;the BUIDL IDE&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</pre></td></tr></table>
+</div>
+</div>
+<h4 id="3-5-copy-and-paste-the-following-javascript-code-into-the-js-editor">3.5 Copy and paste the following JavaScript code into the JS editor.</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span><span class="lnt">61
+</span><span class="lnt">62
+</span><span class="lnt">63
+</span><span class="lnt">64
+</span><span class="lnt">65
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">var instance = null;
+window.addEventListener(&#39;web3Ready&#39;, function() {
+  var contract = web3.ss.contract(abi);
+  instance = contract.at(cAddr);
+  reload();
+});
+
+function reload() {
+    instance.greeting(function (e, r) {
+        $(&#34;#greeting&#34;).html(r);
+    });
+    
+    // $(&#34;#form&#34;).css(&#34;display&#34;, &#34;block&#34;);
+    $(&#34;#formSubmitted&#34;).css(&#34;display&#34;, &#34;none&#34;);
+    $(&#34;#me&#34;).css(&#34;display&#34;, &#34;none&#34;);
+    web3.ss.getAccounts(function (e, address) {
+        if (!e) {
+            instance.getComment(address, function (ee, result) {
+                if (result[0]) {
+                    $(&#34;#form&#34;).css(&#34;display&#34;, &#34;none&#34;);
+                    $(&#34;#me&#34;).css(&#34;display&#34;, &#34;block&#34;);
+                    $(&#34;#myname&#34;).html(result[0]);
+                }
+            });
+            
+            var likes = &#34;&#34;;
+            instance.getAddrs(function (ee, addrs) {
+                addrs.forEach(function(addr) {
+                    instance.getComment(addr, function (ee, r) {
+                        if (!ee) {
+                            likes = likes + &#34;&lt;tr&gt;&lt;td&gt;&#34; + r[0] + &#34;&lt;/td&gt;&lt;td&gt;&#34; + r[2] + &#34;&lt;/td&gt;&lt;/tr&gt;&#34;;
+                            $(&#34;#likes&#34;).html(likes);
+                        }
+                    });
+                });
+            });
+            $(&#34;#likes&#34;).html(likes);
+        }
+    });
+}
+
+$(&#34;#submit&#34;).click(function() {
+    if ((!$(&#34;#name&#34;).val().trim()) || (!$(&#34;#comment&#34;).val().trim())) {
+      alert(&#34;Please enter both a name and a comment&#34;);
+      return false;
+    }
+    web3.ss.getAccounts(function (e, address) {
+        if (!e) {
+            $(&#34;#form&#34;).css(&#34;display&#34;, &#34;none&#34;);
+            $(&#34;#formSubmitted&#34;).css(&#34;display&#34;, &#34;block&#34;);
+            instance.addComment ($(&#34;#name&#34;).val(), $(&#34;#email&#34;).val(), $(&#34;#comment&#34;).val(), {
+                gas: 499000,
+                gasPrice: 0
+            }, function (ee, r) {
+                if (ee) {
+                    window.alert(&#34;Failed at &#34; + address);
+                }
+            });
+            setTimeout(function () {
+                reload ();
+            }, 20 * 1000);
+        }
+    });
+    return false;
+});</pre></td></tr></table>
+</div>
+</div>
+<blockquote>
+<p>On CyberMiles, we can make contract function calls with gas price set to zero. That is because CyberMiles allows gas free operations for many operations.</p>
+</blockquote>
+
+<h4 id="3-6-click-on-run-to-see-the-dapp-in-action-you-can-now-vote-thumb-up-or-down-inside-buidl">3.6 Click on Run to see the dapp in action! You can now vote thumb up or down inside BUIDL.</h4>
+
+<p><img src="/images/20200327-forum-03.png" alt="" /></p>
+
+<h4 id="3-7-finally-you-can-publish-the-dapp">3.7 Finally, you can publish the dapp.</h4>
+
+<p>Just click on the Publish button and give the dapp a name. Once published, you can share the published URL to the public to comment on your issue!</p>
+
+<blockquote>
+<p>If the dapp user has Venus for CMT installed, the dapp will ask whether she would like to use her Venus account instead of auto-generated or imported accounts.</p>
+</blockquote>
+
+    </div>
+
+    
+    
+<div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">CyberMiles</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">March 27, 2020</span>
+  </p>
+  
+  <p class="copyright-item">
+    <span class="item-title">License</span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
+  </p>
+</div>
+
+    
+    
+
+    <footer class="post-footer">
+      <div class="post-tags">
+          <a href="http://blog.cybermiles.io/tags/buidl/">BUIDL</a>
+          <a href="http://blog.cybermiles.io/tags/smart-contract/">smart contract</a>
+          <a href="http://blog.cybermiles.io/tags/cybermiles/">CyberMiles</a>
+          <a href="http://blog.cybermiles.io/tags/development/">development</a>
+          <a href="http://blog.cybermiles.io/tags/blockchain/">blockchain</a>
+          
+        </div>
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/20200330-roadmap-zh/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">CyberMiles 路线图 2020</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        
+          <a class="next" href="/post/20200225-cmt-release-zh/">
+            <span class="next-text nav-default">CMT 2020年度第一季度解锁公告</span>
+            <span class="prev-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+
+  
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+        </div>
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:contact@cybermiles.io" rel="me noopener" class="iconfont icon-email"
+        title="email">
+      </a>
+      <a href="https://twitter.com/cybermiles" rel="me noopener" class="iconfont icon-twitter"
+        title="twitter" target="_blank">
+      </a>
+      <a href="https://www.facebook.com/cybermiles/" rel="me noopener" class="iconfont icon-facebook"
+        title="facebook" target="_blank">
+      </a>
+      <a href="https://github.com/CyberMiles/" rel="me noopener" class="iconfont icon-github"
+        title="github" target="_blank">
+      </a>
+      <a href="https://www.weibo.com/Cybermiles" rel="me noopener" class="iconfont icon-weibo"
+        title="weibo" target="_blank">
+      </a>
+  <a href="http://blog.cybermiles.io/index.xml" rel="noopener alternate" type="application/rss&#43;xml" class="iconfont icon-rss"
+    title="rss" target="_blank">
+  </a>
+  </div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane">Jane</a>
+  </span>
+
+  <span class="copyright-year">
+    &copy;
+    
+      2018 -
+    2021
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span><span class="author">
+        CyberMiles
+        
+      </span></span>
+
+  
+  
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+<script type="text/javascript" src="/dist/jane.min.js?v=2.7.0"></script>
+
+
+
+
+
+  
+    <script type="text/javascript" src="/js/load-photoswipe.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe.min.js"></script>
+    <script type="text/javascript" src="/lib/photoswipe/photoswipe-ui-default.min.js"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

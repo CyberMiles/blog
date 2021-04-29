@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/development/</link>
+    <description>Recent content in Development on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Mar 2020 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to build a forum on blockchain via BUIDL for CMT</title>
+      <link>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</link>
+      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</guid>
+      <description>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
+Create your own forum DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
+    </item>
+    
+    <item>
+      <title>Create a Vote DApp via BUIDL for CMT</title>
+      <link>http://blog.cybermiles.io/post/20191220-vote-en/</link>
+      <pubDate>Fri, 20 Dec 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20191220-vote-en/</guid>
+      <description>The example dapp is a web application where people can vote thumb up or thumb down on a statement. All the votes are recorded on the blockchain.
+Create your own vote DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
+    </item>
+    
+    <item>
+      <title>Under the hood: the FairPlay DApp (with FAQs)</title>
+      <link>http://blog.cybermiles.io/post/20190507-fairplay-en/</link>
+      <pubDate>Tue, 07 May 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20190507-fairplay-en/</guid>
+      <description>In this article, I will explain the technical details behind the FairPlay DApp. If you haven&amp;rsquo;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
+ Talk is cheap, show me your code!
+ Sure, please see here. Any pull request or issue is welcome ;)
+Overview This DApp is based on standard web technologies. It uses the web3-cmt.js JavaScript library to interact with the smart contract.</description>
+    </item>
+    
+  </channel>
+</rss>
