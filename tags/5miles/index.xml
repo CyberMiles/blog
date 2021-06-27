@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5miles on CyberMiles News and Articles</title>
@@ -54,7 +54,7 @@
       
       <guid>http://blog.cybermiles.io/post/20190301-5miles-en/</guid>
       <description>Migration of the popular 5miles e-commerce market place to a decentralized platform is a major milestone for real world blockchain applications. CyberMiles together with 5miles are going to accomplish this through the following steps.
- Migrate 5miles product information and user reviews into a CyberMiles smart contract. A web-based DApp will be created to allow users easy access to such information. The CyberMiles public blockchain guarantees e-commerce data integrity, accuracy, and transparency.</description>
+  Migrate 5miles product information and user reviews into a CyberMiles smart contract. A web-based DApp will be created to allow users easy access to such information. The CyberMiles public blockchain guarantees e-commerce data integrity, accuracy, and transparency.</description>
     </item>
     
   </channel>

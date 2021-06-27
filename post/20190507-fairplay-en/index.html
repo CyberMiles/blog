@@ -25,7 +25,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="author" content="CyberMiles" />
-  <meta name="description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&amp;rsquo;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
+  <meta name="description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&#39;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
  Talk is cheap, show me your code!
  Sure, please see here. Any pull request or issue is welcome ;)
 Overview This DApp is based on standard web technologies. It uses the web3-cmt.js JavaScript library to interact with the smart contract." />
@@ -37,7 +37,7 @@ Overview This DApp is based on standard web technologies. It uses the web3-cmt.j
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190507-fairplay-en/" />
@@ -61,24 +61,20 @@ Overview This DApp is based on standard web technologies. It uses the web3-cmt.j
 
 
 
-
 <meta itemprop="name" content="Under the hood: the FairPlay DApp (with FAQs)">
-<meta itemprop="description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&rsquo;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
+<meta itemprop="description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&#39;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
  Talk is cheap, show me your code!
  Sure, please see here. Any pull request or issue is welcome ;)
 Overview This DApp is based on standard web technologies. It uses the web3-cmt.js JavaScript library to interact with the smart contract.">
-
-
 <meta itemprop="datePublished" content="2019-05-07T10:01:23&#43;08:00" />
 <meta itemprop="dateModified" content="2019-05-07T10:01:23&#43;08:00" />
 <meta itemprop="wordCount" content="643">
 
 
 
-<meta itemprop="keywords" content="DApp,development," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="DApp,development," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Under the hood: the FairPlay DApp (with FAQs)"/>
-<meta name="twitter:description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&rsquo;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
+<meta name="twitter:description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&#39;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
  Talk is cheap, show me your code!
  Sure, please see here. Any pull request or issue is welcome ;)
 Overview This DApp is based on standard web technologies. It uses the web3-cmt.js JavaScript library to interact with the smart contract."/>
@@ -105,7 +101,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 <meta property="og:title" content="Under the hood: the FairPlay DApp (with FAQs) - CyberMiles News and Articles">
-  <meta property="og:description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&amp;rsquo;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
+  <meta property="og:description" content="In this article, I will explain the technical details behind the FairPlay DApp. If you haven&#39;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
  Talk is cheap, show me your code!
  Sure, please see here. Any pull request or issue is welcome ;)
 Overview This DApp is based on standard web technologies. It uses the web3-cmt.js JavaScript library to interact with the smart contract." />
@@ -287,71 +283,62 @@ Overview This DApp is based on standard web technologies. It uses the web3-cmt.j
 
     
     <div class="post-content">
-      
-
-<p>In this article, I will explain the technical details behind the FairPlay DApp. If you haven&rsquo;t tried this DApp, please have a look at <a href="https://blog.cybermiles.io/post/20190502-fairplay-en/">FairPlay: decentralized prize drawing for e-commerce</a>.</p>
-
+      <p>In this article, I will explain the technical details behind the FairPlay DApp. If you haven't tried this DApp, please have a look at <a href="https://blog.cybermiles.io/post/20190502-fairplay-en/">FairPlay: decentralized prize drawing for e-commerce</a>.</p>
 <blockquote>
 <p>Talk is cheap, show me your code!</p>
 </blockquote>
-
 <p>Sure, please see <a href="https://github.com/CyberMiles/smart_contracts/tree/master/FairPlay">here</a>. Any pull request or issue is welcome ;)</p>
-
 <h2 id="overview">Overview</h2>
-
 <p>This DApp is based on standard web technologies. It uses the <a href="https://cybermiles.github.io/web3-cmt.js/">web3-cmt.js</a> JavaScript library to interact with the smart contract. When you scan the QRcode to <a href="https://blog.cybermiles.io/post/20190502-fairplay-creator-en/">create a drawing</a> or <a href="https://blog.cybermiles.io/post/20190502-fairplay-player-en/">participate in a drawing</a>), the DApp will render in a <code>WebView</code> in your CMT Wallet application.</p>
-
-<p>Anytime when the user creates a new FairPlay drawing, a new contract is deployed on the CyberMiles public blockchain. In the new contract, we use <code>mapping (address =&gt; Player) players;</code> to store the basic information of the participants. To be more specific, the <code>Player</code> struct is as follows:</p>
+<p>Anytime when the user creates a new FairPlay drawing, a new contract is deployed on the CyberMiles public blockchain. In the new contract, we use <code>mapping (address =&gt; Player) players; </code> to store the basic information of the participants. To be more specific, the <code>Player</code> struct is as follows:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span><span class="lnt">6
 </span><span class="lnt">7
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">struct Player {
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">struct Player {
     uint ts;
     string name;
     string contact;
     string mesg;
     string confirm_mesg;
-}</pre></td></tr></table>
+}
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>The variable <code>ts</code> specifies the time when the player participates in the play. The <code>name</code> and <code>contact</code> can be picked by the user as he wants. The <code>contact</code> can be entered in a number of ways, such as E-mail, Telegram, Twitter, etc. It&rsquo;s worth noting that the user doesn&rsquo;t need to enter his private information &ndash; he can enter an anonymous twitter account or email address as long as he can be reached via them in case he wins. The <code>mesg</code> is the note the player leaves when he participates, whereas the <code>confirm_mesg</code> is the final comment given by the winner. Both messages are public.</p>
-
+</div><p>The variable <code>ts</code> specifies the time when the player participates in the play. The <code>name</code> and <code>contact</code> can be picked by the user as he wants. The <code>contact</code> can be entered in a number of ways, such as E-mail, Telegram, Twitter, etc. It's worth noting that the user doesn't need to enter his private information &ndash; he can enter an anonymous twitter account or email address as long as he can be reached via them in case he wins. The <code>mesg</code> is the note the player leaves when he participates, whereas the <code>confirm_mesg</code> is the final comment given by the winner. Both messages are public.</p>
 <h2 id="faq">FAQ</h2>
-
 <ol>
-<li><p>What happens when different people in different time zones participate in the same Fair Play Drawing?</p>
-
+<li>
+<p>What happens when different people in different time zones participate in the same Fair Play Drawing?</p>
 <ul>
-<li>Interesting question. The answer is that the Date Time shown in the DApp varies with the user&rsquo;s local time zone. It is impossible to deceive the contract about the time. Sounds really smart, right? The solution is as following:
-
+<li>Interesting question. The answer is that the Date Time shown in the DApp varies with the user's local time zone. It is impossible to deceive the contract about the time. Sounds really smart, right? The solution is as following:
 <ul>
-<li><strong>When create the play</strong>: The Date Time picked by the user as the end time, is converted to a timestamp as seconds since Unix epoch, according to the user&rsquo;s local time zone, then is sent to the contract, where it is compared against the special variable <code>now</code> (the current block timestamp as seconds since Unix epoch), in order to make sure the drawing time is after now.</li>
-<li><strong>When participate in the play</strong>: The front-end first gets the timestamp from the contract, then converts this timestamp to the readable date time, according to the user&rsquo;s local time zone.
-<br /></li>
-</ul></li>
-</ul></li>
-
-<li><p>Is this DApp partially or completely decentralized?</p>
-
+<li><strong>When create the play</strong>: The Date Time picked by the user as the end time, is converted to a timestamp as seconds since Unix epoch, according to the user's local time zone, then is sent to the contract, where it is compared against the special variable <code>now</code> (the current block timestamp as seconds since Unix epoch), in order to make sure the drawing time is after now.</li>
+<li><strong>When participate in the play</strong>: The front-end first gets the timestamp from the contract, then converts this timestamp to the readable date time, according to the user's local time zone.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Is this DApp partially or completely decentralized?</p>
 <ul>
 <li>We are completely decentralized! Yeah, you might be wondering how we manage to save the pictures uploaded in a totally decentralized DApp, without a back-end server. It could be possible to encode the whole picture and then store it on our blockchain. But that would a terrible waste of blockchain storage space (and gas fees). Instead, our DApp first directly uploads your picture from the browser to <a href="https://cloudinary.com/documentation/upload_images#direct_uploading_from_the_browser">cloudinary</a>, a secure and public platform providing  media management services, and then fetches the URL from this platform and stores it on the CyberMiles public blockchain.</li>
-</ul></li>
-
-<li><p>Is the FairPlay DApp really fair?</p>
-
+</ul>
+</li>
+<li>
+<p>Is the FairPlay DApp really fair?</p>
 <ul>
-<li><p>Yes! We have built-in function <a href="https://www.litylang.org/rand/">rand()</a> to generate the real random number. The relevant part of code to calculate the winners is as follows:</p>
+<li>
+<p>Yes! We have built-in function <a href="https://www.litylang.org/rand/">rand()</a> to generate the real random number. The relevant part of code to calculate the winners is as follows:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -362,9 +349,9 @@ Overview This DApp is based on standard web technologies. It uses the web3-cmt.j
 </span><span class="lnt"> 9
 </span><span class="lnt">10
 </span><span class="lnt">11
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">// Construct the winner_addresses array
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">// Construct the winner_addresses array
 for (i=0; i&lt;player_addresses.length; i++) {
     cache.push(player_addresses[i]);
 }
@@ -374,16 +361,18 @@ for (i=0; i&lt;number_of_winners; i++) {
     cache[r] = cache[cache.length-1];
     delete cache[cache.length-1];
     cache.length--;
-}</pre></td></tr></table>
+}
+</code></pre></td></tr></table>
 </div>
 </div></li>
-</ul></li>
-
-<li><p>How many languages does it support now?</p>
-
+</ul>
+</li>
+<li>
+<p>How many languages does it support now?</p>
 <ul>
 <li>Now only the English and Chinese are supported. If you are interested in this DApp and willing to contribute to the translation of other languages, please go to follow the format of <a href="https://github.com/CyberMiles/smart_contracts/blob/master/FairPlay/dapp/js/language/en.js">this file</a> and make a pull request. Thanks.</li>
-</ul></li>
+</ul>
+</li>
 </ol>
 
     </div>

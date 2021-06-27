@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CyberMiles News and Articles</title>
@@ -6,35 +6,35 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 May 2019 15:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>5miles</title>
-      <link>http://blog.cybermiles.io/tags/5miles/</link>
-      <pubDate>Thu, 16 May 2019 15:01:23 +0800</pubDate>
+      <title>CyberMiles</title>
+      <link>http://blog.cybermiles.io/tags/cybermiles/</link>
+      <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/5miles/</guid>
+      <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adoption</title>
-      <link>http://blog.cybermiles.io/tags/adoption/</link>
-      <pubDate>Fri, 10 May 2019 17:07:23 +0800</pubDate>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/adoption/</guid>
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Asset Digitalization</title>
-      <link>http://blog.cybermiles.io/tags/asset-digitalization/</link>
-      <pubDate>Fri, 10 May 2019 17:06:23 +0800</pubDate>
+      <title>CMT</title>
+      <link>http://blog.cybermiles.io/tags/cmt/</link>
+      <pubDate>Thu, 18 Mar 2021 10:00:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/asset-digitalization/</guid>
+      <guid>http://blog.cybermiles.io/tags/cmt/</guid>
       <description></description>
     </item>
     
@@ -48,7 +48,25 @@
     </item>
     
     <item>
-      <title>Blockchain Development</title>
+      <title>smart contract</title>
+      <link>http://blog.cybermiles.io/tags/smart-contract/</link>
+      <pubDate>Tue, 23 Feb 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/smart-contract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newsletter</title>
+      <link>http://blog.cybermiles.io/tags/newsletter/</link>
+      <pubDate>Mon, 26 Oct 2020 15:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/newsletter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain development</title>
       <link>http://blog.cybermiles.io/tags/blockchain-development/</link>
       <pubDate>Thu, 10 Sep 2020 15:00:23 +0800</pubDate>
       
@@ -57,34 +75,25 @@
     </item>
     
     <item>
-      <title>Blockchain Governance</title>
-      <link>http://blog.cybermiles.io/tags/blockchain-governance/</link>
-      <pubDate>Wed, 17 Apr 2019 18:01:23 +0800</pubDate>
+      <title>developer</title>
+      <link>http://blog.cybermiles.io/tags/developer/</link>
+      <pubDate>Thu, 10 Sep 2020 15:00:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/blockchain-governance/</guid>
+      <guid>http://blog.cybermiles.io/tags/developer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blockchain Programming</title>
-      <link>http://blog.cybermiles.io/tags/blockchain-programming/</link>
-      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
+      <title>Staking</title>
+      <link>http://blog.cybermiles.io/tags/staking/</link>
+      <pubDate>Thu, 28 May 2020 15:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/blockchain-programming/</guid>
+      <guid>http://blog.cybermiles.io/tags/staking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Buidl</title>
-      <link>http://blog.cybermiles.io/tags/buidl/</link>
-      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/buidl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Buidl Ide</title>
+      <title>BUIDL IDE</title>
       <link>http://blog.cybermiles.io/tags/buidl-ide/</link>
       <pubDate>Fri, 22 May 2020 10:01:23 +0800</pubDate>
       
@@ -93,101 +102,92 @@
     </item>
     
     <item>
-      <title>Business</title>
-      <link>http://blog.cybermiles.io/tags/business/</link>
-      <pubDate>Thu, 16 May 2019 15:01:23 +0800</pubDate>
+      <title>blockchain programming</title>
+      <link>http://blog.cybermiles.io/tags/blockchain-programming/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/business/</guid>
+      <guid>http://blog.cybermiles.io/tags/blockchain-programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Calculate</title>
-      <link>http://blog.cybermiles.io/tags/calculate/</link>
-      <pubDate>Wed, 08 May 2019 16:01:23 +0800</pubDate>
+      <title>Ethereum</title>
+      <link>http://blog.cybermiles.io/tags/ethereum/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/calculate/</guid>
+      <guid>http://blog.cybermiles.io/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cmt</title>
-      <link>http://blog.cybermiles.io/tags/cmt/</link>
-      <pubDate>Thu, 18 Mar 2021 10:00:23 +0800</pubDate>
+      <title>WebAssembly</title>
+      <link>http://blog.cybermiles.io/tags/webassembly/</link>
+      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/cmt/</guid>
+      <guid>http://blog.cybermiles.io/tags/webassembly/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cmt Wallet</title>
-      <link>http://blog.cybermiles.io/tags/cmt-wallet/</link>
-      <pubDate>Wed, 08 May 2019 10:01:23 +0800</pubDate>
+      <title>BUIDL</title>
+      <link>http://blog.cybermiles.io/tags/buidl/</link>
+      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/cmt-wallet/</guid>
+      <guid>http://blog.cybermiles.io/tags/buidl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cmts</title>
-      <link>http://blog.cybermiles.io/tags/cmts/</link>
-      <pubDate>Wed, 08 May 2019 10:01:23 +0800</pubDate>
+      <title>development</title>
+      <link>http://blog.cybermiles.io/tags/development/</link>
+      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/cmts/</guid>
+      <guid>http://blog.cybermiles.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Community</title>
-      <link>http://blog.cybermiles.io/tags/community/</link>
-      <pubDate>Wed, 17 Apr 2019 18:01:23 +0800</pubDate>
+      <title>mainnet</title>
+      <link>http://blog.cybermiles.io/tags/mainnet/</link>
+      <pubDate>Tue, 29 Oct 2019 10:01:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/community/</guid>
+      <guid>http://blog.cybermiles.io/tags/mainnet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Community Governance</title>
-      <link>http://blog.cybermiles.io/tags/community-governance/</link>
-      <pubDate>Thu, 21 Feb 2019 10:01:23 +0800</pubDate>
+      <title>ecommerce</title>
+      <link>http://blog.cybermiles.io/tags/ecommerce/</link>
+      <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/community-governance/</guid>
+      <guid>http://blog.cybermiles.io/tags/ecommerce/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cybermiles</title>
-      <link>http://blog.cybermiles.io/tags/cybermiles/</link>
-      <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
+      <title>fairplay</title>
+      <link>http://blog.cybermiles.io/tags/fairplay/</link>
+      <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
+      <guid>http://blog.cybermiles.io/tags/fairplay/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dapp</title>
-      <link>http://blog.cybermiles.io/tags/dapp/</link>
-      <pubDate>Fri, 21 Jun 2019 15:30:23 +0800</pubDate>
+      <title>giveaway</title>
+      <link>http://blog.cybermiles.io/tags/giveaway/</link>
+      <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/dapp/</guid>
+      <guid>http://blog.cybermiles.io/tags/giveaway/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dapps</title>
-      <link>http://blog.cybermiles.io/tags/dapps/</link>
-      <pubDate>Thu, 04 Apr 2019 15:30:23 +0800</pubDate>
+      <title>import</title>
+      <link>http://blog.cybermiles.io/tags/import/</link>
+      <pubDate>Thu, 27 Jun 2019 15:00:23 +0800</pubDate>
       
-      <guid>http://blog.cybermiles.io/tags/dapps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>http://blog.cybermiles.io/tags/data/</link>
-      <pubDate>Mon, 13 May 2019 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/data/</guid>
+      <guid>http://blog.cybermiles.io/tags/import/</guid>
       <description></description>
     </item>
     

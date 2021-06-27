@@ -35,7 +35,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190527-incident-postmortem-en/" />
@@ -59,20 +59,16 @@
 
 
 
-
 <meta itemprop="name" content="Service Disruption Incident Postmortem">
 <meta itemprop="description" content="tl;dr If your CyberMiles node stopped at block height 1724747, please stop it (CTRL-C works), upgrade software to v0.1.8-beta-hotfix and restart. Or, you could also start from a snapshot or from genesis. If you are a validator node, please make sure that you backup your config files and use those config files when you restart.
  On May 26th 2019, the CyberMiles public blockchain suffered a technical failure that paused blockchain operation for 17 hours.">
-
-
 <meta itemprop="datePublished" content="2019-05-27T17:07:23&#43;08:00" />
 <meta itemprop="dateModified" content="2019-05-27T17:07:23&#43;08:00" />
 <meta itemprop="wordCount" content="626">
 
 
 
-<meta itemprop="keywords" content="disruption,incident," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="disruption,incident," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Service Disruption Incident Postmortem"/>
 <meta name="twitter:description" content="tl;dr If your CyberMiles node stopped at block height 1724747, please stop it (CTRL-C works), upgrade software to v0.1.8-beta-hotfix and restart. Or, you could also start from a snapshot or from genesis. If you are a validator node, please make sure that you backup your config files and use those config files when you restart.
  On May 26th 2019, the CyberMiles public blockchain suffered a technical failure that paused blockchain operation for 17 hours."/>
@@ -282,31 +278,18 @@ if (!doNotTrack) {
       <blockquote>
 <p>tl;dr If your CyberMiles node stopped at block height 1724747, please stop it (CTRL-C works), upgrade software to <a href="https://github.com/CyberMiles/travis/releases/tag/v0.1.8-beta-hotfix">v0.1.8-beta-hotfix</a> and restart. Or, you could also start <a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#snapshot">from a snapshot</a> or <a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#sync-from-genesis">from genesis</a>. If you are a validator node, please make sure that you backup your config files and use those config files when you restart.</p>
 </blockquote>
-
 <p>On May 26th 2019, the CyberMiles public blockchain suffered a technical failure that paused blockchain operation for 17 hours. During that time, no transaction was accepted or recorded on the blockchain. <strong>There was no data loss nor transaction rollback.</strong></p>
-
-<p>As a decentralized public blockchain, CyberMiles is maintained by 24 validators across the globe. Any software change must be approved and then implemented by <sup>2</sup>&frasl;<sub>3</sub> of validators in order to take effect. With a diverse group of independent validators, the CyberMiles blockchain downtime, while regrettable, serves the purpose of maintaining security and integrity of transactions through consensus. Here is what happened.</p>
-
-<p>At around 5am EST (US Eastern Time) on May 26th 2019, a user submitted a transaction to create a smart contract on the CyberMiles blockchain. The transaction was included in block height 1724748. When the transaction is executed by the CyberMiles Virtual Machine (CVM) on each blockchain node, it triggered a bug that crashed the CVM. Specifically, when the user requested to execute a transaction without paying the gas fee, the CVM&rsquo;s <a href="https://www.litylang.org/gas/">“free gas”</a> rules check for the transaction&rsquo;s target address. However, in the case of a smart contract creation transaction, the target address is null. That causes the software to throw an infamous null pointer exception, crashing the CVM.</p>
-
-<p><img src="/images/20190527-incident-postmortem-01.PNG" alt="" /></p>
-
+<p>As a decentralized public blockchain, CyberMiles is maintained by 24 validators across the globe. Any software change must be approved and then implemented by 2/3 of validators in order to take effect. With a diverse group of independent validators, the CyberMiles blockchain downtime, while regrettable, serves the purpose of maintaining security and integrity of transactions through consensus. Here is what happened.</p>
+<p>At around 5am EST (US Eastern Time) on May 26th 2019, a user submitted a transaction to create a smart contract on the CyberMiles blockchain. The transaction was included in block height 1724748. When the transaction is executed by the CyberMiles Virtual Machine (CVM) on each blockchain node, it triggered a bug that crashed the CVM. Specifically, when the user requested to execute a transaction without paying the gas fee, the CVM's <a href="https://www.litylang.org/gas/">“free gas”</a> rules check for the transaction's target address. However, in the case of a smart contract creation transaction, the target address is null. That causes the software to throw an infamous null pointer exception, crashing the CVM.</p>
+<p><img src="/images/20190527-incident-postmortem-01.PNG" alt=""></p>
 <p>All CyberMiles nodes stopped at block height 1724747, unable to process block height 1724748. The problem was reported and escalated to CyberMiles core developers. The CVM developers based in Taipei immediately worked on the problem and produced <a href="https://github.com/second-state/lityvm/commit/557cc4935d94d6e1d6b947143788838ca98908f9">a software patch</a>. The blockchain engineering team in Beijing and USA then tested it and released a new software version <a href="https://github.com/CyberMiles/travis/releases/tag/v0.1.8-beta-hotfix">v0.1.8-beta-hotfix</a>. The core developers were ready to notify validators to review, approve, and implement v0.1.8-beta-hotfix.</p>
-
-<p><img src="/images/20190527-incident-postmortem-02.png" alt="" /></p>
-
+<p><img src="/images/20190527-incident-postmortem-02.png" alt=""></p>
 <p>However, that was when a second problem surfaced. Since the null pointer exception crashed the CVM, the virtual machine shuts down abnormally. The operations team based in Beijing, Los Angeles, and Austin discovered that some nodes could have corrupted database files after this crash. So, a straightforward restart with the new binary application is now out of the question.</p>
-
-<p><img src="/images/20190527-incident-postmortem-03.PNG" alt="" /></p>
-
+<p><img src="/images/20190527-incident-postmortem-03.PNG" alt=""></p>
 <p>Out of abundant precaution, the engineering team decided to recommend all nodes to restart from an uncorrupted snapshot at block height 1724748 following CyberMiles&rsquo; <a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#option-2-binary-from-snapshot">snapshot fast sync procedure</a>.</p>
-
 <p>An uncorrupted node with all validator signatures on block height 1724748 is found in the community. It has a data size of 18GB after compression. The data snapshot from this node is then reviewed, verified, and validated, before it is made <a href="https://s3-us-west-2.amazonaws.com/travis-ss-bucket/mainnet/travis_ss_mainnet_1558862782_1724747.tar">available to the community</a> again.</p>
-
-<p>At 5pm EST, the first validator nodes in North America came online with the update software v0.1.8-beta-hotfix. However, without the quorum of 17 active validators (that is <sup>2</sup>&frasl;<sub>3</sub> of 24 at block height 1724748), the blockchain cannot produce the next block. The quorum is reached at 10pm EST when Asian validators woke up on Monday morning. The blockchain services, such as <a href="https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/">CMT Wallet</a>, <a href="https://www.cybermiles.io/en-us/cmt/cmt-cube/">CMT Cube</a>, and <a href="https://www.cmttracking.io/">CMT Tracking</a>, are fully restored soon after.</p>
-
+<p>At 5pm EST, the first validator nodes in North America came online with the update software v0.1.8-beta-hotfix. However, without the quorum of 17 active validators (that is 2/3 of 24 at block height 1724748), the blockchain cannot produce the next block. The quorum is reached at 10pm EST when Asian validators woke up on Monday morning. The blockchain services, such as <a href="https://www.cybermiles.io/en-us/blockchain-infrastructure/cmt-wallet/">CMT Wallet</a>, <a href="https://www.cybermiles.io/en-us/cmt/cmt-cube/">CMT Cube</a>, and <a href="https://www.cmttracking.io/">CMT Tracking</a>, are fully restored soon after.</p>
 <p>Key lessons</p>
-
 <ul>
 <li>The CyberMiles development team must increase software testing coverage, especially on original and innovative features.</li>
 <li>Incident response coordination between core developers and validator operators could be improved. In this case, the root cause was identified and patched quickly, but coordination across validators took a very long time.</li>

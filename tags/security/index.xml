@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security on CyberMiles News and Articles</title>
+    <title>security on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/security/</link>
-    <description>Recent content in Security on CyberMiles News and Articles</description>
+    <description>Recent content in security on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Apr 2018 10:01:23 +0800</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>http://blog.cybermiles.io/post/20180425-safetoken-en/</guid>
       <description>Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
-The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.</description>
+ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain Programming on CyberMiles News and Articles</title>
+    <title>blockchain programming on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/blockchain-programming/</link>
-    <description>Recent content in Blockchain Programming on CyberMiles News and Articles</description>
+    <description>Recent content in blockchain programming on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Apr 2020 10:01:23 +0800</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
-      <description>A NEW public EWASM test net based on Second State&amp;rsquo;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&amp;rsquo;s first public blockchains to support Ethereum&amp;rsquo;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&amp;rsquo;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
+      <description>A NEW public EWASM test net based on Second State&#39;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&#39;s first public blockchains to support Ethereum&#39;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&#39;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
 WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
     </item>
     
@@ -38,7 +38,7 @@ WebAssembly allows near-native code performance without compromising security. I
       <guid>http://blog.cybermiles.io/post/20200409-book-en/</guid>
       <description>Building Blockchain Apps Published in the United States
 Budding young developers are get ever more interested in learning how to write blockchain related program.
-Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&amp;rsquo;s largest higher education publishing group, with books selected as teaching materials by the world&amp;rsquo;s top universities.</description>
+Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&#39;s largest higher education publishing group, with books selected as teaching materials by the world&#39;s top universities.</description>
     </item>
     
     <item>

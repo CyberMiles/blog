@@ -38,7 +38,7 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20200327-buidl-tutorial/" />
@@ -62,23 +62,19 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
 
 
 
-
 <meta itemprop="name" content="How to build a forum on blockchain via BUIDL for CMT">
 <meta itemprop="description" content="The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
 Create your own forum DApp according to the following steps.
 Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
 Step 2 Open the Accounts tab and send a little CMTs to your default account.
  If you have CyberMiles&rsquo; Venus wallet, you could opt to use Venus in the Providers tab.">
-
-
 <meta itemprop="datePublished" content="2020-03-27T10:01:23&#43;08:00" />
 <meta itemprop="dateModified" content="2020-03-27T10:01:23&#43;08:00" />
 <meta itemprop="wordCount" content="858">
 
 
 
-<meta itemprop="keywords" content="BUIDL,smart contract,CyberMiles,development,blockchain," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="BUIDL,smart contract,CyberMiles,development,blockchain," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="How to build a forum on blockchain via BUIDL for CMT"/>
 <meta name="twitter:description" content="The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
 Create your own forum DApp according to the following steps.
@@ -291,34 +287,22 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
 
     
     <div class="post-content">
-      
-
-<p>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.</p>
-
-<p><img src="/images/20200327-forum-04.png" alt="" /></p>
-
+      <p>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.</p>
+<p><img src="/images/20200327-forum-04.png" alt=""></p>
 <p>Create your own forum DApp according to the following steps.</p>
-
 <h3 id="step-1">Step 1</h3>
-
 <p>Open the <a href="https://www.secondstate.io/buidl/">BUIDL IDE tool for CMT</a> in any browser. <a href="http://buidl.secondstate.io/cmt">http://buidl.secondstate.io/cmt</a></p>
-
 <h3 id="step-2">Step 2</h3>
-
 <p>Open the Accounts tab and send a little CMTs to your default account.</p>
-
 <blockquote>
 <p>If you have CyberMiles&rsquo; Venus wallet, you could opt to use Venus in the Providers tab. BUIDL and dapps it creates will now use the default account in Venus to make contract calls and to pay for gas.</p>
 </blockquote>
-
 <h3 id="step-3">Step 3</h3>
-
-<h4 id="3-1-copy-and-paste-the-following-code-to-the-contract-section-of-buidl">3.1 Copy and paste the following code to the contract section of BUIDL.</h4>
-
+<h4 id="31-copy-and-paste-the-following-code-to-the-contract-section-of-buidl">3.1 Copy and paste the following code to the contract section of BUIDL.</h4>
 <p>The smart contract is very simple. It provides topics to be comment and keeps a record of comments. The <code>addComment</code> method is called by people to comment.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -355,9 +339,9 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
 </span><span class="lnt">35
 </span><span class="lnt">36
 </span><span class="lnt">37
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">pragma lity ^1.2.3;
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pragma lity ^1.2.3;
 
 contract PublicComments {
 
@@ -393,32 +377,25 @@ contract PublicComments {
     function getAddrs () public constant returns (address []) {
         return addrs;
     }
-}</pre></td></tr></table>
+}
+</code></pre></td></tr></table>
 </div>
-</div>
-<blockquote>
+</div><blockquote>
 <p>If you are not using Venus as the Provider, please open the Accounts tab and make sure that the default address has a little CMTs.</p>
 </blockquote>
-
-<h4 id="3-2-click-on-compile-and-you-will-see-the-following-enter-your-text-and-image-url-to-be-voted-on-and-then-click-on-deploy-on-chain">3.2 Click on Compile and you will see the following. Enter your text and image URL to be voted on, and then click on deploy on chain.</h4>
-
-<p><img src="/images/20200327-forum-01.png" alt="" /></p>
-
+<h4 id="32-click-on-compile-and-you-will-see-the-following-enter-your-text-and-image-url-to-be-voted-on-and-then-click-on-deploy-on-chain">3.2 Click on Compile and you will see the following. Enter your text and image URL to be voted on, and then click on deploy on chain.</h4>
+<p><img src="/images/20200327-forum-01.png" alt=""></p>
 <p>The contract is now deployed on the CyberMiles blockchain, and you can call its functions directly from inside BUIDL.</p>
-
-<p><img src="/images/20200327-forum-02.png" alt="" /></p>
-
-<h4 id="3-3-go-to-the-dapp-section-click-on-the-resources-tab-and-add-the-following-as-resources">3.3 Go to the dapp section. Click on the Resources tab, and add the following as resources.</h4>
-
+<p><img src="/images/20200327-forum-02.png" alt=""></p>
+<h4 id="33-go-to-the-dapp-section-click-on-the-resources-tab-and-add-the-following-as-resources">3.3 Go to the dapp section. Click on the Resources tab, and add the following as resources.</h4>
 <ul>
 <li>CSS: <a href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css</a></li>
 <li>JavaScript: <a href="https://code.jquery.com/jquery-3.4.1.min.js">https://code.jquery.com/jquery-3.4.1.min.js</a></li>
 </ul>
-
-<h4 id="3-4-next-copy-and-paste-the-following-html-code-into-the-html-editor">3.4 Next, copy and paste the following HTML code into the HTML editor.</h4>
+<h4 id="34-next-copy-and-paste-the-following-html-code-into-the-html-editor">3.4 Next, copy and paste the following HTML code into the HTML editor.</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -454,9 +431,9 @@ contract PublicComments {
 </span><span class="lnt">34
 </span><span class="lnt">35
 </span><span class="lnt">36
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">&lt;div class=&#34;container&#34;&gt;
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&lt;div class=&#34;container&#34;&gt;
     &lt;br/&gt;
     &lt;div class=&#34;jumbotron&#34;&gt;
         &lt;p class=&#34;lead&#34; id=&#34;greeting&#34;&gt;&lt;/p&gt;
@@ -491,13 +468,13 @@ contract PublicComments {
         &lt;/tbody&gt;
     &lt;/table&gt;
     &lt;p style=&#34;text-align:center&#34;&gt;Created with &lt;a target=&#34;_blank&#34; href=&#34;https://docs.secondstate.io/buidl-developer-tool/why-buidl&#34;&gt;the BUIDL IDE&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;</pre></td></tr></table>
+&lt;/div&gt;
+</code></pre></td></tr></table>
 </div>
-</div>
-<h4 id="3-5-copy-and-paste-the-following-javascript-code-into-the-js-editor">3.5 Copy and paste the following JavaScript code into the JS editor.</h4>
+</div><h4 id="35-copy-and-paste-the-following-javascript-code-into-the-js-editor">3.5 Copy and paste the following JavaScript code into the JS editor.</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -562,9 +539,9 @@ contract PublicComments {
 </span><span class="lnt">63
 </span><span class="lnt">64
 </span><span class="lnt">65
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">var instance = null;
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">var instance = null;
 window.addEventListener(&#39;web3Ready&#39;, function() {
   var contract = web3.ss.contract(abi);
   instance = contract.at(cAddr);
@@ -628,21 +605,16 @@ $(&#34;#submit&#34;).click(function() {
         }
     });
     return false;
-});</pre></td></tr></table>
+});
+</code></pre></td></tr></table>
 </div>
-</div>
-<blockquote>
+</div><blockquote>
 <p>On CyberMiles, we can make contract function calls with gas price set to zero. That is because CyberMiles allows gas free operations for many operations.</p>
 </blockquote>
-
-<h4 id="3-6-click-on-run-to-see-the-dapp-in-action-you-can-now-vote-thumb-up-or-down-inside-buidl">3.6 Click on Run to see the dapp in action! You can now vote thumb up or down inside BUIDL.</h4>
-
-<p><img src="/images/20200327-forum-03.png" alt="" /></p>
-
-<h4 id="3-7-finally-you-can-publish-the-dapp">3.7 Finally, you can publish the dapp.</h4>
-
+<h4 id="36-click-on-run-to-see-the-dapp-in-action-you-can-now-vote-thumb-up-or-down-inside-buidl">3.6 Click on Run to see the dapp in action! You can now vote thumb up or down inside BUIDL.</h4>
+<p><img src="/images/20200327-forum-03.png" alt=""></p>
+<h4 id="37-finally-you-can-publish-the-dapp">3.7 Finally, you can publish the dapp.</h4>
 <p>Just click on the Publish button and give the dapp a name. Once published, you can share the published URL to the public to comment on your issue!</p>
-
 <blockquote>
 <p>If the dapp user has Venus for CMT installed, the dapp will ask whether she would like to use her Venus account instead of auto-generated or imported accounts.</p>
 </blockquote>

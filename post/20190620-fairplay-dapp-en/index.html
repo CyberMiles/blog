@@ -35,7 +35,7 @@ What is FairPlay FairPlay uses smart contracts to conduct automated prize draws 
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190620-fairplay-dapp-en/" />
@@ -59,20 +59,16 @@ What is FairPlay FairPlay uses smart contracts to conduct automated prize draws 
 
 
 
-
 <meta itemprop="name" content="FairPlay: a new type of DApp">
 <meta itemprop="description" content="Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.
 What is FairPlay FairPlay uses smart contracts to conduct automated prize draws that are fair and transparent. It allows anyone to create and participate in product giveaways and e-commerce marketing campaigns. Since its launch, FairPlay has routinely reached a DAU (Daily Active Users) of 1000 (according to Google Analytics), with each giveaway receiving hundreds of on-chain transactions, making it one of the most popular DApps of all public blockchains.">
-
-
 <meta itemprop="datePublished" content="2019-06-20T15:30:23&#43;08:00" />
 <meta itemprop="dateModified" content="2019-06-20T15:30:23&#43;08:00" />
 <meta itemprop="wordCount" content="1003">
 
 
 
-<meta itemprop="keywords" content="e-commerce,dapp,smart contract,search engine," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="e-commerce,dapp,smart contract,search engine," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="FairPlay: a new type of DApp"/>
 <meta name="twitter:description" content="Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.
 What is FairPlay FairPlay uses smart contracts to conduct automated prize draws that are fair and transparent. It allows anyone to create and participate in product giveaways and e-commerce marketing campaigns. Since its launch, FairPlay has routinely reached a DAU (Daily Active Users) of 1000 (according to Google Analytics), with each giveaway receiving hundreds of on-chain transactions, making it one of the most popular DApps of all public blockchains."/>
@@ -279,66 +275,37 @@ What is FairPlay FairPlay uses smart contracts to conduct automated prize draws 
 
     
     <div class="post-content">
-      
-
-<p><em>Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.</em></p>
-
+      <p><em>Credits: FairPlay is developed by Second State, an open source enterprise smart contract platform, and deployed on the CyberMiles public blockchain.</em></p>
 <h3 id="what-is-fairplay">What is FairPlay</h3>
-
 <p><a href="https://www.fairplaydapp.com/">FairPlay</a> uses smart contracts to conduct automated prize draws that are fair and transparent. It allows anyone to create and participate in product giveaways and e-commerce marketing campaigns. Since its launch, FairPlay has routinely reached a DAU (Daily Active Users) of 1000 (according to Google Analytics), with each giveaway receiving hundreds of on-chain transactions, making it one of the most popular DApps of all public blockchains.</p>
 
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/lQ6dKy_Q42s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/lQ6dKy_Q42s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <p>The user does not need any special software (ie a crypto wallet) to load the FairPlay web app, and view active and past giveaways. The FairPlay web application is simply a collection of HTML and JavaScript files. Any user can start a web server on her own computer and serve those files locally.</p>
-
-<p><img src="/images/20190620-fairplay-dapp-01.png" alt="" /></p>
-
+<p><img src="/images/20190620-fairplay-dapp-01.png" alt=""></p>
 <p>When the user needs to make a smart contract transaction, such as creating a new giveaway or participating in an existing giveaway, the web page directs the user to open the CMT Wallet to digitally sign and complete the operation.</p>
-
-<p><img src="/images/20190620-fairplay-dapp-02.png" alt="" /></p>
-
+<p><img src="/images/20190620-fairplay-dapp-02.png" alt=""></p>
 <p><em>Note: Secure random numbers are crucial for applications like FairPlay. FairPlay is deployed on the CyberMiles public blockchain to take advantage of the Lity Virtual Machine, which supports secure random number generation as a native operation. The Lity Virtual Machine is an open source Ethereum compatible VM developed by Second State.</em></p>
-
 <p>From the surface, FairPlay is a DApp in front of blockchain smart contracts. However, under the hood, FairPlay has a modular architecture that is easy to develop and maintain. Key to this architecture is a smart contract search engine.</p>
-
 <h3 id="a-modular-architecture">A modular architecture</h3>
-
 <p>Most of today’s DApps rely on a single monolithic smart contract to serve as the “backend”. The smart contract manages all application users and states. Even for systems that consist of multiple contracts, there is typically a registry or manager contract that provides aggregated information about the system.</p>
-
 <p>However, a large smart contract is difficult to write and maintain. It tends to be error-prone, and nearly impossible to fix when an error or issue is discovered, exacerbating the security problems that had plagued DApps today. The registry contract is also constrained by the limitations of today’s smart contract programming languages and virtual machines. It cannot support complex data query operations.</p>
-
 <p>With the FairPlay DApp, we took a different approach. The DApp consists of many giveaway events, but each event is its own smart contract. When someone creates a new giveaway, she deploys a new instance of the FairPlay smart contract. When an event ends, its smart contract instance is discarded. That allows us to continuously improve the FairPlay contract to add features and fix bugs, as each future giveaway event uses a new smart contract. However, a key challenge in this approach is how the DApp organizes all those smart contracts created by different addresses at different times, and make the information inside all those contracts available in a unified UI. Enter the search engine.</p>
-
 <h3 id="the-smart-contract-search-engine">The smart contract search engine</h3>
-
 <p>The FairPlay DApp home screen is the search engine. It allows users to find giveaways containing specific keywords or tags, as well as the user’s previously participated giveaways. The search engine indexes information from all FairPlay contracts deployed on the blockchain.</p>
-
-<p><img src="/images/20190620-fairplay-dapp-03.png" alt="" /></p>
-
+<p><img src="/images/20190620-fairplay-dapp-03.png" alt=""></p>
 <p>The FairPlay DApp is powered by the open source smart contract search engine developed by Second State. It is decentralized — anyone can create a search engine-based DApp in front of all deployed FairPlay smart contracts. Each search engine-based DApp could use different algorithms and queries to surface and promote FairPlay giveaways tailored to its users and audience.</p>
-
-<p><img src="/images/20190620-fairplay-dapp-04.png" alt="" /></p>
-
+<p><img src="/images/20190620-fairplay-dapp-04.png" alt=""></p>
 <p>The search engine-based DApps do not require monolithic smart contracts. Instead, each smart contract in the DApp is designed to complete a limited set of specific business transactions. All related smart contracts are aggregated in the search engine. This pattern is much closer to the design goal of smart contracts.</p>
-
 <h3 id="solving-the-on-boarding-problem">Solving the on-boarding problem</h3>
-
 <p>A critical challenge that hinders DApp adoption today is the requirement of crypto wallets. It is nearly impossible to onboard users if they are asked to download and install an unfamiliar mobile app just to try a DApp. Furthermore, many DApps require the user to purchase cryptocurrencies, which often require the user to register for exchanges and purchase Bitcoin using bank transfers first, just to pay for a few cents of “gas fees” to complete a transaction. No wonder that there are very few DApp users.</p>
-
 <p>A wallet account is needed for a DApp user to make transactions against the smart contracts. However, as we have seen from the FairPlay DApp, much of the DApp operations consist of searching, browsing, and viewing information. The user only occasionally needs to make transactions.</p>
-
 <p>The FairPlay DApp allows users to access the search engine and detailed state information from each smart contract without any wallet account. When the user tries to create and send a transaction against the smart contract, the web app asks the user to open the CMT Wallet to complete the transaction. At the point, the user has the option to download the CMT Wallet mobile app if she does not already have it installed.</p>
-
 <p>Of course, experienced users could always open the DApp directly from CMT Wallet’s DApp browser. It provides the best user experience as the transactions are signed and sent seamlessly.</p>
-
 <p>The FairPlay DApp runs on the CyberMiles blockchain, which supports multiple gas fee strategies. For example, the CyberMiles blockchain waives gas fees for casual users and allows contract creators to pay gas fees on behalf of end users. Together with UI optimizations in the CMT wallet, FairPlay users typically would not see gas fee prompts when using the DApp. That dramatically increases the onboarding success rate for transactions.</p>
-
 <h3 id="conclusions">Conclusions</h3>
-
 <p>The FairPlay DApp is designed to improve DApp usability through innovative technologies such as the smart contract search engine, easy on-boarding of web applications, and gas free transactions. Get in touch if you have ideas on how to further improve it!</p>
 
     </div>

@@ -36,7 +36,7 @@ But if you want to write some code and start from scratch, you can also use BUID
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190521-issue-token-en/" />
@@ -60,21 +60,17 @@ But if you want to write some code and start from scratch, you can also use BUID
 
 
 
-
 <meta itemprop="name" content="Issue your own CRC20 token on CyberMiles">
 <meta itemprop="description" content="Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
 You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
 But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.">
-
-
 <meta itemprop="datePublished" content="2020-05-22T10:01:23&#43;08:00" />
 <meta itemprop="dateModified" content="2020-05-22T10:01:23&#43;08:00" />
 <meta itemprop="wordCount" content="1885">
 
 
 
-<meta itemprop="keywords" content="Blockchain development,BUIDL IDE,smart contract,CyberMiles," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="Blockchain development,BUIDL IDE,smart contract,CyberMiles," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Issue your own CRC20 token on CyberMiles"/>
 <meta name="twitter:description" content="Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
 You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
@@ -284,33 +280,22 @@ But if you want to write some code and start from scratch, you can also use BUID
     
     <div class="post-content">
       <p>Last week, we introduced an <a href="https://twitter.com/cybermiles/status/1258798582469033991">artist</a> who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.</p>
-
 <p>You can easily issue your CRC20 token with <a href="https://app.cybermiles.io/">CyberMiles App</a>, if you have at least 1,000 CMT in your CMT address.</p>
-
 <p>But if you want to write some code and start from scratch, you can also use <a href="http://buidl.secondstate.io/cmt">BUIDL for CMT</a> to issue your own tokens.</p>
-
 <p>Step 1</p>
-
 <p>Open the <a href="https://www.secondstate.io/buidl/">BUIDL IDE tool for CMT</a> in any browser. <a href="http://buidl.secondstate.io/cmt">http://buidl.secondstate.io/cmt</a></p>
-
 <p>Step 2</p>
-
 <p>Open the Accounts tab and send a small amount of CMTs to your default account.</p>
-
 <blockquote>
 <p>If you have CyberMiles’ Venus wallet, you could opt to use Venus in the Providers tab. BUIDL and dapps it creates will now use the default account in Venus to make contract calls and to pay for gas.</p>
 </blockquote>
-
 <p>Step 3</p>
-
 <p>Let’s look at the code first.</p>
-
 <p>The smart contract is complete. It allows many functions, such as the defining of ownership of this smart contract, limiting the pausing of this smart contract to only by the owner, transferring of ownership.</p>
-
-<p>Let&rsquo;s see the key part of this smart contract. You can define the name, symbol, decimals and total supply of  your own CRC 20 Tokens.</p>
+<p>Let's see the key part of this smart contract. You can define the name, symbol, decimals and total supply of  your own CRC 20 Tokens.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -321,9 +306,9 @@ But if you want to write some code and start from scratch, you can also use BUID
 </span><span class="lnt"> 9
 </span><span class="lnt">10
 </span><span class="lnt">11
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">contract TestToken is PausableToken {
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">contract TestToken is PausableToken {
 
     string public name = &#34;Newsletter&#34;;
     string public symbol = &#34;News&#34;;
@@ -333,13 +318,13 @@ But if you want to write some code and start from scratch, you can also use BUID
     constructor () public {
         balances[msg.sender] = totalSupply;
     }
-}</pre></td></tr></table>
+}
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>Now copy and paste the code to the contract section of BUIDL IDE.</p>
+</div><p>Now copy and paste the code to the contract section of BUIDL IDE.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt">  1
+<pre class="chroma"><code><span class="lnt">  1
 </span><span class="lnt">  2
 </span><span class="lnt">  3
 </span><span class="lnt">  4
@@ -640,9 +625,9 @@ But if you want to write some code and start from scratch, you can also use BUID
 </span><span class="lnt">299
 </span><span class="lnt">300
 </span><span class="lnt">301
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">pragma lity ^1.2.4;
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pragma lity ^1.2.4;
 
 // File: zeppelin-solidity/contracts/token/ERC20/ERC20Basic.sol
 
@@ -942,20 +927,15 @@ contract TestToken is PausableToken {
     constructor () public {
         balances[msg.sender] = totalSupply;
     }
-} </pre></td></tr></table>
+} 
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>Click on Compile and choose the contract TestToken to deploy to the chain.</p>
-
-<p><img src="/images/issue-token-01.png" alt="" />
+</div><p>Click on Compile and choose the contract TestToken to deploy to the chain.</p>
+<p><img src="/images/issue-token-01.png" alt="">
 You can call its functions directly from inside BUIDL  when the contract is deployed successfully on the CyberMiles blockchain. You will see the owner, total supply of this CRC20 token. You can also transfer your CRC20 tokens to a CMT address. You even can transfer the ownership of this smart contract.</p>
-
-<p><img src="/images/issue-token-02.png" alt="" /></p>
-
+<p><img src="/images/issue-token-02.png" alt=""></p>
 <p>All that happen on the blockchain will be recorded on the blockchain explorer. You can go to the blockchain explorer for CMT <a href="http://cmttracking.io/">cmttracking.io</a> to check out your CRC20 tokens as well.</p>
-
-<p><img src="/images/issue-token-03.png" alt="" /></p>
-
+<p><img src="/images/issue-token-03.png" alt=""></p>
 <p>There is a question for you. Do you know how to let your CRC20 token appear in the CyberMiles App?</p>
 
     </div>

@@ -25,7 +25,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="author" content="CyberMiles" />
-  <meta name="description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确" />
+  <meta name="description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保" />
 
   <meta name="keywords" content="CyberMiles, CMT, blockchain, e-commerce, commerce, bitcoin, smart contract" />
 
@@ -34,7 +34,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/" />
@@ -58,21 +58,17 @@
 
 
 
-
 <meta itemprop="name" content="教程：如何将毕业证书存入 CyberMiles 公链">
-<meta itemprop="description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确">
-
-
+<meta itemprop="description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保">
 <meta itemprop="datePublished" content="2020-08-10T15:00:23&#43;08:00" />
 <meta itemprop="dateModified" content="2020-08-10T15:00:23&#43;08:00" />
-<meta itemprop="wordCount" content="658">
+<meta itemprop="wordCount" content="656">
 
 
 
-<meta itemprop="keywords" content="CMT,developer,blockchain development," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="CMT,developer,blockchain development," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="教程：如何将毕业证书存入 CyberMiles 公链"/>
-<meta name="twitter:description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确"/>
+<meta name="twitter:description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -96,7 +92,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 <meta property="og:title" content="教程：如何将毕业证书存入 CyberMiles 公链 - CyberMiles News and Articles">
-  <meta property="og:description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确" />
+  <meta property="og:description" content="天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保" />
 <meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
 <meta property="og:url" content="http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/">
 
@@ -276,17 +272,16 @@ if (!doNotTrack) {
     
     <div class="post-content">
       <p>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？</p>
-
-<p>整个Dapp 设计分为两部分：
-* 智能合约记录关键信息，确保信息不可篡改，这一部分相当于传统应用的后端；
-* 前端展示页面，用 HTML、JavaScript、CSS 实现，100% 复制真实世界的证书。</p>
-
+<p>整个Dapp 设计分为两部分：</p>
+<ul>
+<li>智能合约记录关键信息，确保信息不可篡改，这一部分相当于传统应用的后端；</li>
+<li>前端展示页面，用 HTML、JavaScript、CSS 实现，100% 复制真实世界的证书。</li>
+</ul>
 <p>智能合约与前端展示页面这两部分通过 web3-cmt.js 实现。</p>
-
 <p>下面详细为大家讲解智能合约部分，合约基本不涉及计算，主要通过 string 实现。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -317,9 +312,9 @@ if (!doNotTrack) {
 </span><span class="lnt">29
 </span><span class="lnt">30
 </span><span class="lnt">31
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">contract TianjinStudent { //合约名字，此处可以随意更改
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">contract TianjinStudent { //合约名字，此处可以随意更改
   string private name; //合约
   bool private isFemale; //选择性别
   string private birth; // 出生日期
@@ -349,17 +344,13 @@ if (!doNotTrack) {
   }
   
   // 这段函数实现了调用相应的参数，返回 name, isFemale, birth, certid, prog_date, url 这些参数。
-  </pre></td></tr></table>
+  
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>打开 <a href="https://buidl.secondstate.io/cmt">BUIDL for CMT</a>，将上述代码复制粘贴到BUIDL ，点击 compile，得到合约的 ABI 与参数。</p>
-
-<p><img src="/images/tianjin-student-01.png" alt="" /></p>
-
+</div><p>打开 <a href="https://buidl.secondstate.io/cmt">BUIDL for CMT</a>，将上述代码复制粘贴到BUIDL ，点击 compile，得到合约的 ABI 与参数。</p>
+<p><img src="/images/tianjin-student-01.png" alt=""></p>
 <p>将毕业证书上的参数，姓名、性别、出生日期、学习时间、证书编号、证书颁发时间、毕业证书学生照片链接填入左侧的信息栏，点击 Deploy on the chain。</p>
-
-<p><img src="/images/tianjin-student-02.png" alt="" /></p>
-
+<p><img src="/images/tianjin-student-02.png" alt=""></p>
 <p>支付一点点gas，部署成功。点击 call 按钮就可以看到刚刚上链的信息。这样就实现了毕业证书上的核心信息上链。接下来需要解决的就是前端展示页面了。</p>
 
     </div>

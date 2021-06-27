@@ -1,9 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://blog.cybermiles.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cybermiles.io/categories/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20210429-nft-06-zh/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/nft/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/</loc>
+    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/zh/</loc>
     <lastmod>2021-04-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -52,6 +100,20 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/categories/en/</loc>
+    <lastmod>2021-03-24T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/cmt/</loc>
+    <lastmod>2021-03-18T10:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/</loc>
     <lastmod>2021-03-18T10:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -61,6 +123,20 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-zh/</loc>
     <lastmod>2021-03-18T10:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
+    <lastmod>2021-02-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/smart-contract/</loc>
+    <lastmod>2021-02-23T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -94,8 +170,29 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/newsletter/</loc>
+    <lastmod>2020-10-26T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20200911-biweekly-zh/</loc>
     <lastmod>2020-09-11T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/blockchain-development/</loc>
+    <lastmod>2020-09-10T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/developer/</loc>
+    <lastmod>2020-09-10T15:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -171,6 +268,20 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/staking/</loc>
+    <lastmod>2020-05-28T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/buidl-ide/</loc>
+    <lastmod>2020-05-22T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190521-issue-token-en/</loc>
     <lastmod>2020-05-22T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -178,7 +289,28 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/blockchain-programming/</loc>
+    <lastmod>2020-04-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/ethereum/</loc>
+    <lastmod>2020-04-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</loc>
+    <lastmod>2020-04-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/webassembly/</loc>
     <lastmod>2020-04-23T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -215,6 +347,20 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20200330-roadmap-zh/</loc>
     <lastmod>2020-03-30T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/buidl/</loc>
+    <lastmod>2020-03-27T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/development/</loc>
+    <lastmod>2020-03-27T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -269,6 +415,13 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/mainnet/</loc>
+    <lastmod>2019-10-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20191028-mainnetupgrade-en/</loc>
     <lastmod>2019-10-28T15:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -311,6 +464,27 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/ecommerce/</loc>
+    <lastmod>2019-07-03T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/fairplay/</loc>
+    <lastmod>2019-07-03T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/giveaway/</loc>
+    <lastmod>2019-07-03T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190703-faiplay-en/</loc>
     <lastmod>2019-07-03T15:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,6 +493,13 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20190627-import-erc-20-cmts-en/</loc>
+    <lastmod>2019-06-27T15:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/import/</loc>
     <lastmod>2019-06-27T15:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -353,7 +534,28 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/dapp/</loc>
+    <lastmod>2019-06-21T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/e-commerce/</loc>
+    <lastmod>2019-06-21T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190621-fairplay-dapp-zh/</loc>
+    <lastmod>2019-06-21T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/search-engine/</loc>
     <lastmod>2019-06-21T15:30:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -397,6 +599,20 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20190614-fairplay9-en/</loc>
     <lastmod>2019-06-14T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/fathers-day/</loc>
+    <lastmod>2019-06-13T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/gift/</loc>
+    <lastmod>2019-06-13T15:30:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -486,6 +702,20 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/disruption/</loc>
+    <lastmod>2019-05-27T17:07:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/incident/</loc>
+    <lastmod>2019-05-27T17:07:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190527-incident-postmortem-en/</loc>
     <lastmod>2019-05-27T17:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -501,6 +731,13 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20190523-mainnet-upgrade-en/</loc>
+    <lastmod>2019-05-23T17:07:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/upgrade/</loc>
     <lastmod>2019-05-23T17:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -528,8 +765,50 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/pizza/</loc>
+    <lastmod>2019-05-21T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/5miles/</loc>
+    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/business/</loc>
+    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190516-ecommerce-dao-en/</loc>
     <lastmod>2019-05-16T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/privacy/</loc>
+    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/rules-engine/</loc>
+    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/guideline/</loc>
+    <lastmod>2019-05-15T16:02:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -543,6 +822,27 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20190513-.5milesdata1-ko/</loc>
+    <lastmod>2019-05-13T19:01:23+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/ko/</loc>
+    <lastmod>2019-05-13T19:01:23+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/migration/</loc>
+    <lastmod>2019-05-13T19:01:23+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/public-block-chain/</loc>
     <lastmod>2019-05-13T19:01:23+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -563,7 +863,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/data/</loc>
+    <lastmod>2019-05-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190513-mothersday-giveaway-en/</loc>
+    <lastmod>2019-05-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/mothers-day/</loc>
     <lastmod>2019-05-13T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -572,6 +886,13 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20190510-fairplay-en/</loc>
     <lastmod>2019-05-11T08:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/adoption/</loc>
+    <lastmod>2019-05-10T17:07:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -591,7 +912,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/peer-to-peer-marketplace/</loc>
+    <lastmod>2019-05-10T17:07:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190510-amaq7-en/</loc>
+    <lastmod>2019-05-10T17:06:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/asset-digitalization/</loc>
     <lastmod>2019-05-10T17:06:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -619,7 +954,28 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/fiat/</loc>
+    <lastmod>2019-05-08T16:02:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/stable-coin/</loc>
+    <lastmod>2019-05-08T16:02:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190509-amaq3-en/</loc>
+    <lastmod>2019-05-08T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/calculate/</loc>
     <lastmod>2019-05-08T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -640,6 +996,20 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/cmt-wallet/</loc>
+    <lastmod>2019-05-08T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/cmts/</loc>
+    <lastmod>2019-05-08T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190508-cmtrelease-en/</loc>
     <lastmod>2019-05-08T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -654,8 +1024,29 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/mining/</loc>
+    <lastmod>2019-05-08T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190507-fairplay-en/</loc>
     <lastmod>2019-05-07T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/blockchain-governance/</loc>
+    <lastmod>2019-04-17T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/community/</loc>
+    <lastmod>2019-04-17T18:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -675,7 +1066,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/update/</loc>
+    <lastmod>2019-04-08T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20190404-roadmap-ko/</loc>
+    <lastmod>2019-04-04T19:00:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/roadmap/</loc>
     <lastmod>2019-04-04T19:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -697,6 +1102,13 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20190404-mainnetdevelopers-zh/</loc>
+    <lastmod>2019-04-04T15:30:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/dapps/</loc>
     <lastmod>2019-04-04T15:30:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -733,6 +1145,13 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20190301-5miles-en/</loc>
     <lastmod>2019-03-01T15:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/community-governance/</loc>
+    <lastmod>2019-02-21T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -787,7 +1206,56 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/overflow/</loc>
+    <lastmod>2018-04-25T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/security/</loc>
+    <lastmod>2018-04-25T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/docs/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/index/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/jane-theme-preview/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/preview/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -801,8 +1269,22 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/opensource/</loc>
+    <lastmod>2018-01-19T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20180109-marc-en/</loc>
     <lastmod>2018-01-19T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/hacks/</loc>
+    <lastmod>2017-11-11T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -815,499 +1297,17 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</loc>
-    <lastmod>2017-10-15T10:01:23+08:00</lastmod>
+    <loc>http://blog.cybermiles.io/tags/wallet/</loc>
+    <lastmod>2017-11-11T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/5miles/</loc>
-    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
+    <loc>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</loc>
+    <lastmod>2017-10-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/adoption/</loc>
-    <lastmod>2019-05-10T17:07:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/asset-digitalization/</loc>
-    <lastmod>2019-05-10T17:06:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
-    <lastmod>2021-02-23T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/blockchain-development/</loc>
-    <lastmod>2020-09-10T15:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/blockchain-governance/</loc>
-    <lastmod>2019-04-17T18:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/blockchain-programming/</loc>
-    <lastmod>2020-04-23T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/buidl/</loc>
-    <lastmod>2020-03-27T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/buidl-ide/</loc>
-    <lastmod>2020-05-22T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/business/</loc>
-    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/calculate/</loc>
-    <lastmod>2019-05-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/cmt/</loc>
-    <lastmod>2021-03-18T10:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/cmt-wallet/</loc>
-    <lastmod>2019-05-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/cmts/</loc>
-    <lastmod>2019-05-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/community/</loc>
-    <lastmod>2019-04-17T18:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/community-governance/</loc>
-    <lastmod>2019-02-21T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/</loc>
-    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
-    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/dapp/</loc>
-    <lastmod>2019-06-21T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/dapps/</loc>
-    <lastmod>2019-04-04T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/data/</loc>
-    <lastmod>2019-05-13T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/developer/</loc>
-    <lastmod>2020-09-10T15:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/development/</loc>
-    <lastmod>2020-03-27T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/disruption/</loc>
-    <lastmod>2019-05-27T17:07:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/docs/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/e-commerce/</loc>
-    <lastmod>2019-06-21T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/ecommerce/</loc>
-    <lastmod>2019-07-03T15:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/en/</loc>
-    <lastmod>2021-03-24T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/ethereum/</loc>
-    <lastmod>2020-04-23T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/fairplay/</loc>
-    <lastmod>2019-07-03T15:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/fathers-day/</loc>
-    <lastmod>2019-06-13T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/fiat/</loc>
-    <lastmod>2019-05-08T16:02:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/gift/</loc>
-    <lastmod>2019-06-13T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/giveaway/</loc>
-    <lastmod>2019-07-03T15:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/guideline/</loc>
-    <lastmod>2019-05-15T16:02:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/hacks/</loc>
-    <lastmod>2017-11-11T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/import/</loc>
-    <lastmod>2019-06-27T15:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/incident/</loc>
-    <lastmod>2019-05-27T17:07:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/index/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/ko/</loc>
-    <lastmod>2019-05-13T19:01:23+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/mainnet/</loc>
-    <lastmod>2019-10-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/migration/</loc>
-    <lastmod>2019-05-13T19:01:23+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/mining/</loc>
-    <lastmod>2019-05-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/mothers-day/</loc>
-    <lastmod>2019-05-13T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/newsletter/</loc>
-    <lastmod>2020-10-26T15:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/nft/</loc>
-    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/opensource/</loc>
-    <lastmod>2018-01-19T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/overflow/</loc>
-    <lastmod>2018-04-25T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/peer-to-peer-marketplace/</loc>
-    <lastmod>2019-05-10T17:07:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/pizza/</loc>
-    <lastmod>2019-05-21T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/post/</loc>
-    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/preview/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/privacy/</loc>
-    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/public-block-chain/</loc>
-    <lastmod>2019-05-13T19:01:23+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/roadmap/</loc>
-    <lastmod>2019-04-04T19:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/rules-engine/</loc>
-    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/search-engine/</loc>
-    <lastmod>2019-06-21T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/security/</loc>
-    <lastmod>2018-04-25T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/smart-contract/</loc>
-    <lastmod>2021-02-23T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/stable-coin/</loc>
-    <lastmod>2019-05-08T16:02:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/staking/</loc>
-    <lastmod>2020-05-28T15:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/</loc>
-    <lastmod>2019-05-16T15:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/update/</loc>
-    <lastmod>2019-04-08T15:30:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/upgrade/</loc>
-    <lastmod>2019-05-23T17:07:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/wallet/</loc>
-    <lastmod>2017-11-11T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/webassembly/</loc>
-    <lastmod>2020-04-23T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/zh/</loc>
-    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

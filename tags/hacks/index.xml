@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hacks on CyberMiles News and Articles</title>
+    <title>hacks on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/hacks/</link>
-    <description>Recent content in Hacks on CyberMiles News and Articles</description>
+    <description>Recent content in hacks on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Nov 2017 10:01:23 +0800</lastBuildDate>
@@ -19,7 +19,7 @@
       <guid>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</guid>
       <description>Github user devops199 said on Twitter “I accidentally killed it”. Before anyone can blink an eye, his “accident” has “killed” Ethereum accounts holding over $300M in crypto assets. On average, each of his 4 words cost $75M.
 One of those Ethereum accounts belongs to the Polkadot project, and it held close to $90M before it was “killed”.
-Someone asked devops199 after the incident: Why did you do it? His response?</description>
+Someone asked devops199 after the incident: Why did you do it? His response? “I am just a beginner poking around the system!</description>
     </item>
     
   </channel>

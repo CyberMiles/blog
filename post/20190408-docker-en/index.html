@@ -36,7 +36,7 @@ The long story One of the key technology innovations from the CyberMiles public 
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190408-docker-en/" />
@@ -60,21 +60,17 @@ The long story One of the key technology innovations from the CyberMiles public 
 
 
 
-
 <meta itemprop="name" content="Make libENI safer">
 <meta itemprop="description" content="TL;DR If you use Docker to run a CyberMiles node, please make sure that you turn on the priviledged Docker option:
 1  docker run --privileged --name travis -v $HOME/.travis:/travis -t -p 26657:26657 cybermiles/travis:v0.1.7-beta node start --home /travis   Read on to find out how to run a node for the CyberMiles testnet or the mainnet.
 The long story One of the key technology innovations from the CyberMiles public blockchain is the libENI dynamic extension.">
-
-
 <meta itemprop="datePublished" content="2019-04-08T15:30:23&#43;08:00" />
 <meta itemprop="dateModified" content="2019-04-08T15:30:23&#43;08:00" />
 <meta itemprop="wordCount" content="284">
 
 
 
-<meta itemprop="keywords" content="mainnet,update," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="mainnet,update," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Make libENI safer"/>
 <meta name="twitter:description" content="TL;DR If you use Docker to run a CyberMiles node, please make sure that you turn on the priviledged Docker option:
 1  docker run --privileged --name travis -v $HOME/.travis:/travis -t -p 26657:26657 cybermiles/travis:v0.1.7-beta node start --home /travis   Read on to find out how to run a node for the CyberMiles testnet or the mainnet.
@@ -283,41 +279,32 @@ The long story One of the key technology innovations from the CyberMiles public 
 
     
     <div class="post-content">
-      
-
-<p><img src="/images/20190408-docker-01.jpg" alt="" /></p>
-
-<h3 id="tl-dr">TL;DR</h3>
-
+      <p><img src="/images/20190408-docker-01.jpg" alt=""></p>
+<h3 id="tldr">TL;DR</h3>
 <p>If you use Docker to run a CyberMiles node, please make sure that you turn on the <code>priviledged</code> Docker option:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt">1
-</span></pre></td>
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">docker run --privileged --name travis -v $HOME/.travis:/travis -t -p 26657:26657 cybermiles/travis:v0.1.7-beta node start --home /travis</pre></td></tr></table>
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">docker run --privileged --name travis -v $HOME/.travis:/travis -t -p 26657:26657 cybermiles/travis:v0.1.7-beta node start --home /travis
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>Read on to find out how to run a node for the CyberMiles <a href="https://travis.readthedocs.io/en/latest/connect-testnet.html#option-1-docker-from-a-snapshot">testnet</a> or the <a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#option-1-docker-from-snapshot">mainnet</a>.</p>
-
+</div><p>Read on to find out how to run a node for the CyberMiles <a href="https://travis.readthedocs.io/en/latest/connect-testnet.html#option-1-docker-from-a-snapshot">testnet</a> or the <a href="https://travis.readthedocs.io/en/latest/connect-mainnet.html#option-1-docker-from-snapshot">mainnet</a>.</p>
 <h3 id="the-long-story">The long story</h3>
-
 <p>One of the key technology innovations from the CyberMiles public blockchain is
 the <a href="https://www.litylang.org/performance/">libENI</a> dynamic extension. It allows application developers
 to add high performance native functions to the virtual machine without stopping or forking the blockchain.
 Developers write new functions in native C/C++ code as libENI modules. CyberMiles validators vote and determine whether to
 include any newly created libENI modules on the blockchain. Once included, those native functions become available to
 all smart contracts deployed on the CyberMiles public blockchain.</p>
-
 <p>However, a potential issue for libENI is that third party native code could expose the blockchain nodes to attacks or bugs.
 The burden is on the CyberMiles validators to review third party submitted libENI module source code, and determine whether
 the code is up to our network safty and performance standards. That requires a high level of technical expertise. That is
 why CyberMiles validators have so far been reluctant to approve new third party libENI extension modules.</p>
-
 <p>With the <a href="https://github.com/CyberMiles/travis/releases/tag/v0.1.7-beta">CyberMiles v0.1.7-beta software update</a>,
 we have added a sandbox for the libENI modules to ensure that the native code would not crash the underlying system.
 The sandnox requires the Docker container to run in a <code>priviledged</code> mode in order to use <a href="https://en.wikipedia.org/wiki/Seccomp">seccomp</a> (secure computing mode).</p>
-
 <p>For all CyberMiles validators and full node operators (e.g., exchanges), please make sure that you always use the
 <code>docker run --privileged</code> command option.</p>
 

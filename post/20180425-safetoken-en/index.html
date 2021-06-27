@@ -26,7 +26,7 @@
 
 <meta name="author" content="CyberMiles" />
   <meta name="description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
-The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem." />
+ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem." />
 
   <meta name="keywords" content="CyberMiles, CMT, blockchain, e-commerce, commerce, bitcoin, smart contract" />
 
@@ -35,7 +35,7 @@ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated go
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20180425-safetoken-en/" />
@@ -59,23 +59,19 @@ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated go
 
 
 
-
 <meta itemprop="name" content="Building a safer crypto token">
 <meta itemprop="description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
-The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.">
-
-
+ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.">
 <meta itemprop="datePublished" content="2018-04-25T10:01:23&#43;08:00" />
 <meta itemprop="dateModified" content="2018-04-25T10:01:23&#43;08:00" />
 <meta itemprop="wordCount" content="809">
 
 
 
-<meta itemprop="keywords" content="security,overflow," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="security,overflow," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Building a safer crypto token"/>
 <meta name="twitter:description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
-The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem."/>
+ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem."/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -100,7 +96,7 @@ if (!doNotTrack) {
 
 <meta property="og:title" content="Building a safer crypto token - CyberMiles News and Articles">
   <meta property="og:description" content="Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.
-The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem." />
+ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem." />
 <meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
 <meta property="og:url" content="http://blog.cybermiles.io/post/20180425-safetoken-en/">
 
@@ -279,71 +275,39 @@ The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated go
 
     
     <div class="post-content">
-      
-
-<p>Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.</p>
-
-<hr />
-
+      <p>Another day, another billion-dollar Ethereum hack. This time the hack evaporated more than two billion USD worth of market value due to a bug in the smart contract written in Solidity. On the CyberMiles blockchain, while we are fully backward compatible with Ethereum, we make this type of bug virtually impossible to write. Here’s what you need to know.</p>
+<hr>
 <p>The Beauty Chain (BEC) was a high-profile cryptocurrency in China. Its stated goal is to be “a truly decentralized and beauty-themed ecosystem.” It started trading on OKEX on Feb. 23, 2018 and <a href="https://news.8btc.com/bec-spiked-4000-on-first-trading-day-another-pump-and-dump-scheme">spiked 4,000 percent on the first day of trading</a>. From its peak market cap of around 70 billion USD, it has gradually come down to around two billion USD as of April 22, when its trading value suddenly dropped to zero. (OKEX subsequently <a href="https://news.8btc.com/okex-suspend-bec-trading-due-to-irreversible-bug-in-smart-contract">suspended trading of BECs</a>.)</p>
-
-<p><img src="/images/20180425-safetoken-02.jpeg" alt="" /></p>
-
+<p><img src="/images/20180425-safetoken-02.jpeg" alt=""></p>
 <p>Of course, BEC is not alone in this. Another widely traded cryptocurrency, SmartMesh (SMT), which had a market cap of more than 300 million USD (for total supply of tokens), suffered a similar fate. SmartMesh claims to be the “token-based next generation Internet protocol,” but while SMT has a smaller market cap than BEC, it is much more widely traded and probably caused more damage in terms of real loss. (Huobi suspended trading of SMT.)</p>
-
 <h3 id="what-happened">What happened?</h3>
-
 <p>It was discovered that hackers were able to exploit the BEC/SMT smart contracts and <a href="https://etherscan.io/tx/0xad89ff16fd1ebe3a0a7cf4ed282302c06626c1af33221ebe0d3a470aba4a660f">issue vigintillions (value with 63 zeros) of tokens to themselves</a>. It has resulted in <a href="https://medium.com/@peckshield/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536">a security alert</a> since apparently multiple ERC 20 token contracts are susceptible to this problem.</p>
-
-<p><img src="/images/20180425-safetoken-03.png" alt="" /></p>
-
+<p><img src="/images/20180425-safetoken-03.png" alt=""></p>
 <p>The hacked transaction and account balances on BEC and SMT smart contracts. Can you count the zeros?</p>
-
-<hr />
-
+<hr>
 <h3 id="how-did-this-happen">How did this happen?</h3>
-
 <p>Technically, there is a bug in the ERC 20 smart contract that issues and manages the crypto token. Let’s use BEC as an example. (SMT is very similar.) The developer added a method called &lsquo;batchTransfer()&rsquo; to the contract. The method is intended to facilitate token transfer to multiple parties at once (i.e. a batch).</p>
-
-<p><img src="/images/20180425-safetoken-04.png" alt="" />
+<p><img src="/images/20180425-safetoken-04.png" alt="">
 Image credit from the CVE-2018–10299 security alert</p>
-
 <p>However, the developer made a crucial mistake in the following line of code:
 &lsquo;uint256 amount = uint256(cnt) * _value&rsquo;</p>
-
-<p>The &lsquo;cnt&rsquo; here is the number of recipients to transfer the tokens to, the &lsquo;_value&rsquo; is the number of BECs each recipient should receive, and the &lsquo;amount&rsquo; is the computed amount the contract should withdraw from the sender&rsquo;s account for the transfer.</p>
-
-<p>Now, what if someone calls this &lsquo;batchTransfer&rsquo; function with a &lsquo;cnt * _value&rsquo; so large that the product exceeds the capability of the computer to keep track of 256 bit integer (&lsquo;uint256&rsquo;)? It will cause an infamous “buffer overflow,” and cause the &lsquo;amount&rsquo; to compute to zero. Notice that both &lsquo;cnt&rsquo; and &lsquo;_value&rsquo; are legitimate &lsquo;unit256&rsquo; numbers, but the &lsquo;amount&rsquo; is now zero. Hence you can transfer &lsquo;_value&rsquo; number of BECs to anyone without withdrawing anything from the sender&rsquo;s account. So a sender with 1 BEC can now send trillions (in fact, vigintillions) of BECs to other recipients. [Thanks to the Alex O’s explanation in the comments section!]</p>
-
+<p>The &lsquo;cnt&rsquo; here is the number of recipients to transfer the tokens to, the &lsquo;_value&rsquo; is the number of BECs each recipient should receive, and the &lsquo;amount&rsquo; is the computed amount the contract should withdraw from the sender's account for the transfer.</p>
+<p>Now, what if someone calls this &lsquo;batchTransfer&rsquo; function with a &lsquo;cnt * _value&rsquo; so large that the product exceeds the capability of the computer to keep track of 256 bit integer (&lsquo;uint256&rsquo;)? It will cause an infamous “buffer overflow,” and cause the &lsquo;amount&rsquo; to compute to zero. Notice that both &lsquo;cnt&rsquo; and &lsquo;_value&rsquo; are legitimate &lsquo;unit256&rsquo; numbers, but the &lsquo;amount&rsquo; is now zero. Hence you can transfer &lsquo;_value&rsquo; number of BECs to anyone without withdrawing anything from the sender's account. So a sender with 1 BEC can now send trillions (in fact, vigintillions) of BECs to other recipients. [Thanks to the Alex O’s explanation in the comments section!]</p>
 <h3 id="how-to-prevent-it">How to prevent it?</h3>
-
 <p>The way to prevent this is to use the SafeMath library function when doing integer math. SafeMath detects and addresses the “integer overflow” problem. Interestingly, the BEC/SMT contract developers did use SafeMath, except in that one instance!</p>
-
 <p>Why? One might guess that in the gold rush of ICOs, the developer might just copied and pasted some ERC 20 contract code from the Internet without fully understanding their implications.</p>
-
 <h3 id="how-could-cybermiles-prevent-this">How could CyberMiles prevent this?</h3>
-
 <p>CyberMiles is improving the whole stack of the Ethereum Virtual Machine (EVM) from the compiler to the virtual machine runtime. One of the important safeguards we put into the place is to enforce the use of SafeMath in token contracts, such as ERC 20, ERC 223, ERC 721, and ERC 884. It works as follows.</p>
-
 <p><strong>Compiler optimization</strong>: If the compiler detects the source code to be compliant with one of the above token specifications, it will throw an error on any “naked” integer operation not wrapped around in SafeMath.</p>
-
 <p>Of course this behavior can be overridden with a compiler flag to ignore such errors. But the enforcement of SafeMath is turned on by default, ensuring the safety of token contracts.</p>
-
 <p><strong>Runtime optimization</strong>: At the virtual machine runtime, we automatically will analyze integer assignment operations in real-time and stop the contract execution with an error when overflow occurs.</p>
-
 <h3 id="the-moral-of-the-story">The moral of the story</h3>
-
 <p>Try to understand the code you got from the Internet, especially if it handles money!</p>
-
 <p>Deploy your token smart contracts on the CyberMiles blockchain for better safety, advanced language features, and low fees (MainNet coming online in Q3 2018).</p>
-
 <p>Or at least use the CyberMiles Lity/Solidity compiler to avoid common errors.</p>
-
 <p>Learn more at cybermiles.io.</p>
-
 <p>Or at least use the CyberMiles Lity/Solidity compiler to avoid common errors.</p>
-
-<p>Learn more at <cybermiles.io>.</p>
+<p>Learn more at &lt;cybermiles.io&gt;.</p>
 
     </div>
 

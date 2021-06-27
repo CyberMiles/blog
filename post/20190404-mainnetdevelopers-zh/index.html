@@ -34,7 +34,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190404-mainnetdevelopers-zh/" />
@@ -58,19 +58,15 @@
 
 
 
-
 <meta itemprop="name" content="CyberMiles主链成功升级，亮点在哪里？">
 <meta itemprop="description" content="经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年4月4日成功地进行了无分叉的软件升级。本次升级后，CyberM">
-
-
 <meta itemprop="datePublished" content="2019-04-04T15:30:23&#43;08:00" />
 <meta itemprop="dateModified" content="2019-04-04T15:30:23&#43;08:00" />
 <meta itemprop="wordCount" content="1786">
 
 
 
-<meta itemprop="keywords" content="mainnet,update,DApps," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="mainnet,update,DApps," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="CyberMiles主链成功升级，亮点在哪里？"/>
 <meta name="twitter:description" content="经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年4月4日成功地进行了无分叉的软件升级。本次升级后，CyberM"/>
 
@@ -275,49 +271,34 @@ if (!doNotTrack) {
 
     
     <div class="post-content">
-      
-
-<p>经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年4月4日成功地进行了无分叉的软件升级。本次升级后，CyberMiles主链增加了两个新功能，将极大改善DApp开发者和终端用户的体验。</p>
-
+      <p>经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年4月4日成功地进行了无分叉的软件升级。本次升级后，CyberMiles主链增加了两个新功能，将极大改善DApp开发者和终端用户的体验。</p>
 <h3 id="安全的区块链随机数">安全的区块链随机数</h3>
-
 <p>区块链随机数的生成一直都是一个问题。Luckyos、EOS.WIN、DEOSBET、FairDice、EosRoyale、EOSDice、FFGame……这些热门DApp游戏先后因为随机数漏洞被攻击。</p>
-
 <p>也因此，随机数的问题显得尤为重要。</p>
-
 <p>传统的随机数生成算法与单台机器的物理状态或运算状态有关。不同的机器产生的随机数运算结果是不同的，但区块链是分布式的系统，每个节点产出的结果都应该是一致的，并且是可验证的。</p>
-
 <p>真随机数应该满足以下3个条件：</p>
-
 <ul>
 <li>随机性：不存在统计学偏差，是完全杂乱的数列，即分布均匀性和独立性</li>
 <li>不可预测性：不能从过去的数列推测出下一个出现的数</li>
 <li>不可重现性：除非将数列本身保存下来，否则不能重现相同的数列</li>
 </ul>
-
 <p>我们正在通常使用的强位随机数需要满足随机性和不可预测性。基于此，CyberMiles公链采用的随机数方法是：</p>
-
 <ol>
 <li>由验证人共同按照同一算法产生随机数</li>
 <li>随机数的产生来自当前区块所有交易的哈希值</li>
 </ol>
-
 <p>在CyberMiles的DPoS协议中，超级节点所有的CMT投票中必须有10%是来自验证人自己持有的CMT，因此如果超级节点在随机数生成过程中作弊，比如未按照算法产生随机数，那么超级节点将受到削减和惩罚。</p>
-
 <p>当前区块在未产出时，区块内所有的信息是随机的并且是不可预测的，即便是负责产出区块的验证节点也无法进行准确的预测。</p>
-
 <p>如此，就满足了区块链强位随机数所需要的：</p>
-
 <ul>
 <li>无法预测：当前区块交易信息是随机的且不可预测</li>
 <li>难以被攻击，不可操控，保证公平：超级节点作为利益相关者，惩罚机制防止其作弊</li>
 <li>节点具有共识，可事后审计：算法固定公开，每次生成均记录在链上，事后可根据算法进行审计</li>
 </ul>
-
 <p>现在，使用编程语言Lity，开发者在智能合约里调用内置函数<code>rand()</code>即可获得随机数序列。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -326,9 +307,9 @@ if (!doNotTrack) {
 </span><span class="lnt">7
 </span><span class="lnt">8
 </span><span class="lnt">9
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">pragma lity &gt;=1.2.6;
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pragma lity &gt;=1.2.6;
 
 contract RandDemo {
   uint x;
@@ -336,31 +317,20 @@ contract RandDemo {
     x = rand();
     return x;
   }
-}</pre></td></tr></table>
+}
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>正如碳链价值在<a href="https://mp.weixin.qq.com/s/pKdns4PYi3ELfWMnuWFRZw">《此地无人生还：区块链随机数的原罪与救赎》</a>一文中说的那样，在区块链上，没有真随机数、也永远不会有绝对安全的随机数。CyberMiles实现的区块链随机数解决方法也是一种相对安全的方法。它通过 DPoS 机制与哈希算法的结合，大大提高了攻击随机数需要的成本，是目前公链中最好的解决方案。安全的随机数是一场没有终点的长跑。</p>
-
-<h3 id="免费-的dapp-降低区块链使用门槛">“免费”的DApp，降低区块链使用门槛</h3>
-
+</div><p>正如碳链价值在<a href="https://mp.weixin.qq.com/s/pKdns4PYi3ELfWMnuWFRZw">《此地无人生还：区块链随机数的原罪与救赎》</a>一文中说的那样，在区块链上，没有真随机数、也永远不会有绝对安全的随机数。CyberMiles实现的区块链随机数解决方法也是一种相对安全的方法。它通过 DPoS 机制与哈希算法的结合，大大提高了攻击随机数需要的成本，是目前公链中最好的解决方案。安全的随机数是一场没有终点的长跑。</p>
+<h3 id="免费的dapp降低区块链使用门槛">“免费”的DApp，降低区块链使用门槛</h3>
 <p>在区块链上每发起一笔交易，都需要支付给矿工或”超级节点”一定数量的gas费，作为确认交易的报酬。这样是为了防止攻击者可以快速地在账户之间来回转移代币，从而产生大量交易致使网络关闭，也就是我们所说的DoS攻击。</p>
-
 <p>CyberMiles在交易手续费规则上进行了创新，临时用户在CyberMiles 公链上进行简单的转账交易，是不需要手续费的。</p>
-
 <p>同理，用户在执行智能合约时也需要支付gas 费，但这也成为了阻碍区块链应用被广泛使用的一大因素。</p>
-
 <p>以Community Vote DApp为例，用户进行投票时需要支付gas 费，从而使自己的选择能够记录在CyberMiles区块链上。因此，将CMT Cube的CMT导入到CMT Wallet后，需要另存0.01个CMT来支付投票所需的gas费。这在一定程度带来了不友好的体验。</p>
-
 <p>诚然，gas费已经成为DApp推广一个不大不小的门槛。</p>
-
 <p>本次CyberMiles主链升级的另一个新功能就是”免费”的DApp。新版本的CyberMiles主链软件支持合约创建者支付执行该智能合约所需的gas 费，就意味着DApp的使用者不需要持有加密货币支付gas 费也可体验区块链技术的魅力。</p>
-
 <p>通过Lity中名为<code>freegas</code>的关键词，合约创建者可以指定自己支付gas 费。用户执行合约时会发现<code>gasPrice</code>处的数值为零，也就是gas 费等于0，无需支付gas 费。</p>
-
 <p>有了合约创建者支付gas费的功能后，使用像Community Vote这样的非交易类DApp就会变得非常简单。</p>
-
 <p>在一定程度上免除用户执行智能合约的gas费，既降低了区块链技术的使用门槛，又能营造良好的用户体验，这对于DApp的推广与采用具有一定的促进作用。</p>
-
 <p>这两点虚拟机的功能增强是CyberMiles 公链持续建设去中心化电商生态的重要技术基础。</p>
 
     </div>

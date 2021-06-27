@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain Development on CyberMiles News and Articles</title>
+    <title>Blockchain development on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/blockchain-development/</link>
-    <description>Recent content in Blockchain Development on CyberMiles News and Articles</description>
+    <description>Recent content in Blockchain development on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 10 Sep 2020 15:00:23 +0800</lastBuildDate>
@@ -27,7 +27,7 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       <pubDate>Mon, 10 Aug 2020 15:00:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/</guid>
-      <description>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确</description>
+      <description>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@ But if you want to write some code and start from scratch, you can also use BUID
       <guid>http://blog.cybermiles.io/post/20200409-book-en/</guid>
       <description>Building Blockchain Apps Published in the United States
 Budding young developers are get ever more interested in learning how to write blockchain related program.
-Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&amp;rsquo;s largest higher education publishing group, with books selected as teaching materials by the world&amp;rsquo;s top universities.</description>
+Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&#39;s largest higher education publishing group, with books selected as teaching materials by the world&#39;s top universities.</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adoption on CyberMiles News and Articles</title>
+    <title>adoption on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/adoption/</link>
-    <description>Recent content in Adoption on CyberMiles News and Articles</description>
+    <description>Recent content in adoption on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 May 2019 17:07:23 +0800</lastBuildDate>
@@ -49,7 +49,7 @@ A: There is actually a main objective we are trying to achieve. Launched by a gr
       
       <guid>http://blog.cybermiles.io/post/20190509-amaq5-en/</guid>
       <description>Q: Products sold need to have a stable price for buyers to measure the exact value. Does CyberMiles have a solution to stabilize prices for products sold despite the fluctuating CMT price?
-A: When we look at the past blockchain or decentralized ecommerce efforts, one of the biggest problem is Bitcoin&amp;rsquo;s price fluctuation. And everyone who ever used bitcoin to buy stuff regret it. We remember the pizza story. I myself bought stuff with bitcoin.</description>
+A: When we look at the past blockchain or decentralized ecommerce efforts, one of the biggest problem is Bitcoin&#39;s price fluctuation. And everyone who ever used bitcoin to buy stuff regret it. We remember the pizza story. I myself bought stuff with bitcoin.</description>
     </item>
     
   </channel>

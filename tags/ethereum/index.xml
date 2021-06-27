@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethereum on CyberMiles News and Articles</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
-      <description>A NEW public EWASM test net based on Second State&amp;rsquo;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&amp;rsquo;s first public blockchains to support Ethereum&amp;rsquo;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&amp;rsquo;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
+      <description>A NEW public EWASM test net based on Second State&#39;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&#39;s first public blockchains to support Ethereum&#39;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&#39;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
 WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
     </item>
     
@@ -38,7 +38,7 @@ WebAssembly allows near-native code performance without compromising security. I
       <guid>http://blog.cybermiles.io/post/20171111-polkadotsafe-en/</guid>
       <description>Github user devops199 said on Twitter “I accidentally killed it”. Before anyone can blink an eye, his “accident” has “killed” Ethereum accounts holding over $300M in crypto assets. On average, each of his 4 words cost $75M.
 One of those Ethereum accounts belongs to the Polkadot project, and it held close to $90M before it was “killed”.
-Someone asked devops199 after the incident: Why did you do it? His response?</description>
+Someone asked devops199 after the incident: Why did you do it? His response? “I am just a beginner poking around the system!</description>
     </item>
     
   </channel>

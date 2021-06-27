@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upgrade on CyberMiles News and Articles</title>
+    <title>upgrade on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/upgrade/</link>
-    <description>Recent content in Upgrade on CyberMiles News and Articles</description>
+    <description>Recent content in upgrade on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 May 2019 17:07:23 +0800</lastBuildDate>
@@ -36,7 +36,7 @@ Cancelling the loyalty and diversity factor in reward calculation With this upgr
       <pubDate>Thu, 23 May 2019 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20190524-biweekly-report-zh/</guid>
-      <description>CyberMiles公链在过去两周(2019.05.11——05.24)期间的进展： * 5miles数据上链完成 * CMT Wallet 权益投票功能开发进展 * FairPlay</description>
+      <description>CyberMiles公链在过去两周(2019.05.11——05.24)期间的进展： 5miles数据上链完成 CMT Wallet 权益投票功能开发进展 FairPlay DApp 以下</description>
     </item>
     
   </channel>

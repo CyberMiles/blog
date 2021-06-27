@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Developer on CyberMiles News and Articles</title>
+    <title>developer on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/developer/</link>
-    <description>Recent content in Developer on CyberMiles News and Articles</description>
+    <description>Recent content in developer on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 10 Sep 2020 15:00:23 +0800</lastBuildDate>
@@ -27,7 +27,7 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       <pubDate>Mon, 10 Aug 2020 15:00:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/</guid>
-      <description>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： * 智能合约记录关键信息，确</description>
+      <description>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       <pubDate>Fri, 15 Feb 2019 15:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20190215-helloworld-en/</guid>
-      <description>&amp;ldquo;Hello World&amp;rdquo; is often the first program those learning to code write. It&amp;rsquo;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &amp;ldquo;Hello World&amp;rdquo; smart contract with Lity.
+      <description>&amp;ldquo;Hello World&amp;rdquo; is often the first program those learning to code write. It&#39;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &amp;ldquo;Hello World&amp;rdquo; smart contract with Lity.
 Prerequisites Before you start, prepare the following tools to develop on the CyberMiles blockchain.
 Install Chrome browser The CyberMiles visual developer tools work on the Chrome browser platform. Download and install Chrome browser.</description>
     </item>

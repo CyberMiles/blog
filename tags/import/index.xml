@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Import on CyberMiles News and Articles</title>
+    <title>import on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/import/</link>
-    <description>Recent content in Import on CyberMiles News and Articles</description>
+    <description>Recent content in import on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 27 Jun 2019 15:00:23 +0800</lastBuildDate>
@@ -19,7 +19,8 @@
       <guid>http://blog.cybermiles.io/post/20190627-import-erc-20-cmts-en/</guid>
       <description>First, you’ll need to download the CyberMiles App to your device. Once downloaded, select “Import Wallet” at the bottom of your screen.
 There are three (3) ways to import your ERC20 CMT: by mnemonic words, private key, or keystore. Choose one of these methods**.
-**Note: During your import, be advised that you must remember your mnemonic words, private key, or keystore and password, and your imported CMT wallet’s password.</description>
+**Note: During your import, be advised that you must remember your mnemonic words, private key, or keystore and password, and your imported CMT wallet’s password.
+Mnemonic words To import using your saved mnemonic words, simply select the source of the words, then create a new password, and import your wallet.</description>
     </item>
     
   </channel>

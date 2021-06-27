@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dapp on CyberMiles News and Articles</title>
+    <title>DApp on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/dapp/</link>
-    <description>Recent content in Dapp on CyberMiles News and Articles</description>
+    <description>Recent content in DApp on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Jun 2019 15:30:23 +0800</lastBuildDate>
@@ -181,7 +181,7 @@ You can access the FairPlay DApp directly from your CMT Wallet. Find FairPlay dr
       <pubDate>Tue, 07 May 2019 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20190507-fairplay-en/</guid>
-      <description>In this article, I will explain the technical details behind the FairPlay DApp. If you haven&amp;rsquo;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
+      <description>In this article, I will explain the technical details behind the FairPlay DApp. If you haven&#39;t tried this DApp, please have a look at FairPlay: decentralized prize drawing for e-commerce.
  Talk is cheap, show me your code!
  Sure, please see here. Any pull request or issue is welcome ;)
 Overview This DApp is based on standard web technologies. It uses the web3-cmt.js JavaScript library to interact with the smart contract.</description>

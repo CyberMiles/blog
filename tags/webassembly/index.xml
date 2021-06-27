@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webassembly on CyberMiles News and Articles</title>
+    <title>WebAssembly on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/webassembly/</link>
-    <description>Recent content in Webassembly on CyberMiles News and Articles</description>
+    <description>Recent content in WebAssembly on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Apr 2020 10:01:23 +0800</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
-      <description>A NEW public EWASM test net based on Second State&amp;rsquo;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&amp;rsquo;s first public blockchains to support Ethereum&amp;rsquo;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&amp;rsquo;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
+      <description>A NEW public EWASM test net based on Second State&#39;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&#39;s first public blockchains to support Ethereum&#39;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&#39;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
 WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
     </item>
     

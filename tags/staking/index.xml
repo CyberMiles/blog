@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Staking on CyberMiles News and Articles</title>
@@ -37,7 +37,7 @@ OKEx Pool is a world’s leading comprehensive mining pool built upon the world�
       
       <guid>http://blog.cybermiles.io/post/20190902-cybermiles-staking-en/</guid>
       <description>CyberMiles is excited to announce a new #Validator, TISS by TokenInsight, a leading blockchain rating, research and analytics agency.
-TISS&amp;rsquo;s validator compensation rate is initially set at a low 25% to encourage stakes from the CMT community.
+TISS&#39;s validator compensation rate is initially set at a low 25% to encourage stakes from the CMT community.
 TokenInsight Staking Service (TISS) has officially entered a strategic partnership with CyberMiles, with a focus on data collaboration, community governance, and ecosystem development.
 Building on its CyberMiles collaboration, TISS is slated to run validator nodes for multiple PoS blockchains, joining in the effort to secure and grow the PoS ecosystem.</description>
     </item>
@@ -58,7 +58,7 @@ Based on the current stake of the whole network, now that the stake 10,000 CMT, 
       <pubDate>Tue, 25 Jun 2019 15:00:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/post/20190625-cmt-staking-zh/</guid>
-      <description>CyberMiles APP（原CMT Wallet）3.0 正式上线，*手机APP权益投票CMT功能上线了*！现在用户可以使用CyberMiles APP 将CMT 权益投</description>
+      <description>CyberMiles APP（原CMT Wallet）3.0 正式上线，手机APP权益投票CMT功能上线了！现在用户可以使用CyberMiles APP 将CMT 权益投票给</description>
     </item>
     
     <item>
@@ -69,9 +69,9 @@ Based on the current stake of the whole network, now that the stake 10,000 CMT, 
       <guid>http://blog.cybermiles.io/post/20190625-cmt-staking-tutorial-en/</guid>
       <description>CyberMiles App (formerly CMT Wallet) 3.0 enables staking function today!!! Hooray! Now CMT holders can get block award by staking with mobile App!
 After the mainnet upgrade, the main factors for block award calculation are:
- Total staked amount in the whole CyberMiles network.
- The validator’s compensation rate. The lower the remuneration rate, the better for the staker (delegator).
- Your staked CMT amount. the higher the amount, the higher the block award.</description>
+  Total staked amount in the whole CyberMiles network.
+  The validator’s compensation rate. The lower the remuneration rate, the better for the staker (delegator).
+  Your staked CMT amount. the higher the amount, the higher the block award.</description>
     </item>
     
     <item>

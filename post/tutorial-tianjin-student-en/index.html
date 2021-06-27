@@ -35,7 +35,7 @@ The entire Dapp design is divided into two parts: * The smart contract records k
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/tutorial-tianjin-student-en/" />
@@ -59,20 +59,16 @@ The entire Dapp design is divided into two parts: * The smart contract records k
 
 
 
-
 <meta itemprop="name" content="Tutorial: How to record your graduate certificate on CyberMiles public blockchain">
 <meta itemprop="description" content="The graduation certificate of Tianjin University will be permanently recorded on the CyberMiles blockchain, which can be stored permanently and cannot be tampered with! How is this achieved?
 The entire Dapp design is divided into two parts: * The smart contract records key information to ensure that the information cannot be corrected. This part is equivalent to the replacement of traditional applications; * The front-end display page is implemented using HTML, JavaScript, and CSS, 100% copying the real world certificate.">
-
-
 <meta itemprop="datePublished" content="2020-09-10T15:00:23&#43;08:00" />
 <meta itemprop="dateModified" content="2020-09-10T15:00:23&#43;08:00" />
 <meta itemprop="wordCount" content="443">
 
 
 
-<meta itemprop="keywords" content="CMT,developer,blockchain development," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="CMT,developer,blockchain development," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Tutorial: How to record your graduate certificate on CyberMiles public blockchain"/>
 <meta name="twitter:description" content="The graduation certificate of Tianjin University will be permanently recorded on the CyberMiles blockchain, which can be stored permanently and cannot be tampered with! How is this achieved?
 The entire Dapp design is divided into two parts: * The smart contract records key information to ensure that the information cannot be corrected. This part is equivalent to the replacement of traditional applications; * The front-end display page is implemented using HTML, JavaScript, and CSS, 100% copying the real world certificate."/>
@@ -280,15 +276,12 @@ The entire Dapp design is divided into two parts: * The smart contract records k
     
     <div class="post-content">
       <p>The graduation certificate of Tianjin University will be permanently recorded on the CyberMiles blockchain, which can be stored permanently and cannot be tampered with! How is this achieved?</p>
-
 <p>The entire Dapp design is divided into two parts: * The smart contract records key information to ensure that the information cannot be corrected. This part is equivalent to the replacement of traditional applications; * The front-end display page is implemented using HTML, JavaScript, and CSS, 100% copying the real world certificate.</p>
-
 <p>The two parts of the smart contract and the front-end display page are implemented through web3-cmt.js.</p>
-
 <p>The following is a detailed explanation of the smart contract part for everyone. The contract basically does not involve calculations, and is mainly implemented through strings</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -319,9 +312,9 @@ The entire Dapp design is divided into two parts: * The smart contract records k
 </span><span class="lnt">29
 </span><span class="lnt">30
 </span><span class="lnt">31
-</span></pre></td>
+</span></code></pre></td>
 <td class="lntd">
-<pre class="chroma">contract TianjinStudent { //Contract name, here can be changed at will
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">contract TianjinStudent { //Contract name, here can be changed at will
   string private name; //Contract
   bool private isFemale; //Select gender
   string private birth; // Birth date
@@ -351,17 +344,13 @@ The entire Dapp design is divided into two parts: * The smart contract records k
   }
   
   // The stage function implements the parameters of calling the corresponding parameters, returning the parameters of name, isFemale, birth, certid, prog_date, and url.
-  </pre></td></tr></table>
+  
+</code></pre></td></tr></table>
 </div>
-</div>
-<p>Open <a href="https://buidl.secondstate.io/cmt">BUIDL for CMT</a>，Copy and paste the above code into BUIDL, click on compile，get the ABI and parameter of the contract.</p>
-
-<p><img src="/images/tianjin-student-01.png" alt="" /></p>
-
+</div><p>Open <a href="https://buidl.secondstate.io/cmt">BUIDL for CMT</a>，Copy and paste the above code into BUIDL, click on compile，get the ABI and parameter of the contract.</p>
+<p><img src="/images/tianjin-student-01.png" alt=""></p>
 <p>Fill in the parameters on the graduation certificate, name, gender, date of birth, study time, certificate number, certificate submission time, and graduation certificate student photo link into the information field at the beginning, and click &ldquo;Deploy on the chain&rdquo;.</p>
-
-<p><img src="/images/tianjin-student-02.png" alt="" /></p>
-
+<p><img src="/images/tianjin-student-02.png" alt=""></p>
 <p>Pay a little gas, and the contract is deployed.  Click the call button and you can see the information just recorded on the chain. In this way, the core information on the graduation certificate is put on the chain. The next thing that needs to work on is the front-end display page.</p>
 
     </div>

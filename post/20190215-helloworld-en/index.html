@@ -25,7 +25,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="author" content="CyberMiles" />
-  <meta name="description" content="&amp;ldquo;Hello World&amp;rdquo; is often the first program those learning to code write. It&amp;rsquo;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &amp;ldquo;Hello World&amp;rdquo; smart contract with Lity.
+  <meta name="description" content="&amp;ldquo;Hello World&amp;rdquo; is often the first program those learning to code write. It&#39;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &amp;ldquo;Hello World&amp;rdquo; smart contract with Lity.
 Prerequisites Before you start, prepare the following tools to develop on the CyberMiles blockchain.
 Install Chrome browser The CyberMiles visual developer tools work on the Chrome browser platform. Download and install Chrome browser." />
 
@@ -36,7 +36,7 @@ Install Chrome browser The CyberMiles visual developer tools work on the Chrome 
 
 
 
-<meta name="generator" content="Hugo 0.54.0" />
+<meta name="generator" content="Hugo 0.62.2" />
 
 
 <link rel="canonical" href="http://blog.cybermiles.io/post/20190215-helloworld-en/" />
@@ -60,23 +60,19 @@ Install Chrome browser The CyberMiles visual developer tools work on the Chrome 
 
 
 
-
 <meta itemprop="name" content="Writing a Hello World Smart Contract for CyberMiles">
-<meta itemprop="description" content="&ldquo;Hello World&rdquo; is often the first program those learning to code write. It&rsquo;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &ldquo;Hello World&rdquo; smart contract with Lity.
+<meta itemprop="description" content="&ldquo;Hello World&rdquo; is often the first program those learning to code write. It&#39;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &ldquo;Hello World&rdquo; smart contract with Lity.
 Prerequisites Before you start, prepare the following tools to develop on the CyberMiles blockchain.
 Install Chrome browser The CyberMiles visual developer tools work on the Chrome browser platform. Download and install Chrome browser.">
-
-
 <meta itemprop="datePublished" content="2019-02-15T15:01:23&#43;08:00" />
 <meta itemprop="dateModified" content="2019-02-15T15:01:23&#43;08:00" />
 <meta itemprop="wordCount" content="697">
 
 
 
-<meta itemprop="keywords" content="developer," />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="developer," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Writing a Hello World Smart Contract for CyberMiles"/>
-<meta name="twitter:description" content="&ldquo;Hello World&rdquo; is often the first program those learning to code write. It&rsquo;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &ldquo;Hello World&rdquo; smart contract with Lity.
+<meta name="twitter:description" content="&ldquo;Hello World&rdquo; is often the first program those learning to code write. It&#39;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &ldquo;Hello World&rdquo; smart contract with Lity.
 Prerequisites Before you start, prepare the following tools to develop on the CyberMiles blockchain.
 Install Chrome browser The CyberMiles visual developer tools work on the Chrome browser platform. Download and install Chrome browser."/>
 
@@ -102,7 +98,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 <meta property="og:title" content="Writing a Hello World Smart Contract for CyberMiles - CyberMiles News and Articles">
-  <meta property="og:description" content="&amp;ldquo;Hello World&amp;rdquo; is often the first program those learning to code write. It&amp;rsquo;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &amp;ldquo;Hello World&amp;rdquo; smart contract with Lity.
+  <meta property="og:description" content="&amp;ldquo;Hello World&amp;rdquo; is often the first program those learning to code write. It&#39;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &amp;ldquo;Hello World&amp;rdquo; smart contract with Lity.
 Prerequisites Before you start, prepare the following tools to develop on the CyberMiles blockchain.
 Install Chrome browser The CyberMiles visual developer tools work on the Chrome browser platform. Download and install Chrome browser." />
 <meta property="og:image" content="https://blog.cybermiles.io/logo_symbol.png">
@@ -283,113 +279,66 @@ Install Chrome browser The CyberMiles visual developer tools work on the Chrome 
 
     
     <div class="post-content">
-      
-
-<p><img src="/images/20190215-helloworld-01.png" alt="" /></p>
-
-<p>&ldquo;Hello World&rdquo; is often the first program those learning to code write. It&rsquo;s no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &ldquo;Hello World&rdquo; smart contract with Lity.</p>
-
+      <p><img src="/images/20190215-helloworld-01.png" alt=""></p>
+<p>&ldquo;Hello World&rdquo; is often the first program those learning to code write. It's no exception for building your first blockchain smart contract. This is a step-by-step guide of how to develop a &ldquo;Hello World&rdquo; smart contract with Lity.</p>
 <h2 id="prerequisites">Prerequisites</h2>
-
 <p>Before you start, prepare the following tools to develop on the CyberMiles blockchain.</p>
-
 <h3 id="install-chrome-browser">Install Chrome browser</h3>
-
 <p>The CyberMiles visual developer tools work on the Chrome browser platform. Download and install <a href="https://www.google.com/chrome/">Chrome browser</a>.</p>
-
 <h3 id="install-the-venus-wallet-as-a-chrome-extension">Install the Venus wallet as a Chrome extension</h3>
-
 <p>Venus is an extension for accessing CyberMiles enabled Dapps in your Chrome browser. It works as a wallet and allows you to sign CMT transactions on the webpage. Download and install <a href="https://www.cybermiles.io/en-us/blockchain-infrastructure/venus/">Venus wallet</a></p>
-
 <p>When you finish installing, click the chrome extension icon to set up the wallet according to the instruction.</p>
-
 <p>Then, switch the tab to CMT Test Network.</p>
-
-<p><img src="/images/20190215-helloworld-02.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-02.png" alt=""></p>
 <h3 id="get-1000-test-cmts-from-the-cmt-testnet-faucet">Get 1000 Test CMTs from the CMT Testnet Faucet</h3>
-
 <p>With your Venus wallet address, you can get CMT test tokens from the <a href="https://travis-faucet.cybermiles.io/">CMT Testnet Faucet</a>.</p>
-
 <p>Input the wallet address you just generated with the Venus.</p>
-
-<p><img src="/images/20190215-helloworld-03.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-03.png" alt=""></p>
 <p>By clicking &ldquo;Send me 1000 CMT and 1000 TEST&rdquo;, you will find 1000 CMT test token in your Venus wallet. You will find this useful later for paying gas free in the development process.</p>
-
-<p><img src="/images/20190215-helloworld-04.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-04.png" alt=""></p>
 <h3 id="load-the-europa-ide">Load the Europa IDE</h3>
-
 <p>Load the <a href="http://europa.cybermiles.io/">Europa IDE</a> in your Chrome browser to start coding.</p>
-
 <h2 id="work-with-the-smart-contract">Work with the Smart Contract</h2>
-
 <p>Copy and paste the following code into your Europa IDE code editing window.</p>
-
-<script type="application/javascript" src="//gist.github.com/juntao/cc1565b76949a6bbd8bfb15aa9e53dc8.js"></script>
+<script type="application/javascript" src="https://gist.github.com/juntao/cc1565b76949a6bbd8bfb15aa9e53dc8.js"></script>
 
 <h3 id="compile">Compile</h3>
-
-<p>Click on &ldquo;Start to compile&rdquo;. If it&rsquo;s compiled successfully, it will show the green bar with the name of the contract. Europa will check the code automatically for the most common coding errors.</p>
-
-<p><img src="/images/20190215-helloworld-05.png" alt="" /></p>
-
+<p>Click on &ldquo;Start to compile&rdquo;. If it's compiled successfully, it will show the green bar with the name of the contract. Europa will check the code automatically for the most common coding errors.</p>
+<p><img src="/images/20190215-helloworld-05.png" alt=""></p>
 <p>If the codes work well, you can deploy it to the smart contract, On the Run tab, click &ldquo;Deploy&rdquo;.</p>
-
 <h3 id="deploy">Deploy</h3>
-
-<p><img src="/images/20190215-helloworld-06.png" alt="" /></p>
-
-<p>Use the test tokens in your Venus wallet to pay the gas fee. Most of the time, the Venus payment page will pop up automatically. If it doesn&rsquo;t, you just need to click the extension icon.</p>
-
-<p><img src="/images/20190215-helloworld-07.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-06.png" alt=""></p>
+<p>Use the test tokens in your Venus wallet to pay the gas fee. Most of the time, the Venus payment page will pop up automatically. If it doesn't, you just need to click the extension icon.</p>
+<p><img src="/images/20190215-helloworld-07.png" alt=""></p>
 <p>After submitting the transaction, you will see the name of the smart contract, together with the address shown on the Deployed Contracts. That is, you have successfully deployed your first smart contract on the CyberMiles blockchain! Hooray!</p>
-
-<p><img src="/images/20190215-helloworld-08.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-08.png" alt=""></p>
 <h3 id="run">Run</h3>
-
 <p>Click on &ldquo;Greet&rdquo;. A &ldquo;Hello World&rdquo; message is printed!</p>
-
 <p>Click on &ldquo;Owner&rdquo;. This shows the Venus wallet address you used to pay the gas fee.</p>
-
-<p><img src="/images/20190215-helloworld-09.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-09.png" alt=""></p>
 <h3 id="terminate">Terminate</h3>
-
-<p>You can also choose to terminate the smart contract when you&rsquo;ve done playing with it.</p>
-
+<p>You can also choose to terminate the smart contract when you've done playing with it.</p>
 <p>Click on &ldquo;terminate&rdquo; and pay for the gas fee.</p>
-
 <p>After completing the payment, the smart contract address will turn to zero. The Greet content is no longer displayed. That is, the smart contract is not functioning and successfully terminated.</p>
-
-<p><img src="/images/20190215-helloworld-10.png" alt="" /></p>
-
+<p><img src="/images/20190215-helloworld-10.png" alt=""></p>
 <h2 id="learn-to-code">Learn to code</h2>
-
-<p>Now it&rsquo;s time to understand how each line of code works!</p>
-
+<p>Now it's time to understand how each line of code works!</p>
 <h3 id="version-pragma">Version Pragma</h3>
-
 <p>This indicates the smart contract programming language and version number. We use Lity as the smart contract programming language.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="n">pragma</span> <span class="n">lity</span> <span class="o">^</span><span class="mi">1</span><span class="p">.</span><span class="mi">2</span><span class="p">.</span><span class="mi">4</span><span class="p">;</span></code></pre></td></tr></table>
+<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="n">pragma</span> <span class="n">lity</span> <span class="o">^</span><span class="mi">1</span><span class="p">.</span><span class="mi">2</span><span class="p">.</span><span class="mi">4</span><span class="p">;</span>
+</code></pre></td></tr></table>
 </div>
-</div>
-<h3 id="contract-and-function">Contract and function</h3>
-
+</div><h3 id="contract-and-function">Contract and function</h3>
 <p>This states the name of the contract <code>Human</code>.</p>
-
 <p>It also states the only two functions of the smart contract - <code>greet</code> and <code>terminate</code>.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -403,22 +352,21 @@ Install Chrome browser The CyberMiles visual developer tools work on the Chrome 
 <td class="lntd">
 <pre class="chroma"><code class="language-sol" data-lang="sol"><span class="kd">contract</span> <span class="n">Human</span> <span class="p">{</span>
     
-  <span class="kd">function</span> <span class="n">greet</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kd">function</span> <span class="n">greet</span><span class="p">(</span><span class="p">)</span> <span class="p">{</span>
   
   <span class="p">}</span>
 
-  <span class="kd">function</span> <span class="n">terminate</span><span class="p">()</span> <span class="p">{</span>
+  <span class="kd">function</span> <span class="n">terminate</span><span class="p">(</span><span class="p">)</span> <span class="p">{</span>
   
   <span class="p">}</span>
-<span class="p">}</span></code></pre></td></tr></table>
+<span class="p">}</span>
+</code></pre></td></tr></table>
 </div>
-</div>
-<h3 id="set-owner-of-the-contract">Set Owner of the contract</h3>
-
+</div><h3 id="set-owner-of-the-contract">Set Owner of the contract</h3>
 <p>This sets the owner of the smart contract. First, the address of the owner is a public one. Second, it defines the one who pays the deploying the smart contract is owner. Third, it asserts that only the owner can modify the function of this smart contract.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -437,49 +385,48 @@ Install Chrome browser The CyberMiles visual developer tools work on the Chrome 
 <td class="lntd">
 <pre class="chroma"><code class="language-sol" data-lang="sol">    <span class="kt">address</span> <span class="kr">public</span> <span class="n">owner</span><span class="p">;</span>    
 
-    <span class="kd">modifier</span> <span class="n">onlyOwner</span><span class="p">()</span> <span class="p">{</span>        
+    <span class="kd">modifier</span> <span class="n">onlyOwner</span><span class="p">(</span><span class="p">)</span> <span class="p">{</span>        
 
-        <span class="nb">assert</span><span class="p">(</span><span class="nb">msg</span><span class="p">.</span><span class="nb">sender</span> <span class="o">==</span> <span class="n">owner</span><span class="p">);</span>  
+        <span class="nb">assert</span><span class="p">(</span><span class="nb">msg</span><span class="p">.</span><span class="nb">sender</span> <span class="o">==</span> <span class="n">owner</span><span class="p">)</span><span class="p">;</span>  
 
         <span class="kr">_</span><span class="p">;</span>   
 
      <span class="p">}</span>    
 
-    <span class="n">constructor</span> <span class="p">()</span> <span class="kr">public</span> <span class="p">{</span> 
+    <span class="n">constructor</span> <span class="p">(</span><span class="p">)</span> <span class="kr">public</span> <span class="p">{</span> 
 
         <span class="n">owner</span> <span class="o">=</span> <span class="nb">msg</span><span class="p">.</span><span class="nb">sender</span><span class="p">;</span>   
 
-     <span class="p">}</span></code></pre></td></tr></table>
+     <span class="p">}</span>
+</code></pre></td></tr></table>
 </div>
-</div>
-<h3 id="implement-the-greet-function">Implement the greet function</h3>
-
+</div><h3 id="implement-the-greet-function">Implement the greet function</h3>
 <p>This indicates that when you call <code>greet</code>, it will return &ldquo;Hello World&rdquo;. And you can change &ldquo;Hello world&rdquo; to any text you want for sure.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol">  <span class="kd">function</span> <span class="n">greet</span><span class="p">()</span> <span class="kr">public</span> <span class="kr">pure</span> <span class="k">returns</span> <span class="p">(</span><span class="kt">string</span><span class="p">)</span> <span class="p">{</span>
-      <span class="k">return</span> <span class="s">&#34;Hello world&#34;</span><span class="p">;</span>
-  <span class="p">}</span></code></pre></td></tr></table>
+<pre class="chroma"><code class="language-sol" data-lang="sol">  <span class="kd">function</span> <span class="n">greet</span><span class="p">(</span><span class="p">)</span> <span class="kr">public</span> <span class="kr">pure</span> <span class="k">returns</span> <span class="p">(</span><span class="kt">string</span><span class="p">)</span> <span class="p">{</span>
+      <span class="k">return</span> <span class="s">&#34;</span><span class="s">Hello world</span><span class="s">&#34;</span><span class="p">;</span>
+  <span class="p">}</span>
+</code></pre></td></tr></table>
 </div>
-</div>
-<h3 id="clean-up-the-smart-contract">Clean up the smart contract</h3>
-
+</div><h3 id="clean-up-the-smart-contract">Clean up the smart contract</h3>
 <p>This shows how to terminate the smart contract. It defines that only the owner can execute this function.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol"><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-sol" data-lang="sol">  <span class="kd">function</span> <span class="n">terminate</span><span class="p">()</span> <span class="kr">external</span> <span class="n">onlyOwner</span> <span class="p">{</span>    
-    <span class="nb">selfdestruct</span><span class="p">(</span><span class="n">owner</span><span class="p">);</span>  
-  <span class="p">}</span></code></pre></td></tr></table>
+<pre class="chroma"><code class="language-sol" data-lang="sol">  <span class="kd">function</span> <span class="n">terminate</span><span class="p">(</span><span class="p">)</span> <span class="kr">external</span> <span class="n">onlyOwner</span> <span class="p">{</span>    
+    <span class="nb">selfdestruct</span><span class="p">(</span><span class="n">owner</span><span class="p">)</span><span class="p">;</span>  
+  <span class="p">}</span>
+</code></pre></td></tr></table>
 </div>
 </div>
     </div>
