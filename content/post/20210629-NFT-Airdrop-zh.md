@@ -3,7 +3,7 @@ title: "CyberWorld NFT 平台 1.0 版本上线空投活动圆满收官"
 date: 2021-06-29T10:01:23+08:00
 draft: false
 tags: ["NFT","CyberMiles","CyberWorld","Airdrop"] 
-categories: ["cn"] 
+categories: ["zh"] 
 ---
 
 Hello CyberWorld Fans!
