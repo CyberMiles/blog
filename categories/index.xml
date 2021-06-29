@@ -6,10 +6,19 @@
     <description>Recent content in Categories on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Apr 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>en</title>
+      <link>http://blog.cybermiles.io/categories/en/</link>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/categories/en/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>zh</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/categories/zh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>en</title>
-      <link>http://blog.cybermiles.io/categories/en/</link>
-      <pubDate>Wed, 24 Mar 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/categories/en/</guid>
       <description></description>
     </item>
     

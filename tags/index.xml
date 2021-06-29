@@ -6,24 +6,42 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Apr 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Airdrop</title>
+      <link>http://blog.cybermiles.io/tags/airdrop/</link>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/airdrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CyberMiles</title>
       <link>http://blog.cybermiles.io/tags/cybermiles/</link>
-      <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>CyberWorld</title>
+      <link>http://blog.cybermiles.io/tags/cyberworld/</link>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/cyberworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NFT</title>
       <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Thu, 29 Apr 2021 10:01:23 +0800</pubDate>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
@@ -170,24 +188,6 @@
       <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/fairplay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>giveaway</title>
-      <link>http://blog.cybermiles.io/tags/giveaway/</link>
-      <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/giveaway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>import</title>
-      <link>http://blog.cybermiles.io/tags/import/</link>
-      <pubDate>Thu, 27 Jun 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/import/</guid>
       <description></description>
     </item>
     

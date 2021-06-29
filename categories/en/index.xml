@@ -6,10 +6,21 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Mar 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberWorld V1.0 Airdrop Campaign Came to A Successful Conclusion</title>
+      <link>http://blog.cybermiles.io/post/20210629-nft-01-en/</link>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210629-nft-01-en/</guid>
+      <description>Hello CyberWorld Fans！
+ CyberMilesNews: CyberWorld.finance V1.0 airdrop campaign came to a successful conclusion! We have completed the distribution of CyberWorld Genesis Series NFTs and CMT. Thanks to every CyberWorld community participant for your support!**
+ As the number of winner addresses was over 100,000, so our engineer specifically developed a new tokens distribution tool to transfer the tokens. The new airdrop tool distributed a total of 114300 CMT successfully. The winners can track CMTs received here at CMTTracking.</description>
+    </item>
     
     <item>
       <title>A Digital Image Sold for 69.35 Million Dollars at Christies&#39; Auction</title>
@@ -212,18 +223,6 @@ Ethereum Devcon5, one of the most prestigious blockchain technology conferences,
 According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, and 5miles.
 The 20 million CMTs in the third quarter is expected to be unlocked on October 8. This release is as scheduled and is completely in accordance with the white paper&#39;s plan. You are welcome to supervise.
 Thank you again for your support and supervision.</description>
-    </item>
-    
-    <item>
-      <title>TISS by TokenInsight Becomes CyberMiles Latest Validator and Startegic Partner</title>
-      <link>http://blog.cybermiles.io/post/20190902-cybermiles-staking-en/</link>
-      <pubDate>Mon, 02 Sep 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20190902-cybermiles-staking-en/</guid>
-      <description>CyberMiles is excited to announce a new #Validator, TISS by TokenInsight, a leading blockchain rating, research and analytics agency.
-TISS&#39;s validator compensation rate is initially set at a low 25% to encourage stakes from the CMT community.
-TokenInsight Staking Service (TISS) has officially entered a strategic partnership with CyberMiles, with a focus on data collaboration, community governance, and ecosystem development.
-Building on its CyberMiles collaboration, TISS is slated to run validator nodes for multiple PoS blockchains, joining in the effort to secure and grow the PoS ecosystem.</description>
     </item>
     
   </channel>
