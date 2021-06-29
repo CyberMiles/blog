@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/categories/cn/</loc>
+    <lastmod>2021-06-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
     <lastmod>2021-06-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,6 +38,13 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/cyberworld/</loc>
+    <lastmod>2021-06-29T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/20210629-nft-airdrop-cn/</loc>
     <lastmod>2021-06-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1269,14 +1283,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
