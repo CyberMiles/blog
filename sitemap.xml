@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/cn/</loc>
-    <lastmod>2021-06-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
     <lastmod>2021-06-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/post/20210429-nft-06-zh/</loc>
-    <lastmod>2021-04-29T10:01:23+08:00</lastmod>
+    <loc>http://blog.cybermiles.io/categories/zh/</loc>
+    <lastmod>2021-06-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/zh/</loc>
+    <loc>http://blog.cybermiles.io/post/20210429-nft-06-zh/</loc>
     <lastmod>2021-04-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

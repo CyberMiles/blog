@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Apr 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberWorld NFT 平台 1.0 版本上线空投活动圆满收官</title>
+      <link>http://blog.cybermiles.io/post/20210629-nft-airdrop-zh/</link>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210629-nft-airdrop-zh/</guid>
+      <description>Hello CyberWorld Fans! CyberWorld NFT 平台1.0版本上线空投活动圆满收官。我们已正式完成了 CyberWorld 创世系列 NFTs 和 CMT 奖励的投放。感谢每一位 CyberWorld 社区的小伙伴的支持！ 由于最终获奖地址数</description>
+    </item>
     
     <item>
       <title>CyberMiles NFT科考笔记-黄金难挖卖铲子，最值得你关注的 NFT 概念公链</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20200409-book-zh/</guid>
       <description>自从中央政治局第十八次会议集体学习区块链后，国内区块链发展如火如荼，学习区块链的热情高涨。 近日，由CyberMiles 首席科学家Michae</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 路线图 2020</title>
-      <link>http://blog.cybermiles.io/post/20200330-roadmap-zh/</link>
-      <pubDate>Mon, 30 Mar 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200330-roadmap-zh/</guid>
-      <description>2020年，CyberMiles 的工作重点在电商应用与区块链技术创新，特别是虚拟机技术上。同时随着市场环境的好转、开发者生态的逐渐完善，区块</description>
     </item>
     
   </channel>
