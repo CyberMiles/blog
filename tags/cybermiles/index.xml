@@ -31,6 +31,15 @@ Earlier this year, NFT has swept the art world. The graphic designer Beeple sold
     </item>
     
     <item>
+      <title>CyberMilesNFT简讯-全球NFT的市值近180亿美元，NFT的数字蓝海</title>
+      <link>http://blog.cybermiles.io/post/20210630-nft-news2-zh/</link>
+      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210630-nft-news2-zh/</guid>
+      <description>CyberMilesNFT简讯-全球NFT的市值近180亿美元，NFT的数字蓝海 根据 CionGecko 资料显示，现今全球 NFT 总市值接近180亿美元，日交易额可</description>
+    </item>
+    
+    <item>
       <title>CyberWorld NFT 平台 1.0 版本上线空投活动圆满收官</title>
       <link>http://blog.cybermiles.io/post/20210629-nft-airdrop-zh/</link>
       <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
@@ -190,19 +199,6 @@ But if you want to write some code and start from scratch, you can also use BUID
       <description>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
 Create your own forum DApp according to the following steps.
 Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
-Step 2 Open the Accounts tab and send a little CMTs to your default account.
- If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
-    </item>
-    
-    <item>
-      <title>Create a Vote DApp via BUIDL for CMT</title>
-      <link>http://blog.cybermiles.io/post/20191220-vote-en/</link>
-      <pubDate>Fri, 20 Dec 2019 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20191220-vote-en/</guid>
-      <description>The example dapp is a web application where people can vote thumb up or thumb down on a statement. All the votes are recorded on the blockchain.
-Create your own vote DApp according to the following steps.
-Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
 Step 2 Open the Accounts tab and send a little CMTs to your default account.
  If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
     </item>
