@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CybermilesNFT Newsletter — From arts to sports, NFT crosses boundaries constantly</title>
+      <link>http://blog.cybermiles.io/post/20210630-nft-news-en/</link>
+      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210630-nft-news-en/</guid>
+      <description>Sales of digital collectibles have fallen in recent weeks, NFT sales is a slowdown Ryan Browne is a technology reporter for CNBC in London published an article about NFT sales. He said sales of digital collectibles known as non-fungible tokens have fallen dramatically in recent weeks (Browne, 2021).
+Earlier this year, NFT has swept the art world. The graphic designer Beeple sold an NFT for a record $69 million at a Christie’s auction.</description>
+    </item>
     
     <item>
       <title>CyberWorld NFT 平台 1.0 版本上线空投活动圆满收官</title>
@@ -186,15 +196,6 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       
       <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-zh/</guid>
       <description>天津大学的毕业证书将永久记录到 CyberMiles 区块链，实现了永久可保存、不可篡改！这是如何实现的呢？ 整个Dapp 设计分为两部分： 智能合约记录关键信息，确保</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 公链双周报(0731)</title>
-      <link>http://blog.cybermiles.io/post/20200731-biweekly-zh/</link>
-      <pubDate>Fri, 31 Jul 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200731-biweekly-zh/</guid>
-      <description>大家好，为大家介绍 CyberMiles 公链在 2020.07.25至 2020.07.31 期间的进展： Michael Yuan 博士新书中文版即将面世 海外社区进展 天大北洋结业证书已发放 回馈老用户活动结束</description>
     </item>
     
   </channel>

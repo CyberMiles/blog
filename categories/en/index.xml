@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CybermilesNFT Newsletter — From arts to sports, NFT crosses boundaries constantly</title>
+      <link>http://blog.cybermiles.io/post/20210630-nft-news-en/</link>
+      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210630-nft-news-en/</guid>
+      <description>Sales of digital collectibles have fallen in recent weeks, NFT sales is a slowdown Ryan Browne is a technology reporter for CNBC in London published an article about NFT sales. He said sales of digital collectibles known as non-fungible tokens have fallen dramatically in recent weeks (Browne, 2021).
+Earlier this year, NFT has swept the art world. The graphic designer Beeple sold an NFT for a record $69 million at a Christie’s auction.</description>
+    </item>
     
     <item>
       <title>CyberWorld V1.0 Airdrop Campaign Came to A Successful Conclusion</title>
@@ -211,18 +221,6 @@ The upgrade addresses the following issues:
       <guid>http://blog.cybermiles.io/post/20191002-cybermilesdevcon5-en/</guid>
       <description>CyberMiles Engineers to Speak at Ethereum Devcon5 in Osaka, Japan
 Ethereum Devcon5, one of the most prestigious blockchain technology conferences, is going to Osaka, Japan this year. Members of the CyberMiles development team are invited to give a presentation about the Lity smart contract programming language, a formal rules language for smart contracts. The Ethereum-compatible CyberMiles Virtual Machine (CVM) is the only public blockchain execution engine that supports the Lity rules language.</description>
-    </item>
-    
-    <item>
-      <title>CMT Third Quarter Release Announcement</title>
-      <link>http://blog.cybermiles.io/post/20190927-cmtrelease-en/</link>
-      <pubDate>Fri, 27 Sep 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20190927-cmtrelease-en/</guid>
-      <description>Dear CMT holders!
-According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, and 5miles.
-The 20 million CMTs in the third quarter is expected to be unlocked on October 8. This release is as scheduled and is completely in accordance with the white paper&#39;s plan. You are welcome to supervise.
-Thank you again for your support and supervision.</description>
     </item>
     
   </channel>

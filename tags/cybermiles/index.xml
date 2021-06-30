@@ -6,10 +6,20 @@
     <description>Recent content in CyberMiles on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jun 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cybermiles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CybermilesNFT Newsletter — From arts to sports, NFT crosses boundaries constantly</title>
+      <link>http://blog.cybermiles.io/post/20210630-nft-news-en/</link>
+      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210630-nft-news-en/</guid>
+      <description>Sales of digital collectibles have fallen in recent weeks, NFT sales is a slowdown Ryan Browne is a technology reporter for CNBC in London published an article about NFT sales. He said sales of digital collectibles known as non-fungible tokens have fallen dramatically in recent weeks (Browne, 2021).
+Earlier this year, NFT has swept the art world. The graphic designer Beeple sold an NFT for a record $69 million at a Christie’s auction.</description>
+    </item>
     
     <item>
       <title>CyberWorld NFT 平台 1.0 版本上线空投活动圆满收官</title>
@@ -195,15 +205,6 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
       
       <guid>http://blog.cybermiles.io/post/20190614-biweeklyreport-zh/</guid>
       <description>大家好, 为您带来CyberMiles 公链在2019.05.25-2019.06.14期间的进展。 Ps: 上周因为端午小长假，推迟一周更新双周报 1.CMT Wallet</description>
-    </item>
-    
-    <item>
-      <title>Welcome Dr. Marc Fleury to CyberMiles!</title>
-      <link>http://blog.cybermiles.io/post/20180109-marc-en/</link>
-      <pubDate>Fri, 19 Jan 2018 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20180109-marc-en/</guid>
-      <description>Twenty years ago, the Open Source community was at a crossroad. The method of decentralized software production (aka Open Source collaboration), championed by a small number of ideology-driven developers, had produced very impressive results such as the Linux operating system, the Apache web server, the GCC compilers, and much more. Yet, the mainstream software powerhouses were still skeptical and even hostile to software decentralization (Microsoft called it a “cancer”, worse than scam).</description>
     </item>
     
   </channel>
