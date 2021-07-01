@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jun 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>CyberMiles</title>
       <link>http://blog.cybermiles.io/tags/cybermiles/</link>
-      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 01 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Thu, 01 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>简讯</title>
+      <link>http://blog.cybermiles.io/tags/%E7%AE%80%E8%AE%AF/</link>
+      <pubDate>Thu, 01 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/%E7%AE%80%E8%AE%AF/</guid>
       <description></description>
     </item>
     
@@ -26,24 +44,6 @@
       <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/newsletter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>简讯</title>
-      <link>http://blog.cybermiles.io/tags/%E7%AE%80%E8%AE%AF/</link>
-      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/%E7%AE%80%E8%AE%AF/</guid>
       <description></description>
     </item>
     
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>Blockchain</title>
+      <title>blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
       <pubDate>Tue, 23 Feb 2021 10:01:23 +0800</pubDate>
       
