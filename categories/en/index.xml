@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jun 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - NFT&#39;s &#39;Blue Ocean&#39;, the Global Market Capitalization of NFT is Near $18 Billion</title>
+      <link>http://blog.cybermiles.io/post/20210701-nft-news-en/</link>
+      <pubDate>Thu, 01 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210701-nft-news-en/</guid>
+      <description>CyberMilesNFT Newsletter - NFT&#39;s &amp;lsquo;Blue Ocean&amp;rsquo;, the Global Market Capitalization of NFT is Near $18 Billion According to the report by CionGecko, the global market capitalization of NFT is near $18 billion, trades $1.2 billion a single day. The number of transactions is over 710,000 pieces. The number of users and trades is also rising.
+Nikhil Sethi, vice predict of a blockchain startup said,&amp;rdquo; The global NFT market has exploded in 2021, with over $700 million entering the space.</description>
+    </item>
     
     <item>
       <title>CybermilesNFT Newsletter — From arts to sports, NFT crosses boundaries constantly</title>
@@ -211,16 +221,6 @@ The upgrade addresses the following issues:
       
       <guid>http://blog.cybermiles.io/post/20191015-cybermiles1yearbounty-en/</guid>
       <description>CyberMiles is having a Bounty Program to celebrate the One Year Anniversary of CyberMiles&amp;rsquo; Mainnet Launch.The total reward for this one week bounty program is 30,000 CMT. This bounty is fully hosted on the WeBounty Platform. You can take part in the bounty by joining the platform and enter your CyberMiles App address. Remember to download CyberMiles App! Out of the WeBounty platform or without the CyberMiles App address, you may not be rewarded.</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles Engineers to Speak at Ethereum Devcon5 in Osaka, Japan</title>
-      <link>http://blog.cybermiles.io/post/20191002-cybermilesdevcon5-en/</link>
-      <pubDate>Wed, 02 Oct 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20191002-cybermilesdevcon5-en/</guid>
-      <description>CyberMiles Engineers to Speak at Ethereum Devcon5 in Osaka, Japan
-Ethereum Devcon5, one of the most prestigious blockchain technology conferences, is going to Osaka, Japan this year. Members of the CyberMiles development team are invited to give a presentation about the Lity smart contract programming language, a formal rules language for smart contracts. The Ethereum-compatible CyberMiles Virtual Machine (CVM) is the only public blockchain execution engine that supports the Lity rules language.</description>
     </item>
     
   </channel>
