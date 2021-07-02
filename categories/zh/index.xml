@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT简讯 - CyberMiles 升级 CyberWorld NFT 平台</title>
+      <link>http://blog.cybermiles.io/post/20210702-cybermiles-newletter-zh/</link>
+      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210702-cybermiles-newletter-zh/</guid>
+      <description>相信关注 CyberMiles 的粉丝们一定早已注意到了 ，从上周开始基金会所进行的未来几个月的 CyberWorld 的更新、升级的计划在社交媒体上进行了预热和宣传。 CyberMiles 的工程师和市场运</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT简讯-全球NFT的市值近180亿美元，NFT的数字蓝海</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20200529-cmt-release-zh/</guid>
       <description>各位CMT持有者，大家好！ 按照白皮书的规划，CyberMiles基金会地址0x1a14Ec3003C943a0624C7c513D50255</description>
-    </item>
-    
-    <item>
-      <title>OKEx 矿池当选CyberMiles 超级节点</title>
-      <link>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking/</link>
-      <pubDate>Thu, 28 May 2020 15:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking/</guid>
-      <description>OKEx 矿池当选 CyberMiles 超级节点，目前以总投票权27238182，排名第三，报酬比率为30%。 OKEx 矿池是全球领先的综合性矿池，依托数字资产交易平台OKEx</description>
     </item>
     
   </channel>
