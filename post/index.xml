@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles NFT Newsletter - CyberWorld NFT Platform Upgrade</title>
+      <link>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</link>
+      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</guid>
+      <description>As CyberMilers must have noticed, there have been warm-up and publicity on social media for CyberWorld updates and upgrades over the next few months, which began last week.
+The engineers and marketing operators of CyberMiles have been delivering the CyberWorld NFT platform with tremendous efficiency and did a successful spread in the last few months. To improve the users’ experience, CyberMiles is currently upgrading the platform in terms of technology and content, bringing a new CyberWorld to everyone who always supported CyberMiles.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - NFT&#39;s &#39;Blue Ocean&#39;, the Global Market Capitalization of NFT is Near $18 Billion</title>
@@ -187,15 +197,6 @@ According to the research team at CyberMiles, many problems are identified with 
       
       <guid>http://blog.cybermiles.io/post/20201016-biweekly-zh/</guid>
       <description>大家好，为大家介绍 CyberMiles 公链在 2020.09.26 至 2020.10.16 期间的进展： CyberMiles 团队研究成果被 Sage journals 发表的论文引用 CyberMiles 开发者 Tim McCallum 撰写的《Diving into Ethereum’s world sta</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 公链双周报(0911)</title>
-      <link>http://blog.cybermiles.io/post/20200911-biweekly-zh/</link>
-      <pubDate>Fri, 11 Sep 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200911-biweekly-zh/</guid>
-      <description>CyberMiles 为Uniswap 做贡献 CyberMiles 是Uniswap 最早的代码贡献者之一。Uniswap的国际用户界面，也就是大家每天都在使用的 UI 是由 CyberMiles 开发者撰写的。</description>
     </item>
     
   </channel>

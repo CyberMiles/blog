@@ -6,10 +6,20 @@
     <description>Recent content in CyberMiles on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cybermiles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles NFT Newsletter - CyberWorld NFT Platform Upgrade</title>
+      <link>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</link>
+      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</guid>
+      <description>As CyberMilers must have noticed, there have been warm-up and publicity on social media for CyberWorld updates and upgrades over the next few months, which began last week.
+The engineers and marketing operators of CyberMiles have been delivering the CyberWorld NFT platform with tremendous efficiency and did a successful spread in the last few months. To improve the users’ experience, CyberMiles is currently upgrading the platform in terms of technology and content, bringing a new CyberWorld to everyone who always supported CyberMiles.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - NFT&#39;s &#39;Blue Ocean&#39;, the Global Market Capitalization of NFT is Near $18 Billion</title>
@@ -187,17 +197,6 @@ OKEx Pool is a world’s leading comprehensive mining pool built upon the world�
       
       <guid>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking/</guid>
       <description>OKEx 矿池当选 CyberMiles 超级节点，目前以总投票权27238182，排名第三，报酬比率为30%。 OKEx 矿池是全球领先的综合性矿池，依托数字资产交易平台OKEx</description>
-    </item>
-    
-    <item>
-      <title>Issue your own CRC20 token on CyberMiles</title>
-      <link>http://blog.cybermiles.io/post/20190521-issue-token-en/</link>
-      <pubDate>Fri, 22 May 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20190521-issue-token-en/</guid>
-      <description>Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
-You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
-But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.</description>
     </item>
     
   </channel>

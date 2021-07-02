@@ -3,21 +3,70 @@
   
   <url>
     <loc>http://blog.cybermiles.io/categories/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://blog.cybermiles.io/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/cyberworld/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/en/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/newsletter/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/nft/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/</loc>
+    <lastmod>2021-07-02T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,41 +80,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20210701-nft-news2-zh/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/en/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/newsletter/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/nft/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/post/</loc>
-    <lastmod>2021-07-01T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/</loc>
     <lastmod>2021-07-01T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -101,13 +115,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/airdrop/</loc>
-    <lastmod>2021-06-29T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/cyberworld/</loc>
     <lastmod>2021-06-29T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
