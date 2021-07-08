@@ -6,7 +6,6 @@ tags: ["NFT","CyberMiles","CyberWorld","Newsletter","Twitter","Instagram"]
 categories: ["en"] 
 ---
 
-# CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  
 
 Compared to $13.7 million in the first half of 2020, the NFT market surges to $2.5 billion by now this year. Several days before, Tim Berners-Lee, "Father of the World Wide Web", sold the original web source code as an NFT for $5.4 million. The popularity of NFT as a medium for selling digital collectibles has been growing. The boom in the NFT market attracted a wave of social media platforms to jump on the bandwagon. 
 
