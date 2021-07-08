@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>CyberMiles</title>
       <link>http://blog.cybermiles.io/tags/cybermiles/</link>
-      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
       <description></description>
@@ -23,16 +23,25 @@
     <item>
       <title>CyberWorld</title>
       <link>http://blog.cybermiles.io/tags/cyberworld/</link>
-      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/cyberworld/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Instagram</title>
+      <link>http://blog.cybermiles.io/tags/instagram/</link>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>newsletter</title>
       <link>http://blog.cybermiles.io/tags/newsletter/</link>
-      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/newsletter/</guid>
       <description></description>
@@ -41,9 +50,18 @@
     <item>
       <title>NFT</title>
       <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>http://blog.cybermiles.io/tags/twitter/</link>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/twitter/</guid>
       <description></description>
     </item>
     
@@ -170,24 +188,6 @@
       <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mainnet</title>
-      <link>http://blog.cybermiles.io/tags/mainnet/</link>
-      <pubDate>Tue, 29 Oct 2019 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/mainnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ecommerce</title>
-      <link>http://blog.cybermiles.io/tags/ecommerce/</link>
-      <pubDate>Wed, 03 Jul 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/ecommerce/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
+      <link>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</link>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</guid>
+      <description>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT Compared to $13.7 million in the first half of 2020, the NFT market surges to $2.5 billion by now this year. Several days before, Tim Berners-Lee, &amp;ldquo;Father of the World Wide Web&amp;rdquo;, sold the original web source code as an NFT for $5.4 million. The popularity of NFT as a medium for selling digital collectibles has been growing. The boom in the NFT market attracted a wave of social media platforms to jump on the bandwagon.</description>
+    </item>
     
     <item>
       <title>CyberMiles NFT Newsletter - CyberWorld NFT Platform Upgrade</title>
@@ -188,15 +197,6 @@ According to the research team at CyberMiles, many problems are identified with 
       <guid>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-en/</guid>
       <description>Sino Global Shipping America, a Nasdaq traded company, will work with CyberMiles, an e-commerce public blockchain, to jointly launch a blockchain non-fungible token (NFT) CRC-721 protocol and trading platform, which will allow enterprises, institutions, and individuals to conveniently issue NFTs on the CyberMiles public blockchain and also trade NFTs easily.
 [A non-fungible token (NFT)] (https://en.wikipedia.org/wiki/Non-fungible_token) is a special type of [cryptographic token] (https://en.wikipedia.org/wiki/Cryptocurrency) issued on blockchain which represents something unique and one of a kind; Non-fungible tokens are not mutually interchangeable, thus has the perfect use cases for art pieces and anything that are collectibles.</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 公链双周报(0911)</title>
-      <link>http://blog.cybermiles.io/post/20201030-biweekly-zh/</link>
-      <pubDate>Fri, 30 Oct 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20201030-biweekly-zh/</guid>
-      <description>大家好，为大家介绍 CyberMiles 公链在 2020.10.16 至 2020.10.30 期间的进展： CyberMiles 与 SimpleSwap 的万圣节活动 万圣节就要来了！来 SimpleSwap 寻找隐藏的 CMT 彩蛋吧！10月26日-10月31日，在 SimpleSwap 网站上</description>
     </item>
     
   </channel>

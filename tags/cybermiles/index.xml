@@ -6,10 +6,19 @@
     <description>Recent content in CyberMiles on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cybermiles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
+      <link>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</link>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</guid>
+      <description>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT Compared to $13.7 million in the first half of 2020, the NFT market surges to $2.5 billion by now this year. Several days before, Tim Berners-Lee, &amp;ldquo;Father of the World Wide Web&amp;rdquo;, sold the original web source code as an NFT for $5.4 million. The popularity of NFT as a medium for selling digital collectibles has been growing. The boom in the NFT market attracted a wave of social media platforms to jump on the bandwagon.</description>
+    </item>
     
     <item>
       <title>CyberMiles NFT Newsletter - CyberWorld NFT Platform Upgrade</title>
@@ -187,16 +196,6 @@ According to the research team at CyberMiles, many problems are identified with 
       
       <guid>http://blog.cybermiles.io/post/20200814-biweekly-zh/</guid>
       <description>教程：如何将毕业证书记录到 CyberMiles 区块链上 之前，我们提到过天津大学旗下高端培训品牌天大北洋的结业证书记录到了 CyberMiles 公链。现相关工作已经完成，本周大家讲</description>
-    </item>
-    
-    <item>
-      <title>OKEx Pool as CyberMiles&#39; Validator: Stake and win a Cube</title>
-      <link>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking-en/</link>
-      <pubDate>Thu, 28 May 2020 15:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking-en/</guid>
-      <description>OKEx Pool became one of CyberMiles’ validator and is currently ranking the third with 27238182 voting powers and declared a compensation rate of 30 percent.
-OKEx Pool is a world’s leading comprehensive mining pool built upon the world’s leading cryptocurrency exchange OKEx, offering a one-stop mining and trading experience for users, supporting the mining of PoW, PoS, and PoS-variant cryptocurrencies. It has become supernodes of multiple cryptocurrencies, including EOS and COSMOS.</description>
     </item>
     
   </channel>

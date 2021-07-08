@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
+      <link>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</link>
+      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</guid>
+      <description>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT Compared to $13.7 million in the first half of 2020, the NFT market surges to $2.5 billion by now this year. Several days before, Tim Berners-Lee, &amp;ldquo;Father of the World Wide Web&amp;rdquo;, sold the original web source code as an NFT for $5.4 million. The popularity of NFT as a medium for selling digital collectibles has been growing. The boom in the NFT market attracted a wave of social media platforms to jump on the bandwagon.</description>
+    </item>
     
     <item>
       <title>CyberMiles NFT Newsletter - CyberWorld NFT Platform Upgrade</title>
@@ -211,17 +220,6 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
       <description>Dear CMT holders!
 According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, and 5miles.
 The 20 million CMTs in the forth quarter is expected to be unlocked on December 5. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles MainNet software upgrade to v0.1.10-beta Announcement</title>
-      <link>http://blog.cybermiles.io/post/20191028-mainnetupgrade-en/</link>
-      <pubDate>Mon, 28 Oct 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20191028-mainnetupgrade-en/</guid>
-      <description>Two Third (2/3) of all CyberMiles Validators have voted on 28th of October, 2019 to agree on the proposal to upgrade the MainNet software to v0.1.10-beta. The CyberMiles Foundation and CyberMiles validators have voted to perform an upgrade to the MainNet software at block height 2875555, which is approximately between 4:00-6:00 am (UTC) on Oct 30th 2019.
-The upgrade addresses the following issues:
- It allows all users to cleanly unstake and have all funds available for withdraw within 8 days.</description>
     </item>
     
   </channel>
