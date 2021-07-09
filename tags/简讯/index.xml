@@ -6,10 +6,19 @@
     <description>Recent content in 简讯 on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/%E7%AE%80%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯 - 简单配置，用 MetaMask 连接到 CyberMiles 主链</title>
+      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</guid>
+      <description>Hi, CyberMiles 的粉丝们！ CyberMiles 带了一个好消息！CyberMiles 的工程师们已经升级了 RPC 节点！现在能够使用 MetaMask 连接到 CyberMiles 的公链啦！转账、部署合约等功能已经兼容</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT 简讯-社交媒体 Instagram、Twitter 进军 NFT 市场</title>

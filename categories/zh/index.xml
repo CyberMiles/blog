@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯 - 简单配置，用 MetaMask 连接到 CyberMiles 主链</title>
+      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</guid>
+      <description>Hi, CyberMiles 的粉丝们！ CyberMiles 带了一个好消息！CyberMiles 的工程师们已经升级了 RPC 节点！现在能够使用 MetaMask 连接到 CyberMiles 的公链啦！转账、部署合约等功能已经兼容</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT 简讯-社交媒体 Instagram、Twitter 进军 NFT 市场</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20200731-biweekly-zh/</guid>
       <description>大家好，为大家介绍 CyberMiles 公链在 2020.07.25至 2020.07.31 期间的进展： Michael Yuan 博士新书中文版即将面世 海外社区进展 天大北洋结业证书已发放 回馈老用户活动结束</description>
-    </item>
-    
-    <item>
-      <title>ETH 2.0 时代的N种可能</title>
-      <link>http://blog.cybermiles.io/post/20200618-eth-2-zh/</link>
-      <pubDate>Thu, 18 Jun 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200618-eth-2-zh/</guid>
-      <description>6月18日，CyberMiles 首席科学家受邀出席金色财经主办的金色相对论，并就《以太坊2.0时代的N种可能》参与了讨论。 以下是问题实录： 1</description>
     </item>
     
   </channel>
