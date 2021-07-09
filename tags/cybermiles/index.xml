@@ -6,10 +6,22 @@
     <description>Recent content in CyberMiles on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cybermiles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
+      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</guid>
+      <description>Hi, CyberMiles fans!🍓
+Great update! CyberMiles engineers have upgraded the RPC node! Now you can use MetaMask to connect to CyberMiles public blockchain! You can transfer CMT, deploy smart contract on MetaMask, and other features are compatible!
+To guide you on how to connect MetaMask to the CyberMiles public blockchain. Here is a detailed tutorial for you.
+ Log in your MetaMask account first.  Click the &amp;ldquo;Networks&amp;rdquo; option.  Click&amp;rsquo; Custom RPC&amp;rsquo; to enter the node setting interface.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
@@ -187,15 +199,6 @@ According to the research team at CyberMiles, many problems are identified with 
       
       <guid>http://blog.cybermiles.io/post/20201030-biweekly-zh/</guid>
       <description>大家好，为大家介绍 CyberMiles 公链在 2020.10.16 至 2020.10.30 期间的进展： CyberMiles 与 SimpleSwap 的万圣节活动 万圣节就要来了！来 SimpleSwap 寻找隐藏的 CMT 彩蛋吧！10月26日-10月31日，在 SimpleSwap 网站上</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 公链双周报(0911)</title>
-      <link>http://blog.cybermiles.io/post/20200911-biweekly-zh/</link>
-      <pubDate>Fri, 11 Sep 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200911-biweekly-zh/</guid>
-      <description>CyberMiles 为Uniswap 做贡献 CyberMiles 是Uniswap 最早的代码贡献者之一。Uniswap的国际用户界面，也就是大家每天都在使用的 UI 是由 CyberMiles 开发者撰写的。</description>
     </item>
     
   </channel>

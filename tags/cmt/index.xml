@@ -6,10 +6,22 @@
     <description>Recent content in CMT on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Mar 2021 10:00:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cmt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
+      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</guid>
+      <description>Hi, CyberMiles fans!🍓
+Great update! CyberMiles engineers have upgraded the RPC node! Now you can use MetaMask to connect to CyberMiles public blockchain! You can transfer CMT, deploy smart contract on MetaMask, and other features are compatible!
+To guide you on how to connect MetaMask to the CyberMiles public blockchain. Here is a detailed tutorial for you.
+ Log in your MetaMask account first.  Click the &amp;ldquo;Networks&amp;rdquo; option.  Click&amp;rsquo; Custom RPC&amp;rsquo; to enter the node setting interface.</description>
+    </item>
     
     <item>
       <title>Sino-Global Joins CyberMiles in Launching a Highly-Secure NFT Exchange</title>
@@ -188,15 +200,6 @@ E-commerce CyberMiles is a public blockchain built for e-commerce, which has bee
       
       <guid>http://blog.cybermiles.io/post/20200330-roadmap-zh/</guid>
       <description>2020年，CyberMiles 的工作重点在电商应用与区块链技术创新，特别是虚拟机技术上。同时随着市场环境的好转、开发者生态的逐渐完善，区块</description>
-    </item>
-    
-    <item>
-      <title>CMT 2020年度第一季度解锁公告</title>
-      <link>http://blog.cybermiles.io/post/20200225-cmt-release-zh/</link>
-      <pubDate>Tue, 25 Feb 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200225-cmt-release-zh/</guid>
-      <description>各位CMT持有者，大家好！ 按照白皮书的规划，CyberMiles基金会地址0x1a14Ec3003C943a0624C7c513D50255</description>
     </item>
     
   </channel>

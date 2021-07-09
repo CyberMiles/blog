@@ -6,10 +6,22 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
+      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</guid>
+      <description>Hi, CyberMiles fans!🍓
+Great update! CyberMiles engineers have upgraded the RPC node! Now you can use MetaMask to connect to CyberMiles public blockchain! You can transfer CMT, deploy smart contract on MetaMask, and other features are compatible!
+To guide you on how to connect MetaMask to the CyberMiles public blockchain. Here is a detailed tutorial for you.
+ Log in your MetaMask account first.  Click the &amp;ldquo;Networks&amp;rdquo; option.  Click&amp;rsquo; Custom RPC&amp;rsquo; to enter the node setting interface.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
@@ -209,17 +221,6 @@ Create your own vote DApp according to the following steps.
 Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
 Step 2 Open the Accounts tab and send a little CMTs to your default account.
  If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
-    </item>
-    
-    <item>
-      <title>CMT 2019 Forth Quarter Release Announcement</title>
-      <link>http://blog.cybermiles.io/post/2019-12-03-cmt-release-en/</link>
-      <pubDate>Tue, 03 Dec 2019 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/2019-12-03-cmt-release-en/</guid>
-      <description>Dear CMT holders!
-According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, and 5miles.
-The 20 million CMTs in the forth quarter is expected to be unlocked on December 5. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
     </item>
     
   </channel>

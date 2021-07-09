@@ -6,17 +6,53 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Blockchain</title>
+      <link>http://blog.cybermiles.io/tags/blockchain/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMT</title>
+      <link>http://blog.cybermiles.io/tags/cmt/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/cmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CyberMiles</title>
       <link>http://blog.cybermiles.io/tags/cybermiles/</link>
-      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamask</title>
+      <link>http://blog.cybermiles.io/tags/metamask/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/metamask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
@@ -48,15 +84,6 @@
     </item>
     
     <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Twitter</title>
       <link>http://blog.cybermiles.io/tags/twitter/</link>
       <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
@@ -80,24 +107,6 @@
       <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/airdrop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CMT</title>
-      <link>http://blog.cybermiles.io/tags/cmt/</link>
-      <pubDate>Thu, 18 Mar 2021 10:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/cmt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blockchain</title>
-      <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Tue, 23 Feb 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
       <description></description>
     </item>
     
@@ -179,15 +188,6 @@
       <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/buidl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>http://blog.cybermiles.io/tags/development/</link>
-      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/development/</guid>
       <description></description>
     </item>
     

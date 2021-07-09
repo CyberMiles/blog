@@ -2,22 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/categories/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/cmt/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://blog.cybermiles.io/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/en/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/metamask/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/nft/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/</loc>
+    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/en/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cybermiles.io/tags/instagram/</loc>
     <lastmod>2021-07-08T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,27 +108,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/newsletter/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/nft/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/post/</loc>
-    <lastmod>2021-07-08T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/</loc>
     <lastmod>2021-07-08T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -219,13 +247,6 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/cmt/</loc>
-    <lastmod>2021-03-18T10:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/</loc>
     <lastmod>2021-03-18T10:00:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,13 +256,6 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-zh/</loc>
     <lastmod>2021-03-18T10:00:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
-    <lastmod>2021-02-23T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1353,14 +1367,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
