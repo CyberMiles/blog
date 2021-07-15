@@ -30,7 +30,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/post/20210715-nft-news4-en/</loc>
+    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20210715-nft-news4-zh/</loc>
+    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/en/</loc>
     <lastmod>2021-07-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -51,7 +65,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/programmer/</loc>
+    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/tags/</loc>
+    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/the-world-wide-web/</loc>
     <lastmod>2021-07-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -101,13 +129,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</loc>
-    <lastmod>2021-07-09T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/en/</loc>
     <lastmod>2021-07-09T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1466,24 +1487,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/post/20210715-nft-news04-en/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/post/20210715-nft-news4-en/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/programmer/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/the-world-wide-web/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

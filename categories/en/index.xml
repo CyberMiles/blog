@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter- World Wide Web Source Code Made NFT Auctioned for Millions. What does this mean for Programmers?</title>
+      <link>http://blog.cybermiles.io/post/20210715-nft-news4-en/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210715-nft-news4-en/</guid>
+      <description>A big NFT news in June: Tim Berners-Lee, Father of the Internet, minted ‘World Wide Web’ source code to NFT on 15th June and sold at Sotheby’s on 30th June. Bidding started from $1000 and lasted for a week. The final price was over $5.4 million.
+Named “ This Changes Everything”, the NFT consists of four parts. Work includes 1. The original archive of dated and time-stamped files containing the source code.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
@@ -208,19 +218,6 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
       <description>Dear CMT holders!
 According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, like 5miles.
 The 20 million CMTs in the first quarter of 2020 is expected to be released on March 5th. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
-    </item>
-    
-    <item>
-      <title>Create a Vote DApp via BUIDL for CMT</title>
-      <link>http://blog.cybermiles.io/post/20191220-vote-en/</link>
-      <pubDate>Fri, 20 Dec 2019 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20191220-vote-en/</guid>
-      <description>The example dapp is a web application where people can vote thumb up or thumb down on a statement. All the votes are recorded on the blockchain.
-Create your own vote DApp according to the following steps.
-Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
-Step 2 Open the Accounts tab and send a little CMTs to your default account.
- If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
     </item>
     
   </channel>
