@@ -1402,14 +1402,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1460,6 +1460,12 @@
   <url>
     <loc>http://blog.cybermiles.io/post/20171015-cybermiles-overview-en/</loc>
     <lastmod>2017-10-15T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/20210715-nft-news04-en/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
