@@ -1485,10 +1485,4 @@
     <priority>0.5</priority>
   </url>
   
-  <url>
-    <loc>http://blog.cybermiles.io/post/20210715-nft-news04-en/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>
