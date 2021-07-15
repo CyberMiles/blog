@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>万维网 on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/%E4%B8%87%E7%BB%B4%E7%BD%91/</link>
+    <description>Recent content in 万维网 on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/%E4%B8%87%E7%BB%B4%E7%BD%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberMilesNFT 简讯-“互联网之父” Tim Berners-Lee 出售万维网源代码，NFT 是否是程序员的未来?</title>
+      <link>http://blog.cybermiles.io/post/20210715-nft-news4-zh/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210715-nft-news4-zh/</guid>
+      <description>6月 NFT 市场的出圈事件：“互联网之父” Tim Berners-Lee 的万维网源代码 NFT 6月15日完成铸造，6月30日在苏富比拍卖行成功拍出。为期一周，竞价从 1000 美元起拍，最</description>
+    </item>
+    
+  </channel>
+</rss>

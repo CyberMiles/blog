@@ -24,15 +24,6 @@ To guide you on how to connect MetaMask to the CyberMiles public blockchain. Her
     </item>
     
     <item>
-      <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
-      <link>http://blog.cybermiles.io/post/20210715-nft-news4-zh/</link>
-      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210715-nft-news4-zh/</guid>
-      <description>6月 NFT 市场的出圈事件：“互联网之父” Tim Berners-Lee 的万维网源代码 NFT 6月15日完成铸造，6月30日在苏富比拍卖行成功拍出。为期一周，竞价从 1000 美元起拍，最</description>
-    </item>
-    
-    <item>
       <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
       <link>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</link>
       <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
@@ -217,6 +208,19 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
       <description>Dear CMT holders!
 According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, like 5miles.
 The 20 million CMTs in the first quarter of 2020 is expected to be released on March 5th. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
+    </item>
+    
+    <item>
+      <title>Create a Vote DApp via BUIDL for CMT</title>
+      <link>http://blog.cybermiles.io/post/20191220-vote-en/</link>
+      <pubDate>Fri, 20 Dec 2019 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20191220-vote-en/</guid>
+      <description>The example dapp is a web application where people can vote thumb up or thumb down on a statement. All the votes are recorded on the blockchain.
+Create your own vote DApp according to the following steps.
+Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
+Step 2 Open the Accounts tab and send a little CMTs to your default account.
+ If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
     </item>
     
   </channel>

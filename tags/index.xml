@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,54 @@
     <item>
       <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CyberMiles</title>
+      <link>http://blog.cybermiles.io/tags/cybermiles/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Berners-Lee</title>
+      <link>http://blog.cybermiles.io/tags/tim-berners-lee/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/tim-berners-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>万维网</title>
+      <link>http://blog.cybermiles.io/tags/%E4%B8%87%E7%BB%B4%E7%BD%91/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/%E4%B8%87%E7%BB%B4%E7%BD%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>互联网之父</title>
+      <link>http://blog.cybermiles.io/tags/%E4%BA%92%E8%81%94%E7%BD%91%E4%B9%8B%E7%88%B6/</link>
+      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/%E4%BA%92%E8%81%94%E7%BD%91%E4%B9%8B%E7%88%B6/</guid>
       <description></description>
     </item>
     
@@ -30,29 +75,11 @@
     </item>
     
     <item>
-      <title>CyberMiles</title>
-      <link>http://blog.cybermiles.io/tags/cybermiles/</link>
-      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/cybermiles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Metamask</title>
       <link>http://blog.cybermiles.io/tags/metamask/</link>
       <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/metamask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
@@ -161,33 +188,6 @@
       <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethereum</title>
-      <link>http://blog.cybermiles.io/tags/ethereum/</link>
-      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/ethereum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WebAssembly</title>
-      <link>http://blog.cybermiles.io/tags/webassembly/</link>
-      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/webassembly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BUIDL</title>
-      <link>http://blog.cybermiles.io/tags/buidl/</link>
-      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/buidl/</guid>
       <description></description>
     </item>
     
