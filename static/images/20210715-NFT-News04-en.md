@@ -1,0 +1,51 @@
+---
+title: "CyberMilesNFT Newsletter - the World Wide Web Source Code Made NFT Auctioned for Millions. What does this mean for Programmers?"
+date: 2021-7-15T10:01:23+08:00
+draft: false
+tags: ["Blockchain","NFT","Tim Berners-Lee","the World Wide Web","programmer"]
+categories: ["en"]
+---
+
+**A big NFT news in June:** Tim Berners-Lee, Father of the Internet, minted ‘World Wide Web’ source code to NFT on 15th June and sold at Sotheby’s on 30th June. Bidding started from $1000 and lasted for a week. The final price was over $5.4 million.
+
+![](/images/20210715-NFT-News4-01.png)
+
+Named “ This Changes Everything”, the NFT consists of four parts. Work includes 1. The original archive of dated and time-stamped files containing the source code. The contents of which include implementations of the three languages and protocols by Tim; HTML (Hypertext Markup Language); HTTP (Hyper Transfer Protocol); and URIs (Uniform Resource Identifiers), as well as the original HTML documents that instructed early web users on how to use the application. These files contain approximately 9,555 lines of code. It includes animated visualization of the code being written, lasting 30 minutes 25 seconds; a Scalable Vector Graphics (SVG) representation of the full code from the original files using Python, with a graphic representation of his physical signature at lower right and a letter written in the README.md file by Tim, reflecting upon the code Han his process of creating it.
+
+![](/images/20210715-NFT-News4-02.png)
+
+There was an interesting episode during the auction. Someone found a bug in the publicly  available code animation.
+
+![](/images/20210715-NFT-News4-03.jpg)
+
+There was no response on the bug from Tim Berners-Lee and Sotheby’s, but it did bring a new wave of concern for this auction. Later, people found that the incorrect codes have been corrected in the video after the auction.
+
+### Tim Berners-Lee responds to the NFT boom by calling it ‘the latest playful creations’
+
+Tim Berners-Lee, the inventor of the WWW, proposed the “information management system” on 12 March 1989. He implemented the first successful communication between HTTP client and server via the internet in mid-November. Officially named the “World Wide Web(WWW)”, it revolutionized the way information was shared and created. With the birth of the WWW, people all over the world break the restraint of time and geographical differences and began to communicate with each other on an unprecedented scale. This invention is considered to be one of the most influential computer inventions in history. Instead of applying for intellectual property, Tim Berners-Lee gave the WWW to the world for free.
+
+Today, Tim Berners-Lee minted the invention to be an NFT not out of financial incentive. He called NFT the latest playful creations and the most appropriate ownership identification available.
+
+
+> Three decades ago, I created something which, with the subsequent help of a huge number of collaborators across the world, has been a powerful tool for humanity. For me, the best bit about the web has been the spirit of collaboration. While I do not make predictions about the future, I sincerely hope its use, knowledge and potential will remain open and available to us all to continue to innovate, create and initiate the next technological transformation, that we cannot yet imagine. NFTs, be they artworks or a digital artifact like this, are the latest playful creations in this realm, and the most appropriate means of ownership that exists. They are the ideal way to package the origins behind the web.  --Tim Berners-Lee
+
+
+As advertised by Sotheby’s, “Tim Berners-Lee’s NFT is the only signed copy of the code for the first web browser in existence”. There would never had been NFT without the WWW, the transformational invention eventually bring Internet to the world and changed human history. 
+
+Against the NFT craze, Tim Berners-Lee selling this NFT might be a firm positive signal to digital collections in this form. Technology is ever evolving into new forms today. This source code made NFT affirmed this new way that artistry, digitization, and original ownership is identified.
+
+### NFT makes it possible to collect digital text
+
+Compare the abstract properties of the WWW with the concept of NFT (digital collectible). NFT is made with unique smart contract code on blockchain. Whether it is artwork or digital manuscripts, all can be minted to NFTs. According to Southeby’s, NFTs give buyers the unique ownership of the important inventors’ original digital manuscripts and keep track of the owners on the blockchain.
+
+Programmers host their code on platforms such as Github for software development and version control. Now NFT can be used to verify the authenticity and ownership of the work, which is a big value-add on top of everything.
+
+Evan You, the founder of Vue.js, an open source software front-end development framework, has strong sponsorship on Patreon. Both individual developers and companies can sponsor him for Vue’s maintenance and development. One of the sponsors, a Shanghai-based organization, has been sponsoring Evan for $2000 a month for six months. These sponsorships contributed a lot to Vue’s development. So let’s dwell on it. Can NFT empower even more open source projects? In fact, NFT offers much more possibilities. Can programmers give out NFT for their sponsors’ kindness?
+
+NFT may offer a new future to programmers. Don’t forgot, ‘Everything can be NFTized’. The NFT market is inclusive enough add value to art collection and so much more: any thoughts, ideas, discovery, art, music, even the aforementioned code. Tim Berners-Lee has embraced NFT. We believe that the NFT market will not only accommodate more art creators. More programmers will join. CyberWorld NFT platform will be the best user-friendly NFT market for artist, creators and programmers to start. CyberWorld will be the biggest supporter behind you!
+
+Official blog: https://blog.cybermiles.io/categories/en/
+Twitter: @cybermiles
+Medium: https://medium.com/cybermiles
+Linkedin: https://www.linkedin.com/company/cybermiles
+Email: [contact@cybermiles.io](mailto:contact@cybermiles.io)
