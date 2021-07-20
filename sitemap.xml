@@ -51,6 +51,13 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/post/20210720-nft-news5-zh/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/categories/en/</loc>
     <lastmod>2021-07-20T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,6 +107,20 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/categories/zh/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/%E5%A5%A2%E4%BE%88%E5%93%81/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
     <lastmod>2021-07-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,13 +157,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/tim-berners-lee/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/zh/</loc>
     <lastmod>2021-07-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1472,14 +1486,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
