@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter- The NFT Boom: Luxury Brands Lead the Digital Fashion Trend?</title>
+      <link>http://blog.cybermiles.io/post/20210720-nft-new5-en/</link>
+      <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210720-nft-new5-en/</guid>
+      <description>The age of digital consumption seems to be changing the marketing model of every industry. Fashion brands seem to transfer to digital networks and technology as a way out of their transformation and upgrading. The luxury group LVMH formed a partnership with Google in June that will use AI to provide personalized services and content in order to enhance user experience. LVMH, Cartier’s parent company Richemont and Prada jointly announced that the three parties plan to create a solution powered by &amp;lsquo;Aura Blockchain&amp;rsquo;, a global luxury blockchain open to all luxury brands.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter- World Wide Web Source Code Made NFT Auctioned for Millions. What does this mean for Programmers?</title>
@@ -189,15 +198,6 @@ Earlier this year, NFT has swept the art world. The graphic designer Beeple sold
       
       <guid>http://blog.cybermiles.io/post/20210331-nft-02-zh/</guid>
       <description>Beeple，一位你可能从未听说过的数字艺术家，他的作品《Everydays - The First 5000 Day》在佳士得拍卖行以6900万美元成交，不仅创造了数</description>
-    </item>
-    
-    <item>
-      <title>6935 万美元拍出！如何发现下一个《Everydays: The First 5000 Days》| NFT 科考笔记</title>
-      <link>http://blog.cybermiles.io/post/20210324-nft-01-zh/</link>
-      <pubDate>Wed, 24 Mar 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210324-nft-01-zh/</guid>
-      <description>在目前的 NFT 项目中，我们可以根据其主要的领域和价值逻辑将其分为 Art-NFT、FI-NFT、IP-NFT 和 Game-NFT。Beeple 的《E</description>
     </item>
     
   </channel>

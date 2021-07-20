@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter- The NFT Boom: Luxury Brands Lead the Digital Fashion Trend?</title>
+      <link>http://blog.cybermiles.io/post/20210720-nft-new5-en/</link>
+      <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210720-nft-new5-en/</guid>
+      <description>The age of digital consumption seems to be changing the marketing model of every industry. Fashion brands seem to transfer to digital networks and technology as a way out of their transformation and upgrading. The luxury group LVMH formed a partnership with Google in June that will use AI to provide personalized services and content in order to enhance user experience. LVMH, Cartier’s parent company Richemont and Prada jointly announced that the three parties plan to create a solution powered by &amp;lsquo;Aura Blockchain&amp;rsquo;, a global luxury blockchain open to all luxury brands.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter- World Wide Web Source Code Made NFT Auctioned for Millions. What does this mean for Programmers?</title>
@@ -207,17 +216,6 @@ Create your own forum DApp according to the following steps.
 Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
 Step 2 Open the Accounts tab and send a little CMTs to your default account.
  If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
-    </item>
-    
-    <item>
-      <title>CMT 2020 First Quarter Release Announcement</title>
-      <link>http://blog.cybermiles.io/post/20200224-cmt-release-en/</link>
-      <pubDate>Mon, 24 Feb 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200224-cmt-release-en/</guid>
-      <description>Dear CMT holders!
-According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, like 5miles.
-The 20 million CMTs in the first quarter of 2020 is expected to be released on March 5th. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
     </item>
     
   </channel>

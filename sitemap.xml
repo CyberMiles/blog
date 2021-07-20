@@ -2,28 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/ai/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/asics/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/burberry/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://blog.cybermiles.io/categories/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://blog.cybermiles.io/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/20210720-nft-new5-en/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/en/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/gucci/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/luxury-brands/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/nft/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/vr/</loc>
+    <lastmod>2021-07-20T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/cybermiles/</loc>
     <lastmod>2021-07-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -44,35 +121,7 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/en/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/nft/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/post/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cybermiles.io/tags/programmer/</loc>
-    <lastmod>2021-07-15T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/</loc>
     <lastmod>2021-07-15T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
