@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artists on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/artists/</link>
+    <description>Recent content in artists on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Aug 2021 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/artists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberMilesNFT Newsletter — What Are the Advantages of CyberWorld comparing with OpenSea?</title>
+      <link>http://blog.cybermiles.io/post/20210802-nft-new6-en/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210802-nft-new6-en/</guid>
+      <description>With the rise of the NFT market, led by some notable projects like NBA Topshop, CyrproPunks, the NFT market has seen a wave of digital collectibles and NFT exchange platforms. Devin Finzer launched an NFT exchange platform in 2017 called &amp;lsquo;OpenSea&amp;rsquo;, attracting a lot of attention as an early NFT project platform. As a result, the total market sales grew from $8 million in January to $150 million in March 2021.</description>
+    </item>
+    
+  </channel>
+</rss>

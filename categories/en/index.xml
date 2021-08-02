@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter — What Are the Advantages of CyberWorld comparing with OpenSea?</title>
+      <link>http://blog.cybermiles.io/post/20210802-nft-new6-en/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210802-nft-new6-en/</guid>
+      <description>With the rise of the NFT market, led by some notable projects like NBA Topshop, CyrproPunks, the NFT market has seen a wave of digital collectibles and NFT exchange platforms. Devin Finzer launched an NFT exchange platform in 2017 called &amp;lsquo;OpenSea&amp;rsquo;, attracting a lot of attention as an early NFT project platform. As a result, the total market sales grew from $8 million in January to $150 million in March 2021.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter- The NFT Boom: Luxury Brands Lead the Digital Fashion Trend?</title>
@@ -203,19 +212,6 @@ Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. M
       <guid>http://blog.cybermiles.io/post/20200330-roadmap-en/</guid>
       <description>In 2020, CyberMiles&amp;rsquo; work will focus on e-commerce applications and blockchain technology innovation, especially virtual machine technology. At the same time, with the improvement of the market environment and the gradual improvement of the developer ecosystem, blockchain technology training and education will also become the focus of CyberMiles&amp;rsquo; work.
 E-commerce CyberMiles is a public blockchain built for e-commerce, which has been the in CyberMiles’ gene. After exploration in cryptocurrency shopping, a truely decentralized e-commerce platform, and the US fiat dollar&#39;s direct purchase of stablecoin pegged to USD, CyberMiles will continue to explore and try in the e-commerce field to create e-commerce products loved by all.</description>
-    </item>
-    
-    <item>
-      <title>How to build a forum on blockchain via BUIDL for CMT</title>
-      <link>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</link>
-      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</guid>
-      <description>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
-Create your own forum DApp according to the following steps.
-Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
-Step 2 Open the Accounts tab and send a little CMTs to your default account.
- If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
     </item>
     
   </channel>

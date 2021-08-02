@@ -6,10 +6,46 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>artists</title>
+      <link>http://blog.cybermiles.io/tags/artists/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://blog.cybermiles.io/tags/blockchain/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSea</title>
+      <link>http://blog.cybermiles.io/tags/opensea/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/opensea/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI</title>
@@ -26,15 +62,6 @@
       <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/asics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blockchain</title>
-      <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
       <description></description>
     </item>
     
@@ -62,15 +89,6 @@
       <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/luxury-brands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
@@ -170,24 +188,6 @@
       <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/%E7%AE%80%E8%AE%AF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CyberWorld</title>
-      <link>http://blog.cybermiles.io/tags/cyberworld/</link>
-      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/cyberworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instagram</title>
-      <link>http://blog.cybermiles.io/tags/instagram/</link>
-      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/instagram/</guid>
       <description></description>
     </item>
     
