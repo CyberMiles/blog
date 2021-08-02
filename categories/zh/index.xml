@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯 - 和 OpenSea 相比，CyberWorld的优势在哪儿？</title>
+      <link>http://blog.cybermiles.io/post/20210802-nft-new6-zh/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210802-nft-new6-zh/</guid>
+      <description>随着 NFT 市场的兴起，由 NBA Topshot、CryproPunks 等项目引领的 NFT 市场带动了一波数字收藏品、NFT 交易平台的诞生。Devin Finzer 在20</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT 简讯- NFT 热潮下：奢侈品牌引领数字时尚</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20200911-biweekly-zh/</guid>
       <description>CyberMiles 为Uniswap 做贡献 CyberMiles 是Uniswap 最早的代码贡献者之一。Uniswap的国际用户界面，也就是大家每天都在使用的 UI 是由 CyberMiles 开发者撰写的。</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 公链双周报(0814)</title>
-      <link>http://blog.cybermiles.io/post/20200814-biweekly-zh/</link>
-      <pubDate>Fri, 14 Aug 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200814-biweekly-zh/</guid>
-      <description>教程：如何将毕业证书记录到 CyberMiles 区块链上 之前，我们提到过天津大学旗下高端培训品牌天大北洋的结业证书记录到了 CyberMiles 公链。现相关工作已经完成，本周大家讲</description>
     </item>
     
   </channel>
