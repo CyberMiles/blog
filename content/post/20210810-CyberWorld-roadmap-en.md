@@ -2,8 +2,8 @@
 title: "CyberWorld 2021年路线图"
 date: 2021-08-10T10:01:23+08:00
 draft: false
-tags: ["CyberWorld","路线图","2021"]
-categories: ["zh"]
+tags: ["CyberWorld","Roadmap","2021"]
+categories: ["en"]
 ---
 
 ![](/images/20210810-CyberWorld-roadmap.png)
