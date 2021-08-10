@@ -6,7 +6,7 @@ tags: ["CyberWorld","路线图","2021"]
 categories: ["zh"]
 ---
 
-![](/images/CyberWorld roadmap.png)
+![](/images/Cyberworld roadmap.png)
 
 官方博客：https://blog.cybermiles.io/categories/zh/
 微博：CyberMiles中文社区
