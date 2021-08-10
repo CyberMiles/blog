@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberWorld 2021年路线图</title>
+      <link>http://blog.cybermiles.io/post/20210810-cyberworld-roadmap-en/</link>
+      <pubDate>Tue, 10 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210810-cyberworld-roadmap-en/</guid>
+      <description>Official blog: https://blog.cybermiles.io/categories/en/ Twitter: @cybermiles Medium: https://medium.com/cybermiles Linkedin: https://www.linkedin.com/company/cybermiles Email: contact@cybermiles.io</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Under the Boom of Digital Collectibles, What the Challenges NFT Faces?</title>
@@ -201,17 +210,6 @@ But if you want to write some code and start from scratch, you can also use BUID
       <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
       <description>A NEW public EWASM test net based on Second State&#39;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&#39;s first public blockchains to support Ethereum&#39;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&#39;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
 WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
-    </item>
-    
-    <item>
-      <title>Building Blockchain Apps Published in the United States</title>
-      <link>http://blog.cybermiles.io/post/20200409-book-en/</link>
-      <pubDate>Thu, 09 Apr 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200409-book-en/</guid>
-      <description>Building Blockchain Apps Published in the United States
-Budding young developers are get ever more interested in learning how to write blockchain related program.
-Building Blockchain Apps, a comprehensive blockchain development guide, by Dr. Michael Yuan, the chief scientist for CyberMiles, is published in the United States. Building Blockchain Apps is published by Addison-Wesley, which is part of Pearson Plc, the world&#39;s largest higher education publishing group, with books selected as teaching materials by the world&#39;s top universities.</description>
     </item>
     
   </channel>
