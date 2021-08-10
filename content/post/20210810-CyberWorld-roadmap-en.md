@@ -1,5 +1,5 @@
 ---
-title: "CyberWorld 2021年路线图"
+title: "CyberWorld 2021 Roadmap"
 date: 2021-08-10T10:01:23+08:00
 draft: false
 tags: ["CyberWorld","Roadmap","2021"]
