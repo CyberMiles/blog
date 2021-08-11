@@ -6,7 +6,7 @@ tags: ["CyberWorld","Roadmap","2021"]
 categories: ["en"]
 ---
 
-CyberMiles NFT Platform, [CyberWorld](https://cyberworld.finance/#/), has been officially launched [together with Sino Global](https://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/)in May 2021 ahead of schedule.
+CyberMiles NFT Platform, [CyberWorld](https://cyberworld.finance/#/), has been officially launched [together with Sino Global](https://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/) in May 2021 ahead of schedule.
 
 **CyberWorld Version 0.5 attracted great attention from [over 120, 000 users in the community](https://blog.cybermiles.io/post/20210629-nft-01-en/).**
 
