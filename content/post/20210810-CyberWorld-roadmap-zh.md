@@ -1,11 +1,10 @@
 ---
-title: "CyberWorld 2021年路线图"
+title: "CyberMiles 的 NFT 平台－CyberWorld 2021年路线图"
 date: 2021-08-10T10:01:23+08:00
 draft: false
 tags: ["CyberWorld","路线图","2021"]
 categories: ["zh"]
 ---
-# CyberMiles 的 NFT 平台－CyberWorld 2021年路线图
 
 CyberMiles 与 [Sino-Global Shipping America, Ltd.(NASDAQ:SINO)](https://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/)共同构建的区块链 NFT 平台 “[CyberWorld](https://cyberworld.finance/#/)” 于2021年5月正式上线。
 
