@@ -10,7 +10,7 @@ CyberMiles NFT Platform, [CyberWorld](https://cyberworld.finance/#/), has been o
 
 CyberWorld Version 0.5 attracted great attention from [120, 000, users in the community](https://blog.cybermiles.io/post/20210629-nft-01-en/). 
 
-**CyberWorld Version 1.0 is launched. **
+**CyberWorld Version 1.0 is launched.**
  - CyberWorld Genesis NFTs were minted and released along with the launch. 
  - [A powerful token distribution software](https://blog.cybermiles.io/post/20210629-nft-01-en/) was developed to automatically send any crypto tokens to massive number of addresses.
 
