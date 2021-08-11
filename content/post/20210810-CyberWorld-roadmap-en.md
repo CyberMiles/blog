@@ -6,9 +6,13 @@ tags: ["CyberWorld","Roadmap","2021"]
 categories: ["en"]
 ---
 
-CyberMiles NFT Platform, [CyberWorld](https://cyberworld.finance/#/), has been officially launched in April [together with Sino Global](https://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/) in April 2021 ahead of schedule.
+CyberMiles NFT Platform, [CyberWorld](https://cyberworld.finance/#/), has been officially launched in May [together with Sino Global](https://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/) 2021 ahead of schedule.
 
-CyberWorld Version 1.0 attracted great attention from [120, 000, users in the community](https://blog.cybermiles.io/post/20210629-nft-01-en/). Along with the launch, CyberWorld Genesis NFTs were minted and released.
+CyberWorld Version 0.5 attracted great attention from [120, 000, users in the community](https://blog.cybermiles.io/post/20210629-nft-01-en/). 
+
+CyberWorld Version 1.0 is launched. 
+ - CyberWorld Genesis NFTs were minted and released along with the launch. 
+ - [A powerful token distribution software](https://blog.cybermiles.io/post/20210629-nft-01-en/) was developed to automatically send any crypto tokens to massive number of addresses.
 
 CyberWorld Version 2.0 is under development right now. 
  - In August, the CyberWorld NFT platform can be accessed with CyberMiles App on the mobile phone. 
@@ -17,7 +21,7 @@ CyberWorld Version 2.0 is under development right now.
 
 CyberWorld Version 3.0 will support credit card payment with fiat currency. 
  - Users can buy DO with credit cards and then use DO to purchase NFTs on CyberWorld. 
- - In addition, CyberWorld will have an NFT airdrop tool for artists to mint and send their artwork NFTs to their fans anywhere with a simple URL.
+ - In addition, CyberWorld will have an NFT airdrop feature for artists to mint and send their artwork NFTs to their fans anywhere with a simple URL.
 
 Visit [CyberWorld](https://cyberworld.finance/#/) now!
 
