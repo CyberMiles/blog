@@ -19,12 +19,14 @@ CyberWorld Version 3.0 will support credit card payment with fiat currency.
  - Users can buy DO with credit cards and then use DO to purchase NFTs on CyberWorld. 
  - In addition, CyberWorld will have an NFT airdrop tool for artists to mint and send their artwork NFTs to their fans anywhere with a simple URL.
 
+Visit [CyberWorld](https://cyberworld.finance/#/) now!
+
 
 ![](/images/20210810-CyberWorld-roadmap.png)
 
 Official blog: https://blog.cybermiles.io/categories/en/
 
-Twitter: @cybermiles
+Twitter: [@cybermiles](https://twitter.com/cybermiles)
 
 Medium: https://medium.com/cybermiles
 
