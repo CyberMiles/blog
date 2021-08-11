@@ -8,9 +8,10 @@ categories: ["en"]
 
 CyberMiles NFT Platform, [CyberWorld](https://cyberworld.finance/#/), has been officially launched [together with Sino Global](https://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/)in May 2021 ahead of schedule.
 
-CyberWorld Version 0.5 attracted great attention from [over 120, 000 users in the community](https://blog.cybermiles.io/post/20210629-nft-01-en/). 
+**CyberWorld Version 0.5 attracted great attention from [over 120, 000 users in the community](https://blog.cybermiles.io/post/20210629-nft-01-en/).**
 
-**CyberWorld Version 1.0 is launched.**
+
+**CyberWorld Version 1.0 is launched with bugs fixed.**
  - CyberWorld Genesis NFTs were minted and released along with the launch. 
  - [A powerful token distribution software](https://blog.cybermiles.io/post/20210629-nft-01-en/) was developed to automatically send any crypto tokens to massive number of addresses.
 
