@@ -48,18 +48,9 @@
     </item>
     
     <item>
-      <title>artists</title>
-      <link>http://blog.cybermiles.io/tags/artists/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/artists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
       <description></description>
@@ -68,7 +59,7 @@
     <item>
       <title>fraud</title>
       <link>http://blog.cybermiles.io/tags/fraud/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/fraud/</guid>
       <description></description>
@@ -77,7 +68,7 @@
     <item>
       <title>hype</title>
       <link>http://blog.cybermiles.io/tags/hype/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/hype/</guid>
       <description></description>
@@ -86,7 +77,7 @@
     <item>
       <title>Infringement</title>
       <link>http://blog.cybermiles.io/tags/infringement/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/infringement/</guid>
       <description></description>
@@ -95,7 +86,7 @@
     <item>
       <title>Money laundering</title>
       <link>http://blog.cybermiles.io/tags/money-laundering/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/money-laundering/</guid>
       <description></description>
@@ -104,9 +95,18 @@
     <item>
       <title>NFT</title>
       <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artists</title>
+      <link>http://blog.cybermiles.io/tags/artists/</link>
+      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/artists/</guid>
       <description></description>
     </item>
     
