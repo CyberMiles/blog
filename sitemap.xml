@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
+    <lastmod>2021-08-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/categories/</loc>
     <lastmod>2021-08-13T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,7 +30,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/post/20210813-nft-news8-en/</loc>
+    <lastmod>2021-08-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/tags/cyberworld/</loc>
+    <lastmod>2021-08-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/categories/en/</loc>
     <lastmod>2021-08-13T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,7 +58,21 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/tags/nft/</loc>
+    <lastmod>2021-08-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/</loc>
+    <lastmod>2021-08-13T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/regulation/</loc>
     <lastmod>2021-08-13T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -72,13 +107,6 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/en/</loc>
-    <lastmod>2021-08-10T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.cybermiles.io/post/20210810-cyberworld-roadmap-en/</loc>
     <lastmod>2021-08-10T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -95,13 +123,6 @@
   <url>
     <loc>http://blog.cybermiles.io/tags/%E8%B7%AF%E7%BA%BF%E5%9B%BE/</loc>
     <lastmod>2021-08-10T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/blockchain/</loc>
-    <lastmod>2021-08-06T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,13 +157,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/money-laundering/</loc>
-    <lastmod>2021-08-06T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/nft/</loc>
     <lastmod>2021-08-06T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1619,14 +1633,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

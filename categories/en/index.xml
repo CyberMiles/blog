@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - NFT Market’s Regulatory Challenges</title>
+      <link>http://blog.cybermiles.io/post/20210813-nft-news8-en/</link>
+      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210813-nft-news8-en/</guid>
+      <description>In the previous CyberMiles Newsletter series article analyzing the challenges of hype, money laundering, illegal financing, infringement, and fraud that the NFT market faces in detail, we pre-announced discussion on the regulation of the NFT market. NFT market has to be regulated to protect all parties involved, not only those who simply want to buy the NFTs for collections but also the owners of artworks and artists who want to release NFTs.</description>
+    </item>
     
     <item>
       <title>Roadmap 2021 for CyberMiles NFT Platform CyberWorld</title>
@@ -203,16 +212,6 @@ OKEx Pool is a world’s leading comprehensive mining pool built upon the world�
       <description>Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
 You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
 But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.</description>
-    </item>
-    
-    <item>
-      <title>Release of EWASM test net based on CyberMiles public blockchain</title>
-      <link>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</link>
-      <pubDate>Thu, 23 Apr 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200423-ewasm-testnet-en/</guid>
-      <description>A NEW public EWASM test net based on Second State&#39;s virtual machine technology and CyberMiles public blockchain software just launched. CYBERMILES becomes one of the world&#39;s first public blockchains to support Ethereum&#39;s next-generation virtual machine. Developers can deploy the new Ewasm smart contract by running the Ethereum&#39;s next-generation virtual machine on the new Ewasm test net of CyberMiles.
-WebAssembly allows near-native code performance without compromising security. In addition, the WebAssembly community is much more vibrant and larger.</description>
     </item>
     
   </channel>
