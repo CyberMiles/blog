@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯－NFT 市场面临的监管挑战</title>
+      <link>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</link>
+      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</guid>
+      <description>在之前的 CyberMilesNFT 的系列文章中，我们对 NFT 市场所面对的包括炒作、洗钱、非法融资、侵权和欺诈在内的的困境进行了详细的分析，并提前预告了之后会发布一篇 NFT 市</description>
+    </item>
     
     <item>
       <title>CyberMiles 的 NFT 平台－CyberWorld 2021年路线图</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-zh/</guid>
       <description>中环球船务(SINO.US) 将与 CyberMiles 联合发布基于 CyberMiles 公链 CRC-721 协议的 NFT 交易平台，使企业、机构和个人能够在 CyberMiles 公链上轻松地发行 NFT 及进行 NFT 交易。此举将降低</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 公链双周报(0911)</title>
-      <link>http://blog.cybermiles.io/post/20201030-biweekly-zh/</link>
-      <pubDate>Fri, 30 Oct 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20201030-biweekly-zh/</guid>
-      <description>大家好，为大家介绍 CyberMiles 公链在 2020.10.16 至 2020.10.30 期间的进展： CyberMiles 与 SimpleSwap 的万圣节活动 万圣节就要来了！来 SimpleSwap 寻找隐藏的 CMT 彩蛋吧！10月26日-10月31日，在 SimpleSwap 网站上</description>
     </item>
     
   </channel>

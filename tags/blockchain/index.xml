@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>CyberMilesNFT 简讯－NFT 市场面临的监管挑战</title>
+      <link>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</link>
+      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</guid>
+      <description>在之前的 CyberMilesNFT 的系列文章中，我们对 NFT 市场所面对的包括炒作、洗钱、非法融资、侵权和欺诈在内的的困境进行了详细的分析，并提前预告了之后会发布一篇 NFT 市</description>
+    </item>
+    
+    <item>
       <title>CyberMilesNFT Newsletter - Under the Boom of Digital Collectibles, What the Challenges NFT Faces?</title>
       <link>http://blog.cybermiles.io/post/20210806-nft-news7-en/</link>
       <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
@@ -195,15 +204,6 @@ Step 2 Open the Accounts tab and send a little CMTs to your default account.
       <guid>http://blog.cybermiles.io/post/20190210-blockchaindate-en/</guid>
       <description>Last year we provided an in-depth look into blockchain storage, also known as global state. In that article I compared the two vastly different types of data in an Ethereum-compatible blockchain: permanent data and ephemeral data.
 Today let’s explore the use of the permanent data, more specifically how we currently can turn raw event log data into rich information, suitable for DApps. Allow me also to detail some design characteristics of off-chain data storage projects and, in turn, point out the enormous opportunities that are on the horizon.</description>
-    </item>
-    
-    <item>
-      <title>Welcome Dr. Marc Fleury to CyberMiles!</title>
-      <link>http://blog.cybermiles.io/post/20180109-marc-en/</link>
-      <pubDate>Fri, 19 Jan 2018 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20180109-marc-en/</guid>
-      <description>Twenty years ago, the Open Source community was at a crossroad. The method of decentralized software production (aka Open Source collaboration), championed by a small number of ideology-driven developers, had produced very impressive results such as the Linux operating system, the Apache web server, the GCC compilers, and much more. Yet, the mainstream software powerhouses were still skeptical and even hostile to software decentralization (Microsoft called it a “cancer”, worse than scam).</description>
     </item>
     
   </channel>

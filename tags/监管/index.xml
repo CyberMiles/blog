@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>监管 on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/%E7%9B%91%E7%AE%A1/</link>
+    <description>Recent content in 监管 on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Aug 2021 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/%E7%9B%91%E7%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberMilesNFT 简讯－NFT 市场面临的监管挑战</title>
+      <link>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</link>
+      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</guid>
+      <description>在之前的 CyberMilesNFT 的系列文章中，我们对 NFT 市场所面对的包括炒作、洗钱、非法融资、侵权和欺诈在内的的困境进行了详细的分析，并提前预告了之后会发布一篇 NFT 市</description>
+    </item>
+    
+  </channel>
+</rss>
