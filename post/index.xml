@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>사이버 마일즈 NFT 플랫폼 사이버월드 로드맵 2021</title>
+      <link>http://blog.cybermiles.io/post/20210813-cyberworld-roadmap-ko/</link>
+      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210813-cyberworld-roadmap-ko/</guid>
+      <description>사이버마일즈 NFT 플랫폼 “사이버월드” 는 예정보다 빨리 지난 5월에 “Sino글로벌2021” 과 함께 공식 출범했습니다. 사이버월드 버전 0.5는 120,0</description>
+    </item>
     
     <item>
       <title>CyberMiles 的 NFT 平台－CyberWorld 2021年路线图</title>
@@ -191,15 +200,6 @@ Nikhil Sethi, vice predict of a blockchain startup said,&amp;rdquo; The global N
       <guid>http://blog.cybermiles.io/post/20210630-nft-news1-en/</guid>
       <description>Sales of digital collectibles have fallen in recent weeks, NFT sales is a slowdown Ryan Browne is a technology reporter for CNBC in London published an article about NFT sales. He said sales of digital collectibles known as non-fungible tokens have fallen dramatically in recent weeks (Browne, 2021).
 Earlier this year, NFT has swept the art world. The graphic designer Beeple sold an NFT for a record $69 million at a Christie’s auction.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT简讯-从艺术到体育，NFT跨界不断</title>
-      <link>http://blog.cybermiles.io/post/20210630-nft-news1-zh/</link>
-      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210630-nft-news1-zh/</guid>
-      <description>CyberMilesNFT 简讯-从艺术到体育，NFT跨界不断 数字收藏品的销售额下降，NFT 市场放缓 根据CNBC驻伦敦的科技记者 Ryan-Browne 的报道，最近几周，被称为不可互换代币</description>
     </item>
     
   </channel>
