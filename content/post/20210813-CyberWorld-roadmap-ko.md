@@ -1,6 +1,6 @@
 ---
 title: "사이버 마일즈 NFT 플랫폼 사이버월드 로드맵 2021"
-date: 2021-08-13T19:00:23+08:00
+date: 2021-08-13T10:01:23+08:00
 draft: false
 tags: ["roadmap","CyberWorld","2021"] 
 categories: ["ko"] 
