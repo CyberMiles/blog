@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - CyberWorld Supports BOA in Building Their NFT Marketplace</title>
+      <link>http://blog.cybermiles.io/post/20210818-nft-news9-en/</link>
+      <pubDate>Wed, 18 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210818-nft-news9-en/</guid>
+      <description>With the heat of NFT continues to rise, all industries are jumping on the NFT bandwagon. CyberWorld partnered with the Bank of Asia (BOA) in building their BOA’s NFT marketplace, BOAX, in July 2021. With the grand opening of the 2021 Olympic Games, BOA Financial Group officially launched the new premium NFT marketplace BOAX, which allows users to trade digital assets online. The first NFT artwork, “Olympic Happiness,” exclusive was released on the BOAX NFT Marketplace on 23 July 2021, which was created by Dr.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - NFT Market’s Regulatory Challenges</title>
@@ -201,17 +210,6 @@ The 20 million CMTs in the second quarter of 2020 is expected to be released on 
       <guid>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking-en/</guid>
       <description>OKEx Pool became one of CyberMiles’ validator and is currently ranking the third with 27238182 voting powers and declared a compensation rate of 30 percent.
 OKEx Pool is a world’s leading comprehensive mining pool built upon the world’s leading cryptocurrency exchange OKEx, offering a one-stop mining and trading experience for users, supporting the mining of PoW, PoS, and PoS-variant cryptocurrencies. It has become supernodes of multiple cryptocurrencies, including EOS and COSMOS.</description>
-    </item>
-    
-    <item>
-      <title>Issue your own CRC20 token on CyberMiles</title>
-      <link>http://blog.cybermiles.io/post/20190521-issue-token-en/</link>
-      <pubDate>Fri, 22 May 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20190521-issue-token-en/</guid>
-      <description>Last week, we introduced an artist who issued his own CRC20 tokens LCT to motivate his community. When the members published their own painting, then the member will receive the LCT token as a reward. The LCT token could be used to exchange the artist’s painting.
-You can easily issue your CRC20 token with CyberMiles App, if you have at least 1,000 CMT in your CMT address.
-But if you want to write some code and start from scratch, you can also use BUIDL for CMT to issue your own tokens.</description>
     </item>
     
   </channel>
