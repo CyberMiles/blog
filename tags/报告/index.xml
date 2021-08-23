@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>报告 on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/%E6%8A%A5%E5%91%8A/</link>
+    <description>Recent content in 报告 on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/%E6%8A%A5%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>市场调研(数据来源 Tokeninsight）</title>
+      <link>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</guid>
+      <description>背景： 首先感谢 Tokeninsight 对 NFT 市场第二季度以及7月的动态做了详细的行业报告，这份调研主要根据 Tokeninsight 的行业报告进行分析和总结。Token Insight 是 CyberMiles 的重要合作伙伴</description>
+    </item>
+    
+  </channel>
+</rss>

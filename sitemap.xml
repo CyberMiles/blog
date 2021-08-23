@@ -72,6 +72,27 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/categories/zh/</loc>
+    <lastmod>2021-08-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</loc>
+    <lastmod>2021-08-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2021-08-23T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/tags/boa/</loc>
     <lastmod>2021-08-18T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -101,13 +122,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/marketplace/</loc>
-    <lastmod>2021-08-18T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/zh/</loc>
     <lastmod>2021-08-18T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1710,14 +1724,14 @@
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://blog.cybermiles.io/categories/shortcodes/</loc>
+    <loc>http://blog.cybermiles.io/tags/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

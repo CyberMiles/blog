@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>市场调研(数据来源 Tokeninsight）</title>
+      <link>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</guid>
+      <description>背景： 首先感谢 Tokeninsight 对 NFT 市场第二季度以及7月的动态做了详细的行业报告，这份调研主要根据 Tokeninsight 的行业报告进行分析和总结。Token Insight 是 CyberMiles 的重要合作伙伴</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT 简讯－CyberWorld 支持合作伙伴 BOA 建立其首个 NFT 交易平台</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20210324-nft-01-zh/</guid>
       <description>在目前的 NFT 项目中，我们可以根据其主要的领域和价值逻辑将其分为 Art-NFT、FI-NFT、IP-NFT 和 Game-NFT。Beeple 的《E</description>
-    </item>
-    
-    <item>
-      <title>中环球船务(SINO.US)携手电商公链 CyberMiles(CMT) 赋能 NFT 市场</title>
-      <link>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-zh/</link>
-      <pubDate>Thu, 18 Mar 2021 10:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-zh/</guid>
-      <description>纳斯达克上市公司中环球船务(SINO.US)与电商公链 CyberMiles(CMT) 联合宣布，已基于 CyberMiles 公链的 NFT 平台完成了第一期的开发任务，预计将于7月份正式上线。 NFT 市场</description>
     </item>
     
   </channel>

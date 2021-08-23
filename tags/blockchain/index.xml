@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>市场调研(数据来源 Tokeninsight）</title>
+      <link>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210823-nft-new10-zh/</guid>
+      <description>背景： 首先感谢 Tokeninsight 对 NFT 市场第二季度以及7月的动态做了详细的行业报告，这份调研主要根据 Tokeninsight 的行业报告进行分析和总结。Token Insight 是 CyberMiles 的重要合作伙伴</description>
+    </item>
+    
+    <item>
       <title>CyberMilesNFT Newsletter - CyberWorld Supports BOA in Building Their NFT Marketplace</title>
       <link>http://blog.cybermiles.io/post/20210818-nft-news9-en/</link>
       <pubDate>Wed, 18 Aug 2021 10:01:23 +0800</pubDate>
@@ -188,19 +197,6 @@ OKEx Pool is a world’s leading comprehensive mining pool built upon the world�
       <description>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
 Create your own forum DApp according to the following steps.
 Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
-Step 2 Open the Accounts tab and send a little CMTs to your default account.
- If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
-    </item>
-    
-    <item>
-      <title>Create a Vote DApp via BUIDL for CMT</title>
-      <link>http://blog.cybermiles.io/post/20191220-vote-en/</link>
-      <pubDate>Fri, 20 Dec 2019 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20191220-vote-en/</guid>
-      <description>The example dapp is a web application where people can vote thumb up or thumb down on a statement. All the votes are recorded on the blockchain.
-Create your own vote DApp according to the following steps.
-Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
 Step 2 Open the Accounts tab and send a little CMTs to your default account.
  If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
     </item>
