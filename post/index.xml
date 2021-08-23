@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Market Research (Reference: Tokeninsight)</title>
+      <link>http://blog.cybermiles.io/post/20210823-nft-news10-en/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210823-nft-news10-en/</guid>
+      <description>Background： Thanks to Tokeninsight for its detailed report on the NFT market in Q2 and July. According to Tokeninsight 2021 Q2 &amp;amp; July NFT Industry Report, we make a conclusion with the report about the hottest projects, developments, and latest data on the NFT market. Token Insight is a great partner of CyberMiles and a supportive validator on the CM public blockchain. Welcome to stake with them. Here is the tutorial: How to stake with CyberMiles App to get Block Award.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - CyberWorld Supports BOA in Building Their NFT Marketplace</title>
@@ -188,16 +197,6 @@ To guide you on how to connect MetaMask to the CyberMiles public blockchain. Her
       
       <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-zh/</guid>
       <description>与去年上半年的1370万美元相比，今年 NFT 市场规模迅猛增长到 25 亿美元。就在前几天，“互联网之父” Tim Berners-Lee 的万维网源代码 NFT 以540万美元的价格卖出。</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles NFT Newsletter - CyberWorld NFT Platform Upgrade</title>
-      <link>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</link>
-      <pubDate>Fri, 02 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</guid>
-      <description>As CyberMilers must have noticed, there have been warm-up and publicity on social media for CyberWorld updates and upgrades over the next few months, which began last week.
-The engineers and marketing operators of CyberMiles have been delivering the CyberWorld NFT platform with tremendous efficiency and did a successful spread in the last few months. To improve the users’ experience, CyberMiles is currently upgrading the platform in terms of technology and content, bringing a new CyberWorld to everyone who always supported CyberMiles.</description>
     </item>
     
   </channel>

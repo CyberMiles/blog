@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Wed, 18 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>http://blog.cybermiles.io/tags/report/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tokeninsight</title>
+      <link>http://blog.cybermiles.io/tags/tokeninsight/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/tokeninsight/</guid>
       <description></description>
     </item>
     
@@ -44,15 +71,6 @@
       <pubDate>Wed, 18 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/marketplace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Wed, 18 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
@@ -170,24 +188,6 @@
       <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/artists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OpenSea</title>
-      <link>http://blog.cybermiles.io/tags/opensea/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/opensea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>洗钱</title>
-      <link>http://blog.cybermiles.io/tags/%E6%B4%97%E9%92%B1/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/%E6%B4%97%E9%92%B1/</guid>
       <description></description>
     </item>
     

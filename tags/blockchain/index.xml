@@ -6,10 +6,19 @@
     <description>Recent content in Blockchain on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Market Research (Reference: Tokeninsight)</title>
+      <link>http://blog.cybermiles.io/post/20210823-nft-news10-en/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210823-nft-news10-en/</guid>
+      <description>Background： Thanks to Tokeninsight for its detailed report on the NFT market in Q2 and July. According to Tokeninsight 2021 Q2 &amp;amp; July NFT Industry Report, we make a conclusion with the report about the hottest projects, developments, and latest data on the NFT market. Token Insight is a great partner of CyberMiles and a supportive validator on the CM public blockchain. Welcome to stake with them. Here is the tutorial: How to stake with CyberMiles App to get Block Award.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - CyberWorld Supports BOA in Building Their NFT Marketplace</title>
@@ -194,15 +203,6 @@ Create your own vote DApp according to the following steps.
 Step 1 Open the BUIDL IDE tool in any browser. http://buidl.secondstate.io/cmt
 Step 2 Open the Accounts tab and send a little CMTs to your default account.
  If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles 主链成功升级，支持CMT Wallet 参与权益投票的接口</title>
-      <link>http://blog.cybermiles.io/post/20190523-mainnet-upgrade-zh/</link>
-      <pubDate>Thu, 23 May 2019 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20190523-mainnet-upgrade-zh/</guid>
-      <description>经过全体超级节点（验证人）的链上治理投票，CyberMiles公链于2019年5月23日成功地进行了无分叉的软件升级。本次升级至v0.1.8</description>
     </item>
     
   </channel>

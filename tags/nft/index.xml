@@ -6,10 +6,19 @@
     <description>Recent content in NFT on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/nft/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Market Research (Reference: Tokeninsight)</title>
+      <link>http://blog.cybermiles.io/post/20210823-nft-news10-en/</link>
+      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210823-nft-news10-en/</guid>
+      <description>Background： Thanks to Tokeninsight for its detailed report on the NFT market in Q2 and July. According to Tokeninsight 2021 Q2 &amp;amp; July NFT Industry Report, we make a conclusion with the report about the hottest projects, developments, and latest data on the NFT market. Token Insight is a great partner of CyberMiles and a supportive validator on the CM public blockchain. Welcome to stake with them. Here is the tutorial: How to stake with CyberMiles App to get Block Award.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - CyberWorld Supports BOA in Building Their NFT Marketplace</title>
@@ -187,15 +196,6 @@ The engineers and marketing operators of CyberMiles have been delivering the Cyb
       <guid>http://blog.cybermiles.io/post/20210701-nft-news-en/</guid>
       <description>CyberMilesNFT Newsletter - NFT&#39;s &amp;lsquo;Blue Ocean&amp;rsquo;, the Global Market Capitalization of NFT is Near $18 Billion According to the report by CionGecko, the global market capitalization of NFT is near $18 billion, trades $1.2 billion a single day. The number of transactions is over 710,000 pieces. The number of users and trades is also rising.
 Nikhil Sethi, vice predict of a blockchain startup said,&amp;rdquo; The global NFT market has exploded in 2021, with over $700 million entering the space.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT简讯-全球NFT的市值近180亿美元，NFT的数字蓝海</title>
-      <link>http://blog.cybermiles.io/post/20210701-nft-news2-zh/</link>
-      <pubDate>Thu, 01 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210701-nft-news2-zh/</guid>
-      <description>CyberMilesNFT简讯-全球NFT的市值近180亿美元，NFT的数字蓝海 根据 CionGecko 资料显示，现今全球 NFT 总市值接近180亿美元，日交易额可</description>
     </item>
     
   </channel>
