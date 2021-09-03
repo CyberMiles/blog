@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/post/20210903-nft-new11-zh/</loc>
+    <lastmod>2021-09-03T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/categories/en/</loc>
     <lastmod>2021-09-03T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -65,6 +72,20 @@
   </url>
   
   <url>
+    <loc>http://blog.cybermiles.io/categories/zh/</loc>
+    <lastmod>2021-09-03T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cybermiles.io/tags/%E8%89%BA%E6%9C%AF%E5%AE%B6/</loc>
+    <lastmod>2021-09-03T10:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.cybermiles.io/post/20210823-nft-news10-en/</loc>
     <lastmod>2021-08-23T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,13 +101,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/tokeninsight/</loc>
-    <lastmod>2021-08-23T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/categories/zh/</loc>
     <lastmod>2021-08-23T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -311,13 +325,6 @@
   
   <url>
     <loc>http://blog.cybermiles.io/tags/%E7%82%92%E4%BD%9C/</loc>
-    <lastmod>2021-08-02T10:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.cybermiles.io/tags/%E8%89%BA%E6%9C%AF%E5%AE%B6/</loc>
     <lastmod>2021-08-02T10:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

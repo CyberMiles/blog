@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯- CyberWorld 招募内容创作者入驻，生成 NFT</title>
+      <link>http://blog.cybermiles.io/post/20210903-nft-new11-zh/</link>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210903-nft-new11-zh/</guid>
+      <description>背景： 关于 CyberWorld： CyberWorld 是由 CyberMiles 与 Sino-Global Shipping America, Ltd.(NASDAQ: SINO）共同构建并联合运营的区块链 NFT 平台。由开源软件开发者和验证节点组成的分布式团队和 CyberMiles</description>
+    </item>
     
     <item>
       <title>市场调研（数据来源：TokenInsight）</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20210331-nft-02-zh/</guid>
       <description>Beeple，一位你可能从未听说过的数字艺术家，他的作品《Everydays - The First 5000 Day》在佳士得拍卖行以6900万美元成交，不仅创造了数</description>
-    </item>
-    
-    <item>
-      <title>6935 万美元拍出！如何发现下一个《Everydays: The First 5000 Days》| NFT 科考笔记</title>
-      <link>http://blog.cybermiles.io/post/20210324-nft-01-zh/</link>
-      <pubDate>Wed, 24 Mar 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210324-nft-01-zh/</guid>
-      <description>在目前的 NFT 项目中，我们可以根据其主要的领域和价值逻辑将其分为 Art-NFT、FI-NFT、IP-NFT 和 Game-NFT。Beeple 的《E</description>
     </item>
     
   </channel>
