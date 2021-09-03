@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
+      <link>http://blog.cybermiles.io/post/20210903-nft-news11-en/</link>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210903-nft-news11-en/</guid>
+      <description>Background About CyberWorld and the Team: CyberWorld is a blockchain NFT marketplace jointly built by CyberMiles and Sino-Global Shipping America, Ltd.(NASDAQ: SINO). It is is developed and maintained by a decentralized team of open-source software developers with the CyberMiles Foundation.
+CyberMiles is pivoting to NFT as its core ecosystem development focus and forging ahead, aiming to bridge the blockchain and real world. After several years in stealth mode, CyberMiles’ leading NFT marketplace and products to solve the current pain points in the NFT field based on a strong high-performance public blockchain and collaborative engineering team will become a self-driven growth protocol that is constantly optimized and iterated to pioneer the development of NFT and blockchain.</description>
+    </item>
     
     <item>
       <title>Market Research (Reference: TokenInsight)</title>
@@ -198,17 +208,6 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       <guid>http://blog.cybermiles.io/post/20200618-eth-2-en/</guid>
       <description>On 18th June, CyberMiles chief scientist was invited to attend the Show hosted by Jinse Media and participated in the discussion on &amp;ldquo;All possibilities in the age of Ethereum 2.0&amp;rdquo;, together with the following 3 guests.
  SECBIT Laboratory, Guo Yu PlatOn， Dr. Xia Loopring Protocol, Wang Dong  Hello, I&#39;m Michael Yuan. I&#39;m the CEO of Second State and one of the co-founder of the public blockchain CyberMiles. Our team is the developers for Ethereum&#39;s next-generation virtual machine, Ewasm.</description>
-    </item>
-    
-    <item>
-      <title>CMT 2020 Second Quarter Release Announcement</title>
-      <link>http://blog.cybermiles.io/post/20200529-cmt-release-en/</link>
-      <pubDate>Fri, 29 May 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200529-cmt-release-en/</guid>
-      <description>Dear CMT holders!
-According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, like 5miles.
-The 20 million CMTs in the second quarter of 2020 is expected to be released on June 17th. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
     </item>
     
   </channel>

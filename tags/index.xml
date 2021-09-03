@@ -6,15 +6,24 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>blockchain</title>
+      <title>artists</title>
+      <link>http://blog.cybermiles.io/tags/artists/</link>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>NFT</title>
       <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Mon, 23 Aug 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
@@ -179,15 +188,6 @@
       <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/infringement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Money laundering</title>
-      <link>http://blog.cybermiles.io/tags/money-laundering/</link>
-      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/money-laundering/</guid>
       <description></description>
     </item>
     

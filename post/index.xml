@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
+      <link>http://blog.cybermiles.io/post/20210903-nft-news11-en/</link>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210903-nft-news11-en/</guid>
+      <description>Background About CyberWorld and the Team: CyberWorld is a blockchain NFT marketplace jointly built by CyberMiles and Sino-Global Shipping America, Ltd.(NASDAQ: SINO). It is is developed and maintained by a decentralized team of open-source software developers with the CyberMiles Foundation.
+CyberMiles is pivoting to NFT as its core ecosystem development focus and forging ahead, aiming to bridge the blockchain and real world. After several years in stealth mode, CyberMiles’ leading NFT marketplace and products to solve the current pain points in the NFT field based on a strong high-performance public blockchain and collaborative engineering team will become a self-driven growth protocol that is constantly optimized and iterated to pioneer the development of NFT and blockchain.</description>
+    </item>
     
     <item>
       <title>Market Research (Reference: TokenInsight)</title>
@@ -188,15 +198,6 @@ To guide you on how to connect MetaMask to the CyberMiles public blockchain. Her
       
       <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</guid>
       <description>Hi, CyberMiles 的粉丝们！ CyberMiles 带了一个好消息！CyberMiles 的工程师们已经升级了 RPC 节点！现在能够使用 MetaMask 连接到 CyberMiles 的公链啦！转账、部署合约等功能已经兼容</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter - Instagram and Twitter Dab Hand with NFT  </title>
-      <link>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</link>
-      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</guid>
-      <description>Compared to $13.7 million in the first half of 2020, the NFT market surges to $2.5 billion by now this year. Several days before, Tim Berners-Lee, &amp;ldquo;Father of the World Wide Web&amp;rdquo;, sold the original web source code as an NFT for $5.4 million. The popularity of NFT as a medium for selling digital collectibles has been growing. The boom in the NFT market attracted a wave of social media platforms to jump on the bandwagon.</description>
     </item>
     
   </channel>

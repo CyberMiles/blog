@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blockchain on CyberMiles News and Articles</title>
+    <title>Blockchain on CyberMiles News and Articles</title>
     <link>http://blog.cybermiles.io/tags/blockchain/</link>
-    <description>Recent content in blockchain on CyberMiles News and Articles</description>
+    <description>Recent content in Blockchain on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
+      <link>http://blog.cybermiles.io/post/20210903-nft-news11-en/</link>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210903-nft-news11-en/</guid>
+      <description>Background About CyberWorld and the Team: CyberWorld is a blockchain NFT marketplace jointly built by CyberMiles and Sino-Global Shipping America, Ltd.(NASDAQ: SINO). It is is developed and maintained by a decentralized team of open-source software developers with the CyberMiles Foundation.
+CyberMiles is pivoting to NFT as its core ecosystem development focus and forging ahead, aiming to bridge the blockchain and real world. After several years in stealth mode, CyberMiles’ leading NFT marketplace and products to solve the current pain points in the NFT field based on a strong high-performance public blockchain and collaborative engineering team will become a self-driven growth protocol that is constantly optimized and iterated to pioneer the development of NFT and blockchain.</description>
+    </item>
     
     <item>
       <title>Market Research (Reference: TokenInsight)</title>
@@ -186,19 +196,6 @@ OKEx Pool is a world’s leading comprehensive mining pool built upon the world�
       
       <guid>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking/</guid>
       <description>OKEx 矿池当选 CyberMiles 超级节点，目前以总投票权27238182，排名第三，报酬比率为30%。 OKEx 矿池是全球领先的综合性矿池，依托数字资产交易平台OKEx</description>
-    </item>
-    
-    <item>
-      <title>How to build a forum on blockchain via BUIDL for CMT</title>
-      <link>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</link>
-      <pubDate>Fri, 27 Mar 2020 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200327-buidl-tutorial/</guid>
-      <description>The example dapp is a web application where people can publish their comments on a simple forum. All the comments are recorded on the blockchain.
-Create your own forum DApp according to the following steps.
-Step 1 Open the BUIDL IDE tool for CMT in any browser. http://buidl.secondstate.io/cmt
-Step 2 Open the Accounts tab and send a little CMTs to your default account.
- If you have CyberMiles&amp;rsquo; Venus wallet, you could opt to use Venus in the Providers tab.</description>
     </item>
     
   </channel>
