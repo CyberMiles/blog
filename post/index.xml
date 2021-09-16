@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯－CyberWorld 如何赋能 Patreon 和其它平台的内容创作者？</title>
+      <link>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</link>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</guid>
+      <description>Patreon 不止是一个众筹平台 Patreon 艺术家平台是由 Jack Conte 和 Sam Yam 于2013年创立的。不同的内容创作者，如画家、音乐创作者、文章作者，甚至程序员，可以在 Patreon 上向粉</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
@@ -186,18 +195,6 @@ Named “ This Changes Everything”, the NFT consists of four parts. Work inclu
       
       <guid>http://blog.cybermiles.io/post/20210715-nft-news4-zh/</guid>
       <description>6月 NFT 市场的出圈事件：“互联网之父” Tim Berners-Lee 的万维网源代码 NFT 6月15日完成铸造，6月30日在苏富比拍卖行成功拍出。为期一周，竞价从 1000 美元起拍，最</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
-      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</link>
-      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-en/</guid>
-      <description>Hi, CyberMiles fans!🍓
-Great update! CyberMiles engineers have upgraded the RPC node! Now you can use MetaMask to connect to CyberMiles public blockchain! You can transfer CMT, deploy smart contract on MetaMask, and other features are compatible!
-To guide you on how to connect MetaMask to the CyberMiles public blockchain. Here is a detailed tutorial for you.
- Log in your MetaMask account first.  Click the &amp;ldquo;Networks&amp;rdquo; option.  Click&amp;rsquo; Custom RPC&amp;rsquo; to enter the node setting interface.</description>
     </item>
     
   </channel>

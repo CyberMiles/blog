@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯－CyberWorld 如何赋能 Patreon 和其它平台的内容创作者？</title>
+      <link>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</link>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</guid>
+      <description>Patreon 不止是一个众筹平台 Patreon 艺术家平台是由 Jack Conte 和 Sam Yam 于2013年创立的。不同的内容创作者，如画家、音乐创作者、文章作者，甚至程序员，可以在 Patreon 上向粉</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT 简讯- CyberWorld 招募内容创作者入驻，生成 NFT</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20210407-nft-03-zh/</guid>
       <description>你可能听说过来自艺术家 Beeple 所创作的 NFT 艺术品《Everydays: The First 5000 Days》；或者是吸引了数十万人参与，交易额日均千万美元的 Game NFT NBAto</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles NFT 科考笔记-我应该去了解NFT吗？3个必知事项</title>
-      <link>http://blog.cybermiles.io/post/20210331-nft-02-zh/</link>
-      <pubDate>Wed, 31 Mar 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210331-nft-02-zh/</guid>
-      <description>Beeple，一位你可能从未听说过的数字艺术家，他的作品《Everydays - The First 5000 Day》在佳士得拍卖行以6900万美元成交，不仅创造了数</description>
     </item>
     
   </channel>

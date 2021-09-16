@@ -6,24 +6,15 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>artists</title>
-      <link>http://blog.cybermiles.io/tags/artists/</link>
-      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/artists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
       <description></description>
@@ -32,18 +23,36 @@
     <item>
       <title>NFT</title>
       <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Patreon</title>
+      <link>http://blog.cybermiles.io/tags/patreon/</link>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/patreon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>艺术家</title>
       <link>http://blog.cybermiles.io/tags/%E8%89%BA%E6%9C%AF%E5%AE%B6/</link>
-      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/%E8%89%BA%E6%9C%AF%E5%AE%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artists</title>
+      <link>http://blog.cybermiles.io/tags/artists/</link>
+      <pubDate>Fri, 03 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/artists/</guid>
       <description></description>
     </item>
     
@@ -179,15 +188,6 @@
       <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/fraud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hype</title>
-      <link>http://blog.cybermiles.io/tags/hype/</link>
-      <pubDate>Fri, 06 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/hype/</guid>
       <description></description>
     </item>
     

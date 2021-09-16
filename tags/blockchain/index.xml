@@ -6,10 +6,19 @@
     <description>Recent content in Blockchain on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯－CyberWorld 如何赋能 Patreon 和其它平台的内容创作者？</title>
+      <link>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</link>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</guid>
+      <description>Patreon 不止是一个众筹平台 Patreon 艺术家平台是由 Jack Conte 和 Sam Yam 于2013年创立的。不同的内容创作者，如画家、音乐创作者、文章作者，甚至程序员，可以在 Patreon 上向粉</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
@@ -186,16 +195,6 @@ To guide you on how to connect MetaMask to the CyberMiles public blockchain. Her
       
       <guid>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-zh/</guid>
       <description>中环球船务(SINO.US) 将与 CyberMiles 联合发布基于 CyberMiles 公链 CRC-721 协议的 NFT 交易平台，使企业、机构和个人能够在 CyberMiles 公链上轻松地发行 NFT 及进行 NFT 交易。此举将降低</description>
-    </item>
-    
-    <item>
-      <title>OKEx Pool as CyberMiles&#39; Validator: Stake and win a Cube</title>
-      <link>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking-en/</link>
-      <pubDate>Thu, 28 May 2020 15:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/2020-05-28-okex-pool-staking-en/</guid>
-      <description>OKEx Pool became one of CyberMiles’ validator and is currently ranking the third with 27238182 voting powers and declared a compensation rate of 30 percent.
-OKEx Pool is a world’s leading comprehensive mining pool built upon the world’s leading cryptocurrency exchange OKEx, offering a one-stop mining and trading experience for users, supporting the mining of PoW, PoS, and PoS-variant cryptocurrencies. It has become supernodes of multiple cryptocurrencies, including EOS and COSMOS.</description>
     </item>
     
   </channel>

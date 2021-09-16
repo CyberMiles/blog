@@ -6,10 +6,19 @@
     <description>Recent content in NFT on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/nft/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT 简讯－CyberWorld 如何赋能 Patreon 和其它平台的内容创作者？</title>
+      <link>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</link>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210916-nft-news12-zh/</guid>
+      <description>Patreon 不止是一个众筹平台 Patreon 艺术家平台是由 Jack Conte 和 Sam Yam 于2013年创立的。不同的内容创作者，如画家、音乐创作者、文章作者，甚至程序员，可以在 Patreon 上向粉</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
@@ -186,15 +195,6 @@ To guide you on how to connect MetaMask to the CyberMiles public blockchain. Her
       
       <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-en/</guid>
       <description>Compared to $13.7 million in the first half of 2020, the NFT market surges to $2.5 billion by now this year. Several days before, Tim Berners-Lee, &amp;ldquo;Father of the World Wide Web&amp;rdquo;, sold the original web source code as an NFT for $5.4 million. The popularity of NFT as a medium for selling digital collectibles has been growing. The boom in the NFT market attracted a wave of social media platforms to jump on the bandwagon.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT 简讯-社交媒体 Instagram、Twitter 进军 NFT 市场</title>
-      <link>http://blog.cybermiles.io/post/20210708-cybermiles-news3-zh/</link>
-      <pubDate>Thu, 08 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210708-cybermiles-news3-zh/</guid>
-      <description>与去年上半年的1370万美元相比，今年 NFT 市场规模迅猛增长到 25 亿美元。就在前几天，“互联网之父” Tim Berners-Lee 的万维网源代码 NFT 以540万美元的价格卖出。</description>
     </item>
     
   </channel>
