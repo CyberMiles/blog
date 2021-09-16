@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter- How CyberWorld Empowers Content Creators on Patreon and more? </title>
+      <link>http://blog.cybermiles.io/post/20210916-nft-news12-en/</link>
+      <pubDate>Thu, 16 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210916-nft-news12-en/</guid>
+      <description>Patreon is more than a crowdfunding platform Patreon was founded by Jack Conte and Sam Yam in 2013. Creators can sell their content or works directly to their fans on Patreon. In addition, subscribers can donate a certain amount of money to the creators and artists they support to help them grow.
+Patreon is a membership-based platform that allows creators to monetize on their creations. The starting point is to provide ongoing funding for creators and artists: they can &amp;ldquo;ask&amp;rdquo; fans for money if their works are uploaded.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Calling for Creators to Make NFTs on CyberWorld </title>
@@ -198,16 +208,6 @@ According to the research team at CyberMiles, many problems are identified with 
       <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-en/</guid>
       <description>The graduation certificate of Tianjin University will be permanently recorded on the CyberMiles blockchain, which can be stored permanently and cannot be tampered with! How is this achieved?
 The entire Dapp design is divided into two parts: * The smart contract records key information to ensure that the information cannot be corrected. This part is equivalent to the replacement of traditional applications; * The front-end display page is implemented using HTML, JavaScript, and CSS, 100% copying the real world certificate.</description>
-    </item>
-    
-    <item>
-      <title>All Possiblities at the Age of ETH 2.0</title>
-      <link>http://blog.cybermiles.io/post/20200618-eth-2-en/</link>
-      <pubDate>Thu, 18 Jun 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200618-eth-2-en/</guid>
-      <description>On 18th June, CyberMiles chief scientist was invited to attend the Show hosted by Jinse Media and participated in the discussion on &amp;ldquo;All possibilities in the age of Ethereum 2.0&amp;rdquo;, together with the following 3 guests.
- SECBIT Laboratory, Guo Yu PlatOn， Dr. Xia Loopring Protocol, Wang Dong  Hello, I&#39;m Michael Yuan. I&#39;m the CEO of Second State and one of the co-founder of the public blockchain CyberMiles. Our team is the developers for Ethereum&#39;s next-generation virtual machine, Ewasm.</description>
     </item>
     
   </channel>
