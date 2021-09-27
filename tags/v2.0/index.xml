@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V2.0 on CyberMiles News and Articles</title>
+    <link>http://blog.cybermiles.io/tags/v2.0/</link>
+    <description>Recent content in V2.0 on CyberMiles News and Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Sep 2021 10:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.cybermiles.io/tags/v2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - CyberWorld NFT Marketplace V2.0 to be Launched</title>
+      <link>http://blog.cybermiles.io/post/20210927-nft-news13-en/</link>
+      <pubDate>Mon, 27 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210927-nft-news13-en/</guid>
+      <description>Finally! CyberWorld V2.0 will be launched in a few days. The CyberWorld engineering and product team has updated the operation staff on this great news, so we are here to announce it to CyberWorld supporters with all the excitement.
+First of all, we’d like to thank all supporters for your patience waiting for such a long time after the launch of V1.0 several months ago. CyberWorld NFT marketplace will be worth the wait.</description>
+    </item>
+    
+  </channel>
+</rss>

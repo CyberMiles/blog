@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - CyberWorld NFT Marketplace V2.0 to be Launched</title>
+      <link>http://blog.cybermiles.io/post/20210927-nft-news13-en/</link>
+      <pubDate>Mon, 27 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210927-nft-news13-en/</guid>
+      <description>Finally! CyberWorld V2.0 will be launched in a few days. The CyberWorld engineering and product team has updated the operation staff on this great news, so we are here to announce it to CyberWorld supporters with all the excitement.
+First of all, we’d like to thank all supporters for your patience waiting for such a long time after the launch of V1.0 several months ago. CyberWorld NFT marketplace will be worth the wait.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter- How CyberWorld Empowers Content Creators on Patreon and more? </title>
@@ -198,16 +208,6 @@ According to the research team at CyberMiles, many problems are identified with 
       <guid>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-en/</guid>
       <description>Sino Global Shipping America, a Nasdaq traded company, will work with CyberMiles, an e-commerce public blockchain, to jointly launch a blockchain non-fungible token (NFT) CRC-721 protocol and trading platform, which will allow enterprises, institutions, and individuals to conveniently issue NFTs on the CyberMiles public blockchain and also trade NFTs easily.
 [A non-fungible token (NFT)] (https://en.wikipedia.org/wiki/Non-fungible_token) is a special type of [cryptographic token] (https://en.wikipedia.org/wiki/Cryptocurrency) issued on blockchain which represents something unique and one of a kind; Non-fungible tokens are not mutually interchangeable, thus has the perfect use cases for art pieces and anything that are collectibles.</description>
-    </item>
-    
-    <item>
-      <title>Tutorial: How to record your graduate certificate on CyberMiles public blockchain</title>
-      <link>http://blog.cybermiles.io/post/tutorial-tianjin-student-en/</link>
-      <pubDate>Thu, 10 Sep 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/tutorial-tianjin-student-en/</guid>
-      <description>The graduation certificate of Tianjin University will be permanently recorded on the CyberMiles blockchain, which can be stored permanently and cannot be tampered with! How is this achieved?
-The entire Dapp design is divided into two parts: * The smart contract records key information to ensure that the information cannot be corrected. This part is equivalent to the replacement of traditional applications; * The front-end display page is implemented using HTML, JavaScript, and CSS, 100% copying the real world certificate.</description>
     </item>
     
   </channel>

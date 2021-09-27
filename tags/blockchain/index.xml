@@ -6,10 +6,20 @@
     <description>Recent content in Blockchain on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - CyberWorld NFT Marketplace V2.0 to be Launched</title>
+      <link>http://blog.cybermiles.io/post/20210927-nft-news13-en/</link>
+      <pubDate>Mon, 27 Sep 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20210927-nft-news13-en/</guid>
+      <description>Finally! CyberWorld V2.0 will be launched in a few days. The CyberWorld engineering and product team has updated the operation staff on this great news, so we are here to announce it to CyberWorld supporters with all the excitement.
+First of all, we’d like to thank all supporters for your patience waiting for such a long time after the launch of V1.0 several months ago. CyberWorld NFT marketplace will be worth the wait.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter- How CyberWorld Empowers Content Creators on Patreon and more? </title>
@@ -187,15 +197,6 @@ Named “ This Changes Everything”, the NFT consists of four parts. Work inclu
 Great update! CyberMiles engineers have upgraded the RPC node! Now you can use MetaMask to connect to CyberMiles public blockchain! You can transfer CMT, deploy smart contract on MetaMask, and other features are compatible!
 To guide you on how to connect MetaMask to the CyberMiles public blockchain. Here is a detailed tutorial for you.
  Log in your MetaMask account first.  Click the &amp;ldquo;Networks&amp;rdquo; option.  Click&amp;rsquo; Custom RPC&amp;rsquo; to enter the node setting interface.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT 简讯 - 简单配置，用 MetaMask 连接到 CyberMiles 主链</title>
-      <link>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</link>
-      <pubDate>Fri, 09 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210709-tutorial-metamask-zh/</guid>
-      <description>Hi, CyberMiles 的粉丝们！ CyberMiles 带了一个好消息！CyberMiles 的工程师们已经升级了 RPC 节点！现在能够使用 MetaMask 连接到 CyberMiles 的公链啦！转账、部署合约等功能已经兼容</description>
     </item>
     
   </channel>
