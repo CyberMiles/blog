@@ -27,4 +27,4 @@ Enter your original Keystore and password, and you can import your wallet easily
 
 Here is a guideline instructing you how to import your ERC-20 CMTs.
 
-![](/images/20190627-import-erc-20-cmts-02.jpeg)
+![](/images/20190627-import-erc-20-cmts-02.jpg)
