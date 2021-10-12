@@ -47,6 +47,22 @@ Congratulations🎉! You have successfully connect MetaMask to CyberMiles blockc
 
 ![](/images/20210709-tutorial-08.png)
 
+In addition, CyberWrold V2.0 has launched a stable currency called “Diamond (DO)”. Users can add DO Token to your MetaMask account for future NFT transactions in CyberWorld.
+
+How do you configure DO on your MetaMask? The following tutorial is simple and easy to understand:
+
+1. Open your MetaMask account, Select **Add Token** from Assets
+
+![](/images/20200709.DO.tutorial.01.png)
+
+2. Input DO’s **Token Contract Address: 0xae8ee565c21557b9354c856181cd9a0093d6530a**
+
+![](/images/20200709.DO.tutorial.02.png)
+
+3. If you have successfully configured DO coins, your MetaMask account will display the DO balance.
+
+![](/images/20200709.DO.tutorial.03.png)
+
 Hope this tutorial will be helpful to CyberMiles users. Any questions or suggestions, please feel free to contact us.
 
 Official blog: https://blog.cybermiles.io/categories/en/
