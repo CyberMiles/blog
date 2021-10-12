@@ -53,15 +53,15 @@ How do you configure DO on your MetaMask? The following tutorial is simple and e
 
 1. Open your MetaMask account, Select **Add Token** from Assets
 
-![](/images/20200709.DO.tutorial.01.png)
+![](/images/20201012.DO.tutorial.01.png)
 
 2. Input DO’s **Token Contract Address: 0xae8ee565c21557b9354c856181cd9a0093d6530a**
 
-![](/images/20200709.DO.tutorial.02.png)
+![](/images/20201012.DO.tutorial.02.png)
 
 3. If you have successfully configured DO coins, your MetaMask account will display the DO balance.
 
-![](/images/20200709.DO.tutorial.03.png)
+![](/images/20201012.DO.tutorial.03.png)
 
 Hope this tutorial will be helpful to CyberMiles users. Any questions or suggestions, please feel free to contact us.
 
