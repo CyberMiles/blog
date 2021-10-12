@@ -54,15 +54,15 @@ Chain ID：18
 
 1. 打开您的 MetaMask，在 Assets 内选择 **Add Token**
 
-![](/images/20200709.DO.tutorial.01.png)
+![](/images/20201012.DO.tutorial.01.png)
 
 2. 在 **Token Contract Address** 内输入 DO 的地址：**0xae8ee565c21557b9354c856181cd9a0093d6530a**
 
-![](/images/20200709.DO.tutorial.02.png)
+![](/images/20201012.DO.tutorial.02.png)
 
 3. 如果您成功配置了 DO 币，您的 MetaMask 的账户将显示账户内的 DO 的余额
 
-![](/images/20200709.DO.tutorial.03.png)
+![](/images/20201012.DO.tutorial.03.png)
 
 希望以上教程能够帮助到 CyberMiles 的用户们。如果有任何疑问或者建议，欢迎联系我们。
 
