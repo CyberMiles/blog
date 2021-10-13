@@ -6,10 +6,20 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles App User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</guid>
+      <description>CyberMiles Foundation recommends that users withdraw their tokens from the exchanges to their own decentralized cryptocurrency wallets, and keep them safe.
+Cryptocurrency asset is stored with a public address coupled with a private key. Whoever gets the private key will be the owner. If users keep the private key themselves, there might be the risk of forgetting or losing the private key. With CyberMiles app you can store your CMT securely and only need to remember a password you set.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - CyberWorld NFT Marketplace V2.0 to be Launched</title>
@@ -198,16 +208,6 @@ According to the research team at CyberMiles, many problems are identified with 
       
       <guid>http://blog.cybermiles.io/post/20210318-nft-exchange-sino-en/</guid>
       <description>March 18, 2021 – Sino-Global Shipping America, Ltd. (NASDAQ: SINO) collaborates with the public blockchain CyberMiles to launch a new exchange for NFTs (non-fungible tokens). The new NFT exchange will serve as a highly-secure, robust platform for collectors, artists, musicians and investors to create, sell and buy one of a kind, digital content represented as NFTs. The companies expect to officially launch their new NFT platform in July 2021, providing a critical link between the virtual blockchain world and the physical world.</description>
-    </item>
-    
-    <item>
-      <title>Sino Global Shipping Partners up with CyberMiles Blockchain to Go Full Power into the Skyrocketing NFT Business</title>
-      <link>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-en/</link>
-      <pubDate>Tue, 23 Feb 2021 10:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210223-nft-sino-global-shipping-partner-en/</guid>
-      <description>Sino Global Shipping America, a Nasdaq traded company, will work with CyberMiles, an e-commerce public blockchain, to jointly launch a blockchain non-fungible token (NFT) CRC-721 protocol and trading platform, which will allow enterprises, institutions, and individuals to conveniently issue NFTs on the CyberMiles public blockchain and also trade NFTs easily.
-[A non-fungible token (NFT)] (https://en.wikipedia.org/wiki/Non-fungible_token) is a special type of [cryptographic token] (https://en.wikipedia.org/wiki/Cryptocurrency) issued on blockchain which represents something unique and one of a kind; Non-fungible tokens are not mutually interchangeable, thus has the perfect use cases for art pieces and anything that are collectibles.</description>
     </item>
     
   </channel>

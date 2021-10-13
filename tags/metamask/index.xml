@@ -6,10 +6,20 @@
     <description>Recent content in Metamask on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/metamask/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles App User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</guid>
+      <description>CyberMiles Foundation recommends that users withdraw their tokens from the exchanges to their own decentralized cryptocurrency wallets, and keep them safe.
+Cryptocurrency asset is stored with a public address coupled with a private key. Whoever gets the private key will be the owner. If users keep the private key themselves, there might be the risk of forgetting or losing the private key. With CyberMiles app you can store your CMT securely and only need to remember a password you set.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>

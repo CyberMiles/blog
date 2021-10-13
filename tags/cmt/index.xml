@@ -6,10 +6,20 @@
     <description>Recent content in CMT on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jul 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cmt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles App User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</guid>
+      <description>CyberMiles Foundation recommends that users withdraw their tokens from the exchanges to their own decentralized cryptocurrency wallets, and keep them safe.
+Cryptocurrency asset is stored with a public address coupled with a private key. Whoever gets the private key will be the owner. If users keep the private key themselves, there might be the risk of forgetting or losing the private key. With CyberMiles app you can store your CMT securely and only need to remember a password you set.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain</title>
@@ -190,16 +200,6 @@ The 20 million CMTs in the second quarter of 2020 is expected to be released on 
       
       <guid>http://blog.cybermiles.io/post/20200529-cmt-release-zh/</guid>
       <description>各位CMT持有者，大家好！ 按照白皮书的规划，CyberMiles基金会地址0x1a14Ec3003C943a0624C7c513D50255</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles Roadmap 2020</title>
-      <link>http://blog.cybermiles.io/post/20200330-roadmap-en/</link>
-      <pubDate>Mon, 30 Mar 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200330-roadmap-en/</guid>
-      <description>In 2020, CyberMiles&amp;rsquo; work will focus on e-commerce applications and blockchain technology innovation, especially virtual machine technology. At the same time, with the improvement of the market environment and the gradual improvement of the developer ecosystem, blockchain technology training and education will also become the focus of CyberMiles&amp;rsquo; work.
-E-commerce CyberMiles is a public blockchain built for e-commerce, which has been the in CyberMiles’ gene. After exploration in cryptocurrency shopping, a truely decentralized e-commerce platform, and the US fiat dollar&#39;s direct purchase of stablecoin pegged to USD, CyberMiles will continue to explore and try in the e-commerce field to create e-commerce products loved by all.</description>
     </item>
     
   </channel>

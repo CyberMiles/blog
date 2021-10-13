@@ -6,10 +6,20 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles App User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/</guid>
+      <description>CyberMiles Foundation recommends that users withdraw their tokens from the exchanges to their own decentralized cryptocurrency wallets, and keep them safe.
+Cryptocurrency asset is stored with a public address coupled with a private key. Whoever gets the private key will be the owner. If users keep the private key themselves, there might be the risk of forgetting or losing the private key. With CyberMiles app you can store your CMT securely and only need to remember a password you set.</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - CyberWorld NFT Marketplace V2.0 to be Launched</title>
@@ -187,15 +197,6 @@ As mentioned in the previous CyberMiles articles, NFT speared ahead in the arts,
       
       <guid>http://blog.cybermiles.io/post/20210720-nft-new5-en/</guid>
       <description>The age of digital consumption seems to be changing the marketing model of every industry. Fashion brands seem to transfer to digital networks and technology as a way out of their transformation and upgrading. The luxury group LVMH formed a partnership with Google in June that will use AI to provide personalized services and content in order to enhance user experience. LVMH, Cartier’s parent company Richemont and Prada jointly announced that the three parties plan to create a solution powered by &amp;lsquo;Aura Blockchain&amp;rsquo;, a global luxury blockchain open to all luxury brands.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT 简讯- NFT 热潮下：奢侈品牌引领数字时尚</title>
-      <link>http://blog.cybermiles.io/post/20210720-nft-news5-zh/</link>
-      <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210720-nft-news5-zh/</guid>
-      <description>数字消费时代似乎在改变着各行各业的营销模式。时装品牌似乎也转向数字网络与技术作为自己转型的出路。奢侈品集团 LVMH 在6月与谷歌建立合作伙伴关系，将</description>
     </item>
     
   </channel>
