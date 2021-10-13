@@ -22,6 +22,16 @@ Cryptocurrency asset is stored with a public address coupled with a private key.
     </item>
     
     <item>
+      <title>CyberPay Payment User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</guid>
+      <description>CyberPay is the payment service of CyberWorld NFT marketplace. USDT can be exchanged 1:1 with Diamond and exchanged back. We will allow the purchase of Diamond with a credit card (USD) soon.
+Note: Diamond (shortened as DO) is a stable cryptocurrency issued by CyberWorld and pegged to USD to allow users to trade NFT on CyberWorld. 1 Diamond = 1 USD = 1 USDT. This guide will talk about 1：How to use USDT to exchange for Diamond 2: How to use Diamond to exchange for USDT</description>
+    </item>
+    
+    <item>
       <title>CyberWorld on the Mobile-User Guide</title>
       <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-02-en/</link>
       <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
@@ -198,17 +208,6 @@ Earlier this year, NFT has swept the art world. The graphic designer Beeple sold
       <description>Hello CyberWorld Fans！
  CyberMilesNews: CyberWorld.finance V1.0 airdrop campaign came to a successful conclusion! We have completed the distribution of CyberWorld Genesis Series NFTs and CMT. Thanks to every CyberWorld community participant for your support!**
  As the number of winner addresses was over 100,000, so our engineer specifically developed a new tokens distribution tool to transfer the tokens. The new airdrop tool distributed a total of 114300 CMT successfully. The winners can track CMTs received here at CMTTracking.</description>
-    </item>
-    
-    <item>
-      <title>A Digital Image Sold for 69.35 Million Dollars at Christies&#39; Auction</title>
-      <link>http://blog.cybermiles.io/post/20210324-nft-01-en/</link>
-      <pubDate>Wed, 24 Mar 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210324-nft-01-en/</guid>
-      <description>We can categorize the NFTs into Art NFT, FI NFT, IP NFT and Game NFT.
-According to the research team at CyberMiles, many problems are identified with the current NFT market. All of them are to some extent preventing NFT from being enjoyed by more users, and may cause losses and risks to users who join the craze blindly. The following is derived from CyberMile&amp;rsquo; research.
- ART NFT has not yet developed a stable market preference and is highly susceptible to manipulation by pumping sharks; and the individual token prices are often overvalued and not for ordinary users to participate.</description>
     </item>
     
   </channel>

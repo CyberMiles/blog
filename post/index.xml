@@ -22,6 +22,16 @@ Cryptocurrency asset is stored with a public address coupled with a private key.
     </item>
     
     <item>
+      <title>CyberPay Payment User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</guid>
+      <description>CyberPay is the payment service of CyberWorld NFT marketplace. USDT can be exchanged 1:1 with Diamond and exchanged back. We will allow the purchase of Diamond with a credit card (USD) soon.
+Note: Diamond (shortened as DO) is a stable cryptocurrency issued by CyberWorld and pegged to USD to allow users to trade NFT on CyberWorld. 1 Diamond = 1 USD = 1 USDT. This guide will talk about 1：How to use USDT to exchange for Diamond 2: How to use Diamond to exchange for USDT</description>
+    </item>
+    
+    <item>
       <title>CyberWorld on the Mobile-User Guide</title>
       <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-02-en/</link>
       <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
@@ -189,15 +199,6 @@ As mentioned in the previous CyberMiles articles, NFT speared ahead in the arts,
       
       <guid>http://blog.cybermiles.io/post/20210802-nft-new6-zh/</guid>
       <description>随着 NFT 市场的兴起，由 NBA Topshot、CryproPunks 等项目引领的 NFT 市场带动了一波数字收藏品、NFT 交易平台的诞生。Devin Finzer 在20</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT 简讯 - 数字收藏品热潮下 NFT 面临的问题</title>
-      <link>http://blog.cybermiles.io/post/20210806-nft-news7-zh/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210806-nft-news7-zh/</guid>
-      <description>上周，CyberMiles 分享了关于 OpenSea 与 CyberWorld 的优缺点的文章（还没阅读的小伙伴可点击此处查看哦），今天我们就来聊一聊无论是 OpenSea 还是 CyberWorld 面对的 NFT 市场存</description>
     </item>
     
   </channel>

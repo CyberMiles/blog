@@ -22,6 +22,16 @@ Cryptocurrency asset is stored with a public address coupled with a private key.
     </item>
     
     <item>
+      <title>CyberPay Payment User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</guid>
+      <description>CyberPay is the payment service of CyberWorld NFT marketplace. USDT can be exchanged 1:1 with Diamond and exchanged back. We will allow the purchase of Diamond with a credit card (USD) soon.
+Note: Diamond (shortened as DO) is a stable cryptocurrency issued by CyberWorld and pegged to USD to allow users to trade NFT on CyberWorld. 1 Diamond = 1 USD = 1 USDT. This guide will talk about 1：How to use USDT to exchange for Diamond 2: How to use Diamond to exchange for USDT</description>
+    </item>
+    
+    <item>
       <title>CyberWorld on the Mobile-User Guide</title>
       <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-02-en/</link>
       <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
@@ -186,16 +196,6 @@ As mentioned in the previous CyberMiles articles, NFT speared ahead in the arts,
       
       <guid>http://blog.cybermiles.io/post/20210720-nft-news5-zh/</guid>
       <description>数字消费时代似乎在改变着各行各业的营销模式。时装品牌似乎也转向数字网络与技术作为自己转型的出路。奢侈品集团 LVMH 在6月与谷歌建立合作伙伴关系，将</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter- World Wide Web Source Code Made NFT Auctioned for Millions. What does this mean for Programmers?</title>
-      <link>http://blog.cybermiles.io/post/20210715-nft-news4-en/</link>
-      <pubDate>Thu, 15 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210715-nft-news4-en/</guid>
-      <description>A big NFT news in June: Tim Berners-Lee, Father of the Internet, minted ‘World Wide Web’ source code to NFT on 15th June and sold at Sotheby’s on 30th June. Bidding started from $1000 and lasted for a week. The final price was over $5.4 million.
-Named “ This Changes Everything”, the NFT consists of four parts. Work includes 1. The original archive of dated and time-stamped files containing the source code.</description>
     </item>
     
   </channel>

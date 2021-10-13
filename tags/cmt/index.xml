@@ -22,6 +22,16 @@ Cryptocurrency asset is stored with a public address coupled with a private key.
     </item>
     
     <item>
+      <title>CyberPay Payment User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</guid>
+      <description>CyberPay is the payment service of CyberWorld NFT marketplace. USDT can be exchanged 1:1 with Diamond and exchanged back. We will allow the purchase of Diamond with a credit card (USD) soon.
+Note: Diamond (shortened as DO) is a stable cryptocurrency issued by CyberWorld and pegged to USD to allow users to trade NFT on CyberWorld. 1 Diamond = 1 USD = 1 USDT. This guide will talk about 1：How to use USDT to exchange for Diamond 2: How to use Diamond to exchange for USDT</description>
+    </item>
+    
+    <item>
       <title>CyberWorld on the Mobile-User Guide</title>
       <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-02-en/</link>
       <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
@@ -190,17 +200,6 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       
       <guid>http://blog.cybermiles.io/post/20200618-eth-2-zh/</guid>
       <description>6月18日，CyberMiles 首席科学家受邀出席金色财经主办的金色相对论，并就《以太坊2.0时代的N种可能》参与了讨论。 以下是问题实录： 1</description>
-    </item>
-    
-    <item>
-      <title>CMT 2020 Second Quarter Release Announcement</title>
-      <link>http://blog.cybermiles.io/post/20200529-cmt-release-en/</link>
-      <pubDate>Fri, 29 May 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200529-cmt-release-en/</guid>
-      <description>Dear CMT holders!
-According to the CyberMiles Whitepaper, the CyberMiles Foundation address 0x1a14Ec3003C943a0624C7c513D502559c8b1b041 holds 200 million CMTs, to be released 10% every quarter, as planned to the CyberMiles team and partners, like 5miles.
-The 20 million CMTs in the second quarter of 2020 is expected to be released on June 17th. This release is as scheduled and is completely in accordance with the CyberMiles white paper&#39;s plan. You are welcome to supervise.</description>
     </item>
     
   </channel>

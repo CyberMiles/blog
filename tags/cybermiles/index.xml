@@ -22,6 +22,16 @@ Cryptocurrency asset is stored with a public address coupled with a private key.
     </item>
     
     <item>
+      <title>CyberPay Payment User Guide</title>
+      <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</link>
+      <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-03-en/</guid>
+      <description>CyberPay is the payment service of CyberWorld NFT marketplace. USDT can be exchanged 1:1 with Diamond and exchanged back. We will allow the purchase of Diamond with a credit card (USD) soon.
+Note: Diamond (shortened as DO) is a stable cryptocurrency issued by CyberWorld and pegged to USD to allow users to trade NFT on CyberWorld. 1 Diamond = 1 USD = 1 USDT. This guide will talk about 1：How to use USDT to exchange for Diamond 2: How to use Diamond to exchange for USDT</description>
+    </item>
+    
+    <item>
       <title>CyberWorld on the Mobile-User Guide</title>
       <link>http://blog.cybermiles.io/post/20211013-tutorial-v2.0-02-en/</link>
       <pubDate>Wed, 13 Oct 2021 10:01:23 +0800</pubDate>
@@ -190,15 +200,6 @@ Earlier this year, NFT has swept the art world. The graphic designer Beeple sold
       
       <guid>http://blog.cybermiles.io/post/20210407-nft-03-zh/</guid>
       <description>你可能听说过来自艺术家 Beeple 所创作的 NFT 艺术品《Everydays: The First 5000 Days》；或者是吸引了数十万人参与，交易额日均千万美元的 Game NFT NBAto</description>
-    </item>
-    
-    <item>
-      <title>CyberMiles NFT 科考笔记-我应该去了解NFT吗？3个必知事项</title>
-      <link>http://blog.cybermiles.io/post/20210331-nft-02-zh/</link>
-      <pubDate>Wed, 31 Mar 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210331-nft-02-zh/</guid>
-      <description>Beeple，一位你可能从未听说过的数字艺术家，他的作品《Everydays - The First 5000 Day》在佳士得拍卖行以6900万美元成交，不仅创造了数</description>
     </item>
     
   </channel>
