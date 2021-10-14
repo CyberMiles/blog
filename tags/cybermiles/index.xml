@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>PC 版本 CyberWorld 使用说明</title>
+      <link>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-04-zh/</link>
+      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-04-zh/</guid>
+      <description>CyberWorld 是由 CyberMiles构建和运营的区块链 NFT 平台。用于收藏和交易真正稀缺的数字艺术品。每件艺术品都由艺术家真实创建，并通过区块链技术通证化</description>
+    </item>
+    
+    <item>
       <title>手机版本CyberWorld使用说明</title>
       <link>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-02-zh/</link>
       <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
@@ -190,17 +199,6 @@ Earlier this year, NFT has swept the art world. The graphic designer Beeple sold
       
       <guid>http://blog.cybermiles.io/post/20210629-nft-airdrop-zh/</guid>
       <description>Hello CyberWorld Fans! CyberWorld NFT 平台1.0版本上线空投活动圆满收官。我们已正式完成了 CyberWorld 创世系列 NFTs 和 CMT 奖励的投放。感谢每一位 CyberWorld 社区的小伙伴的支持！ 由于最终获奖地址数</description>
-    </item>
-    
-    <item>
-      <title>CyberWorld V1.0 Airdrop Campaign Came to A Successful Conclusion</title>
-      <link>http://blog.cybermiles.io/post/20210629-nft-01-en/</link>
-      <pubDate>Tue, 29 Jun 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210629-nft-01-en/</guid>
-      <description>Hello CyberWorld Fans！
- CyberMilesNews: CyberWorld.finance V1.0 airdrop campaign came to a successful conclusion! We have completed the distribution of CyberWorld Genesis Series NFTs and CMT. Thanks to every CyberWorld community participant for your support!**
- As the number of winner addresses was over 100,000, so our engineer specifically developed a new tokens distribution tool to transfer the tokens. The new airdrop tool distributed a total of 114300 CMT successfully. The winners can track CMTs received here at CMTTracking.</description>
     </item>
     
   </channel>
