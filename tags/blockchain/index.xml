@@ -6,10 +6,19 @@
     <description>Recent content in Blockchain on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles 钱包 App 使用教程（建议收藏</title>
+      <link>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</link>
+      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</guid>
+      <description>大多数情况下，我们的数字货币是存放在交易所平台上的，如果出现平台被黑客攻击货币被盗的情况（交易平台聚集了大量的数字资产，对黑客来说是非常诱人</description>
+    </item>
     
     <item>
       <title>CyberMiles App User Guide</title>
@@ -188,15 +197,6 @@ As mentioned in the previous CyberMiles articles, NFT speared ahead in the arts,
       
       <guid>http://blog.cybermiles.io/post/20210806-nft-news7-zh/</guid>
       <description>上周，CyberMiles 分享了关于 OpenSea 与 CyberWorld 的优缺点的文章（还没阅读的小伙伴可点击此处查看哦），今天我们就来聊一聊无论是 OpenSea 还是 CyberWorld 面对的 NFT 市场存</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter- The NFT Boom: Luxury Brands Lead the Digital Fashion Trend?</title>
-      <link>http://blog.cybermiles.io/post/20210720-nft-new5-en/</link>
-      <pubDate>Tue, 20 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210720-nft-new5-en/</guid>
-      <description>The age of digital consumption seems to be changing the marketing model of every industry. Fashion brands seem to transfer to digital networks and technology as a way out of their transformation and upgrading. The luxury group LVMH formed a partnership with Google in June that will use AI to provide personalized services and content in order to enhance user experience. LVMH, Cartier’s parent company Richemont and Prada jointly announced that the three parties plan to create a solution powered by &amp;lsquo;Aura Blockchain&amp;rsquo;, a global luxury blockchain open to all luxury brands.</description>
     </item>
     
   </channel>

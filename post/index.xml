@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles 钱包 App 使用教程（建议收藏</title>
+      <link>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</link>
+      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</guid>
+      <description>大多数情况下，我们的数字货币是存放在交易所平台上的，如果出现平台被黑客攻击货币被盗的情况（交易平台聚集了大量的数字资产，对黑客来说是非常诱人</description>
+    </item>
     
     <item>
       <title>CyberMiles App User Guide</title>
@@ -191,15 +200,6 @@ CyberWorld Version 1.0 is launched with bugs fixed.
       <guid>http://blog.cybermiles.io/post/20210806-nft-news7-en/</guid>
       <description>Last week, CyberMiles shared an article about the pros and cons of OpeaSea and CyberWorld (Click here for more details). Today, we&#39;ll talk about some issues of the NFT market.
 As mentioned in the previous CyberMiles articles, NFT speared ahead in the arts, sports, games, music, fashion, and other industries. NFT is continues expanding its presence. Digital art is moving from the niche to the masses. There is no doubt that NFT has led to the emergence of new forms of digital work transactions and marketplaces, providing high-profile and underground artists with a new way of income.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter — What Are the Advantages of CyberWorld comparing with OpenSea?</title>
-      <link>http://blog.cybermiles.io/post/20210802-nft-new6-en/</link>
-      <pubDate>Mon, 02 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210802-nft-new6-en/</guid>
-      <description>With the rise of the NFT market, led by some notable projects like NBA Topshop, CyrproPunks, the NFT market has seen a wave of digital collectibles and NFT exchange platforms. Devin Finzer launched an NFT exchange platform in 2017 called &amp;lsquo;OpenSea&amp;rsquo;, attracting a lot of attention as an early NFT project platform. As a result, the total market sales grew from $8 million in January to $150 million in March 2021.</description>
     </item>
     
   </channel>

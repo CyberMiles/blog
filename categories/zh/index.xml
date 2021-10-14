@@ -6,10 +6,19 @@
     <description>Recent content in zh on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles 钱包 App 使用教程（建议收藏</title>
+      <link>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</link>
+      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</guid>
+      <description>大多数情况下，我们的数字货币是存放在交易所平台上的，如果出现平台被黑客攻击货币被盗的情况（交易平台聚集了大量的数字资产，对黑客来说是非常诱人</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT 简讯－CyberWorld 如何赋能 Patreon 和其它平台的内容创作者？</title>
@@ -180,15 +189,6 @@
       
       <guid>http://blog.cybermiles.io/post/20210415-nft-04-zh/</guid>
       <description>由 CyberMiles 和 Sino-Global Shipping America, Ltd.(NASDAQ: SINO) 共同开发并联合运营的 NFT 平台目前已公布品牌名称 CyberWorld，并发布 V0.1 版本页面和首个群体艺术 NFT 作品《We And Our Future</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT科考笔记-世界上最贵的四件加密艺术品榜</title>
-      <link>http://blog.cybermiles.io/post/20210407-nft-03-zh/</link>
-      <pubDate>Wed, 07 Apr 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210407-nft-03-zh/</guid>
-      <description>你可能听说过来自艺术家 Beeple 所创作的 NFT 艺术品《Everydays: The First 5000 Days》；或者是吸引了数十万人参与，交易额日均千万美元的 Game NFT NBAto</description>
     </item>
     
   </channel>

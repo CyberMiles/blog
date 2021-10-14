@@ -6,10 +6,19 @@
     <description>Recent content in CMT on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/cmt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMiles 钱包 App 使用教程（建议收藏</title>
+      <link>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</link>
+      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211014-tutorial-v2.0-01-zh/</guid>
+      <description>大多数情况下，我们的数字货币是存放在交易所平台上的，如果出现平台被黑客攻击货币被盗的情况（交易平台聚集了大量的数字资产，对黑客来说是非常诱人</description>
+    </item>
     
     <item>
       <title>CyberMiles App User Guide</title>
@@ -192,15 +201,6 @@ The entire Dapp design is divided into two parts: * The smart contract records k
       <guid>http://blog.cybermiles.io/post/20200618-eth-2-en/</guid>
       <description>On 18th June, CyberMiles chief scientist was invited to attend the Show hosted by Jinse Media and participated in the discussion on &amp;ldquo;All possibilities in the age of Ethereum 2.0&amp;rdquo;, together with the following 3 guests.
  SECBIT Laboratory, Guo Yu PlatOn， Dr. Xia Loopring Protocol, Wang Dong  Hello, I&#39;m Michael Yuan. I&#39;m the CEO of Second State and one of the co-founder of the public blockchain CyberMiles. Our team is the developers for Ethereum&#39;s next-generation virtual machine, Ewasm.</description>
-    </item>
-    
-    <item>
-      <title>ETH 2.0 时代的N种可能</title>
-      <link>http://blog.cybermiles.io/post/20200618-eth-2-zh/</link>
-      <pubDate>Thu, 18 Jun 2020 15:00:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20200618-eth-2-zh/</guid>
-      <description>6月18日，CyberMiles 首席科学家受邀出席金色财经主办的金色相对论，并就《以太坊2.0时代的N种可能》参与了讨论。 以下是问题实录： 1</description>
     </item>
     
   </channel>
