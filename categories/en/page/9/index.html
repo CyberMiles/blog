@@ -245,6 +245,37 @@ if (!doNotTrack) {
     
       <article class="post bg-white">
   <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/20190408-docker-en/">Make libENI safer</a></h1>
+    
+    <div class="post-meta">
+      <span class="post-time"> April 8, 2019 </span>
+      <div class="post-category">
+          <a href="http://blog.cybermiles.io/categories/en/"> en </a>
+          
+        </div>
+      
+      
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    
+    <div class="post-summary">
+      TL;DR If you use Docker to run a CyberMiles node, please make sure that you turn on the priviledged Docker option:
+1  docker run --privileged --name travis -v $HOME/.travis:/travis -t -p 26657:26657 cybermiles/travis:v0.1.7-beta node start --home /travis   Read on to find out how to run a node for the CyberMiles testnet or the mainnet.
+The long story One of the key technology innovations from the CyberMiles public blockchain is the libENI dynamic extension.
+    </div>
+    <div class="read-more">
+      <a href="/post/20190408-docker-en/" class="read-more-link">Read more</a>
+    </div>
+    
+  </div>
+</article>
+
+    
+      <article class="post bg-white">
+  <header class="post-header">
     <h1 class="post-title"><a class="post-link" href="/post/20190404-mainnetupdate-en/">CyberMiles 2019/04 MainNet software update</a></h1>
     
     <div class="post-meta">
@@ -509,35 +540,6 @@ Today let’s explore the use of the permanent data, more specifically how we cu
     </div>
     <div class="read-more">
       <a href="/post/20180425-safetoken-en/" class="read-more-link">Read more</a>
-    </div>
-    
-  </div>
-</article>
-
-    
-      <article class="post bg-white">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/20180109-marc-en/">Welcome Dr. Marc Fleury to CyberMiles!</a></h1>
-    
-    <div class="post-meta">
-      <span class="post-time"> January 19, 2018 </span>
-      <div class="post-category">
-          <a href="http://blog.cybermiles.io/categories/en/"> en </a>
-          
-        </div>
-      
-      
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    
-    <div class="post-summary">
-      Twenty years ago, the Open Source community was at a crossroad. The method of decentralized software production (aka Open Source collaboration), championed by a small number of ideology-driven developers, had produced very impressive results such as the Linux operating system, the Apache web server, the GCC compilers, and much more. Yet, the mainstream software powerhouses were still skeptical and even hostile to software decentralization (Microsoft called it a “cancer”, worse than scam).
-    </div>
-    <div class="read-more">
-      <a href="/post/20180109-marc-en/" class="read-more-link">Read more</a>
     </div>
     
   </div>

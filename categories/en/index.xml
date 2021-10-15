@@ -6,10 +6,28 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberWorld Tutorial Content</title>
+      <link>http://blog.cybermiles.io/post/20211015-tutorial-content-en/</link>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211015-tutorial-content-en/</guid>
+      <description>In order to improve the user experience and use CyberWorld NFT marketplace with ease. We have compiled the following series of CyberWorld tutorials. Hope these step-by-step guides give you the key to the NFT world.
+Web-user 1：CyberMilesNFT Newsletter - Simple Steps: Connect MetaMask to CyberMiles Public Blockchain
+https://blog.cybermiles.io/post/20210709-tutorial-metamask-en/
+2：CybeWorld on the Web - User Guide
+https://blog.cybermiles.io/post/20211013-tutorial-v2.0-04-en/
+Mobile-user 1：CyberMiles App User Guide
+https://blog.cybermiles.io/post/20211013-tutorial-v2.0-01-en/
+2：CyberWorld on the Mobile-User Guide
+https://blog.cybermiles.io/post/20211013-tutorial-v2.0-02-en/
+3：CyberPay Payment User Guide</description>
+    </item>
     
     <item>
       <title>CyberMiles App User Guide</title>
@@ -197,16 +215,6 @@ The engineers and marketing operators of CyberMiles have been delivering the Cyb
       <guid>http://blog.cybermiles.io/post/20210701-nft-news-en/</guid>
       <description>CyberMilesNFT Newsletter - NFT&#39;s &amp;lsquo;Blue Ocean&amp;rsquo;, the Global Market Capitalization of NFT is Near $18 Billion According to the report by CionGecko, the global market capitalization of NFT is near $18 billion, trades $1.2 billion a single day. The number of transactions is over 710,000 pieces. The number of users and trades is also rising.
 Nikhil Sethi, vice predict of a blockchain startup said,&amp;rdquo; The global NFT market has exploded in 2021, with over $700 million entering the space.</description>
-    </item>
-    
-    <item>
-      <title>CybermilesNFT Newsletter — From arts to sports, NFT crosses boundaries constantly</title>
-      <link>http://blog.cybermiles.io/post/20210630-nft-news1-en/</link>
-      <pubDate>Wed, 30 Jun 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210630-nft-news1-en/</guid>
-      <description>Sales of digital collectibles have fallen in recent weeks, NFT sales is a slowdown Ryan Browne is a technology reporter for CNBC in London published an article about NFT sales. He said sales of digital collectibles known as non-fungible tokens have fallen dramatically in recent weeks (Browne, 2021).
-Earlier this year, NFT has swept the art world. The graphic designer Beeple sold an NFT for a record $69 million at a Christie’s auction.</description>
     </item>
     
   </channel>
