@@ -3,7 +3,7 @@ title: "CyberWorld 使用教程"
 date: 2021-10-15T10:01:23+08:00
 draft: false
 tags: ["Blockchain","NFT","V2.0","CyberWorld"]
-categories: ["en"]
+categories: ["zh"]
 ---
 
 为了提升用户体验，让大家更加方便的使用 CyberWorld，我们将 CyberWorld 相关的一系列使用教程作了以下汇总，相信从这篇文档中您能收获您需要的任何内容！
