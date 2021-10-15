@@ -6,10 +6,19 @@
     <description>Recent content in V2.0 on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Sep 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/v2.0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberWorld 使用教程</title>
+      <link>http://blog.cybermiles.io/post/20211015-tutorial-content-zh/</link>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211015-tutorial-content-zh/</guid>
+      <description>为了提升用户体验，让大家更加方便的使用 CyberWorld，我们将 CyberWorld 相关的一系列使用教程作了以下汇总，相信从这篇文档中您能收获您需要的任何内</description>
+    </item>
     
     <item>
       <title>CyberMilesNFT Newsletter - CyberWorld NFT Marketplace V2.0 to be Launched</title>

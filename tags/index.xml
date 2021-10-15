@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CyberWorld</title>
+      <link>http://blog.cybermiles.io/tags/cyberworld/</link>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/cyberworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V2.0</title>
+      <link>http://blog.cybermiles.io/tags/v2.0/</link>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/v2.0/</guid>
       <description></description>
     </item>
     
@@ -44,33 +71,6 @@
       <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/metamask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Thu, 14 Oct 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CyberWorld</title>
-      <link>http://blog.cybermiles.io/tags/cyberworld/</link>
-      <pubDate>Mon, 27 Sep 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/cyberworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V2.0</title>
-      <link>http://blog.cybermiles.io/tags/v2.0/</link>
-      <pubDate>Mon, 27 Sep 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/v2.0/</guid>
       <description></description>
     </item>
     

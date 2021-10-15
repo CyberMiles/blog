@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberWorld 使用教程</title>
+      <link>http://blog.cybermiles.io/post/20211015-tutorial-content-zh/</link>
+      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211015-tutorial-content-zh/</guid>
+      <description>为了提升用户体验，让大家更加方便的使用 CyberWorld，我们将 CyberWorld 相关的一系列使用教程作了以下汇总，相信从这篇文档中您能收获您需要的任何内</description>
+    </item>
     
     <item>
       <title>CyberMiles 钱包 App 使用教程（建议收藏）</title>
@@ -187,15 +196,6 @@ Background About CyberWorld and the Team: CyberWorld is a blockchain NFT marketp
       
       <guid>http://blog.cybermiles.io/post/20210813-nft-news8-zh/</guid>
       <description>在之前的 CyberMilesNFT 的系列文章中，我们对 NFT 市场所面对的包括炒作、洗钱、非法融资、侵权和欺诈在内的的困境进行了详细的分析，并提前预告了之后会发布一篇 NFT 市</description>
-    </item>
-    
-    <item>
-      <title>사이버 마일즈 NFT 플랫폼 사이버월드 로드맵 2021</title>
-      <link>http://blog.cybermiles.io/post/20210813-cyberworld-roadmap-ko/</link>
-      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210813-cyberworld-roadmap-ko/</guid>
-      <description>사이버마일즈 NFT 플랫폼 “사이버월드” 는 예정보다 빨리 지난 5월에 “Sino글로벌2021” 과 함께 공식 출범했습니다. 사이버월드 버전 0.5는 120,0</description>
     </item>
     
   </channel>
