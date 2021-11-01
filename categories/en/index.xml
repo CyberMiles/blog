@@ -6,10 +6,19 @@
     <description>Recent content in en on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/categories/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - CyberWorld Empowers the Designer Company to Launch Unique Toy NFTs</title>
+      <link>http://blog.cybermiles.io/post/20211101-adamash-en/</link>
+      <pubDate>Mon, 01 Nov 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211101-adamash-en/</guid>
+      <description>CyberWorld is excited to have been working with the designer company ‘ADAMASH LAB’ to launch their first NFTs. ADAMASH LAB is an art-sharing platform for fashion artists and art lovers, built by designer ASH and his team. The concept of ADAMASH LAB was founded as a spiritual cave for &amp;ldquo;grow-ups&amp;rdquo; to let free of their nature and imagination. ADAMASH LAB will gradually launch the artworks of ADAMASH&#39;s series in the future, as well as artworks jointly released by prominent designers and brands.</description>
+    </item>
     
     <item>
       <title>CyberWorld Tutorial Content</title>
@@ -205,16 +214,6 @@ To guide you on how to connect MetaMask to the CyberMiles public blockchain. Her
       <guid>http://blog.cybermiles.io/post/20210702-cybermiles-news-en/</guid>
       <description>As CyberMilers must have noticed, there have been warm-up and publicity on social media for CyberWorld updates and upgrades over the next few months, which began last week.
 The engineers and marketing operators of CyberMiles have been delivering the CyberWorld NFT platform with tremendous efficiency and did a successful spread in the last few months. To improve the users’ experience, CyberMiles is currently upgrading the platform in terms of technology and content, bringing a new CyberWorld to everyone who always supported CyberMiles.</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter - NFT&#39;s &#39;Blue Ocean&#39;, the Global Market Capitalization of NFT is Near $18 Billion</title>
-      <link>http://blog.cybermiles.io/post/20210701-nft-news-en/</link>
-      <pubDate>Thu, 01 Jul 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210701-nft-news-en/</guid>
-      <description>CyberMilesNFT Newsletter - NFT&#39;s &amp;lsquo;Blue Ocean&amp;rsquo;, the Global Market Capitalization of NFT is Near $18 Billion According to the report by CionGecko, the global market capitalization of NFT is near $18 billion, trades $1.2 billion a single day. The number of transactions is over 710,000 pieces. The number of users and trades is also rising.
-Nikhil Sethi, vice predict of a blockchain startup said,&amp;rdquo; The global NFT market has exploded in 2021, with over $700 million entering the space.</description>
     </item>
     
   </channel>

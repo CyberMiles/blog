@@ -6,10 +6,19 @@
     <description>Recent content in NFT on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/nft/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberMilesNFT Newsletter - CyberWorld Empowers the Designer Company to Launch Unique Toy NFTs</title>
+      <link>http://blog.cybermiles.io/post/20211101-adamash-en/</link>
+      <pubDate>Mon, 01 Nov 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/post/20211101-adamash-en/</guid>
+      <description>CyberWorld is excited to have been working with the designer company ‘ADAMASH LAB’ to launch their first NFTs. ADAMASH LAB is an art-sharing platform for fashion artists and art lovers, built by designer ASH and his team. The concept of ADAMASH LAB was founded as a spiritual cave for &amp;ldquo;grow-ups&amp;rdquo; to let free of their nature and imagination. ADAMASH LAB will gradually launch the artworks of ADAMASH&#39;s series in the future, as well as artworks jointly released by prominent designers and brands.</description>
+    </item>
     
     <item>
       <title>CyberWorld Tutorial Content</title>
@@ -196,15 +205,6 @@ Background About CyberWorld and the Team: CyberWorld is a blockchain NFT marketp
       
       <guid>http://blog.cybermiles.io/post/20210818-nft-news9-zh/</guid>
       <description>随着 NFT 的热度持续攀升，各行各业争先恐后的加入了 NFT 的热潮。今年七月，CyberWorld 与亚洲银行（BOA）建立合作伙伴关系，全力支持 BOA 建立其</description>
-    </item>
-    
-    <item>
-      <title>CyberMilesNFT Newsletter - NFT Market’s Regulatory Challenges</title>
-      <link>http://blog.cybermiles.io/post/20210813-nft-news8-en/</link>
-      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/post/20210813-nft-news8-en/</guid>
-      <description>In the previous CyberMiles Newsletter series article analyzing the challenges of hype, money laundering, illegal financing, infringement, and fraud that the NFT market faces in detail, we pre-announced discussion on the regulation of the NFT market. NFT market has to be regulated to protect all parties involved, not only those who simply want to buy the NFTs for collections but also the owners of artworks and artists who want to release NFTs.</description>
     </item>
     
   </channel>

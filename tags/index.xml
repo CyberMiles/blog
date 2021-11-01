@@ -6,17 +6,44 @@
     <description>Recent content in Tags on CyberMiles News and Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 10:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 10:01:23 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.cybermiles.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Adamash</title>
+      <link>http://blog.cybermiles.io/tags/adamash/</link>
+      <pubDate>Mon, 01 Nov 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/adamash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blockchain</title>
       <link>http://blog.cybermiles.io/tags/blockchain/</link>
-      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
+      <pubDate>Mon, 01 Nov 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFT</title>
+      <link>http://blog.cybermiles.io/tags/nft/</link>
+      <pubDate>Mon, 01 Nov 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/nft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toys</title>
+      <link>http://blog.cybermiles.io/tags/toys/</link>
+      <pubDate>Mon, 01 Nov 2021 10:01:23 +0800</pubDate>
+      
+      <guid>http://blog.cybermiles.io/tags/toys/</guid>
       <description></description>
     </item>
     
@@ -26,15 +53,6 @@
       <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/cyberworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFT</title>
-      <link>http://blog.cybermiles.io/tags/nft/</link>
-      <pubDate>Fri, 15 Oct 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/nft/</guid>
       <description></description>
     </item>
     
@@ -170,24 +188,6 @@
       <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
       
       <guid>http://blog.cybermiles.io/tags/regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>roadmap</title>
-      <link>http://blog.cybermiles.io/tags/roadmap/</link>
-      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/roadmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>侵权</title>
-      <link>http://blog.cybermiles.io/tags/%E4%BE%B5%E6%9D%83/</link>
-      <pubDate>Fri, 13 Aug 2021 10:01:23 +0800</pubDate>
-      
-      <guid>http://blog.cybermiles.io/tags/%E4%BE%B5%E6%9D%83/</guid>
       <description></description>
     </item>
     
